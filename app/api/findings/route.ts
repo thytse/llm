@@ -1,0 +1,2 @@
+import {identity,db,json,error,profile} from '@/lib/service';
+export async function GET(request:Request){try{const owner=await identity();const id=new URL(request.url).searchParams.get('profile')||'';await profile(owner,id);const rows=(await db().prepare('SELECT * FROM finding_records WHERE owner=? AND profile_id=? ORDER BY created DESC LIMIT 300').bind(owner,id).all()).results;return json({findings:rows.map(r=>({...r,record:JSON.parse(String(r.record))}))})}catch(e){return error(e)}}

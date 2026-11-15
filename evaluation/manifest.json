@@ -1,0 +1,1855 @@
+{
+  "schema": "undertone-corpus-v1",
+  "status": "DRAFT_NOT_FROZEN",
+  "limitations": "Template-generated seed corpus; not independently annotated or validated. Network tasks need multi-person expansion before approval. Review near-duplicates and split leakage before freezing.",
+  "histories": [
+    {
+      "id": "development-friendship-1",
+      "split": "development",
+      "setting": "friendship",
+      "scenario_family": "development-friendship-indie films",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_0_0",
+      "relationship": "friendship",
+      "file": "development-friendship-1.txt",
+      "messages": 240,
+      "sha256": "e88708161175de7773d6d66d1a1c016dc3772360ee3afedf6a502bdcd1d4e824",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_0_0 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_0_0 join a indie films outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_0_0 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_0_0 and another person to indie films?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_0_0 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "development-friendship-2",
+      "split": "development",
+      "setting": "friendship",
+      "scenario_family": "development-friendship-indie films",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_0_1",
+      "relationship": "friendship",
+      "file": "development-friendship-2.txt",
+      "messages": 240,
+      "sha256": "b4cf0f6dd891091c7396023988404a76f963a40767e3aeb725bc94f73c61a0b8",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_0_1 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_0_1 join a indie films outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_0_1 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_0_1 and another person to indie films?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_0_1 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-friendship-3",
+      "split": "test",
+      "setting": "friendship",
+      "scenario_family": "test-friendship-hiking",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_0_2",
+      "relationship": "friendship",
+      "file": "test-friendship-3.txt",
+      "messages": 240,
+      "sha256": "394483c693a37e61a91619984d72691aae1165316f6f4eb0eeafa8fbc8193adc",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_0_2 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_0_2 join a hiking outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_0_2 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_0_2 and another person to hiking?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_0_2 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-friendship-4",
+      "split": "test",
+      "setting": "friendship",
+      "scenario_family": "test-friendship-hiking",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_0_3",
+      "relationship": "friendship",
+      "file": "test-friendship-4.txt",
+      "messages": 240,
+      "sha256": "7565c860c54e5c08ad2352eae104a837ebca15c40378414116b349b4ce64f2c6",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_0_3 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_0_3 join a hiking outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_0_3 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_0_3 and another person to hiking?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_0_3 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-friendship-5",
+      "split": "test",
+      "setting": "friendship",
+      "scenario_family": "test-friendship-hiking",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_0_4",
+      "relationship": "friendship",
+      "file": "test-friendship-5.txt",
+      "messages": 240,
+      "sha256": "033097d63864810b707273b964600967586bb428b2e3b85108baa656ae8cd699",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_0_4 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_0_4 join a hiking outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_0_4 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_0_4 and another person to hiking?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_0_4 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-friendship-6",
+      "split": "test",
+      "setting": "friendship",
+      "scenario_family": "test-friendship-hiking",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_0_5",
+      "relationship": "friendship",
+      "file": "test-friendship-6.txt",
+      "messages": 240,
+      "sha256": "303b06ede4e5dc4c03c1f5c66c34ce0677df613eab08362c988acc09bbe7a811",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_0_5 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_0_5 join a hiking outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_0_5 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_0_5 and another person to hiking?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_0_5 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "development-dating-1",
+      "split": "development",
+      "setting": "dating",
+      "scenario_family": "development-dating-jazz",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_1_0",
+      "relationship": "dating",
+      "file": "development-dating-1.txt",
+      "messages": 240,
+      "sha256": "44b40209c7361ad4a5b59a8e0e943cae64753dea55eb94d1c521bef195901352",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_1_0 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_1_0 join a jazz outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_1_0 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_1_0 and another person to jazz?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_1_0 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "development-dating-2",
+      "split": "development",
+      "setting": "dating",
+      "scenario_family": "development-dating-jazz",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_1_1",
+      "relationship": "dating",
+      "file": "development-dating-2.txt",
+      "messages": 240,
+      "sha256": "4305c0757c06bbb7ccdffa4c7e75d9630c451ea774ef396957209de09a401f0e",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_1_1 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_1_1 join a jazz outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_1_1 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_1_1 and another person to jazz?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_1_1 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-dating-3",
+      "split": "test",
+      "setting": "dating",
+      "scenario_family": "test-dating-photography",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_1_2",
+      "relationship": "dating",
+      "file": "test-dating-3.txt",
+      "messages": 240,
+      "sha256": "a47ae5b6398078e3ce9983a9dd79159c917a5eb444f3f90f44253bb8d6f040c5",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_1_2 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_1_2 join a photography outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_1_2 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_1_2 and another person to photography?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_1_2 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-dating-4",
+      "split": "test",
+      "setting": "dating",
+      "scenario_family": "test-dating-photography",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_1_3",
+      "relationship": "dating",
+      "file": "test-dating-4.txt",
+      "messages": 240,
+      "sha256": "1b99a207c406cd4b19c509ba9d3e1cd8c47d374e5c374e70606cfa2a3afd6be6",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_1_3 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_1_3 join a photography outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_1_3 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_1_3 and another person to photography?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_1_3 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-dating-5",
+      "split": "test",
+      "setting": "dating",
+      "scenario_family": "test-dating-photography",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_1_4",
+      "relationship": "dating",
+      "file": "test-dating-5.txt",
+      "messages": 240,
+      "sha256": "7c36300f0d772ccb86f35a0897e37dc4d798437fc0abe48b19099c7dd7c5e07a",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_1_4 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_1_4 join a photography outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_1_4 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_1_4 and another person to photography?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_1_4 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-dating-6",
+      "split": "test",
+      "setting": "dating",
+      "scenario_family": "test-dating-photography",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_1_5",
+      "relationship": "dating",
+      "file": "test-dating-6.txt",
+      "messages": 240,
+      "sha256": "c57912c7adfb4198b2cd4e81d7c926c25eb9ae6b1e6286564ed69e8543f2cf23",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_1_5 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_1_5 join a photography outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_1_5 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_1_5 and another person to photography?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_1_5 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "development-partnership-1",
+      "split": "development",
+      "setting": "partnership",
+      "scenario_family": "development-partnership-cooking",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_2_0",
+      "relationship": "partnership",
+      "file": "development-partnership-1.txt",
+      "messages": 240,
+      "sha256": "adde5a3b376d6704dc2553ac7459e466fe3822dd080c1017ba4c271764a16926",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_2_0 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_2_0 join a cooking outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_2_0 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_2_0 and another person to cooking?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_2_0 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "development-partnership-2",
+      "split": "development",
+      "setting": "partnership",
+      "scenario_family": "development-partnership-cooking",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_2_1",
+      "relationship": "partnership",
+      "file": "development-partnership-2.txt",
+      "messages": 240,
+      "sha256": "11bb8c5725ffe8a348750cb0d187907f68a0fa39a7dc00e985f5d34a18cac644",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_2_1 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_2_1 join a cooking outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_2_1 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_2_1 and another person to cooking?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_2_1 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-partnership-3",
+      "split": "test",
+      "setting": "partnership",
+      "scenario_family": "test-partnership-museums",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_2_2",
+      "relationship": "partnership",
+      "file": "test-partnership-3.txt",
+      "messages": 240,
+      "sha256": "e1e224ca829d8152ef508a46863e932d5e0a090093793b1f8fcd4bd56c8e5294",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_2_2 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_2_2 join a museums outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_2_2 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_2_2 and another person to museums?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_2_2 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-partnership-4",
+      "split": "test",
+      "setting": "partnership",
+      "scenario_family": "test-partnership-museums",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_2_3",
+      "relationship": "partnership",
+      "file": "test-partnership-4.txt",
+      "messages": 240,
+      "sha256": "8561f54bc821ec0d89a36606f369db29c79964766fe21e7235027adb4a17df49",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_2_3 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_2_3 join a museums outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_2_3 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_2_3 and another person to museums?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_2_3 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-partnership-5",
+      "split": "test",
+      "setting": "partnership",
+      "scenario_family": "test-partnership-museums",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_2_4",
+      "relationship": "partnership",
+      "file": "test-partnership-5.txt",
+      "messages": 240,
+      "sha256": "08c6474906e87091c1d9a67c93de7e3782887a4a2a0e37998d9559a14f2c1c1f",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_2_4 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_2_4 join a museums outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_2_4 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_2_4 and another person to museums?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_2_4 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-partnership-6",
+      "split": "test",
+      "setting": "partnership",
+      "scenario_family": "test-partnership-museums",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_2_5",
+      "relationship": "partnership",
+      "file": "test-partnership-6.txt",
+      "messages": 240,
+      "sha256": "3f832c5ab658447517d37b6d52e67818b38182514a2f8c344fab8e40d6be9711",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_2_5 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_2_5 join a museums outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_2_5 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_2_5 and another person to museums?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_2_5 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "development-work-1",
+      "split": "development",
+      "setting": "work",
+      "scenario_family": "development-work-board games",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_3_0",
+      "relationship": "work",
+      "file": "development-work-1.txt",
+      "messages": 240,
+      "sha256": "137fdd0ef56d6378a8fb82c7333df7be81d5416f7e7d8ec07daa39259bed99fc",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_3_0 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_3_0 join a board games outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_3_0 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_3_0 and another person to board games?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_3_0 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "development-work-2",
+      "split": "development",
+      "setting": "work",
+      "scenario_family": "development-work-board games",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_3_1",
+      "relationship": "work",
+      "file": "development-work-2.txt",
+      "messages": 240,
+      "sha256": "26d5a13e6e33240aae84ee1eb766a3d70e4e43fafa577f71a8f83f20b5e2b7de",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_3_1 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_3_1 join a board games outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_3_1 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_3_1 and another person to board games?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_3_1 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-work-3",
+      "split": "test",
+      "setting": "work",
+      "scenario_family": "test-work-swimming",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_3_2",
+      "relationship": "work",
+      "file": "test-work-3.txt",
+      "messages": 240,
+      "sha256": "7c49f5f36584ad6b423c23f56b16980a5eb4fd405c77ae22140796ee8b015f2b",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_3_2 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_3_2 join a swimming outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_3_2 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_3_2 and another person to swimming?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_3_2 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-work-4",
+      "split": "test",
+      "setting": "work",
+      "scenario_family": "test-work-swimming",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_3_3",
+      "relationship": "work",
+      "file": "test-work-4.txt",
+      "messages": 240,
+      "sha256": "59bfa791ef6e3f0bbc50a5450d0f1ae36ce8892dd640ae6119b1320dac8e466c",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_3_3 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_3_3 join a swimming outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_3_3 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_3_3 and another person to swimming?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_3_3 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-work-5",
+      "split": "test",
+      "setting": "work",
+      "scenario_family": "test-work-swimming",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_3_4",
+      "relationship": "work",
+      "file": "test-work-5.txt",
+      "messages": 240,
+      "sha256": "9a3f7426e41452d1c55be1fa6ff1ef9ca6b648031c533c0ecfd76d15b7934e96",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_3_4 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_3_4 join a swimming outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_3_4 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_3_4 and another person to swimming?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_3_4 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    },
+    {
+      "id": "test-work-6",
+      "split": "test",
+      "setting": "work",
+      "scenario_family": "test-work-swimming",
+      "author": "AI-generated; human history owner unassigned",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Person_3_5",
+      "relationship": "work",
+      "file": "test-work-6.txt",
+      "messages": 240,
+      "sha256": "1fa56faf9cc4a33b8e33b9ed38e6ff5a42116b43bbda547b76da5680ef6d253e",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What did Person_3_5 say they study?",
+          "answerable": true,
+          "essential": [
+            "Self-reported economics study"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "Could Person_3_5 join a swimming outing on Wednesday 25 November?",
+          "answerable": true,
+          "essential": [
+            "Explicit interest",
+            "Dated cancellation takes precedence over usual Wednesday availability"
+          ],
+          "evidence_lines": [
+            6,
+            54,
+            174
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "Does suggesting Sunday prove Person_3_5 is avoiding me?",
+          "answerable": true,
+          "essential": [
+            "Sunday was suggested",
+            "Avoidance is not established",
+            "Grounded alternative and uncertainty"
+          ],
+          "evidence_lines": [
+            174,
+            186
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What should I check before inviting Person_3_5 and another person to swimming?",
+          "answerable": true,
+          "essential": [
+            "Interest self-report",
+            "Need evidence for other person",
+            "Current availability remains conditional"
+          ],
+          "evidence_lines": [
+            6
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What gift does Person_3_5 secretly want me to buy?",
+          "answerable": false,
+          "essential": [
+            "Private wish not established",
+            "Ask for useful preference/context"
+          ],
+          "evidence_lines": []
+        }
+      ]
+    }
+  ]
+}

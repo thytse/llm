@@ -1,0 +1,12 @@
+import {spawnSync} from 'node:child_process';
+const sql=`UPDATE profiles SET summary=NULL,summary_version=0,version=version+1 WHERE id IN (SELECT profile_id FROM sources WHERE datetime(created)<datetime('now','-7 days'));
+DELETE FROM profile_batch_cache WHERE datetime(created)<datetime('now','-7 days') OR profile_id IN (SELECT profile_id FROM sources WHERE datetime(created)<datetime('now','-7 days'));
+DELETE FROM retrieval_cache WHERE owner IN (SELECT owner FROM sources WHERE datetime(created)<datetime('now','-7 days'));
+DELETE FROM turns WHERE EXISTS (SELECT 1 FROM json_each(turns.scope) j WHERE json_extract(j.value,'$[0]') IN (SELECT profile_id FROM sources WHERE datetime(created)<datetime('now','-7 days')));
+DELETE FROM profile_jobs WHERE profile_id IN (SELECT profile_id FROM sources WHERE datetime(created)<datetime('now','-7 days'));
+DELETE FROM finding_records WHERE profile_id IN (SELECT profile_id FROM sources WHERE datetime(created)<datetime('now','-7 days'));
+DELETE FROM retrieval_chunks WHERE profile_id IN (SELECT profile_id FROM sources WHERE datetime(created)<datetime('now','-7 days'));
+DELETE FROM messages WHERE source_id IN (SELECT id FROM sources WHERE datetime(created)<datetime('now','-7 days'));
+DELETE FROM sources WHERE datetime(created)<datetime('now','-7 days');
+DELETE FROM usage_records WHERE datetime(created)<datetime('now','-7 days');`;
+const result=spawnSync(process.execPath,['--import','./scripts/sites-env.mjs','./node_modules/wrangler/bin/wrangler.js','d1','execute','DB','--local','--config','dist/server/wrangler.json','--persist-to','.wrangler/state','--command',sql],{cwd:new URL('../',import.meta.url),encoding:'utf8'});if(result.status!==0){console.error('Retention purge failed; check local D1 availability.');process.exit(1)}console.log('Seven-day local retention purge completed. Provider retention, backups and exported files are separate.');

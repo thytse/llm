@@ -1,0 +1,12 @@
+# Copy to .dev.vars (ignored) for LOCAL development only. Never commit real keys.
+OPENAI_API_KEY="REPLACE_WITH_REGENERATED_HKU_KEY"
+OPENAI_MODEL="gpt-4.1-nano"
+LLM_ENDPOINT="https://api.hku.hk/openai/student/deployments/gpt-4.1-nano/chat/completions?api-version=2024-10-21"
+LLM_FORMAT="chat"
+LLM_AUTH_HEADER="api-key"
+LLM_TOKEN_FIELD="max_tokens"
+
+# Optional second provider. Keep real values only in ignored .dev.vars.
+POE_API_KEY=""
+POE_MODEL="GPT-5.4"
+# The local retrieval service generates ENCODER_TOKEN and ENCODER_URL.

@@ -1,0 +1,240 @@
+[01/11/2026, 08:00:00] You: How is your week going?
+[01/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[01/11/2026, 10:00:00] You: How is your week going?
+[01/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[01/11/2026, 12:00:00] You: How is your week going?
+[01/11/2026, 13:00:00] Person_3_5: I am studying economics. I enjoy swimming.
+[01/11/2026, 14:00:00] You: How is your week going?
+[01/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[01/11/2026, 16:00:00] You: How is your week going?
+[01/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[01/11/2026, 18:00:00] You: How is your week going?
+[01/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[02/11/2026, 08:00:00] You: How is your week going?
+[02/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[02/11/2026, 10:00:00] You: How is your week going?
+[02/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[02/11/2026, 12:00:00] You: How is your week going?
+[02/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[02/11/2026, 14:00:00] You: How is your week going?
+[02/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[02/11/2026, 16:00:00] You: How is your week going?
+[02/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[02/11/2026, 18:00:00] You: How is your week going?
+[02/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[03/11/2026, 08:00:00] You: How is your week going?
+[03/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[03/11/2026, 10:00:00] You: How is your week going?
+[03/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[03/11/2026, 12:00:00] You: How is your week going?
+[03/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[03/11/2026, 14:00:00] You: How is your week going?
+[03/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[03/11/2026, 16:00:00] You: How is your week going?
+[03/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[03/11/2026, 18:00:00] You: How is your week going?
+[03/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[04/11/2026, 08:00:00] You: How is your week going?
+[04/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[04/11/2026, 10:00:00] You: How is your week going?
+[04/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[04/11/2026, 12:00:00] You: How is your week going?
+[04/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[04/11/2026, 14:00:00] You: How is your week going?
+[04/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[04/11/2026, 16:00:00] You: How is your week going?
+[04/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[04/11/2026, 18:00:00] You: How is your week going?
+[04/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[05/11/2026, 08:00:00] You: How is your week going?
+[05/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[05/11/2026, 10:00:00] You: How is your week going?
+[05/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[05/11/2026, 12:00:00] You: How is your week going?
+[05/11/2026, 13:00:00] Person_3_5: Wednesday evenings usually work for me.
+[05/11/2026, 14:00:00] You: How is your week going?
+[05/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[05/11/2026, 16:00:00] You: How is your week going?
+[05/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[05/11/2026, 18:00:00] You: How is your week going?
+[05/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[06/11/2026, 08:00:00] You: How is your week going?
+[06/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[06/11/2026, 10:00:00] You: How is your week going?
+[06/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[06/11/2026, 12:00:00] You: How is your week going?
+[06/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[06/11/2026, 14:00:00] You: How is your week going?
+[06/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[06/11/2026, 16:00:00] You: How is your week going?
+[06/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[06/11/2026, 18:00:00] You: How is your week going?
+[06/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[07/11/2026, 08:00:00] You: How is your week going?
+[07/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[07/11/2026, 10:00:00] You: How is your week going?
+[07/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[07/11/2026, 12:00:00] You: How is your week going?
+[07/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[07/11/2026, 14:00:00] You: How is your week going?
+[07/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[07/11/2026, 16:00:00] You: How is your week going?
+[07/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[07/11/2026, 18:00:00] You: How is your week going?
+[07/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[08/11/2026, 08:00:00] You: How is your week going?
+[08/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[08/11/2026, 10:00:00] You: How is your week going?
+[08/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[08/11/2026, 12:00:00] You: How is your week going?
+[08/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[08/11/2026, 14:00:00] You: How is your week going?
+[08/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[08/11/2026, 16:00:00] You: How is your week going?
+[08/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[08/11/2026, 18:00:00] You: How is your week going?
+[08/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[09/11/2026, 08:00:00] You: How is your week going?
+[09/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[09/11/2026, 10:00:00] You: How is your week going?
+[09/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[09/11/2026, 12:00:00] You: How is your week going?
+[09/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[09/11/2026, 14:00:00] You: How is your week going?
+[09/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[09/11/2026, 16:00:00] You: How is your week going?
+[09/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[09/11/2026, 18:00:00] You: How is your week going?
+[09/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[10/11/2026, 08:00:00] You: How is your week going?
+[10/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[10/11/2026, 10:00:00] You: How is your week going?
+[10/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[10/11/2026, 12:00:00] You: How is your week going?
+[10/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[10/11/2026, 14:00:00] You: How is your week going?
+[10/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[10/11/2026, 16:00:00] You: How is your week going?
+[10/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[10/11/2026, 18:00:00] You: How is your week going?
+[10/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[11/11/2026, 08:00:00] You: How is your week going?
+[11/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[11/11/2026, 10:00:00] You: How is your week going?
+[11/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[11/11/2026, 12:00:00] You: How is your week going?
+[11/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[11/11/2026, 14:00:00] You: How is your week going?
+[11/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[11/11/2026, 16:00:00] You: How is your week going?
+[11/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[11/11/2026, 18:00:00] You: How is your week going?
+[11/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[12/11/2026, 08:00:00] You: How is your week going?
+[12/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[12/11/2026, 10:00:00] You: How is your week going?
+[12/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[12/11/2026, 12:00:00] You: How is your week going?
+[12/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[12/11/2026, 14:00:00] You: How is your week going?
+[12/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[12/11/2026, 16:00:00] You: How is your week going?
+[12/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[12/11/2026, 18:00:00] You: How is your week going?
+[12/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[13/11/2026, 08:00:00] You: How is your week going?
+[13/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[13/11/2026, 10:00:00] You: How is your week going?
+[13/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[13/11/2026, 12:00:00] You: How is your week going?
+[13/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[13/11/2026, 14:00:00] You: How is your week going?
+[13/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[13/11/2026, 16:00:00] You: How is your week going?
+[13/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[13/11/2026, 18:00:00] You: How is your week going?
+[13/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[14/11/2026, 08:00:00] You: How is your week going?
+[14/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[14/11/2026, 10:00:00] You: How is your week going?
+[14/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[14/11/2026, 12:00:00] You: How is your week going?
+[14/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[14/11/2026, 14:00:00] You: How is your week going?
+[14/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[14/11/2026, 16:00:00] You: How is your week going?
+[14/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[14/11/2026, 18:00:00] You: How is your week going?
+[14/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[15/11/2026, 08:00:00] You: How is your week going?
+[15/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[15/11/2026, 10:00:00] You: How is your week going?
+[15/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[15/11/2026, 12:00:00] You: How is your week going?
+[15/11/2026, 13:00:00] Person_3_5: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
+[15/11/2026, 14:00:00] You: How is your week going?
+[15/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[15/11/2026, 16:00:00] You: How is your week going?
+[15/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[15/11/2026, 18:00:00] You: How is your week going?
+[15/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[16/11/2026, 08:00:00] You: How is your week going?
+[16/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[16/11/2026, 10:00:00] You: How is your week going?
+[16/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[16/11/2026, 12:00:00] You: How is your week going?
+[16/11/2026, 13:00:00] Person_3_5: Could we meet on Sunday 29 November 2026 instead?
+[16/11/2026, 14:00:00] You: How is your week going?
+[16/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[16/11/2026, 16:00:00] You: How is your week going?
+[16/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[16/11/2026, 18:00:00] You: How is your week going?
+[16/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[17/11/2026, 08:00:00] You: How is your week going?
+[17/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[17/11/2026, 10:00:00] You: How is your week going?
+[17/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[17/11/2026, 12:00:00] You: How is your week going?
+[17/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[17/11/2026, 14:00:00] You: How is your week going?
+[17/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[17/11/2026, 16:00:00] You: How is your week going?
+[17/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[17/11/2026, 18:00:00] You: How is your week going?
+[17/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[18/11/2026, 08:00:00] You: How is your week going?
+[18/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[18/11/2026, 10:00:00] You: How is your week going?
+[18/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[18/11/2026, 12:00:00] You: How is your week going?
+[18/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[18/11/2026, 14:00:00] You: How is your week going?
+[18/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[18/11/2026, 16:00:00] You: How is your week going?
+[18/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[18/11/2026, 18:00:00] You: How is your week going?
+[18/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[19/11/2026, 08:00:00] You: How is your week going?
+[19/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[19/11/2026, 10:00:00] You: How is your week going?
+[19/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[19/11/2026, 12:00:00] You: How is your week going?
+[19/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[19/11/2026, 14:00:00] You: How is your week going?
+[19/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[19/11/2026, 16:00:00] You: How is your week going?
+[19/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[19/11/2026, 18:00:00] You: How is your week going?
+[19/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[20/11/2026, 08:00:00] You: How is your week going?
+[20/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
+[20/11/2026, 10:00:00] You: How is your week going?
+[20/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
+[20/11/2026, 12:00:00] You: How is your week going?
+[20/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
+[20/11/2026, 14:00:00] You: How is your week going?
+[20/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
+[20/11/2026, 16:00:00] You: How is your week going?
+[20/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
+[20/11/2026, 18:00:00] You: How is your week going?
+[20/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.

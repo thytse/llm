@@ -1,0 +1,1 @@
+declare namespace Cloudflare {interface Env {POE_API_KEY?:string; POE_MODEL?:string; ENCODER_URL?:string; ENCODER_TOKEN?:string; DB?:D1Database; BUCKET?:R2Bucket; OPENAI_API_KEY?:string; OPENAI_MODEL?:string; LLM_ENDPOINT?:string; LLM_FORMAT?:string; LLM_AUTH_HEADER?:string; LLM_TOKEN_FIELD?:string;}}
