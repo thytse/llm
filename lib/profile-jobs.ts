@@ -17,10 +17,10 @@ export function profileParts(messages:Message[]){return messages.flatMap(m=>{let
 export function profileBatches(messages:Message[]){const episodes=exchangeMap(messages);const batches:string[][]=[];let batch:any[]=[];for(const m of messages){const compact={id:m.id,speaker:m.speaker,timestamp:m.timestamp,exchange_id:episodes.get(m.id),body:m.body};if(batch.length&&tokenCount([...batch,compact])>4000){batches.push(batch.map(x=>x.id));batch=[]}batch.push(compact)}if(batch.length)batches.push(batch.map(x=>x.id));return batches;}
 export function profileObservations(value:any,allowed:Set<string>,behaviour:boolean,parts:Message[]=[],context=''){
  if(!Array.isArray(value?.attributes)||value.attributes.length>32)throw Error('Profile batch schema failed.');
- const warnings:{reason:string;count:number}[]=[];let rejected=0,normalised=0;
+ const warnings:{reason:string;count:number}[]=[];let rejected=0,normalised=0,malformed=0;
  const resolve=(id:unknown)=>{if(typeof id!=='string')return null;if(allowed.has(id)||id==='profile_context'&&!!context.trim())return id;const matches=parts.filter(m=>allowed.has(m.id)&&(m as any).parent_id===id);if(matches.length===1){normalised++;return matches[0].id}return null};
  const attributes=value.attributes.filter((a:any)=>{
-  if(!SUMMARY_CATEGORIES.includes(a.category)||typeof a.text!=='string'||a.text.length>350||!['directly stated','tentative','conflicting','insufficient'].includes(a.support)||!['current','historical','stale'].includes(a.lifecycle)||typeof a.time_scope!=='string'||!Array.isArray(a.source_ids)||!Array.isArray(a.counter_source_ids))throw Error('Invalid profile observation.');
+  if(!a||!SUMMARY_CATEGORIES.includes(a.category)||typeof a.text!=='string'||a.text.length>350||!['directly stated','tentative','conflicting','insufficient'].includes(a.support)||!['current','historical','stale'].includes(a.lifecycle)||typeof a.time_scope!=='string'||!Array.isArray(a.source_ids)||!Array.isArray(a.counter_source_ids)){rejected++;malformed++;return false;}
   if(a.support==='insufficient'||!a.source_ids.length)return false;
   if(a.category==='Personality and behavioural tendencies'&&!behaviour)return false;
   const sources=a.source_ids.map(resolve),counter=a.counter_source_ids.map(resolve);
@@ -29,7 +29,8 @@ export function profileObservations(value:any,allowed:Set<string>,behaviour:bool
   if([...sources,...counter].some(id=>id===null)){rejected++;return false}
   a.source_ids=[...new Set(sources)];a.counter_source_ids=[...new Set(counter)];return true;
  });
- if(rejected)warnings.push({reason:'Observations omitted because a source reference was not in the supplied evidence.',count:rejected});
+ if(malformed)warnings.push({reason:'Observations omitted because required fields, English enum values or text lengths were invalid.',count:malformed});
+ if(rejected-malformed)warnings.push({reason:'Observations omitted because a source reference was not in the supplied evidence.',count:rejected-malformed});
  if(normalised)warnings.push({reason:'Unambiguous parent references resolved to their single supplied source part.',count:normalised});
  if(rejected&&!attributes.length)throw Error('No profile observations passed source checks in this batch. No unsupported claims were saved. Use Refresh summary to retry.');
  return {attributes,warnings};

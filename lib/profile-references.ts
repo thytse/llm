@@ -7,8 +7,16 @@ export function compactReferences(observations:any[]){
 }
 export function restoreReferences(value:any,restore:Map<string,string>){if(!Array.isArray(value?.attributes))return value;return {...value,attributes:value.attributes.map((a:any)=>({...a,source_ids:Array.isArray(a.source_ids)?a.source_ids.map((id:string)=>restore.get(id)||id):a.source_ids,counter_source_ids:Array.isArray(a.counter_source_ids)?a.counter_source_ids.map((id:string)=>restore.get(id)||id):a.counter_source_ids}))};}
 export function stageOutputLimit(stage:string,operation?:string){
- if(operation==='profile'){if(stage==='summary_check')return 1200;if(stage==='summary_merge'||stage==='summary')return 5000;return 3000;}
+ if(operation==='people')return stage==='conversation_check'?8000:6000;
+ if(operation==='conversation')return stage==='conversation_check'?8000:stage==='conversation_answer'?12000:8000;
+ if(operation==='profile'){if(stage==='summary_observe')return 4000;if(stage==='summary_check')return 1200;if(stage==='summary_merge'||stage==='summary')return 5000;return 3000;}
  return stage.startsWith('summary')?2200:operation==='network'?1800:1000;
+}
+export function providerOutputLimit(model:string,stage:string,operation?:string){
+ const base=stageOutputLimit(stage,operation);
+ if(model.toLowerCase()!=='claude-sonnet-5.5')return base;
+ if(operation==='profile')return Math.max(base,3000);
+ return Math.max(base,stage==='review'||stage==='final_check'?3000:operation==='network'?6000:4000);
 }
 export class IncompleteModelResponse extends Error{
  constructor(public details:Record<string,unknown>,profileJob=false){
