@@ -1,240 +1,201 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_1_4: I am studying economics. I enjoy photography.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_1_4: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_1_4: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_1_4: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_1_4: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_1_4: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_1_4: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_1_4: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_1_4: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_1_4: Thanks, I will check and get back to you.
+[21/10/2026, 19:15:10] Owen: Hey! Made it back to Tai Po. Thanks for grabbing coffee after work today, really enjoyed chatting about photography 😊
+[21/10/2026, 19:20:42] You: Same here Owen! I feel like I learned more about Hong Kong wetlands in one hour than I have in five years lol
+[21/10/2026, 19:22:15] Owen: Haha sorry if I geeked out too much! Working as a project coordinator at an environmental NGO means conservation is basically half my brain.
+[21/10/2026, 19:23:40] You: Not at all, it's refreshing to hear someone genuinely care about their job!
+[21/10/2026, 19:25:05] Owen: Definitely beats staring at corporate spreadsheets all day, even if the NGO budget is tiny.
+[21/10/2026, 19:26:30] You: Fair trade-off! Did you say you live in Tai Po? That must be super close to nice nature trails.
+[21/10/2026, 19:27:55] Owen: Yeah, 10 minutes from the waterfront promenade and super easy to get to Mai Po or Nam Sang Wai on weekends.
+[21/10/2026, 19:29:12] You: Jealous! I'm stuck in Kowloon surrounded by concrete.
+[21/10/2026, 19:30:40] Owen: We should definitely head up to the New Territories for a sunset shoot soon!
+[21/10/2026, 19:31:55] You: Yes, I'd love that!
+[21/10/2026, 19:33:10] Owen: Great, I'll check the tide times and sunset forecast for this Saturday. Have a good evening!
+[21/10/2026, 19:34:02] You: Thanks Owen, you too!
+[23/10/2026, 12:40:18] Owen: Hey, checked the Observatory forecast for tomorrow — clear skies, low humidity, and sunset is at 5:52pm.
+[23/10/2026, 12:45:30] You: Oh nice! Are we thinking Nam Sang Wai?
+[23/10/2026, 12:46:45] Owen: Yep! If we meet at Yuen Long MTR Exit G2 around 3:15pm, we can take the little sampan across the river and catch the golden light by the wooden bridge.
+[23/10/2026, 12:48:10] You: Sounds like a solid plan! Should I bring my telephoto lens or just my standard zoom?
+[23/10/2026, 12:49:33] Owen: Bring both if your bag isn't too heavy! The migratory birds are starting to arrive, so a telephoto is great for egrets, and a wide lens for the eucalyptus trees.
+[23/10/2026, 12:51:00] You: Got it, packing mosquito repellent too just in case.
+[23/10/2026, 12:52:15] Owen: Smart move 👍 Also wear sneakers you don't mind getting a bit dusty.
+[23/10/2026, 12:53:20] You: Will do! See you tomorrow at 3:15pm!
+[23/10/2026, 12:54:05] Owen: See you then!
+[24/10/2026, 15:08:12] Owen: Just arrived at Yuen Long MTR, waiting near the 7-Eleven by Exit G2.
+[24/10/2026, 15:11:05] You: Almost there, my train is pulling in now!
+[24/10/2026, 15:12:00] Owen: No rush at all.
+[24/10/2026, 19:15:10] Owen: Made it back to Tai Po! Thanks for coming out to shoot sunset at Nam Sang Wai today, the light over the reeds was unreal.
+[24/10/2026, 19:20:30] You: Thanks for showing me the spot Owen! I got some really nice shots of the wooden bridge and that tiny wooden ferry.
+[24/10/2026, 19:22:15] Owen: Glad you liked it! I genuinely love nature and landscape photography so much, especially quiet wetlands where you can watch the light shift and spot migratory birds.
+[24/10/2026, 19:23:50] You: And that tofu pudding stall on the way back was a huge bonus haha.
+[24/10/2026, 19:25:12] Owen: Best $15 post-shoot snack in Yuen Long!
+[24/10/2026, 19:26:40] You: Definitely! Let me know when you go through your RAW files, I want to see how your bird shots turned out.
+[24/10/2026, 19:28:05] Owen: Will upload a few to Google Drive tomorrow once I cull the blurry ones. Have a good rest tonight!
+[24/10/2026, 19:29:15] You: You too, night!
+[26/10/2026, 13:10:22] Owen: Hey! Just sent over the link to the Nam Sang Wai shots. The silhouette of the lone tree came out super crisp.
+[26/10/2026, 13:18:05] You: Oh wow, these look like National Geographic!! How did you keep the sky from blowing out while keeping the shadows so clean?
+[26/10/2026, 13:20:14] Owen: Exposed for the highlights by dropping exposure compensation to -0.7 EV, then lifted the shadows in Lightroom by about +45. Works really well on Fujifilm sensors.
+[26/10/2026, 13:22:00] You: Taking mental notes immediately! I always overexpose the sky and lose all the cloud texture.
+[26/10/2026, 13:23:30] Owen: Easy fix once you turn on the live histogram in your viewfinder. Happy to walk you through the settings next time we shoot!
+[26/10/2026, 13:25:10] You: Appreciate it! How's your Monday at the NGO going?
+[26/10/2026, 13:26:45] Owen: Pretty routine — drafting a grant proposal for a mangrove restoration workshop next spring. Regular 9-to-6 rhythm, can't complain.
+[26/10/2026, 13:28:00] You: Sounds super meaningful though!
+[26/10/2026, 13:29:12] Owen: Keeps life simple and grounded. Hope your Monday isn't too hectic!
+[26/10/2026, 13:30:05] You: Surviving so far, thanks!
+[28/10/2026, 12:30:14] You: Hey Owen, random question — do you know any reliable shops in Sim City for secondhand Fujifilm lenses? I'm tempted to grab a 35mm prime.
+[28/10/2026, 12:36:40] Owen: Yes! Go to the 2nd floor, there's a small shop near the back stairs called CamPro. They let you test the autofocus thoroughly and their prices are very fair.
+[28/10/2026, 12:38:05] You: Awesome, you're a walking encyclopedia for camera gear! Anything I should check when buying secondhand?
+[28/10/2026, 12:39:40] Owen: Shine your phone flashlight through the rear element to check for fungus or haze, test the aperture ring clicks, and check the focus motor noise in a quiet corner.
+[28/10/2026, 12:41:15] You: Lifesaver! I'll probably pop over to Mong Kok this weekend to take a look.
+[28/10/2026, 12:42:30] Owen: Good luck hunting! Let me know what price they quote you, I can tell you if it's fair market rate.
+[28/10/2026, 12:43:45] You: Will do, thanks Owen!
+[30/10/2026, 18:10:05] You: Hey, saw there's a cool documentary photo exhibition in Sham Shui Po next week. Which weekday evening usually works best for you if we want to check it out and grab dinner?
+[30/10/2026, 18:16:30] Owen: My NGO hours are pretty regular, 9 to 6. Mondays and Thursdays I volunteer at a community recycling hub in Tai Po, and Tuesdays I go for a 10km jog along the waterfront.
+[30/10/2026, 18:17:20] Owen: I am usually free on Wednesday evenings though! Almost never have meetings or volunteer shifts on Wednesdays.
+[30/10/2026, 18:18:45] You: Wednesday evenings work great for me too! Let's go to the Sham Shui Po exhibition next Wednesday, 4 November?
+[30/10/2026, 18:20:02] Owen: Sounds great! And we can grab casual beef brisket noodles or cha chaan teng nearby afterwards — nothing fancy needed.
+[30/10/2026, 18:21:15] You: Deal! Also I saw there's a free nature photography talk at PMQ on Wednesday 2 December evening — want to put that on our radar too?
+[30/10/2026, 18:22:40] Owen: Oh I saw that event on Facebook! The speaker shoots Hong Kong's outer islands from kayaks. Yes, let's definitely put Wednesday 2 December in the calendar!
+[30/10/2026, 18:24:05] You: Awesome, locked in!
+[30/10/2026, 18:25:10] Owen: Looking forward to both. Have a great weekend!
+[30/10/2026, 18:26:00] You: You too!
+[01/11/2026, 16:40:12] You: Hey Owen, how's your Sunday going? Did you get out cycling or shooting today?
+[01/11/2026, 16:52:30] Owen: Hey! Cycled from Tai Po to Tai Mei Tuk this morning with my camera, then spent the afternoon sorting my winter clothes. Pretty chill!
+[01/11/2026, 16:54:15] You: Very productive! The breeze today is so nice.
+[01/11/2026, 16:55:40] Owen: Seriously the best time of year in HK. Did you make it to Sim City for the 35mm lens?
+[01/11/2026, 16:57:05] You: Not yet, got lazy and slept in haha. Planning to go next Saturday!
+[01/11/2026, 16:58:22] Owen: No rush, good copies pop up all the time. See you Wednesday!
+[01/11/2026, 16:59:10] You: See you Wednesday!
+[04/11/2026, 18:45:10] Owen: Just got off at Sham Shui Po MTR, heading over to the gallery on Ki Lung Street now.
+[04/11/2026, 18:47:25] You: Same, walking down from Exit D2, see you in 3 mins!
+[04/11/2026, 18:48:00] Owen: Cool, see you outside!
+[04/11/2026, 21:20:18] Owen: Thanks for checking out the exhibition and grabbing noodles tonight! Always super easy talking photography with you.
+[04/11/2026, 21:25:40] You: Same! I really loved that black-and-white series on old Hong Kong piers — the contrast on those prints was unreal.
+[04/11/2026, 21:27:12] Owen: Yeah, silver gelatin prints have a depth that digital screens just can't replicate.
+[04/11/2026, 21:28:35] You: Also thanks for lending me your spare lens cap when mine rolled under the table lol.
+[04/11/2026, 21:29:50] Owen: Haha no worries at all, I keep two spares in my bag because I lose them constantly too.
+[04/11/2026, 21:31:15] You: Hope you have a smooth rest of the week!
+[04/11/2026, 21:32:05] Owen: You too! Safe trip home.
+[06/11/2026, 14:10:22] You: Hey Owen, TGIF! Any fun plans for the weekend? I was thinking of checking out a nice little wine bar or dinner spot in Sheung Wan tomorrow night if you're free?
+[06/11/2026, 14:35:18] Owen: Hey! Oh, tomorrow I'm actually going to an early morning birdwatching and photography walk in Long Valley with a couple of colleagues from the NGO, so I'll probably be asleep by 9:30pm haha.
+[06/11/2026, 14:37:05] Owen: Plus I don't really drink wine much. If you go to Sim City on Saturday afternoon though, text me a photo of the lens before you buy and I can check the serial number range for you!
+[06/11/2026, 14:39:40] You: Haha fair enough, early morning birdwatching sounds very you! Sure, I'll definitely text you from Sim City if I spot a good one.
+[06/11/2026, 14:41:12] Owen: Sounds good! Also forgot to mention — Hong Kong Heritage Museum has a free nature photo showcase running til January, worth a look if you're ever in Shatin.
+[06/11/2026, 14:43:00] You: Oh nice, adding that to my list! Have fun birdwatching tomorrow!
+[06/11/2026, 14:44:15] Owen: Thanks! Good luck at Sim City!
+[07/11/2026, 15:20:30] You: Mission accomplished!! Found a mint condition Fujifilm 35mm f/2 at CamPro for $2,100!
+[07/11/2026, 15:26:12] Owen: Nice score!! $2,100 for a clean copy with the original hood is a great deal 👍
+[07/11/2026, 15:28:05] You: Did the flashlight check just like you taught me, glass is spotless!
+[07/11/2026, 15:29:40] Owen: Make sure you check the firmware version online so the autofocus is up to date. You're going to love how compact that lens is for street walks.
+[07/11/2026, 15:31:15] You: Already testing it out on my iced coffee right now haha. How was Long Valley this morning?
+[07/11/2026, 15:33:02] Owen: Great! Spotted a kingfisher and a few painted snipes. Super peaceful morning.
+[07/11/2026, 15:34:20] You: Awesome! Enjoy the rest of your Saturday!
+[07/11/2026, 15:35:05] Owen: You too!
+[09/11/2026, 19:15:10] Owen: Hey, saw a really detailed YouTube comparison on colour profiles for autumn foliage — thought you might find it useful for your new 35mm, sending the link!
+[09/11/2026, 19:22:30] You: Oh thanks Owen! I'll watch it while eating dinner.
+[09/11/2026, 19:24:05] Owen: No problem! The Classic Chrome tweaks at the 8-minute mark are super handy.
+[09/11/2026, 19:25:40] You: Noted! How's your week starting?
+[09/11/2026, 19:27:12] Owen: Pretty busy — prepping logistics for our coastal cleanup next month, lots of permit emails. How about you?
+[09/11/2026, 19:28:45] You: Standard office Monday, counting down to the weekend already.
+[09/11/2026, 19:30:00] Owen: Haha hang in there, only four days to go.
+[11/11/2026, 13:05:18] You: Happy 11.11! Did you get tempted by any camera gear deals today?
+[11/11/2026, 13:14:40] Owen: Kept it super practical — bought two 128GB SD cards, a dry-box dehumidifier pack, and a new reusable insulated flask for field trips.
+[11/11/2026, 13:16:22] You: Haha peak responsible NGO energy!
+[11/11/2026, 13:17:50] Owen: Guilty as charged. Did you buy anything?
+[11/11/2026, 13:19:10] You: Just a UV filter for the new lens and some winter socks!
+[11/11/2026, 13:20:35] Owen: Solid practical choices too 👍
+[13/11/2026, 20:10:22] You: Hey Owen, random honest check-in — I've really enjoyed our three hangouts and geeking out about cameras with you, though I feel like we click way more as photography buddies than romantically. Hope it's okay to say that out loud!
+[13/11/2026, 20:18:45] Owen: Haha honestly, I am really glad you said that because I was feeling the exact same thing!
+[13/11/2026, 20:20:10] Owen: You're super easy to talk to and I genuinely enjoy sharing exhibition tips and shooting sunsets with you, it just feels totally like a great friendship vibe rather than dating.
+[13/11/2026, 20:22:05] You: Phew!! I'm so relieved we're on the same page! Definitely still want to keep you as my go-to photography buddy!
+[13/11/2026, 20:23:40] Owen: 100%! Always happy to nerd out about lenses, share photo walk spots, or grab casual noodles after an exhibition as friends 😊
+[13/11/2026, 20:25:15] You: Deal! Best outcome from a dating app honestly haha.
+[13/11/2026, 20:26:30] Owen: Honestly yes, good photo buddies are hard to find in Hong Kong!
+[13/11/2026, 20:27:45] You: Truth! Have a great weekend Owen!
+[13/11/2026, 20:28:30] Owen: You too!
+[16/11/2026, 14:15:10] Owen: Hey, quick heads up about that PMQ nature photography talk on Wednesday 2 December.
+[16/11/2026, 14:20:05] You: Still on for that?
+[16/11/2026, 14:21:40] Owen: Actually my NGO just scheduled a mandatory evening community coastal-cleanup volunteer briefing on Wednesday 2 December from 7pm to 9:30pm, and I'm the coordinator running the slides.
+[16/11/2026, 14:22:35] Owen: So I have to cancel Wednesday 2 December completely! Really annoying since I'm normally free Wednesday evenings and I wanted to hear that kayak photographer speak.
+[16/11/2026, 14:24:12] You: Aww no worries at all! Duty calls for the coastline!
+[16/11/2026, 14:25:30] Owen: Thanks for understanding! I'll check if PMQ uploads the recording afterwards, or we can go check out the Shatin nature photo exhibition another weekend in December instead.
+[16/11/2026, 14:27:05] You: Sounds great, good luck with the volunteer briefing!
+[16/11/2026, 14:28:10] Owen: Appreciate it!
+[18/11/2026, 11:30:22] You: Hey, tested out my new 35mm lens at Victoria Harbour last night — the sharpness is crazy! Sending you two frames.
+[18/11/2026, 11:42:15] Owen: Oh nice!! Really clean exposure on the Star Ferry shot, and the reflection on the water is tack sharp.
+[18/11/2026, 11:44:02] You: Learned from the master of -0.7 EV haha!
+[18/11/2026, 11:45:20] Owen: Haha glad the tip worked!
+[20/11/2026, 11:10:05] Owen: By the way, there's a secondhand camera and vintage lens fair in Kwun Tong in mid-December — sending you the flyer in case you want to browse!
+[20/11/2026, 11:16:22] You: Oh awesome, definitely putting that on my calendar! Thanks Owen!
+[20/11/2026, 11:17:40] Owen: Anytime! Have a restful weekend!
+[20/11/2026, 11:18:55] You: You too, enjoy Tai Po!
+[22/11/2026, 11:30:15] Owen: Morning! Hope you're having a good Saturday!
+[22/11/2026, 11:35:40] You: Pretty chill so far! How about you, any photo walks planned?
+[22/11/2026, 11:38:12] Owen: Actually heading to Tai Mei Tuk this afternoon with my camera. Want to tag along?
+[22/11/2026, 11:41:30] You: Oh that sounds lovely! What time?
+[22/11/2026, 11:44:05] Owen: 2pm? The light should be nice that time of day.
+[22/11/2026, 11:46:20] You: Perfect, I'll meet you there!
+[23/11/2026, 14:20:18] You: Hey Owen, thanks for yesterday's photo walk! The reflection shots turned out amazing!
+[23/11/2026, 14:28:40] Owen: Same! You really nailed that composition by the boathouse.
+[23/11/2026, 14:31:12] You: I was using that exposure compensation technique you taught me!
+[23/11/2026, 14:33:50] Owen: Exactly! You're a fast learner. Want to upload them to the shared drive later?
+[24/11/2026, 10:15:30] You: Morning! Hope Monday is treating you well!
+[24/11/2026, 10:22:40] Owen: Busy Monday actually! Emergency staff meeting at the NGO about the December coastal cleanup.
+[24/11/2026, 10:25:15] You: Oh everything okay?
+[24/11/2026, 10:28:30] Owen: Just logistics shifting, all good. How's your day going?
+[25/11/2026, 18:40:12] You: Coming home now! How was your work day?
+[25/11/2026, 18:48:30] Owen: Decent! Finalised the volunteer briefing slides for Wednesday. Ready for the weekend honestly.
+[25/11/2026, 18:51:15] You: Well deserved break! Any plans?
+[25/11/2026, 18:54:40] Owen: Just staying local in Tai Po, maybe a jog along the waterfront tomorrow.
+[26/11/2026, 11:20:08] You: Morning! Hope you got good rest last night!
+[26/11/2026, 11:28:30] Owen: Absolutely! Feeling recharged for the final push to year-end.
+[26/11/2026, 11:31:12] You: That's the spirit! Ready for Monday?
+[26/11/2026, 11:33:50] Owen: As ready as I can be!
+[27/11/2026, 14:15:30] You: Hey Owen! Just confirming you're running the coastal cleanup briefing Wednesday 2 December?
+[27/11/2026, 14:22:40] Owen: Yeah, 7pm to 9:30pm. Should wrap by 9:45 at the latest.
+[27/11/2026, 14:25:18] You: Good luck with that! Sounds like important work.
+[27/11/2026, 14:28:05] Owen: It is! We're expecting good turnout for the cleanup next month.
+[28/11/2026, 09:30:14] You: Morning! How is your Monday treating you?
+[28/11/2026, 09:38:40] Owen: Quiet start, meetings pick up this afternoon. How's yours?
+[28/11/2026, 09:41:12] You: Same here, just getting through the week!
+[28/11/2026, 09:43:50] Owen: Hang in there, almost to the weekend!
+[29/11/2026, 10:20:08] You: Hey Owen! So pumped for Sunday! West Kowloon waterfront should be incredible at sunset!
+[29/11/2026, 10:28:30] Owen: Me too! Expecting clear skies and 22 degrees, perfect conditions honestly.
+[29/11/2026, 10:31:12] You: Can't wait! What time should we meet?
+[29/11/2026, 10:33:50] Owen: 4:30pm near the lawn? Should give us an hour before golden hour really hits.
+[30/11/2026, 11:15:22] You: Final Sunday thought — I'm really grateful for this friendship. You've made Hong Kong feel like home with all these photo walks and camera tips.
+[30/11/2026, 11:22:40] Owen: Hey, same here genuinely. You've made the NGO grind way more fun with someone to nerd out about lenses with!
+[30/11/2026, 11:25:15] You: Here's to many more photo walks together ❤️
+[30/11/2026, 11:28:30] Owen: Absolutely! See you Sunday 👍
+[30/11/2026, 11:31:05] You: See you then!
+[30/11/2026, 11:33:50] Owen: Looking forward to it!
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well!
+[01/12/2026, 10:28:30] Owen: Morning! Back to work after the weekend. How's yours?
+[01/12/2026, 10:31:12] You: Same here, just catching up on files. Ready for Sunday photo walk?
+[01/12/2026, 10:33:50] Owen: 100%! Already thinking about which lenses to bring!
+[02/12/2026, 14:15:30] You: By the way, did you check if Sunday 8 December still works for the West Kowloon walk?
+[02/12/2026, 14:22:40] Owen: Yeah actually the weather forecast looks perfect! Clear skies all day!
+[02/12/2026, 14:25:18] You: Amazing! Can't wait!
+[02/12/2026, 14:28:05] Owen: Same! Should be some incredible light for golden hour!
+[03/12/2026, 09:30:14] You: Morning! How is Tuesday treating you?
+[03/12/2026, 09:38:40] Owen: Good morning! Just finishing up the volunteer briefing materials for this month's coastal cleanup.
+[03/12/2026, 09:41:12] You: That's great! You're doing such important work!
+[03/12/2026, 09:43:50] Owen: Thanks! The team is really energized about the December initiatives!
+[04/12/2026, 10:15:30] You: Morning! How is Wednesday treating you?
+[04/12/2026, 10:28:30] Owen: Pretty good! Just three more days til our photo walk!
+[04/12/2026, 10:31:12] You: I know! Getting excited!
+[04/12/2026, 10:33:50] Owen: Me too! Already planning the route!
+[05/12/2026, 11:35:08] You: Almost to Sunday! Just two more days!
+[05/12/2026, 14:22:40] Owen: I cannot wait honestly! This friendship means so much to me!
+[05/12/2026, 14:23:55] You: Same here! See you Sunday at 4:30pm!
+[05/12/2026, 14:25:12] Owen: Definitely! ❤️
+[06/12/2026, 09:30:14] You: Hey Owen! Hope your morning is nice!
+[06/12/2026, 10:28:40] Owen: Morning! Just finishing breakfast and doing a final camera check!
+[06/12/2026, 10:29:55] You: Ready for the magic hour?
+[06/12/2026, 10:31:12] Owen: Absolutely ready! See you in a few hours!
+[07/12/2026, 09:30:14] You: Hey Owen! That photo walk was absolutely incredible!
+[07/12/2026, 10:28:40] Owen: Right?? The light was perfect and your composition work has really improved!
+[07/12/2026, 10:29:55] You: Thanks to your continued mentoring! Want to plan the next one?
+[07/12/2026, 10:31:12] Owen: Definitely! How about Mong Kok next weekend?
+[08/12/2026, 09:30:14] You: Hey Owen! Hope Monday is treating you well!
+[08/12/2026, 10:28:40] Owen: Morning! Just catching up at the office. How's yours?
+[08/12/2026, 10:29:55] You: Good! So Mong Kok next Sunday still works?
+[08/12/2026, 10:31:12] Owen: 100%! Already mapping out the best spots! ❤️

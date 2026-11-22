@@ -1,240 +1,180 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_2_1: I am studying economics. I enjoy cooking.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_2_1: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_2_1: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_2_1: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_2_1: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_2_1: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_2_1: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_2_1: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_2_1: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_2_1: Thanks, I will check and get back to you.
+[21/10/2026, 11:20:15] Clara: heyyy babe!! miss u sooo much already 🥺❤️
+[21/10/2026, 11:25:40] You: haha we literally left the flat 2 hours ago! how's the showroom today?
+[21/10/2026, 11:26:33] Clara: chaoticcc lol being a fashion buyer in TST means staring at 200 spring knitwear samples before lunch 😩
+[21/10/2026, 11:27:18] Clara: ugh wish I could teleport home and bake cinnamon rolls with u rn!!
+[21/10/2026, 11:28:10] You: cinnamon rolls sound amazing tbh. what's for lunch?
+[21/10/2026, 11:29:02] Clara: grabbing a matcha croissant and iced latte with my coworker! u better eat a proper lunch too okay?? luv u!! ✨
+[21/10/2026, 11:30:05] You: yes ma'am, grabbing Japanese curry soon!
+[21/10/2026, 11:30:48] Clara: yummy!! send me a pic later 😘
+[22/10/2026, 18:15:22] Clara: OMG BABE STOP EVERYTHING!! I just walked past City'super in Harbour City and they have fresh Italian burrata and truffle honey!! 😍🧀
+[22/10/2026, 18:20:10] You: haha oh no, my wallet is already trembling
+[22/10/2026, 18:21:05] Clara: don't be dramatic!! I'm gonna make u that crispy sourdough burrata peach salad and miso butter pasta tonight!! u know how much I love baking and cooking Western fusion dishes for us ✨🍝
+[22/10/2026, 18:22:18] You: okay that does sound delicious, just please don't spend $800 at City'super on a random Thursday lol
+[22/10/2026, 18:23:05] Clara: promise I'll behave!! mostly!! 🙈 see u at home at 7:30!!
+[22/10/2026, 18:24:00] You: see you at 7:30!
+[22/10/2026, 21:40:12] You: okay I take back everything I said about the grocery bill, that miso butter pasta was 10/10!
+[22/10/2026, 21:42:30] Clara: HEHE TOLD U!! and look how cute it looked on my new ceramic plates!! posted it on my IG story already 📸✨
+[22/10/2026, 21:43:15] You: haha I noticed you took 15 photos before letting me eat!
+[22/10/2026, 21:44:02] Clara: aesthetic comes first babe u know the rules 😂❤️
+[22/10/2026, 21:44:50] You: fair enough, I'll do the dishes tonight!
+[22/10/2026, 21:45:35] Clara: u are literally the best boyfriend in the entire world!! 🥰
+[24/10/2026, 14:10:08] Clara: heyyy I'm at Sogo looking at cookware and I'm obsessed with this sage green Le Creuset Dutch oven!!
+[24/10/2026, 14:16:22] You: wait Clara, don't we already have two cast iron pots at home that barely fit in the cabinet?
+[24/10/2026, 14:17:30] Clara: yeah but they're white and cream!! this one is SAGE GREEN!! imagine baking sourdough in it!! 🥺
+[24/10/2026, 14:18:45] You: how much is it?
+[24/10/2026, 14:19:33] Clara: only $2,400 on sale!! okay fine I won't buy it today since u're giving me the dad voice lol 😂
+[24/10/2026, 14:20:40] You: haha thank you! remember we agreed to track our spending so we can save up for a bigger 2-bedroom flat next year?
+[24/10/2026, 14:22:05] Clara: yesss I know I know!! I'm being super good today! grabbing u an iced hojicha on my way back to make up for tempting u ❤️
+[24/10/2026, 14:23:12] You: haha thanks babe, see you soon!
+[26/10/2026, 13:05:19] Clara: ugh Monday is dragginggg so slow. just sent u a 2-minute voice note about my crazy manager 😂
+[26/10/2026, 13:12:40] You: just listened! she really asked you to change the whole window display two days before launch?!
+[26/10/2026, 13:13:25] Clara: YES!! literally losing my mind over here. u're the only one who keeps me sane tbh 🥺
+[26/10/2026, 13:14:12] You: hang in there! want me to cook something easy tonight so you can just chill?
+[26/10/2026, 13:15:05] Clara: omg YES plsss!! u're an angel!! ❤️✨
+[28/10/2026, 19:20:10] You: Hey Clara, quick check-in — did you manage to transfer your half into our joint flat-savings account for October?
+[28/10/2026, 19:32:45] Clara: oh!! oopsies I totally meant to do it after payday yesterday and forgot!! 😅
+[28/10/2026, 19:34:02] You: no worries, just let me know when you do it so I can update our little spreadsheet.
+[28/10/2026, 19:35:30] Clara: actuallyyy can I put in half this month and top up the rest next month? my credit card bill was weirdly high from those autumn boots and the baking stand mixer 🙈
+[28/10/2026, 19:37:15] You: Clara, this is the third month in a row you've asked to top it up next month. If we actually want a bigger rental flat by next autumn, we need to stick to the monthly number.
+[28/10/2026, 19:39:02] Clara: aww don't be mad at me!! 🥺 I swear I'm super serious about our dream flat!! I literally spent an hour on Pinterest pinning kitchen layouts for us yesterday!!
+[28/10/2026, 19:40:40] Clara: I'll cook u homemade tiramisu this weekend and I'll be super strict in November okay?? don't give me the serious spreadsheet face!! 😘❤️
+[28/10/2026, 19:42:18] You: I'm not mad, I just want us to actually hit the goal instead of only talking about it.
+[28/10/2026, 19:43:30] Clara: we WILL hit it!! u know I love living with u so much! coming home in 20 mins, give me a giant hug when I walk in okay?? ❤️
+[28/10/2026, 19:44:45] You: alright, see you in 20 mins.
+[30/10/2026, 15:10:22] You: Hey, thinking about our November cooking nights — my friends Tom and Rachel want to come over for dinner and try your famous Basque burnt cheesecake! Which weekend day is usually best for you?
+[30/10/2026, 15:18:05] Clara: omg yesss I'd love to host them!!
+[30/10/2026, 15:19:12] Clara: Sundays I usually go for Pilates and brunch with my girlfriends or visit my mom in Shatin, and weekdays I'm too dead after work to bake properly.
+[30/10/2026, 15:20:05] Clara: I am usually free on Saturday afternoons and evenings though! Saturday is my favourite day to hit City'super together and spend all afternoon baking and cooking fusion dinners at home 🥐✨
+[30/10/2026, 15:21:30] You: Saturday evenings work great for them too! Let's invite them on Saturday 21 November, and maybe keep Saturday 5 December just for the two of us to try making fresh handmade pasta?
+[30/10/2026, 15:22:45] Clara: YESSS!! Saturday 21 Nov for Tom & Rachel, and Saturday 5 Dec for our romantic handmade pasta date night!! locked in!! ❤️🍝
+[30/10/2026, 15:23:40] You: Awesome! Let's keep the dinner party grocery budget reasonable okay?
+[30/10/2026, 15:24:30] Clara: haha yes Mr. Accountant, I promise!! 😂
+[01/11/2026, 11:30:14] Clara: morninggg sleepyhead! just finished Pilates, picking up sourdough bagels from that bakery in Causeway Bay for us!
+[01/11/2026, 11:36:40] You: ooh thank you!! I'll brew coffee at home while you're on your way back.
+[01/11/2026, 11:37:25] Clara: best Sunday team ever!! be home in 25 mins ☕✨
+[04/11/2026, 14:20:10] Clara: OMG BABE LOOK AT THIS!! just sent u a link!!
+[04/11/2026, 14:26:30] You: wait... is that a $12,800 Italian espresso machine?!
+[04/11/2026, 14:27:45] Clara: YES!! in cream white with wooden handles!! think about how much money we'll save by not buying $50 lattes every morning!! it's basically an investment!! ☕✨
+[04/11/2026, 14:29:15] You: Clara, we already have a perfectly good moka pot and Nespresso machine, and $12,800 is literally two months of our flat-upgrade savings!
+[04/11/2026, 14:30:40] Clara: ugh don't ruin my coffee shop dream!! 🥺 plus they have a 12-month interest-free instalment plan so it's only like $1,000 a month!!
+[04/11/2026, 14:32:10] You: $1,000 a month is still $12,800! Please tell me you haven't already put down a deposit without asking me?
+[04/11/2026, 14:34:05] Clara: haha of course not... okay I only asked the salesguy to hold the last cream one until Friday just in case!! 🙈
+[04/11/2026, 14:35:30] You: Clara, seriously, we need to talk properly tonight about our budget and whether we're actually planning to move into a bigger flat next year.
+[04/11/2026, 14:37:12] Clara: aww babe don't be stressed!! u work way too hard and worry too much! let's not do boring finance talk tonight, I'll order our favourite Thai food and we can watch that new Netflix dating show and cuddle okay?? luv u sooo much!! ❤️🥺
+[04/11/2026, 14:38:45] You: We can watch Netflix, sure, but we can't keep pushing the budget conversation off forever.
+[04/11/2026, 14:40:02] Clara: promise we'll talk about it on the weekend!! u're the sweetest, thank u for always keeping me grounded 😘
+[07/11/2026, 16:10:22] Clara: just got out of a long lunch with the girls! missed u!!
+[07/11/2026, 16:15:40] You: welcome back! did you tell the coffee shop guy to cancel the hold on the $12k machine?
+[07/11/2026, 16:17:05] Clara: yesss I let it go!! see?? I'm a super responsible adult!! 😂
+[07/11/2026, 16:18:20] You: haha proud of you! also since it's the weekend, want to sit down for 20 minutes tonight and actually plan our flat-move savings timeline?
+[07/11/2026, 16:20:45] Clara: ooh tonight might be tight because I wanted to test that pumpkin spice Basque cheesecake recipe before Tom and Rachel come over!! how about next week once work calms down?
+[07/11/2026, 16:22:12] You: Clara... you literally said we'd talk about it this weekend. It only takes 20 minutes.
+[07/11/2026, 16:24:00] Clara: haha okayyy stop being so serious, u're making me feel like I'm in a board meeting!! 😅 we've been together 4 years babe, of course we're moving to a bigger place eventually! why are u stressing about exact dates rn?
+[07/11/2026, 16:25:35] You: Because our current lease ends in 8 months and landlords need two months deposit plus moving costs. I just want to know we're actually on the same page, not just saying nice things.
+[07/11/2026, 16:27:20] Clara: we ARE 100% on the same page!! I literally can't imagine my life without u ❤️ let's bake together tonight and we'll look at the numbers tomorrow afternoon okay? I promise!! 🥺
+[07/11/2026, 16:28:40] You: Alright, tomorrow afternoon then.
+[11/11/2026, 12:30:18] Clara: happy 11.11 babe!! I was SO good today, only bought cute linen aprons and a mini matcha whisk!! ✨
+[11/11/2026, 12:36:05] You: haha nice! wait, did you ever transfer the rest of October's savings? We got distracted on Sunday when your cousin called.
+[11/11/2026, 12:38:22] Clara: omg my goldfish brain!! doing it this Friday when my commission bonus comes in I swear!! ❤️
+[11/11/2026, 12:40:00] You: Okay, let me know when it goes through.
+[11/11/2026, 12:41:15] Clara: will do!! btw u looked super handsome in that navy shirt this morning just saying 😉✨
+[11/11/2026, 12:42:30] You: haha flattery won't erase the spreadsheet, Clara!
+[11/11/2026, 12:43:15] Clara: worth a try lol 😂❤️
+[14/11/2026, 15:20:05] Clara: heyyy! just bought fresh figs, goat cheese, and rosemary for our dinner tonight!
+[14/11/2026, 15:25:30] You: sounds fancy! I'm grabbing chicken thighs and garlic bread on my way back.
+[14/11/2026, 15:26:45] Clara: dream team!! can't wait to cook with u!! 🥰
+[17/11/2026, 16:15:10] Clara: ugh babe I have super annoying news about early December :(
+[17/11/2026, 16:20:05] You: What happened? Everything okay?
+[17/11/2026, 16:21:30] Clara: my fashion director just scheduled a mandatory all-day Spring/Summer press preview and VIP showroom event in Macau on Saturday 5 December from 8am until 10pm 😭
+[17/11/2026, 16:22:18] Clara: I hate cancelling on a Saturday since I'm normally free Saturday afternoons and evenings for our cooking dates, so I have to cancel our Saturday 5 December handmade pasta night completely :(
+[17/11/2026, 16:24:05] You: Aww no worries at all! Work events in Macau sound exhausting, we can easily do handmade pasta the next Saturday, 12 December instead.
+[17/11/2026, 16:25:30] Clara: ugh u are literally the most understanding partner ever!! ❤️ Saturday 12 December it is, I'll bring back Portuguese egg tarts from Macau for u!! 🥐✨
+[17/11/2026, 16:26:45] You: Deal!
+[19/11/2026, 18:40:12] You: Hey, getting everything ready for Tom and Rachel this Saturday 21 Nov! Did you check if we have enough cream cheese for the Basque cheesecake?
+[19/11/2026, 18:46:30] Clara: yup!! bought 3 blocks already! gonna bake it Friday night so it sets overnight!
+[19/11/2026, 18:47:45] You: Awesome, I'll marinate the roast chicken and prep the veggies Saturday morning.
+[19/11/2026, 18:49:00] Clara: best host couple in HK!! miss u, heading home now!! ❤️
+[21/11/2026, 11:10:05] Clara: morninggg babe!! the cheesecake top caramelised SO PERFECTLY!! come look before I take 50 photos of it 😂✨
+[21/11/2026, 11:14:22] You: haha coming out of the shower in 5 mins, don't let me eat a slice before Tom and Rachel get here!
+[21/11/2026, 11:15:30] Clara: no promises!! luv u!! ❤️
+[22/11/2026, 10:30:18] Clara: morning babe!! just came back from pilates and I'm STARVING lol
+[22/11/2026, 10:38:40] You: haha grab something substantial! I'll brew coffee for when u get back home.
+[22/11/2026, 10:39:25] Clara: best boyfriend energy!! picking up those sourdough bagels again 🥐✨
+[22/11/2026, 10:40:30] You: sounds perfect!
+[23/11/2026, 14:20:12] Clara: omg babe I just had a CRAZY idea for the handmade pasta night on 12 Dec!!
+[23/11/2026, 14:28:30] You: what's the idea?
+[23/11/2026, 14:29:45] Clara: what if we make like 3 different shapes of homemade pasta AND do a pasta-making Instagram reel?? imagine how aesthetic that would look!! 🍝✨
+[23/11/2026, 14:31:12] You: Clara... we agreed no major budget additions this month, remember?
+[23/11/2026, 14:32:30] Clara: but babe it's not adding budget!! I'm just talking about making pasta with ingredients we probably already have! 🥺
+[23/11/2026, 14:34:00] You: Okay that's fair. But let's not go crazy with fancy equipment or ingredients, deal?
+[23/11/2026, 14:35:15] Clara: promise!! just flour, eggs, and love!! 🥰
+[24/11/2026, 11:15:08] You: Hey, did you remember to transfer your share into the flat-savings account this month?
+[24/11/2026, 16:35:22] Clara: oh!! I did!! finally remembered before payday passed!! check your bank 😊
+[24/11/2026, 16:36:45] You: Great! I saw it this morning actually. Really proud of you for staying on track.
+[24/11/2026, 16:38:12] Clara: thank you for keeping me accountable babe ❤️ I know I'm not always the best with numbers
+[24/11/2026, 16:39:30] You: You're doing better though, honestly. This is three months in a row now!
+[24/11/2026, 16:40:45] Clara: ikr!! finally feeling like we're actually getting closer to the dream flat!! 🏠✨
+[25/11/2026, 09:20:14] Clara: good morning sleepyhead!! how'd you sleep?
+[25/11/2026, 09:28:40] You: pretty well actually! you?
+[25/11/2026, 09:29:55] Clara: SO good!! been thinking about the pasta date night and I'm actually super excited!! it's gonna be so fun and romantic 🍝💕
+[25/11/2026, 09:31:12] You: I'm excited too! Should be a good night.
+[25/11/2026, 09:32:30] Clara: can we make sure the lighting is good for the reel tho?? like golden hour vibes??
+[25/11/2026, 09:33:45] You: haha yes we can figure out the lighting!
+[26/11/2026, 14:10:22] You: hey Clara, quick check-in — are Tom and Rachel still coming over on 21 Nov for the dinner party?
+[26/11/2026, 14:18:40] Clara: yesss!! they confirmed!! and they're both super excited to try my Basque cheesecake lol
+[26/11/2026, 14:19:55] You: amazing! I'll prep the main course in the morning then.
+[26/11/2026, 14:21:12] Clara: perfect!! and I'll bake the cheesecake Friday night so it's perfect for Saturday!! team effort!! 💪❤️
+[26/11/2026, 14:22:30] You: We're a good team.
+[27/11/2026, 11:35:08] Clara: omg babe I just spotted this ADORABLE ceramic serving platter at a home goods store and it's on sale!! only $650!!
+[27/11/2026, 11:42:30] You: Clara... we just talked about not adding extra expenses this month.
+[27/11/2026, 11:43:45] Clara: but it's literally perfect for serving the pasta on 12 Dec!! and it's on SALE so it's basically saving money!! 🥺✨
+[27/11/2026, 11:45:12] You: It is not saving money, it is spending $650 we did not plan for.
+[27/11/2026, 11:46:30] Clara: ugh fine fine I won't buy it!! but can I at least look at it in person one more time?? 😂
+[27/11/2026, 11:47:45] You: haha you're ridiculous sometimes!
+[27/11/2026, 11:48:30] Clara: but you love me anyway right?? 🥺❤️
+[27/11/2026, 11:49:15] You: unfortunately yes lol
+[28/11/2026, 09:30:14] Clara: good morning!! just finished meal prepping veggies for this week!
+[28/11/2026, 09:38:40] You: Look at you being productive!
+[28/11/2026, 09:39:55] Clara: I know right?? trying to be responsible like you!! 😂
+[28/11/2026, 09:41:12] You: I'm definitely rubbing off on you! haha
+[28/11/2026, 09:42:30] Clara: in the best way possible ❤️
+[29/11/2026, 14:15:08] You: Hey, should we start thinking about our Christmas plans? Any family stuff planned?
+[29/11/2026, 14:22:40] Clara: ooh good question!! probably gathering at my parents' place like always, but we have flexibility this year!
+[29/11/2026, 14:23:55] You: Sounds good. We can coordinate with my family too.
+[29/11/2026, 14:25:12] Clara: ikr?? no pressure since your parents are so chill about timing!! 🥰
+[29/11/2026, 14:26:30] You: True. We'll figure it out together.
+[30/11/2026, 11:10:05] Clara: okay so for the 21 Nov dinner party, should we do red or white wine with the main course??
+[30/11/2026, 11:18:30] You: What are you making exactly?
+[30/11/2026, 11:19:45] Clara: herb-roasted chicken with this gorgeous balsamic reduction I've been wanting to try!!
+[30/11/2026, 11:21:12] You: Then I'd say a medium-bodied red would work well. Something like a Pinot Noir?
+[30/11/2026, 11:22:30] Clara: ohhh good call!! and not too expensive so it won't blow the budget!! ❤️
+[30/11/2026, 11:23:45] You: See? we can do nice things AND stick to the plan!
+[30/11/2026, 11:24:30] Clara: you're such a good influence on me babe 😘✨
+[01/12/2026, 10:20:08] You: Hope you're having a good Monday, babe!
+[01/12/2026, 10:28:30] Clara: Morning! Just got to work, the showroom is already crazy with December orders
+[01/12/2026, 10:31:12] You: Busy is good, keeps your mind off shopping temptations haha
+[01/12/2026, 10:33:50] Clara: haha fair point! though I did see the most beautiful emerald green cashmere sweater and I am STRUGGLING
+[01/12/2026, 10:35:12] You: Clara... how much is the sweater?
+[01/12/2026, 10:36:30] Clara: okay DON'T be mad but it's $1,850 HKD
+[01/12/2026, 10:37:45] You: That's literally our entire flat fund for one month!
+[01/12/2026, 10:39:00] Clara: I KNOW I KNOW I didn't buy it!! just window shopping with my eyes 😂
+[01/12/2026, 10:40:15] You: Good girl! Save that energy for the handmade pasta night on 12 Dec instead
+[01/12/2026, 10:41:30] Clara: ohhh yes the romantic pasta date!! I'm already so excited about that honestly
+[02/12/2026, 14:15:30] You: By the way, should we plan a special menu for Saturday 12 December?
+[02/12/2026, 14:22:40] Clara: YES!! what about fresh pappardelle with wild mushroom ragù and a simple sage butter sauce?
+[02/12/2026, 14:25:18] You: That sounds absolutely perfect! And we can keep it budget-friendly too
+[02/12/2026, 14:28:05] Clara: exactly!! I already scouted the best prices for organic pasta flour and fresh mushrooms at three different markets haha
+[02/12/2026, 14:29:20] You: Look at you being financially responsible!
+[02/12/2026, 14:30:40] Clara: I'm turning into you!! next I'll be using coupons at the supermarket 😂
+[03/12/2026, 09:30:14] You: Morning! How is Tuesday treating you?
+[03/12/2026, 09:38:40] Clara: pretty good actually! just finished a buyer meeting about Spring collection strategy
+[03/12/2026, 09:41:12] You: Nice! You're crushing it at work lately
+[03/12/2026, 09:43:50] Clara: thank you babe ❤️ I'm trying to be more focused
+[04/12/2026, 10:15:30] You: Morning! Ready for Wednesday?
+[04/12/2026, 10:28:30] Clara: almost! just two more days til Saturday and the pasta date night!! 🍝
+[04/12/2026, 10:31:12] You: I'm excited too! I'll prep the kitchen tomorrow after work
+[04/12/2026, 10:33:50] Clara: perfect!! we're gonna make such an aesthetic reel for IG too
+[05/12/2026, 11:35:08] You: Morning babe! One more day til our pasta date night!
+[05/12/2026, 14:22:40] Clara: I AM SO READY!! just made a Pinterest board of pasta-making inspiration and lighting setups haha
+[05/12/2026, 14:23:55] You: Of course you did! But remember, we're doing this for US, not Instagram 💕
+[05/12/2026, 14:25:12] Clara: you're right, but beautiful lighting is universal haha!! see you tonight babe!! 🍝✨

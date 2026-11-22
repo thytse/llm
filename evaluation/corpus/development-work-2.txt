@@ -1,240 +1,192 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_3_1: I am studying economics. I enjoy board games.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_3_1: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_3_1: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_3_1: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_3_1: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_3_1: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_3_1: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_3_1: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_3_1: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_3_1: Thanks, I will check and get back to you.
+[21/10/2026, 09:18:12] You: morning Elaine! survived the Monday backlog?
+[21/10/2026, 09:22:40] Elaine: barely lol my inbox had 60+ emails from the ad agency
+[21/10/2026, 09:23:15] You: ouch, Marketing never sleeps huh
+[21/10/2026, 09:24:02] Elaine: tell me about it. Q4 campaign launch is eating my soul
+[21/10/2026, 09:24:48] You: coffee run at 10:30?
+[21/10/2026, 09:25:30] Elaine: skipping Starbucks tbh, trying to be super frugal rn. I'll just grab pantry coffee
+[21/10/2026, 09:26:12] You: haha fair! saving up for the big day?
+[21/10/2026, 09:27:05] Elaine: yesss my wedding is only 3 months away in Jan/Feb and every vendor quote is insane
+[21/10/2026, 09:27:50] You: omg 3 months goes by so fast!! how's the prep going?
+[21/10/2026, 09:28:35] Elaine: chaotic lol between the banquet deposit and our flat mortgage I feel broke 24/7
+[21/10/2026, 09:29:10] You: hang in there! let's chat at the pantry in 10 mins
+[21/10/2026, 09:29:44] Elaine: deal!
+[22/10/2026, 17:45:10] You: leaving on time today?
+[22/10/2026, 17:48:22] Elaine: yup heading straight to Wan Chai for a 6:45pm class
+[22/10/2026, 17:49:05] You: oh nice! still doing hot yoga?
+[22/10/2026, 17:50:11] Elaine: yes!! I honestly love hot yoga after work, it's the best way to de-stress and slim down for my wedding dress
+[22/10/2026, 17:51:03] You: u already look super fit tho lol
+[22/10/2026, 17:51:49] Elaine: ty!! I just want my arms more toned for the strapless gown
+[22/10/2026, 17:52:30] Elaine: was thinking about adding swimming for cardio too since people say swimming burns loads of calories, but hot yoga is still my main thing
+[22/10/2026, 17:53:18] You: hot yoga definitely makes u sweat buckets. enjoy the class!
+[22/10/2026, 17:54:02] Elaine: thx! talk tomorrow
+[24/10/2026, 11:30:15] Elaine: hey random q, do u know any decent affordable tailors in TST?
+[24/10/2026, 11:38:40] You: hmm my brother used one near Haiphong Road last year, let me find the contact
+[24/10/2026, 11:39:22] Elaine: omg lifesaver ty!! my fiancé needs alterations for his groomsmen suits
+[24/10/2026, 11:40:10] You: np! how's the weekend going?
+[24/10/2026, 11:41:05] Elaine: just staying in and meal prepping for the week lol
+[24/10/2026, 11:41:48] You: wow so disciplined
+[24/10/2026, 11:42:30] Elaine: no choice haha paying the mortgage every month plus wedding bills means zero fancy brunches for us
+[24/10/2026, 11:43:15] You: respect! once the wedding is over u can splurge again
+[24/10/2026, 11:44:02] Elaine: fingers crossed lol
+[24/10/2026, 11:45:10] You: just sent u the tailor's WhatsApp number via email
+[24/10/2026, 11:46:00] Elaine: got it, thx a ton!
+[26/10/2026, 14:10:05] Elaine: hey can u take a quick look at slide 7 of the Q4 Marketing deck when u have a sec?
+[26/10/2026, 14:12:33] You: sure, send me the link
+[26/10/2026, 14:13:10] Elaine: just shared it on Teams. want to make sure our promo numbers match ur team's forecast
+[26/10/2026, 14:21:45] You: checked! the conversion rate on the bottom chart should be 4.2% not 4.8%
+[26/10/2026, 14:22:30] Elaine: ah good catch!! fixing it asap before my director sees it
+[26/10/2026, 14:23:12] You: np, happy to help
+[26/10/2026, 14:24:00] Elaine: owe u a lunchbox treat next week lol
+[26/10/2026, 14:24:45] You: haha deal
+[26/10/2026, 18:15:20] Elaine: director approved the deck!! thx again
+[26/10/2026, 18:18:05] You: woohoo! go home and rest
+[26/10/2026, 18:18:40] Elaine: omw to the MTR rn
+[28/10/2026, 12:15:11] You: wru? wanna grab lunch at the food court?
+[28/10/2026, 12:17:40] Elaine: brought chicken breast and broccoli from home today :( u go ahead!
+[28/10/2026, 12:18:22] You: ugh ur willpower is scary. I'm getting cart noodles
+[28/10/2026, 12:19:05] Elaine: don't tempt me!! haha btw u mentioned wanting to try my hot yoga studio right?
+[28/10/2026, 12:20:10] You: yeah! I really need to start working out again. which weekday works best for u?
+[28/10/2026, 12:21:02] Elaine: Mon and Tue I usually have late agency calls, and Thu I cook dinner with my fiancé
+[28/10/2026, 12:21:48] Elaine: I'm usually free on Wednesday evenings after 6:30pm though! My fiancé plays basketball every Wed so I always have Wed nights to myself
+[28/10/2026, 12:22:35] You: oh nice! let's make Wednesday evenings our hot yoga + casual healthy dinner slot
+[28/10/2026, 12:23:18] Elaine: love that!! the Wan Chai studio has a $120 trial pass if u want to join
+[28/10/2026, 12:24:05] You: $120 is super reasonable, I'm in!
+[28/10/2026, 12:24:50] Elaine: yayyy finally a workout buddy
+[30/10/2026, 15:40:22] Elaine: is the office AC set to Antarctica today or is it just me
+[30/10/2026, 15:42:10] You: fr I'm wearing a hoodie at my desk
+[30/10/2026, 15:43:01] Elaine: same, my hands are literally freezing
+[30/10/2026, 15:43:45] You: any fun plans for the weekend?
+[30/10/2026, 15:44:30] Elaine: viewing 2 florists tomorrow and then cleaning the flat on Sun. very glamorous lol
+[30/10/2026, 15:45:12] You: adulting at its finest haha
+[30/10/2026, 15:46:00] Elaine: ikr. how about u?
+[30/10/2026, 15:46:45] You: catching up on sleep and maybe hiking with friends on Sun
+[30/10/2026, 15:47:20] Elaine: nice! enjoy the cool weather
+[02/11/2026, 10:05:18] You: morning! how did the florist hunt go?
+[02/11/2026, 10:12:44] Elaine: don't even get me started lol one place quoted $28k just for backdrop flowers
+[02/11/2026, 10:13:25] You: $28k for flowers that die in 1 night?! wild
+[02/11/2026, 10:14:10] Elaine: right?! we went with a smaller IG florist instead, half the price and way prettier
+[02/11/2026, 10:15:02] You: smart move! gotta save where u can
+[02/11/2026, 10:15:48] Elaine: fr. every dollar counts right now with the mortgage rates
+[02/11/2026, 10:16:30] You: true, HK living costs are no joke
+[02/11/2026, 16:50:12] Elaine: btw did IT reset the shared drive password? I can't log in
+[02/11/2026, 16:52:05] You: yeah they sent an email at 2pm, check ur junk folder
+[02/11/2026, 16:53:10] Elaine: found it!! ty!
+[02/11/2026, 16:53:40] You: np
+[04/11/2026, 18:10:05] Elaine: leaving the office in 5 mins, meet u at the Wan Chai yoga studio?
+[04/11/2026, 18:12:30] You: yep already on the tram!
+[04/11/2026, 18:13:05] Elaine: nice see u in 15 mins
+[04/11/2026, 20:55:14] You: ok I can barely feel my legs lol how do u do that every week
+[04/11/2026, 20:58:30] Elaine: hahaha told u hot yoga is no joke!! u did great for a first timer tho
+[04/11/2026, 20:59:15] You: and that $65 soba place after was actually really good
+[04/11/2026, 21:00:02] Elaine: right?? healthy, filling, and doesn't break the bank
+[04/11/2026, 21:00:48] You: definitely going back there next time
+[04/11/2026, 21:01:30] Elaine: drink lots of water tonight or u'll be super sore tomorrow!
+[04/11/2026, 21:02:05] You: noted, goodnight!
+[06/11/2026, 11:20:33] You: update: my abs hurt when I laugh lol
+[06/11/2026, 11:24:15] Elaine: haha means it's working!!
+[06/11/2026, 11:25:02] You: btw let's plan ahead — are we still good for hot yoga + soba on Wed 25 Nov?
+[06/11/2026, 11:26:18] Elaine: should be fine! I'm usually free Wednesday evenings anyway so I'll put it in my calendar
+[06/11/2026, 11:27:05] You: awesome, I'll buy the 5-class pack so it's cheaper per session
+[06/11/2026, 11:27:50] Elaine: smart! way better value
+[06/11/2026, 15:10:40] Elaine: omg my team's video shoot just got rained out
+[06/11/2026, 15:13:12] You: oh no!! outdoor shoot in Central?
+[06/11/2026, 15:14:00] Elaine: yeah at the waterfront, now we have to reschedule the whole crew for next week smh
+[06/11/2026, 15:14:45] You: ugh that's annoying. hope the forecast clears up
+[06/11/2026, 15:15:30] Elaine: thanks, gonna be a busy Monday
+[09/11/2026, 13:05:22] You: how's the rescheduled shoot going?
+[09/11/2026, 13:18:45] Elaine: finally wrapped!! lighting was way better today
+[09/11/2026, 13:19:30] You: nice! grab a proper lunch now
+[09/11/2026, 13:20:12] Elaine: eating a sandwich at my desk lol got 3 meetings back to back
+[09/11/2026, 13:21:00] You: classic Monday. don't burn out!
+[09/11/2026, 13:21:40] Elaine: trying not to haha
+[11/11/2026, 14:30:10] You: did u buy anything for 11.11 sales?
+[11/11/2026, 14:35:22] Elaine: literally just laundry detergent and wedding favour boxes lol
+[11/11/2026, 14:36:05] You: haha peak responsible bride energy
+[11/11/2026, 14:36:50] Elaine: I closed the shopping apps before I got tempted by skincare
+[11/11/2026, 14:37:30] You: teach me ur self-control pls
+[11/11/2026, 14:38:15] Elaine: just look at a mortgage statement, works instantly 😂
+[12/11/2026, 11:15:08] You: hey are we still on for quick coffee + window shopping after work tomorrow (Fri)?
+[12/11/2026, 16:42:19] Elaine: hey sorry just saw this. can we push it to Sunday afternoon instead?
+[12/11/2026, 16:45:30] You: oh sure! everything ok?
+[12/11/2026, 17:08:12] Elaine: yeah just drowning in Q4 campaign sign-offs and seating chart drama with the in-laws, super drained
+[12/11/2026, 17:09:05] You: totally get it, no stress at all! Sun afternoon works great for me
+[12/11/2026, 17:10:40] Elaine: thanks for understanding. let's do 3pm Sun in Wan Chai?
+[12/11/2026, 17:11:15] You: sounds good, hang in there!
+[15/11/2026, 14:48:10] Elaine: just got off the MTR, walking over now
+[15/11/2026, 14:50:22] You: np I grabbed us a table by the window
+[15/11/2026, 14:51:05] Elaine: be there in 3 mins!
+[15/11/2026, 18:35:40] You: home now! thx for catching up today, always fun chatting with u
+[15/11/2026, 18:40:12] Elaine: same!! sorry I was super brief on Thu, my brain was completely fried from work and table seating
+[15/11/2026, 18:41:05] You: all good!! glad u managed to sort out the family tables
+[15/11/2026, 18:41:50] Elaine: mostly sorted haha and thx for helping me pick the bridesmaid ribbon colours
+[15/11/2026, 18:42:30] You: anytime! sage green is gonna look so classy
+[15/11/2026, 18:43:10] Elaine: ikr! see u tomorrow at work
+[17/11/2026, 15:20:05] Elaine: hey bad news about next week :(
+[17/11/2026, 15:22:18] You: oh no what happened?
+[17/11/2026, 15:23:04] Elaine: the bridal tailor and banquet hotel just confirmed my final gown fitting and menu tasting for Wednesday 25 November evening
+[17/11/2026, 15:23:48] Elaine: it was the only slot both my fiancé and our parents could make, so I have to cancel our Wed 25 Nov hot yoga and dinner :( so sorry!
+[17/11/2026, 15:24:35] You: aww no worries at all!! wedding prep definitely comes first
+[17/11/2026, 15:25:18] Elaine: ugh I hate cancelling on Wed since I'm normally free then. can we reschedule to the Wed after?
+[17/11/2026, 15:26:05] You: 100%! I haven't booked the 25th class slot yet anyway
+[17/11/2026, 15:26:48] Elaine: phew ty!! I'll let u know how the dress fitting goes
+[17/11/2026, 15:27:30] You: yes send pics!!
+[17/11/2026, 15:28:05] Elaine: will do!
+[18/11/2026, 10:40:12] You: hey do u have the updated company logo PNG? my deck has the old one
+[18/11/2026, 10:43:20] Elaine: yup just emailed u the Marketing brand kit folder
+[18/11/2026, 10:44:05] You: lifesaver, ty!!
+[18/11/2026, 10:44:38] Elaine: np!
+[18/11/2026, 16:15:10] Elaine: btw do u know if the pantry microwave is fixed yet?
+[18/11/2026, 16:17:45] You: nope still has the out of order sign, use the 15/F one
+[18/11/2026, 16:18:20] Elaine: ugh ok thanks for the heads up
+[19/11/2026, 12:30:15] Elaine: quick update: my fiancé tried on his altered suit last night and it fits perfectly!
+[19/11/2026, 12:34:02] You: yay!! glad that TST tailor worked out
+[19/11/2026, 12:34:48] Elaine: and it was half the price of Central tailors. huge win
+[19/11/2026, 12:35:30] You: u are officially the queen of wedding budgeting
+[19/11/2026, 12:36:12] Elaine: haha trying my best! also down 2kg since starting regular hot yoga
+[19/11/2026, 12:37:00] You: omg congrats!! all that chicken breast paid off
+[19/11/2026, 12:37:42] Elaine: fr lol still dreaming about dim sum tho
+[19/11/2026, 18:10:05] You: heading out soon?
+[19/11/2026, 18:13:20] Elaine: yeah packing up in 10 mins, going home to cook steam egg and veggies
+[19/11/2026, 18:14:05] You: nice, have a good evening!
+[19/11/2026, 18:14:35] Elaine: u too!
+[20/11/2026, 09:55:12] Elaine: TGIF!! finally made it to Friday
+[20/11/2026, 09:58:40] You: fr this week dragged on forever
+[20/11/2026, 09:59:22] Elaine: any weekend plans?
+[20/11/2026, 10:00:10] You: probably just resting and catching a movie tomorrow night
+[20/11/2026, 10:00:55] Elaine: sounds so chill. I'm doing a morning yoga class tomorrow then picking up our wedding invites from the printer
+[20/11/2026, 10:01:40] You: exciting!! save one for me lol
+[20/11/2026, 10:02:15] Elaine: of course!! u're already on the colleague table list
+[20/11/2026, 10:03:00] You: can't wait! have a great weekend
+[20/11/2026, 10:03:35] Elaine: u too!!
+[21/11/2026, 11:15:30] Elaine: morning! just finished my yoga class, muscles are burning haha
+[21/11/2026, 11:22:40] You: nice!! how are you feeling about the wedding now?
+[21/11/2026, 11:24:05] Elaine: honestly so much better! down another 1kg this week and my dress fits like a dream now. dress fitting on 25 Nov is going to be perfect
+[21/11/2026, 11:25:12] You: that's amazing! you've put in the work for sure
+[21/11/2026, 11:26:00] Elaine: thank you! my fiancé finally stopped stressing about the guest list too so that's one thing off my plate
+[21/11/2026, 11:27:15] You: huge win! enjoy your weekend rest
+[21/11/2026, 11:28:00] Elaine: will do! let's grab coffee next week when things calm down at the office
+[21/11/2026, 11:28:45] You: for sure!
+[22/11/2026, 09:30:14] You: morning! how's the week looking?
+[22/11/2026, 09:45:22] Elaine: not too bad actually! vendor final checks and a quick marketing deck revision, nothing crazy
+[22/11/2026, 09:46:10] You: that's refreshing! you deserve a quieter week
+[22/11/2026, 09:47:05] Elaine: totally! btw my fiancé's mom is picking up the cake from the baker on Wednesday, one less thing for me to coordinate
+[22/11/2026, 09:48:30] You: that's such a relief! family helping out is the best
+[22/11/2026, 09:49:15] Elaine: ikr? she's actually been super helpful with all the last-minute stuff
+[23/11/2026, 14:20:15] Elaine: hey quick question — do we still have the old PowerPoint template from Q3?
+[23/11/2026, 14:22:40] You: should be on the shared drive under archived decks
+[23/11/2026, 14:23:25] Elaine: found it, thanks! you're a lifesaver
+[23/11/2026, 16:15:30] You: how's the pressure level this week?
+[23/11/2026, 16:35:12] Elaine: getting manageable! honestly just trying to ride out this week without any curve balls
+[23/11/2026, 16:36:00] You: fingers crossed for smooth sailing!
+[23/11/2026, 16:37:18] Elaine: definitely need smooth sailing right now haha
+[25/11/2026, 09:15:08] Elaine: just getting ready for my final dress fitting!! feeling nervous and excited at the same time lol
+[25/11/2026, 09:22:30] You: you're going to look stunning!! text me after with updates please!
+[25/11/2026, 09:23:45] Elaine: will do!! also the banquet menu tasting is at 7pm tonight, so it's gonna be a long day but productive
+[25/11/2026, 09:24:30] You: at least both are today and you get it done! go conquer your day!!
+[25/11/2026, 23:35:45] Elaine: home!! both fittings went perfectly. dress fits like it was made for me! 😊
+[25/11/2026, 23:38:12] You: OMG that's amazing!! so excited for you!
+[25/11/2026, 23:39:00] Elaine: menu tasting was good too, went with the premium option for the main course. everything is locked in now!
+[25/11/2026, 23:40:15] You: you must feel so relieved having everything finalized!
+[25/11/2026, 23:41:30] Elaine: honestly I do. now I can actually relax and enjoy the last few weeks before the big day 🥰
+[25/11/2026, 23:42:45] You: well deserved! get some rest
+[25/11/2026, 23:43:20] Elaine: goodnight!!

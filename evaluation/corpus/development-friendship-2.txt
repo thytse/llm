@@ -1,240 +1,185 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_0_1: I am studying economics. I enjoy indie films.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_0_1: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_0_1: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_0_1: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_0_1: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_0_1: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_0_1: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_0_1: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_0_1: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_0_1: Thanks, I will check and get back to you.
+[23/10/2026, 10:12:30] Chloe: Hiii! Hope your week has been super good!!
+[23/10/2026, 10:18:45] You: Hey Chloe! Pretty busy at work, finally almost Friday. How about you?
+[23/10/2026, 10:20:12] Chloe: Sameee, agency life in Causeway Bay is crazy right now! My digital marketing team just launched three client campaigns back to back haha
+[23/10/2026, 10:21:30] You: Ouch, sounds intense! Any fun plans this weekend to recover?
+[23/10/2026, 10:22:48] Chloe: Yesss! Saturday brunch with my uni friends, a ceramic workshop in the afternoon, and Sunday morning I am doing a quick hike at High Junk Peak!
+[23/10/2026, 10:23:35] You: Wow your weekends are always packed!
+[23/10/2026, 10:24:18] Chloe: Haha I get FOMO if I stay home! Plus I just bought two rolls of Kodak Portra 400 for my film camera, can't wait to shoot some golden hour views!
+[23/10/2026, 10:25:05] You: Nice! You really love taking your film camera on trails.
+[23/10/2026, 10:26:12] Chloe: Oh totally!! I love hiking easy scenic routes where you can catch sunrise or sunset, snap nice photos, and then find a cute cafe afterwards! Way better than those scary steep climbs haha
+[23/10/2026, 10:27:00] You: Haha I agree, good coffee after a hike is essential.
+[23/10/2026, 10:27:45] Chloe: Right?! We definitely need to do another group hike soon! So glad we met in that HK hiking group last year!
+[23/10/2026, 10:28:30] You: Same! Let me know next time you organise one.
+[23/10/2026, 10:29:10] Chloe: Will do!! Have an amazing weekend!!
+[25/10/2026, 17:40:22] Chloe: Omg just got back from Sai Kung!! The sky was literally pink today!!
+[25/10/2026, 17:48:05] You: Awesome! Did you finish a whole roll of film?
+[25/10/2026, 17:49:18] Chloe: Almost!! Haha slight fail though — I totally forgot to pack a hat and my sunscreen, so my nose is a tiny bit red now oops
+[25/10/2026, 17:50:10] You: Classic! Did you find a good cafe in Sai Kung after?
+[25/10/2026, 17:51:02] Chloe: Yesss we went to Little Cove for espresso and sourdough! Worth every step honestly!
+[25/10/2026, 17:51:55] You: Oh I love that place, great way to end a Sunday.
+[25/10/2026, 17:52:40] Chloe: Totally!! Anyway off to shower, catch up soon!!
+[28/10/2026, 13:15:10] You: Hey Chloe, random question — do you remember the name of that film lab in Sham Shui Po you recommended last time?
+[28/10/2026, 13:24:33] Chloe: Hiii! Omg let me think... I always mix up the two on Ki Lung Street haha
+[28/10/2026, 13:26:05] Chloe: Oh! It's ShowA! They scan super fast and the colours come out really dreamy!
+[28/10/2026, 13:27:12] You: Awesome, thanks! My friend wanted to develop some travel rolls.
+[28/10/2026, 13:28:00] Chloe: Anytime!! Tell them to check their opening hours first though, I went on a Monday once and they were closed lol
+[28/10/2026, 13:28:45] You: Haha good tip, thanks!
+[30/10/2026, 16:05:18] Chloe: Heyyy! Quick question — are you free to join a hike sometime in late November or early December?
+[30/10/2026, 16:14:22] You: Hey! Yeah I should be free on weekends. Which day usually works best for you?
+[30/10/2026, 16:16:05] Chloe: Saturdays are always crazy for me with friend brunches, birthdays, and events haha
+[30/10/2026, 16:17:10] Chloe: I am usually free on Sunday mornings and afternoons for hiking! I almost always keep Sundays open for outdoor stuff and cafe hopping!
+[30/10/2026, 16:18:02] You: Sundays work great for me too! Where are you thinking of going?
+[30/10/2026, 16:19:15] Chloe: SUNSET PEAK (Tai Tung Shan)!! It is silvergrass season and all the IG photos look like a Japanese movie right now!!
+[30/10/2026, 16:20:08] You: Oh nice! Sunset Peak is gorgeous in autumn, though it gets super crowded on weekends.
+[30/10/2026, 16:21:00] Chloe: Trueee, that's why it'll be super fun if we make a little group! Could you maybe invite one or two of your friends too? The more the merrier!!
+[30/10/2026, 16:21:48] You: Sure, I can ask around once we pick a date.
+[30/10/2026, 16:22:30] Chloe: Yayyy!! Let's tentatively look at Sunday 6 December!
+[30/10/2026, 16:23:12] You: Sounds good, I will keep Sunday 6 December in mind!
+[02/11/2026, 12:30:40] Chloe: Omg I just got my Sai Kung film scans back!! Sending you the cafe latte art one later, the lighting was unreal!
+[02/11/2026, 12:38:15] You: Nice! Can't wait to see them. How is Monday treating you?
+[02/11/2026, 12:39:22] Chloe: Surviving on iced oat matcha haha. Client pitch at 3pm wish me luck!!
+[02/11/2026, 12:40:05] You: Good luck, you got this!
+[02/11/2026, 12:40:48] Chloe: Thank youuu!!
+[05/11/2026, 19:20:11] Chloe: Heyyy! I have been saving SO many Sunset Peak photo inspo posts on IG all week!!
+[05/11/2026, 19:26:30] You: Haha excited already?
+[05/11/2026, 19:27:15] Chloe: YES!! Look at those golden silvergrass fields and the little stone huts!! We are going to get the cutest shots!
+[05/11/2026, 19:28:02] You: Definitely! Just make sure we plan the timing well because sunset is around 5:40pm in late autumn.
+[05/11/2026, 19:29:10] Chloe: Oh totally! I was thinking we can meet at Tung Chung MTR at 2:30pm, take the bus up to Pak Kung Au, hike up for sunset, and then walk down to Mui Wo for that cute seaside cafe!
+[05/11/2026, 19:30:45] You: Wait, 2:30pm at Tung Chung might be a bit tight? On Sundays the queue for Bus 3M/11 at Tung Chung can take 40 minutes, and the climb up to the huts is steep — usually takes 1.5 to 2 hours with photo stops.
+[05/11/2026, 19:32:12] Chloe: Oh really?? Haha oops I saw a blog say it's only a 1 hour walk! Maybe they walked super fast lol
+[05/11/2026, 19:33:05] You: Yeah, and walking down to Mui Wo after sunset means doing a long rocky descent in pitch darkness. Most cafes in Mui Wo also close around 6pm or 7pm.
+[05/11/2026, 19:34:22] Chloe: Ahhh good catch!! Thank goodness you know the logistics haha I am so bad with bus timetables!
+[05/11/2026, 19:35:10] Chloe: What if we meet at 1:00pm instead? Or is that still too rushed?
+[05/11/2026, 19:36:05] You: 12:30pm or 1:00pm is much safer! And maybe we can go back down to Pak Kung Au or bring proper headlamps if we stay for actual sunset.
+[05/11/2026, 19:37:18] Chloe: Ooooh okay!! Haha I don't even own a headlamp lol maybe we just leave right before it gets dark then!
+[05/11/2026, 19:38:02] You: That works too, golden hour is around 4:30pm anyway so the light is still great!
+[05/11/2026, 19:38:50] Chloe: Yayy perfect!! You're the best!!
+[08/11/2026, 14:10:05] Chloe: Hiii! How's your Sunday? I just went to a super cute bakery in Tai Hang!
+[08/11/2026, 14:25:18] You: Hey! Just chilling at home catching up on sleep. Which bakery?
+[08/11/2026, 14:26:30] Chloe: Plumcot! Their pistachio croissant is 10/10, you have to try it sometime!
+[08/11/2026, 14:27:15] You: Oh I have heard great things about that place!
+[08/11/2026, 14:28:02] Chloe: So good! Anyway, did you get a chance to ask your friends about Sunset Peak yet?
+[08/11/2026, 14:29:10] You: Asked one friend, he is checking his schedule. Who else is coming from your side?
+[08/11/2026, 14:30:22] Chloe: Two of my friends from work, Mandy and Rachel! They are super friendly and also obsessed with film photography!
+[08/11/2026, 14:31:05] You: Nice, sounds like a fun group!
+[08/11/2026, 14:31:48] Chloe: Yay!! Can't wait!!
+[11/11/2026, 15:40:12] You: Hey Chloe, did you buy anything for 11.11?
+[11/11/2026, 15:48:33] Chloe: Haha don't ask!! Bought a cream knit cardigan specifically for our Sunset Peak photos and two cute tote bags lol
+[11/11/2026, 15:49:20] You: Haha already planning the hiking outfit! Just bring a windproof layer too, it gets super windy up on the ridge.
+[11/11/2026, 15:50:15] Chloe: Omg yes good reminder!! I always forget how cold mountain wind is!
+[11/11/2026, 15:51:00] You: Better safe than freezing up there!
+[11/11/2026, 15:51:40] Chloe: Truth!!
+[14/11/2026, 11:20:05] Chloe: Heyyy! Quick check-in about Sunset Peak! Mandy just told me she has a family dinner at 7:30pm in Kowloon, so she asked if we could still squeeze in a quick coffee in Mui Wo at 5pm!
+[14/11/2026, 11:32:18] You: Hmm, if Mandy needs to be in Kowloon by 7:30pm, going down to Mui Wo and taking the ferry to Central is actually going to be pretty tight unless we start hiking way earlier, like 10:30am.
+[14/11/2026, 11:35:40] Chloe: Ohhh haha really? I thought the fast ferry from Mui Wo is only like 30 minutes!
+[14/11/2026, 11:37:02] You: Fast ferry is 35 minutes, but they only run every 40 to 60 minutes, plus the walk down from Sunset Peak to Mui Wo takes at least 1.5 hours.
+[14/11/2026, 11:41:15] Chloe: Haha omg you really are a walking Google Maps!! Okay no worries at all, we can totally figure it out!
+[14/11/2026, 11:42:30] You: Maybe we just skip the Mui Wo cafe this time and grab coffee in Tung Chung before or after? That way nobody has to rush.
+[14/11/2026, 11:46:08] Chloe: Haha fair point!! Let me check with Mandy and Rachel though, they were really excited about the seaside cafe vibe! No pressure at all if it's too rushed for you though :)
+[14/11/2026, 11:47:20] You: It is not too rushed for me, I just don't want Mandy to miss her family dinner or us to get stuck in the dark!
+[14/11/2026, 11:49:05] Chloe: Totally get it!! Thanks for looking out for us!! Let's play it by ear once we confirm the final headcount :)
+[14/11/2026, 11:50:12] You: Sure, just let me know what they say.
+[16/11/2026, 18:10:22] Chloe: Heyyy omg I have a tiny bit of bad news about our date :(
+[16/11/2026, 18:16:05] You: Oh? What happened?
+[16/11/2026, 18:17:12] Chloe: My best friend from secondary school just locked in her bridal shower for Sunday 6 December afternoon, and I am one of her bridesmaids so I have to help set up!
+[16/11/2026, 18:18:05] Chloe: So sorry!! I know I am usually free on Sundays for hiking, so I totally have to cancel Sunday 6 December!
+[16/11/2026, 18:19:10] You: Aww no worries at all! Congrats to your friend, bridal shower definitely comes first!
+[16/11/2026, 18:20:02] Chloe: Thank you for being so chill about it!! Could we move Sunset Peak to Sunday 13 December instead? The silvergrass should still be super pretty then!
+[16/11/2026, 18:21:15] You: Sunday 13 December works for me!
+[16/11/2026, 18:22:00] Chloe: Yayyy!! Let me double check with Mandy and Rachel!
+[18/11/2026, 14:05:19] You: Hey Chloe, any word from Mandy and Rachel about Sunday 13 December? Also did you decide whether to start earlier or skip Mui Wo?
+[18/11/2026, 14:32:44] Chloe: Hiii! Sorry just ran out of a client meeting! Yes they are both in for 13 Dec!!
+[18/11/2026, 14:33:30] Chloe: Oh and good news — Mandy doesn't have a dinner on 13 Dec so we don't have to rush as much! We were thinking maybe 1:30pm at Tung Chung, and then see how we feel about Mui Wo?
+[18/11/2026, 14:35:12] You: Nice! Just a tiny heads up though, 1:30pm at Tung Chung still means we probably won't reach the peak until 4pm if the bus queue is long. If we want to get down before dark without headlamps, 12:00pm or 12:30pm is way more relaxed.
+[18/11/2026, 14:48:20] Chloe: Haha okayy!! I hear you! Rachel is just not a morning person at all so she was hoping not to wake up super early on a Sunday lol
+[18/11/2026, 14:49:10] Chloe: Maybe let's meet in the middle at 1:00pm? And if it gets late we can just take the bus back from Pak Kung Au instead of Mui Wo!
+[18/11/2026, 14:50:45] You: 1:00pm with the Pak Kung Au backup plan sounds super reasonable!
+[18/11/2026, 14:52:02] Chloe: Awesome!! Problem solved!! Haha thanks for keeping us organised, I would probably get lost on the bus route otherwise!
+[18/11/2026, 14:53:10] You: Haha happy to help!
+[19/11/2026, 17:15:30] Chloe: Omg random question — do you think a mini backpack is enough for Sunset Peak or should I bring a bigger one?
+[19/11/2026, 17:20:12] You: As long as it fits at least 1.5L of water, a windbreaker, and your film camera, you are good!
+[19/11/2026, 17:21:05] Chloe: Ooh okay I'll bring my canvas daypack then! Also bringing snacks for everyone!
+[19/11/2026, 17:21:50] You: Sounds great!
+[20/11/2026, 11:05:14] Chloe: TGIF!! Any exciting plans this weekend?
+[20/11/2026, 11:12:40] You: Honestly just resting and maybe grabbing coffee with a friend. How about you?
+[20/11/2026, 11:13:22] Chloe: Checking out a new vintage market in PMQ tomorrow and then dinner in Soho!
+[20/11/2026, 11:14:05] You: Classic Chloe weekend! Have fun!
+[20/11/2026, 11:14:48] Chloe: Haha thank youuu!! Have a super chill weekend and we'll confirm the 13 Dec group chat closer to the date!!
+[20/11/2026, 11:15:30] You: Sounds good, talk soon!
+[21/11/2026, 09:30:15] Chloe: Morning!! just woke up after such a good sleep haha
+[21/11/2026, 09:38:40] You: Nice! Getting a proper rest day?
+[21/11/2026, 09:40:12] Chloe: Yesss! Brunch plans fell through so I'm actually staying home and organizing my film camera collection lol
+[21/11/2026, 09:41:30] You: That's very unlike you to stay home on a weekend!
+[21/11/2026, 09:42:15] Chloe: I know right?? But honestly my room is chaos and I have like 50 rolls of undeveloped film just lying around 😅
+[21/11/2026, 09:43:45] You: That sounds like a Chloe problem for sure haha
+[21/11/2026, 09:44:30] Chloe: No judgment!! anyway I'm still so excited about Sunset Peak on 13 Dec with you guys!!
+[21/11/2026, 09:45:15] You: Same! The silvergrass should be even more silver-y by mid-December
+[21/11/2026, 09:46:00] Chloe: Ugh I cannot wait to get those sunset shots!! already planning my outfit lol
+[22/11/2026, 14:15:22] Chloe: Heyyy quick update — Mandy and Rachel both confirmed they're still in for 13 Dec!!
+[22/11/2026, 14:22:40] You: Awesome! That's the full squad confirmed!
+[22/11/2026, 14:24:05] Chloe: Yayyy!! I'm already saving IG posts for outfit inspo haha
+[22/11/2026, 14:25:30] You: Of course you are! Just make sure you bring actual hiking gear underneath the cute outfit
+[22/11/2026, 14:26:45] Chloe: Haha yes I will I promise!! good shoes and socks included!
+[23/11/2026, 11:10:08] You: Hey, random question — have you ever done any night photography or only daytime hikes?
+[23/11/2026, 11:18:30] Chloe: Ooh good question! I tried some long exposure night shots in Sai Kung once but my hands were shaking so much it was blurry haha
+[23/11/2026, 11:19:45] You: Tripod would help with that!
+[23/11/2026, 11:20:30] Chloe: Right?? I actually just ordered a compact travel tripod online! Should arrive before 13 Dec so I can test it out!
+[23/11/2026, 11:21:15] You: Perfect timing!
+[24/11/2026, 16:35:22] Chloe: Heyyy!! so I picked up my latest rolls from ShowA and the Sai Kung sunset photos came out SO dreamy!!
+[24/11/2026, 16:42:40] You: That's amazing! You'll have to show me!
+[24/11/2026, 16:43:25] Chloe: Will do!! there's one specific latte art shot that's literally museum quality lol
+[24/11/2026, 16:44:10] You: I believe you! Your eye for composition is seriously good.
+[24/11/2026, 16:45:00] Chloe: Aww thank you!! that means so much coming from you!! 🥺
+[25/11/2026, 10:20:15] You: Hey Chloe, random question — is 1pm still good for 13 Dec? Or do you want to do 12:30pm to have more sunset time?
+[25/11/2026, 10:28:40] Chloe: Hmm good point!! let me ask the girls real quick!
+[25/11/2026, 10:45:12] Chloe: Ok so Rachel really wants to do 12:30pm so she can make a 7pm dinner reservation in Central! That okay with you?
+[25/11/2026, 10:46:30] You: 12:30pm works, though we'll still need to be careful about timing for the descent before dark.
+[25/11/2026, 10:47:45] Chloe: Yeah totally! we can just take the bus back down if we're running out of light! You're the best at managing all the logistics for us!! 😂
+[25/11/2026, 10:48:30] You: Haha happy to help keep the squad organized!
+[26/11/2026, 09:55:30] Chloe: Morning!! just had the most amazing dim sum at a new place in Causeway Bay!
+[26/11/2026, 10:05:15] You: Ooh! Which place?
+[26/11/2026, 10:06:00] Chloe: Dim Sum Masters in Times Square! Their siu mai is unreal and I already took about 20 photos haha
+[26/11/2026, 10:07:30] You: Classic Chloe, food photography is an art!
+[26/11/2026, 10:08:15] Chloe: Right?? anyway heading to PMQ vintage market now, catch you later!!
+[26/11/2026, 10:09:00] You: Have fun!!
+[27/11/2026, 14:20:22] You: Hey Chloe! So 13 Dec is 12:30pm at Tung Chung MTR, right?
+[27/11/2026, 14:28:40] Chloe: Yesss!! 12:30pm Tung Chung, and I'll bring snacks and my new tripod to test out!!
+[27/11/2026, 14:29:25] You: Perfect! Just double-check everyone has proper hiking shoes because those trails get rocky.
+[27/11/2026, 14:30:45] Chloe: Will do!! I'll send a quick message to Mandy and Rachel reminding them!
+[27/11/2026, 14:31:30] You: Thanks Chloe!
+[28/11/2026, 16:10:08] Chloe: Heyyy quick random question — have you ever tried those disposable film cameras? I saw them at a retro photo store and they're so cute!!
+[28/11/2026, 16:18:30] You: I haven't but I've heard the image quality is actually pretty unpredictable!
+[28/11/2026, 16:19:45] Chloe: Ohhh that makes sense. I want that vintage vibe but maybe I should stick with my reliable Pentax then haha
+[28/11/2026, 16:20:30] You: Probably smart! You already have such a good setup.
+[28/11/2026, 16:21:15] Chloe: True!! okay I'm just gonna bring my camera and tripod to Sunset Peak and have fun with it!
+[29/11/2026, 11:35:12] Chloe: Omg I just realized our hike is in like 2 weeks!! time is flying so fast!!
+[29/11/2026, 11:42:40] You: I know!! December is going to be here before we know it!
+[29/11/2026, 11:43:25] Chloe: Excited and nervous at the same time haha! What if the silvergrass looks different than the IG photos??
+[29/11/2026, 11:44:30] You: It probably will look a bit different, but that's what makes real photography better than Instagram anyway!
+[29/11/2026, 11:45:15] Chloe: Aww that's such a sweet way to think about it!! okay I'm pumped now!! 🌾✨
+[01/12/2026, 10:30:22] You: Morning!! One week until Sunset Peak! How are you feeling now?
+[01/12/2026, 10:38:45] Chloe: sooo ready!! just finished packing my backpack and bought some really good hiking snacks!
+[01/12/2026, 10:40:12] You: What kind of snacks?
+[01/12/2026, 10:41:30] Chloe: mixed nuts, dried mango, and those little energy balls! figured we need fuel for all the photo stops haha
+[01/12/2026, 10:42:45] You: Perfect combo! I'll bring electrolyte drinks too.
+[01/12/2026, 10:44:00] Chloe: yayyy we're gonna crush this hike!!
+[02/12/2026, 15:20:14] Chloe: btw did Mandy and Rachel confirm they're bringing proper hiking boots?
+[02/12/2026, 15:28:40] You: Mandy just texted she has merrell hiking shoes, Rachel is bringing her Salomon trail runners
+[02/12/2026, 15:30:05] Chloe: good!! I was worried they'd show up in sneakers lol
+[02/12/2026, 15:31:20] You: Not on our watch!
+[03/12/2026, 11:15:08] You: Hey! Checking in — final logistics for Sunday 13 Dec. We're meeting at Tung Chung MTR at 1:00pm sharp, right?
+[03/12/2026, 11:22:40] Chloe: yes!! 1:00pm Tung Chung!! I already have my alarm set haha
+[03/12/2026, 11:24:15] You: Haha good! And we're doing the 1:30pm bus from Tung Chung to Pak Kung Au?
+[03/12/2026, 11:25:30] Chloe: yesss that's the plan! Mandy and Rachel are meeting us there too
+[03/12/2026, 11:26:45] You: Awesome! Weather looks clear for Sunday, should be perfect golden hour light!
+[03/12/2026, 11:28:00] Chloe: omg yes!! I literally checked the weather forecast 5 times already 😂
+[04/12/2026, 09:30:14] Chloe: Morning!! just realized we're literally 9 days away now!!
+[04/12/2026, 09:38:40] You: I know! Getting excited?
+[04/12/2026, 09:40:12] Chloe: beyond excited!! also slightly nervous about whether my new tripod will work properly in the wind lol
+[04/12/2026, 09:41:30] You: You'll figure it out! Worst case we just hand-hold the shots
+[04/12/2026, 09:42:45] Chloe: true!! okay I'm overthinking this. it's gonna be perfect!!
+[05/12/2026, 14:20:22] You: Final weekend check-in! Feeling good about the hike tomorrow?
+[05/12/2026, 14:28:40] Chloe: 100%!! my hiking outfit is laid out, camera is charged, tripod is ready, snacks are packed!!
+[05/12/2026, 14:30:05] You: You're more prepared than I am honestly haha
+[05/12/2026, 14:31:20] Chloe: gotta be when you care about getting those silvergrass shots!! see you at 1pm tomorrow!! 🌾✨
+[05/12/2026, 14:32:45] You: See you then! Get some good sleep tonight!

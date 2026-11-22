@@ -1,240 +1,200 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_3_2: I am studying economics. I enjoy swimming.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_3_2: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_3_2: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_3_2: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_3_2: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_3_2: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_3_2: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_3_2: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_3_2: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_3_2: Thanks, I will check and get back to you.
+[21/10/2026, 10:05:14] You: hey Leslie, quick question — did Legal finish reviewing the vendor NDA?
+[21/10/2026, 10:11:32] Leslie: morning! yeah I'm doing the final redlines rn, will email it to u before lunch
+[21/10/2026, 10:12:08] You: awesome ty!! no huge rush, just before 3pm is fine
+[21/10/2026, 10:12:45] Leslie: np, should be in ur inbox by 12
+[21/10/2026, 12:08:19] Leslie: sent! flagged 2 liability clauses for ur team to check
+[21/10/2026, 12:10:05] You: got it, u're always so fast. appreciate it!
+[21/10/2026, 12:11:12] Leslie: haha perks of Legal life. btw grabbing lunch near Taikoo Place?
+[21/10/2026, 12:12:00] You: yeah thinking of getting Thai, wanna join?
+[21/10/2026, 12:12:45] Leslie: sure! meet at the ground floor lobby in 5 mins?
+[21/10/2026, 12:13:10] You: omw!
+[22/10/2026, 18:15:40] You: still at ur desk or heading out?
+[22/10/2026, 18:18:22] Leslie: just packed up! heading to Victoria Park pool for a 1 hr session
+[22/10/2026, 18:19:05] You: wait u swim after work? no wonder u stay in such good shape lol
+[22/10/2026, 18:20:11] Leslie: haha old habit! I used to be on the university swim team back in the day, still love swimming to clear my head
+[22/10/2026, 18:21:00] You: respect!! I can barely do 10 laps without dying
+[22/10/2026, 18:21:45] Leslie: u should join sometime, way easier on the joints than running
+[22/10/2026, 18:22:30] You: might actually take u up on that. enjoy ur swim!
+[22/10/2026, 18:23:05] Leslie: thx! catch u tomorrow
+[24/10/2026, 14:10:22] You: hey random question — was that ur girlfriend I saw near the HR floor yesterday?
+[24/10/2026, 14:18:05] Leslie: hahaha yeah sharp eyes! she actually just joined our company in HR last month
+[24/10/2026, 14:18:50] You: omg small world!! congrats to her!
+[24/10/2026, 14:19:33] Leslie: ty! we've been together about 1.5 yrs now so it's kinda funny commuting to the same building
+[24/10/2026, 14:20:15] You: nice, at least u get to see each other more often now?
+[24/10/2026, 14:21:10] Leslie: barely tbh lol she's super social and always has dinners, birthday parties, or catch-ups with different friend groups after work
+[24/10/2026, 14:22:02] You: haha sounds like she has a packed calendar
+[24/10/2026, 14:22:45] Leslie: fr! plus she has a 7-year-old daughter so her weekends are pretty busy too. we grab lunch together when we can tho
+[24/10/2026, 14:23:30] You: ah gotcha, sounds like u guys have a chill balance
+[24/10/2026, 14:24:12] Leslie: yeah we make it work! how's ur Saturday going?
+[24/10/2026, 14:25:00] You: just laundry and Netflix lol super lazy
+[24/10/2026, 14:25:40] Leslie: nothing wrong with a recharge day
+[27/10/2026, 11:05:18] Leslie: hey can u send over the signed copy of that consulting agreement when it's ready?
+[27/10/2026, 11:08:40] You: waiting on my VP's signature, should have it by 4pm
+[27/10/2026, 11:09:15] Leslie: np! no panic
+[27/10/2026, 15:42:10] You: just uploaded the signed PDF to the Legal folder
+[27/10/2026, 15:44:22] Leslie: got it, thx!
+[27/10/2026, 15:45:05] You: btw u still down to swim together sometime? I finally dug out my goggles
+[27/10/2026, 15:46:12] Leslie: 100%! let's do it. which days are u free after work?
+[27/10/2026, 15:47:00] You: pretty flexible except Mondays. what about u?
+[27/10/2026, 15:47:48] Leslie: Mon and Tue I'm usually stuck reviewing cross-border contracts, and Thu I try to have dinner with my girlfriend
+[27/10/2026, 15:48:35] Leslie: I'm usually free on Wednesday evenings after 6:30pm though! Almost never have late calls on Wednesdays and she usually meets her uni friends then
+[27/10/2026, 15:49:20] You: perfect!! let's make Wednesday evenings our swimming slot at Victoria Park or Morrison Hill
+[27/10/2026, 15:50:05] Leslie: Victoria Park is super convenient for me. let's go next Wed!
+[27/10/2026, 15:50:40] You: deal!
+[29/10/2026, 13:15:10] Leslie: wru? grabbing coffee?
+[29/10/2026, 13:17:22] You: just finished lunch, heading to Pacific Coffee in 5 mins
+[29/10/2026, 13:18:05] Leslie: cool I'll meet u there, need caffeine asap
+[29/10/2026, 13:18:40] You: rough morning?
+[29/10/2026, 13:19:15] Leslie: 3 hrs of compliance audit calls lol
+[29/10/2026, 13:19:50] You: yikes, see u in 5
+[31/10/2026, 16:20:05] You: happy Halloween! doing anything tonight?
+[31/10/2026, 16:28:14] Leslie: helping my girlfriend's daughter with her costume and taking her trick-or-treating around their estate haha
+[31/10/2026, 16:29:02] You: aw that's actually super sweet! what's she dressing up as?
+[31/10/2026, 16:29:45] Leslie: Elsa from Frozen, classic choice. what about u?
+[31/10/2026, 16:30:30] You: avoiding Lan Kwai Fong like the plague lol just dinner with friends in Wan Chai
+[31/10/2026, 16:31:12] Leslie: smart move haha LKF is way too packed. have fun!
+[02/11/2026, 10:30:11] You: morning! how was trick-or-treating?
+[02/11/2026, 10:35:40] Leslie: exhausting but fun lol she got like 2kg of candy
+[02/11/2026, 10:36:22] You: haha hope she doesn't eat it all at once
+[02/11/2026, 10:37:05] Leslie: her mom already confiscated half of it
+[02/11/2026, 10:37:50] You: classic mom move 😂
+[04/11/2026, 18:05:12] Leslie: still good for swimming at 6:45pm?
+[04/11/2026, 18:07:30] You: yup! leaving office now
+[04/11/2026, 18:08:05] Leslie: nice, see u outside Victoria Park pool entrance
+[04/11/2026, 20:40:18] You: ok u definitely weren't kidding about being on the swim team lol u lapped me like 4 times
+[04/11/2026, 20:43:50] Leslie: hahaha muscle memory! u kept a solid pace tho, just watch ur breathing on freestyle
+[04/11/2026, 20:44:35] You: thx coach! and that beef brisket noodle shop in Tin Hau hit the spot after
+[04/11/2026, 20:45:12] Leslie: right?? best post-swim meal in Causeway Bay/Tin Hau
+[04/11/2026, 20:46:00] You: definitely doing that again. get some rest!
+[04/11/2026, 20:46:35] Leslie: u too!
+[06/11/2026, 11:45:22] You: hey planning my month out — are we still good for swimming + noodles on Wed 25 Nov?
+[06/11/2026, 11:49:10] Leslie: should be totally fine! I'm usually free Wed evenings anyway so let's lock it in
+[06/11/2026, 11:50:02] You: awesome, I'll practice my breathing before then lol
+[06/11/2026, 11:50:45] Leslie: haha looking forward to it
+[06/11/2026, 16:12:30] Leslie: btw is the 22/F conference room booked all afternoon?
+[06/11/2026, 16:14:15] You: yeah Finance has a townhall til 5pm, try room 22B
+[06/11/2026, 16:15:00] Leslie: ty!!
+[09/11/2026, 14:20:05] You: hey quick Legal question — do we need a fresh addendum if a client just extends the term by 3 months?
+[09/11/2026, 14:25:40] Leslie: yeah a simple 1-page extension letter is enough. I'll send u the template
+[09/11/2026, 14:26:22] You: u're a lifesaver, ty!
+[09/11/2026, 14:27:05] Leslie: np! just emailed it over
+[09/11/2026, 14:27:45] You: received!
+[11/11/2026, 12:40:18] Leslie: saw u walking past HR earlier, everything ok?
+[11/11/2026, 12:43:05] You: haha yeah just dropping off my medical claim receipts
+[11/11/2026, 12:43:48] Leslie: oh nice, thought u were recruiting for ur team
+[11/11/2026, 12:44:30] You: wish we had headcount lol
+[11/11/2026, 12:45:10] Leslie: same in Legal tbh, we're swamped
+[12/11/2026, 11:10:05] You: hey u free for a quick Friday after-work drink tomorrow?
+[12/11/2026, 16:55:42] Leslie: hey soz just saw this. actually can we move it to Sunday afternoon coffee instead?
+[12/11/2026, 16:58:15] You: oh sure! all good?
+[12/11/2026, 17:22:30] Leslie: yeah just buried in an urgent M&A contract review til late tomorrow, plus helping my girlfriend prep some stuff for her daughter's weekend activity
+[12/11/2026, 17:23:18] You: totally understand, no worries at all! Sun afternoon works for me
+[12/11/2026, 17:25:05] Leslie: thx man. let's do 2:30pm Sun in Causeway Bay?
+[12/11/2026, 17:25:40] You: sounds good, good luck with the contract!
+[15/11/2026, 14:22:10] Leslie: just parked near Lee Gardens, walking to the cafe now
+[15/11/2026, 14:24:05] You: np I'm already inside near the back
+[15/11/2026, 14:24:40] Leslie: see u in 2 mins
+[15/11/2026, 17:45:22] You: thx for the coffee earlier! good catching up
+[15/11/2026, 17:50:10] Leslie: same! sorry I was super slow and brief on Thu, that M&A deal was a nightmare
+[15/11/2026, 17:51:02] You: all good, Legal deadlines are brutal. glad u got it signed off!
+[15/11/2026, 17:51:45] Leslie: yeah huge relief. see u tomorrow at the office
+[17/11/2026, 13:30:12] Leslie: hey man bad news about next Wednesday
+[17/11/2026, 13:33:05] You: uh oh what's up?
+[17/11/2026, 13:34:10] Leslie: my girlfriend's daughter's school just scheduled Parents' Day on Wednesday 25 November evening
+[17/11/2026, 13:34:55] Leslie: she asked me to go with her to meet the teachers, so I have to cancel our Wed 25 Nov swimming session :( really sorry!
+[17/11/2026, 13:35:40] You: oh nice, that's a big step!! no worries at all, definitely go to Parents' Day
+[17/11/2026, 13:36:22] Leslie: haha yeah kinda nervous tbh, first time going to a school event with them
+[17/11/2026, 13:37:10] You: u'll do great! we can just swim the following Wednesday instead
+[17/11/2026, 13:37:55] Leslie: deal! hate cancelling on Wed since I'm normally free, noodles are on me next time
+[17/11/2026, 13:38:30] You: holding u to that lol
+[18/11/2026, 11:05:19] You: hey did u see the typhoon signal news? looks like it's just gonna be rain
+[18/11/2026, 11:10:02] Leslie: yeah no T8 sadly, back to the grind
+[18/11/2026, 11:10:45] You: haha we can dream
+[18/11/2026, 11:11:20] Leslie: fr. bring an umbrella tho, looks heavy around 6pm
+[18/11/2026, 11:12:00] You: good call, thx!
+[19/11/2026, 15:20:33] Leslie: hey random question — do u know a good bakery in Causeway Bay for birthday cakes?
+[19/11/2026, 15:23:10] You: Lady M or that Japanese patisserie in Sogo basement?
+[19/11/2026, 15:24:02] Leslie: oh Sogo basement is a great shout! my girlfriend has another friend's birthday dinner tomorrow and forgot to order
+[19/11/2026, 15:24:48] You: haha classic, she really does have a birthday party every week
+[19/11/2026, 15:25:30] Leslie: tells u how popular she is lol thx for the rec!
+[19/11/2026, 15:26:05] You: np!
+[20/11/2026, 10:15:18] Leslie: TGIF!! finally Friday
+[20/11/2026, 10:18:40] You: fr! any plans for the weekend?
+[20/11/2026, 10:19:22] Leslie: morning swim tomorrow, then taking my girlfriend and her daughter to Ocean Park on Sun
+[20/11/2026, 10:20:10] You: oh fun!! weather should be cool enough for it
+[20/11/2026, 10:20:55] Leslie: yeah fingers crossed no rain. what about u?
+[20/11/2026, 10:21:40] You: just catching up with some uni friends for hotpot
+[20/11/2026, 10:22:15] Leslie: solid plan, enjoy the weekend!
+[20/11/2026, 10:22:45] You: u too man!!
+[21/11/2026, 09:30:14] Leslie: morning! just came back from my Saturday swim session, muscles are sore in a good way lol
+[21/11/2026, 09:38:40] You: nice! how is the Ocean Park plan looking?
+[21/11/2026, 09:40:12] Leslie: super excited! her daughter has never been to Ocean Park, so it's gonna be fun seeing everything through her eyes
+[21/11/2026, 09:41:30] You: that's really sweet of you to do that!
+[21/11/2026, 09:42:15] Leslie: honestly it's been great getting closer to her. we've been pretty solid these days
+[21/11/2026, 09:43:45] You: that's good to hear! enjoy Ocean Park!
+[21/11/2026, 09:44:30] Leslie: will do! talk tomorrow
+[22/11/2026, 10:20:08] Leslie: hey quick question — how was the hotpot yesterday?
+[22/11/2026, 10:28:30] You: amazing!! haven't seen my uni crew in like 2 months so it was good catching up
+[22/11/2026, 10:29:15] Leslie: nice!! Ocean Park was actually super packed but the weather was perfect
+[22/11/2026, 10:30:00] You: at least the weather cooperated!
+[22/11/2026, 10:31:20] Leslie: totally! her daughter's face on the roller coaster was priceless
+[23/11/2026, 14:15:22] You: hey, reminder that we're swimming again on Wed 2 Dec right?
+[23/11/2026, 14:22:40] Leslie: yup! 6:45pm at Victoria Park like always, right after work
+[23/11/2026, 14:23:25] You: perfect! and noodles after for sure
+[23/11/2026, 14:24:30] Leslie: haha you're setting yourself up for me to order something super expensive 😂
+[23/11/2026, 14:25:15] You: fair point, whatever you want is on me next time!
+[23/11/2026, 14:26:00] Leslie: now we're talking! see u Wed
+[24/11/2026, 11:10:30] You: hey Leslie, quick work question — do we need Legal to sign off on the Q4 vendor amendments?
+[24/11/2026, 16:35:12] Leslie: depends on the scope of changes. if they're material, yes. if they're just housekeeping, no. send me the redlines?
+[24/11/2026, 16:36:45] You: will do, checking with my VP first
+[24/11/2026, 16:38:12] Leslie: sounds good!
+[25/11/2026, 09:15:08] Leslie: morning! just leaving work early for Parents' Day at the school. wish me luck!! 😬
+[25/11/2026, 09:22:30] You: you've got this! let me know how it goes!
+[25/11/2026, 09:23:45] Leslie: will do! talk later
+[25/11/2026, 21:45:14] You: hey! how was Parents' Day?
+[25/11/2026, 22:12:30] Leslie: honestly went way better than I expected! the teachers were so welcoming and her daughter was super proud introducing me to everyone
+[25/11/2026, 22:14:02] You: aww that's so nice!! I'm glad it went well
+[25/11/2026, 22:15:30] Leslie: yeah I feel way more integrated into their life now, it's a good feeling
+[25/11/2026, 22:16:45] You: that's awesome man. you deserve happiness!
+[25/11/2026, 22:18:00] Leslie: thx for being supportive about all this
+[26/11/2026, 14:20:15] Leslie: hey so my girlfriend is planning a Thanksgiving-style dinner on Sunday 1 Dec and she's inviting a bunch of people. you should come!
+[26/11/2026, 14:28:40] You: oh cool! can I bring anything?
+[26/11/2026, 14:29:55] Leslie: if you want, just grab some wine or dessert, nothing crazy
+[26/11/2026, 14:31:12] You: I'm in! what time?
+[26/11/2026, 14:32:30] Leslie: around 6:30pm, we'll send you the address
+[27/11/2026, 11:35:08] You: hey Leslie, quick question — do we need to do a fresh compliance review on the new vendor contract, or can we just reference the existing template?
+[27/11/2026, 14:22:40] Leslie: template should be fine as long as terms are substantially similar. but send me the new one and I can do a quick scan
+[27/11/2026, 14:23:55] You: appreciate it! will get it to you by EOD
+[27/11/2026, 14:25:12] Leslie: no pressure
+[28/11/2026, 09:30:14] You: hey man, just want to confirm I'm still invited to the Thanksgiving dinner tomorrow?
+[28/11/2026, 11:48:20] Leslie: 100%! my girlfriend just texted saying to arrive around 6:15pm so you have time to settle in before everyone else gets there
+[28/11/2026, 11:49:45] You: awesome! should I bring anything else?
+[28/11/2026, 11:51:00] Leslie: just yourself! she's handling most of the cooking
+[28/11/2026, 11:52:15] You: sounds great, see you tomorrow!
+[29/11/2026, 21:40:12] You: home now! that dinner was seriously so good and your girlfriend is an amazing cook
+[29/11/2026, 21:48:30] Leslie: right?? she really outdid herself this year. and everyone had a great time, so glad you came!
+[29/11/2026, 21:50:05] You: her daughter kept asking me about swimming lol I think I have a new fan
+[29/11/2026, 21:51:30] Leslie: haha yeah she was so impressed! she asked if she could join our swimming sessions sometime
+[29/11/2026, 21:52:45] You: that would be fun! Victoria Park has a kids' lane
+[29/11/2026, 21:54:00] Leslie: I'll mention that to her mom. thanks again for coming!
+[30/11/2026, 10:15:22] Leslie: hey just confirming Wed 2 Dec swimming at Victoria Park? I think we shifted from the 25th right?
+[30/11/2026, 10:20:40] You: Yes! Wednesday 2 December is locked in. 7pm at Victoria Park!
+[30/11/2026, 10:23:15] Leslie: perfect!! so looking forward to it. it's been ages since we swam together
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well!
+[01/12/2026, 10:28:30] Leslie: Morning! Back to regular work. How about you?
+[01/12/2026, 10:31:12] You: Same here, just getting through the week. Ready for Wednesday swim?
+[01/12/2026, 10:33:50] Leslie: 100%! Already clearing my calendar for it!
+[02/12/2026, 14:15:30] You: By the way, how's the shoulder feeling? Ready for some proper swimming?
+[02/12/2026, 14:22:40] Leslie: Actually feeling quite good! Physical therapy has helped heaps!
+[02/12/2026, 14:25:18] You: That's amazing! Ready to get back in the pool?
+[02/12/2026, 14:28:05] Leslie: Absolutely! Can't wait for tonight!
+[03/12/2026, 09:30:14] You: Morning! How is Tuesday treating you?
+[03/12/2026, 09:38:40] Leslie: Good morning! Still glowing from yesterday's swim! That was perfect!
+[03/12/2026, 09:41:12] You: Same! You swam so well!
+[03/12/2026, 09:43:50] Leslie: Thanks for being so patient with me getting back into it!
+[04/12/2026, 10:15:30] You: Morning! How is Wednesday treating you?
+[04/12/2026, 10:28:30] Leslie: Pretty good! Just catching up on work emails. How about you?
+[04/12/2026, 10:31:12] You: Same! Just pushing through to the weekend!
+[04/12/2026, 10:33:50] Leslie: Almost there! ❤️
+[30/11/2026, 10:28:40] You: yeah that's right! 6:45pm on 2 Dec, and you promised expensive noodles haha
+[30/11/2026, 10:29:55] Leslie: haha you're not letting me forget that!! see u Wed!

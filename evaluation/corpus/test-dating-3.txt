@@ -1,240 +1,197 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_1_2: I am studying economics. I enjoy photography.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_1_2: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_1_2: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_1_2: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_1_2: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_1_2: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_1_2: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_1_2: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_1_2: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_1_2: Thanks, I will check and get back to you.
+[10/11/2026, 19:12:05] Leo: hey!! glad we matched, your film shots of Kyoto on your profile are insane 📸✨
+[10/11/2026, 19:16:30] You: haha thanks Leo! I liked your Sham Shui Po neon street photo too, what camera do you shoot on?
+[10/11/2026, 19:17:45] Leo: Olympus OM-1! mostly shoot Kodak Gold or Cinestill 800T when I'm wandering around old districts on weekends
+[10/11/2026, 19:18:30] Leo: honestly I love street photography and film cameras so much, way more fun than staring at CAD drawings all week at my architecture firm
+[10/11/2026, 19:19:40] You: oh you're an architect?
+[10/11/2026, 19:20:15] Leo: architectural design assistant! basically the guy who builds scale models and fixes floor plans til 8pm haha 😅
+[10/11/2026, 19:21:02] You: sounds super creative though! do you enjoy it?
+[10/11/2026, 19:21:50] Leo: I do when the clients don't ask for "modern minimalist but also Victorian palace" lol 😂
+[10/11/2026, 19:22:35] You: haha classic client brief! what lens do you pair with the OM-1?
+[10/11/2026, 19:23:18] Leo: Zuiko 50mm f/1.8 mostly, super light so I can toss it in my tote bag every day
+[10/11/2026, 19:24:05] You: nice! I've been shooting a little point-and-shoot lately because I'm too lazy to focus manually
+[10/11/2026, 19:24:52] Leo: hey no shame in point-and-shoots, half the fun is capturing candid moments before people notice!
+[10/11/2026, 19:25:40] You: true! especially in Hong Kong where everything moves so fast
+[10/11/2026, 19:26:22] Leo: 100%!! HK street scenes are undefeated. anyway what are u up to tonight?
+[10/11/2026, 19:27:10] You: just finished dinner and watching a show, recharging after work. you?
+[10/11/2026, 19:27:55] Leo: just got off the MTR in Kowloon, grabbing a milk tea and heading home to sketch a bit
+[10/11/2026, 19:28:40] You: iced milk tea at 7:30pm? brave choice!
+[10/11/2026, 19:29:20] Leo: caffeine doesn't even work on architecture kids anymore lol
+[10/11/2026, 19:30:05] You: haha fair enough!
+[11/11/2026, 12:40:15] Leo: happy 11.11!! did u buy anything fun or survive the sales?
+[11/11/2026, 12:46:22] You: barely survived, only bought some coffee beans and a phone case. you?
+[11/11/2026, 12:47:10] Leo: bought a 5-pack of Kodak UltraMax 400 and a new brass shutter button I definitely didn't need 😂
+[11/11/2026, 12:48:02] You: haha film prices these days hurt so much though
+[11/11/2026, 12:48:50] Leo: tell me about it!! every time I press the shutter I hear $4 disappearing from my bank account 💀
+[11/11/2026, 12:49:35] You: makes you think twice before taking a blurry photo of your lunch
+[11/11/2026, 12:50:18] Leo: exactly! phone for food, film for good light and cool people
+[11/11/2026, 12:51:05] You: solid rule to live by! how's work today?
+[11/11/2026, 12:51:50] Leo: surprisingly chill! my senior architect is on leave so nobody is hovering over my desk
+[11/11/2026, 12:52:30] You: best kind of Wednesday!
+[11/11/2026, 12:53:12] Leo: right?? might actually leave at 6:30pm today, feels illegal
+[11/11/2026, 21:15:30] Leo: random question — where do u usually get your film developed in HK?
+[11/11/2026, 21:20:45] You: usually Dot-Well in TST or ShowA in Sham Shui Po! you?
+[11/11/2026, 21:21:33] Leo: ShowA!! their scans have such nice warm tones, plus it gives me an excuse to get coffee on Tai Nan Street ☕
+[11/11/2026, 21:22:18] You: yes!! Sham Shui Po has the best cafe-to-camera-shop ratio
+[11/11/2026, 21:23:05] Leo: literally my favourite weekend playground! also love Tai Hang and Sheung Wan for golden hour
+[11/11/2026, 21:23:50] You: oh Tai Hang in autumn is so pretty with the old low-rise buildings
+[11/11/2026, 21:24:38] Leo: omg yes! u have such a good eye for neighbourhoods
+[11/11/2026, 21:25:15] You: haha years of wandering around with iced coffee
+[11/11/2026, 21:26:00] Leo: best hobby tbh!
+[12/11/2026, 13:05:22] Leo: random lunch break sighting: just saw a fat ginger cat sitting on top of a dried seafood barrel in Sheung Wan looking like a mafia boss, snapped a quick phone pic for u 🐱
+[12/11/2026, 13:11:40] You: haha omg he looks so grumpy!! 10/10 shopkeeper energy
+[12/11/2026, 13:12:15] Leo: right?? he didn't even blink when I walked right up to him 😂
+[12/11/2026, 13:13:02] Leo: anyway, since we both love Sham Shui Po and cameras — wanna grab coffee and do a quick photo walk this weekend?
+[12/11/2026, 13:14:18] You: yes I'd love that!! which day usually works best for you?
+[12/11/2026, 13:15:05] Leo: weekdays are kinda messy with studio critiques and overtime, and Sundays I usually have family dinner or catch up on sleep
+[12/11/2026, 13:15:52] Leo: I'm usually free on Saturday afternoons though! I almost always go out to Sham Shui Po or Tai Hang with my camera on Saturdays 📸
+[12/11/2026, 13:16:40] You: Saturday afternoons are great for me too! Let's do this Saturday 14 November in Sham Shui Po?
+[12/11/2026, 13:17:25] Leo: deal!! I know a super good pour-over coffee shop on Tai Nan Street, we can meet at 2:30pm?
+[12/11/2026, 13:18:10] You: 2:30pm works perfectly!
+[12/11/2026, 13:18:55] Leo: yayy can't wait!! bringing my OM-1 and a fresh roll of Gold 200 ✨
+[12/11/2026, 13:19:30] You: awesome, I'll bring my little film camera too!
+[12/11/2026, 22:30:14] Leo: just finished sketching a lobby layout and my wrist hurts lol
+[12/11/2026, 22:35:40] You: ouch, stop working and go stretch!
+[12/11/2026, 22:36:25] Leo: yes ma'am! putting the iPad away rn
+[12/11/2026, 22:37:10] You: good! sleep well Leo
+[12/11/2026, 22:37:48] Leo: night!!
+[13/11/2026, 17:45:10] Leo: TGIF!! finally survived the week 🎉
+[13/11/2026, 17:50:22] You: fr this week felt super long! ready for tomorrow?
+[13/11/2026, 17:51:08] Leo: 100%!! just checked the weather and it's supposed to be sunny and 22 degrees tomorrow, literally peak golden hour weather ☀️
+[13/11/2026, 17:51:55] You: yay no rain! should I wear comfortable walking shoes?
+[13/11/2026, 17:52:40] Leo: definitely! we might wander up towards Nam Shan Estate if the light is nice
+[13/11/2026, 17:53:22] You: ooh love the green playground vibes there!
+[13/11/2026, 17:54:05] Leo: right?? super photogenic. see u tomorrow at 2:30pm outside Sham Shui Po Exit A2?
+[13/11/2026, 17:54:48] You: deal! have a good Friday night!
+[13/11/2026, 17:55:20] Leo: u too!!
+[14/11/2026, 14:22:10] Leo: just got off the MTR at Sham Shui Po, wearing a dark green overshirt and carrying a canvas tote!
+[14/11/2026, 14:24:05] You: walking up the escalator at Exit A2 now, see you in 2 mins!
+[14/11/2026, 14:24:40] Leo: spotted u!! 👋
+[14/11/2026, 18:40:12] Leo: just got home! today was seriously so much fun, felt like we'd been friends for ages 😊
+[14/11/2026, 18:44:30] You: haha same! thanks for showing me that tiny coffee shop and taking those candid film shots of me by the old cinema sign
+[14/11/2026, 18:45:15] Leo: can't wait to see how they turn out!! the afternoon light hitting that yellow wall was unreal
+[14/11/2026, 18:46:02] You: fingers crossed I didn't blink in all of them lol
+[14/11/2026, 18:46:48] Leo: even if u did it'll look artsy 😂 dropping the roll off at ShowA tomorrow morning!
+[14/11/2026, 18:47:35] You: haha keep me posted! also thanks for buying the egg waffles
+[14/11/2026, 18:48:20] Leo: np!! crispy egg waffles after walking 10,000 steps is mandatory HK law
+[14/11/2026, 18:49:10] Leo: hey wanna lock in Saturday 28 November afternoon to go shoot sunset at West Kowloon Cultural District?
+[14/11/2026, 18:50:05] You: yesss Saturday 28 November sounds awesome!! the waterfront sunset there is gorgeous
+[14/11/2026, 18:50:50] Leo: sweet!! locked in! we can grab casual ramen or iced drinks by the lawn after
+[14/11/2026, 18:51:35] You: sounds like a plan! rest your feet tonight
+[14/11/2026, 18:52:10] Leo: u too!! talk tomorrow ✨
+[15/11/2026, 14:15:22] Leo: dropped the film roll off at the lab!! guy at the counter said scans should be ready in 2–3 days
+[15/11/2026, 14:22:05] You: yay!! I'm weirdly nervous to see how they look haha
+[15/11/2026, 14:23:10] Leo: trust the process!! they're gonna be great. what are u up to this Sunday?
+[15/11/2026, 14:24:02] You: just tidying my room and catching up on a podcast. you?
+[15/11/2026, 14:24:50] Leo: had dim sum with my parents earlier, now pretending I'm going to clean my desk before Monday
+[15/11/2026, 14:25:35] You: haha "pretending" is the key word
+[15/11/2026, 14:26:18] Leo: busted 😂 actually just reorganised my camera shelf instead
+[15/11/2026, 14:27:00] You: very productive procrastination!
+[15/11/2026, 14:27:40] Leo: always!
+[16/11/2026, 14:20:05] You: hey Leo! hope Monday isn't too brutal. any word from the film lab yet?
+[16/11/2026, 18:45:12] You: hope you're surviving the studio today!
+[16/11/2026, 22:48:19] Leo: hey!! omg so sorry I vanished all afternoon and evening!! 😭
+[16/11/2026, 22:49:05] Leo: my studio director suddenly had us building a 1:100 foam-board model for a client review tomorrow morning and my hands were literally covered in superglue and X-Acto blades for 7 hours lol
+[16/11/2026, 22:50:40] You: haha ouch!! I figured you were swamped, hope you didn't glue your fingers together!
+[16/11/2026, 22:51:30] Leo: only slightly 😂 still picking dried glue off my thumb on the bus home rn
+[16/11/2026, 22:52:15] Leo: oh and ShowA emailed saying our scans will be ready Wednesday afternoon!
+[16/11/2026, 22:53:02] You: yay can't wait!! go eat something warm and get some sleep!
+[16/11/2026, 22:53:48] Leo: grabbing instant noodles the second I walk in the door. thx for being so chill about the late reply 🙏
+[16/11/2026, 22:54:25] You: anytime! goodnight Leo
+[16/11/2026, 22:55:00] Leo: night!!
+[17/11/2026, 13:10:08] You: hey! did the client like the superglue model?
+[17/11/2026, 13:18:40] Leo: YES!! they barely asked for any changes, huge relief 😅
+[17/11/2026, 13:19:25] You: woohoo! worth the sticky thumbs then
+[17/11/2026, 13:20:10] Leo: definitely! celebrating with a giant iced lemon tea at lunch
+[17/11/2026, 13:20:55] You: well deserved!
+[17/11/2026, 21:30:12] Leo: random thought — have u ever photographed the night view from Braemar Hill or is it too crowded now?
+[17/11/2026, 21:36:40] You: went once last winter! super pretty sunset but definitely packed with tripods
+[17/11/2026, 21:37:25] Leo: haha yeah every IG photographer in HK camps there. West Kowloon lawn is way more chill
+[17/11/2026, 21:38:10] You: agreed! plus easier to grab food nearby
+[17/11/2026, 21:38:55] Leo: priority #1 is always snacks 😂
+[18/11/2026, 17:15:22] Leo: SCANS ARE BACK!! 🎉📸
+[18/11/2026, 17:16:05] Leo: sending u the Google Drive link rn, the one of u laughing with the iced coffee next to the vintage neon sign is honestly my favourite shot on the whole roll!!
+[18/11/2026, 17:20:10] You: omg I just opened the folder and I LOVE them!! you have such a good eye!
+[18/11/2026, 17:21:05] Leo: easy when the subject is super photogenic haha 😉
+[18/11/2026, 17:21:50] You: smooth!! seriously though the colours on Kodak Gold came out so warm
+[18/11/2026, 17:22:35] Leo: right?? zero editing needed! which one is your favourite?
+[18/11/2026, 17:23:20] You: the one by the old cinema sign and the one of the street corner shadows!
+[18/11/2026, 17:24:05] Leo: taste!! I might actually print a couple of 4R copies for u before we meet next time
+[18/11/2026, 17:24:50] You: aww that would be so sweet, thank you!!
+[18/11/2026, 17:25:30] Leo: np!! ✨
+[19/11/2026, 16:05:14] Leo: ugh hey I have annoying news about next Saturday :(
+[19/11/2026, 16:09:30] You: Saturday 28 November? what happened?
+[19/11/2026, 16:10:45] Leo: our firm just entered an urgent public housing architecture competition, and the final physical model submission is Monday morning, so the whole design team has to work all day Saturday 28 November 😭
+[19/11/2026, 16:11:30] Leo: I hate cancelling on a Saturday since I'm normally free Saturday afternoons, so I have to cancel our Saturday 28 November sunset photo walk :( really sorry!!
+[19/11/2026, 16:13:05] You: aww no worries at all! architecture competition deadlines sound brutal
+[19/11/2026, 16:14:12] Leo: thx for being so chill about it!! can we move West Kowloon sunset to Sunday 29 November afternoon instead? I'll skip my usual lazy morning to make it!
+[19/11/2026, 16:15:00] You: Sunday 29 November works great for me!
+[19/11/2026, 16:15:45] Leo: yesss!! bringing a fresh roll of Portra 400 and your 4R prints on Sunday 29 Nov! 📸✨
+[19/11/2026, 16:16:30] You: deal!! good luck with the competition prep!
+[19/11/2026, 16:17:05] Leo: thx, gonna need lots of coffee haha
+[20/11/2026, 13:20:18] Leo: quick lunch update: just accidentally spilled soy sauce on my white shirt before a 2pm meeting 💀
+[20/11/2026, 13:25:40] You: haha oh no!! grab a Uniqlo tee downstairs?
+[20/11/2026, 13:26:22] Leo: literally sprinting to Uniqlo rn 😂
+[20/11/2026, 13:27:05] You: godspeed!!
+[20/11/2026, 18:10:30] Leo: survived the meeting in a brand new $79 navy tee! any fun plans tonight?
+[20/11/2026, 18:16:12] You: nice save! just grabbing Thai dinner with a colleague tonight. you?
+[20/11/2026, 18:17:05] Leo: crashing early and maybe watching a movie, gotta recharge before competition week
+[20/11/2026, 18:17:50] You: smart move! enjoy your Friday night!
+[20/11/2026, 18:18:30] Leo: u too!!
+[21/11/2026, 11:30:10] Leo: morning!! just saw a guy casually walking a bright green parrot on his shoulder in Mong Kok, HK never disappoints 🦜😂
+[21/11/2026, 11:35:22] You: haha please tell me you got a photo of that!
+[21/11/2026, 11:36:10] Leo: snapped it on my phone, sending u now! the parrot looked way more awake than me
+[21/11/2026, 11:37:00] You: omg iconic!! have a great weekend Leo!
+[21/11/2026, 11:37:45] Leo: u too!! can't wait for next Sunday ✨
+[21/11/2026, 11:37:45] Leo: u too!! can't wait for next Sunday ✨
+[21/11/2026, 11:38:20] You: same here!!
+[22/11/2026, 11:30:15] Leo: hey! how is your Saturday going?
+[22/11/2026, 11:35:40] You: Pretty chill! Just doing laundry and catching up on errands. You?
+[22/11/2026, 11:38:12] Leo: same honestly, procrastinating on cleaning my desk before the work week haha
+[22/11/2026, 11:41:30] You: Classic! Are you all set for the architecture competition final push?
+[22/11/2026, 11:44:05] Leo: yeah we've been in crunch mode since Monday. hopefully wrapping Monday night and we can breathe after
+[23/11/2026, 14:20:18] You: Hey Leo, how is the competition model coming along?
+[23/11/2026, 14:28:40] Leo: honestly exhausted but on track. final details tomorrow then we're done
+[23/11/2026, 14:31:12] You: You can do it! Just one more day of pushing!
+[23/11/2026, 14:33:50] Leo: appreciate the motivation haha, definitely need it
+[24/11/2026, 10:15:30] You: Morning! Did the final submission go smoothly?
+[24/11/2026, 10:22:40] Leo: YES!! finally submitted the model this morning, the whole team is running on coffee and pure adrenaline lol
+[24/11/2026, 10:25:15] You: That's amazing!! You must be so relieved!
+[24/11/2026, 10:28:30] Leo: absolutely, our senior architect even let us leave early. first time in a week!
+[22/11/2026, 11:35:40] You: Pretty chill! Just doing laundry and catching up on errands. You?
+[22/11/2026, 11:38:12] Leo: same honestly, procrastinating on cleaning my desk before the work week haha
+[22/11/2026, 11:41:30] You: Classic! Are you all set for the architecture competition final push?
+[22/11/2026, 11:44:05] Leo: yeah we've been in crunch mode since Monday. hopefully wrapping Monday night and we can breathe after
+[23/11/2026, 14:20:18] You: Hey Leo, how is the competition model coming along?
+[23/11/2026, 14:28:40] Leo: honestly exhausted but on track. final details tomorrow then we're done
+[23/11/2026, 14:31:12] You: You can do it! Just one more day of pushing!
+[23/11/2026, 14:33:50] Leo: appreciate the motivation haha, definitely need it
+[24/11/2026, 10:15:30] You: Morning! Did the final submission go smoothly?
+[24/11/2026, 10:22:40] Leo: YES!! finally submitted the model this morning, the whole team is running on coffee and pure adrenaline lol
+[24/11/2026, 10:25:15] You: That's amazing!! You must be so relieved!
+[24/11/2026, 10:28:30] Leo: absolutely, our senior architect even let us leave early. first time in a week!
+[25/11/2026, 18:40:12] You: Coming home now! Hope you got proper rest after the crunch!
+[25/11/2026, 18:48:30] Leo: slept for 12 hours straight yesterday, feeling almost human again haha
+[25/11/2026, 18:51:15] You: Well deserved! Ready to rejoin the living?
+[25/11/2026, 18:54:40] Leo: mostly, still recovering from deadline mode honestly
+[26/11/2026, 11:20:08] You: Morning! How is your Monday treating you?
+[26/11/2026, 11:28:30] Leo: quiet actually! first Monday in weeks without that competition hanging over my head
+[26/11/2026, 11:31:12] You: Must feel weird after all that intensity!
+[26/11/2026, 11:33:50] Leo: yeah, good weird though. i'm actually thinking of planning another photo walk soon
+[27/11/2026, 14:15:30] You: Oh nice! Which weekend works for you?
+[27/11/2026, 14:22:40] Leo: probably early December? once i finish catching up on regular projects. maybe West Kowloon or somewhere new?
+[27/11/2026, 14:25:18] You: I'd love that! Let me know once you have a date in mind!
+[27/11/2026, 14:28:05] Leo: will do! thanks for being patient with me during the crunch
+[28/11/2026, 09:30:14] You: Morning! How is your Monday treating you?
+[28/11/2026, 09:38:40] Leo: steady! back to regular studio critiques and project presentations
+[28/11/2026, 09:41:12] You: That's good for normalcy! Any interesting projects coming up?
+[28/11/2026, 09:43:50] Leo: actually yeah, a residential renovation in Tai Hang which should be fun to design
+[29/11/2026, 10:20:08] You: Hey Leo! Hope you're having a good week!
+[29/11/2026, 10:28:30] Leo: pretty good actually! the Tai Hang project is turning out really creative
+[29/11/2026, 10:31:12] You: That's awesome! I love seeing your design process unfold!
+[29/11/2026, 10:33:50] Leo: haha thanks! definitely enjoy having someone to talk through ideas with
+[30/11/2026, 11:15:22] You: Final Sunday thought — I'm really glad we've stayed friends even though the dating didn't work out!
+[30/11/2026, 11:22:40] Leo: same honestly! way better this way, the friendship just flows way easier
+[30/11/2026, 11:25:15] You: Exactly! Here's to more photo walks and camera nerd conversations ❤️
+[30/11/2026, 11:28:30] Leo: 100%! already thinking of some spots for December!
+[30/11/2026, 11:31:05] You: Can't wait! Enjoy your Sunday!
+[30/11/2026, 11:33:50] Leo: you too!

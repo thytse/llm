@@ -1,240 +1,195 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_0_3: I am studying economics. I enjoy hiking.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_0_3: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_0_3: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_0_3: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_0_3: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_0_3: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_0_3: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_0_3: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_0_3: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_0_3: Thanks, I will check and get back to you.
+[21/10/2026, 12:35:10] Ching: Heyy, sorry to interrupt your lunch! Just wanted to ask if you're surviving this week?
+[21/10/2026, 12:40:22] You: Hey Ching! Never an interruption, you know that. Busy week as usual, how is the accounting grind?
+[21/10/2026, 12:42:05] Ching: Honestly so repetitive haha. Doing monthly reconciliations and audit schedules all day makes me feel like a human calculator.
+[21/10/2026, 12:43:18] You: At least it's stable though! Are you getting off on time this week?
+[21/10/2026, 12:44:40] Ching: Mostly yes, around 6:30pm. I rewatched Spirited Away on my iPad last night just to unwind after staring at ledgers all day.
+[21/10/2026, 12:45:55] You: Classic Ching! You always go back to Ghibli when work is dull.
+[21/10/2026, 12:47:12] Ching: Haha guilty! I really love healing Japanese films, anime, musicals, and soft romance movies. Watching them is honestly how I process my feelings and let off steam.
+[21/10/2026, 12:48:30] You: We should go watch that new Japanese drama at the cinema soon!
+[21/10/2026, 12:49:45] Ching: I would love that!! Let's definitely plan a movie night once month-end closing is over.
+[21/10/2026, 12:50:30] You: Deal! Eat a proper lunch today okay?
+[21/10/2026, 12:51:15] Ching: Will do, you too!!
+[24/10/2026, 19:20:14] You: Hey! Happy early 30th birthday week! Did Daniel plan anything nice for your birthday next week?
+[24/10/2026, 19:45:30] Ching: Thank you!! Honestly, I'm not sure yet. Daniel has been super busy and quiet lately, we haven't really booked anything.
+[24/10/2026, 19:47:05] You: Oh? Maybe he is planning a surprise! Six years together, he knows what you like.
+[24/10/2026, 19:49:18] Ching: Maybe... I don't want to nag him about it since he's stressed at work. I just feel a little bit weird turning 30 next week haha.
+[24/10/2026, 19:50:40] You: Turning 30 is just a number, and we are definitely celebrating together too! My treat for dinner!
+[24/10/2026, 19:52:02] Ching: Aww you're always so sweet to me, thank you! Don't spend too much though, a cosy Japanese cafe is more than enough.
+[24/10/2026, 19:53:15] You: Deal, cosy Japanese cafe it is.
+[27/10/2026, 18:15:22] You: Hey, thinking about our November movie nights — which weekday evening usually works best for you?
+[27/10/2026, 18:22:40] Ching: Mondays to Wednesdays are usually super packed with accounting close and ledger reviews.
+[27/10/2026, 18:23:35] Ching: I am usually free on Thursday evenings though! I almost always leave the office on time on Thursdays, so Thursday nights are great for movies and dinner.
+[27/10/2026, 18:24:50] You: Thursday evenings work perfectly for me too! Somewhere around Tsim Sha Tsui or Yau Ma Tei?
+[27/10/2026, 18:26:05] Ching: Yes! TST or Yau Ma Tei is super convenient for both of us.
+[27/10/2026, 18:27:12] You: Awesome, let's also keep Thursday 3 December open — I saw there's a Japanese Film Festival screening of a Hirokazu Kore-eda film that night!
+[27/10/2026, 18:28:30] Ching: Omg yes!! I love Kore-eda's films so much! Let's definitely lock in Thursday 3 December!
+[27/10/2026, 18:29:15] You: Locked in!
+[30/10/2026, 11:05:18] You: Happy 30th birthday Ching!! Hope you have the warmest, happiest day today!!
+[30/10/2026, 11:18:44] Ching: Thank you so much!! Having you as my best friend since secondary school is honestly the biggest blessing.
+[30/10/2026, 11:20:02] You: Forever your ride-or-die! Doing dinner with Daniel tonight?
+[30/10/2026, 11:24:15] Ching: Yeah, we're just having a quiet dinner near his place tonight. Still feels a bit distant lately, maybe I'm just overthinking things again.
+[30/10/2026, 11:25:40] You: Try to enjoy tonight first, okay? And I'll see you Sunday for our birthday brunch!
+[30/10/2026, 11:26:55] Ching: Okay! Can't wait to see you on Sunday!
+[01/11/2026, 17:30:12] Ching: Just got home! Thank you so much for brunch and the little matcha cake today, I really needed that laugh.
+[01/11/2026, 17:35:40] You: Anytime! Always happy to celebrate you. Hope you feel a bit lighter this week.
+[01/11/2026, 17:37:05] Ching: I do, thank you for always listening to me ramble.
+[05/11/2026, 14:15:20] You: Quick check-in, how is the post-month-end week going?
+[05/11/2026, 14:32:10] Ching: Slightly quieter at work, which is nice. Trying to catch up on sleep.
+[05/11/2026, 14:33:45] You: Good, take it easy!
+[09/11/2026, 23:42:18] Ching: Hey... are you still awake? I am so sorry to text you this late.
+[09/11/2026, 23:44:05] You: Hey, I'm still awake! Don't apologise, what happened? Are you okay?
+[09/11/2026, 23:46:30] Ching: Daniel just broke up with me tonight. Six years, and he said he doesn't see a future with me anymore.
+[09/11/2026, 23:47:15] You: Oh my god, Ching. I am so, so sorry. Where are you right now? Are you safe at home?
+[09/11/2026, 23:48:50] Ching: Yeah I'm back in my room. I can't stop crying. He said we just grew apart and he's been feeling this way for months, he just waited until after my 30th birthday to tell me.
+[09/11/2026, 23:50:12] You: That is heartbreaking, I am so sorry you're going through this. Do you want me to call you right now?
+[09/11/2026, 23:51:45] Ching: No it's okay, my voice is a total mess and I know you have work tomorrow morning. I just didn't know who else to tell.
+[09/11/2026, 23:53:02] You: You never have to worry about bothering me. I'm right here, text as much as you need.
+[09/11/2026, 23:55:18] Ching: I keep replaying the last year in my head. Maybe I was too boring? Maybe because I'm always tired from accounting work and don't like going out partying like his new colleagues, he got sick of me.
+[09/11/2026, 23:57:05] You: Hey, stop right there. You are NOT boring, and someone losing feelings is not a verdict on your worth. You were a loyal, caring partner for six years.
+[09/11/2026, 23:59:10] Ching: Then why wasn't I enough for him to want to stay? I literally just turned 30 last week. Everyone around me is getting married and I'm starting over from zero.
+[10/11/2026, 00:01:22] You: Thirty is not a deadline, Ching. It hurts like hell right now because the wound is brand new, not because your life is over. You don't have to figure out the future tonight.
+[10/11/2026, 00:03:45] Ching: I feel so pathetic. Sorry for dumping all this negative energy on you at midnight.
+[10/11/2026, 00:05:10] You: You are not pathetic and you are not a burden. Go drink a glass of warm water, wash your face, and try to lie down. I'll check on you in the morning, okay?
+[10/11/2026, 00:06:55] Ching: Okay... thank you for being here. Goodnight.
+[10/11/2026, 08:30:12] You: Morning Ching. Just checking in — did you manage to get any sleep at all?
+[10/11/2026, 09:05:40] Ching: Barely three hours. Took a sick day today because my eyes are way too swollen to sit in the office.
+[10/11/2026, 09:07:15] You: Good call taking the day off. Please make sure you eat something warm today, even if it's just congee.
+[10/11/2026, 09:08:50] Ching: I will try. Thanks for checking on me.
+[12/11/2026, 01:18:33] Ching: Sorry I know you're probably asleep, don't reply until morning. I couldn't sleep so I put on La La Land and now I'm crying all over again at the ending.
+[12/11/2026, 01:20:45] Ching: That "what could have been" montage just broke me. I keep wondering if I had communicated better or been less anxious, would we still be planning our future together?
+[12/11/2026, 01:22:10] Ching: What if I'm just too sensitive and nobody else will ever have the patience for me? I feel like I wasted my entire twenties on someone who didn't even want to fight for us.
+[12/11/2026, 07:45:12] You: Good morning Ching, just woke up and saw your messages. First of all, please ban yourself from watching La La Land at 1am this week!!
+[12/11/2026, 07:46:40] You: Second, loving someone sincerely for six years is never a waste, and being sensitive is one of the kindest things about you. It takes two people to make a relationship work, you can't put 100% of the blame on yourself.
+[12/11/2026, 08:12:05] Ching: Haha sorry, I know sad romance movies at 1am are terrible for me, I just couldn't stop myself.
+[12/11/2026, 08:13:50] Ching: Thank you for saying that. Sometimes I just spiral so hard when the apartment is quiet at night.
+[12/11/2026, 08:15:20] You: How about I come over tonight after work with soup and we watch a dumb comedy instead? Zero sad endings allowed.
+[12/11/2026, 08:17:10] Ching: Are you sure? I don't want to ruin your Thursday evening when you're tired from work.
+[12/11/2026, 08:18:25] You: 100% sure. I'll bring papaya fish soup at 7:30pm, no arguing!
+[12/11/2026, 08:19:40] Ching: Thank you so much. Honestly don't know what I'd do without you.
+[13/11/2026, 13:10:05] You: Hey, how are you feeling today after last night?
+[13/11/2026, 13:24:18] Ching: A little better! Laughing during that comedy actually helped a lot, and I slept 7 hours straight for the first time all week.
+[13/11/2026, 13:25:40] You: Yay! Small wins count. Take it one day at a time.
+[13/11/2026, 13:27:02] Ching: Trying my best!
+[15/11/2026, 00:45:19] Ching: I ended up rewatching Eternal Sunshine of the Spotless Mind tonight. I know, I broke the rule again.
+[15/11/2026, 00:47:05] Ching: I just keep thinking about how Daniel didn't even look sad when he handed back my spare keys. Maybe I really was too clingy or too dull.
+[15/11/2026, 00:48:30] Ching: Anyway sorry for being so repetitive and exhausting lately. You don't have to reply to this, I'll be fine.
+[15/11/2026, 09:15:22] You: Hey Ching, just saw this. Please stop apologising for grieving a 6-year relationship — it has literally only been six days!
+[15/11/2026, 09:16:50] You: Do you want to grab a quiet coffee this afternoon? Just to get some fresh air?
+[15/11/2026, 11:42:10] Ching: Hey, sorry for the late reply. I'm okay really, don't worry about me.
+[15/11/2026, 11:44:05] You: Are you sure? We don't even have to talk about Daniel, we can just walk around the park.
+[15/11/2026, 12:10:33] Ching: It's fine, I'm just staying in today. You go enjoy your Sunday, I've already taken up way too much of your time this week.
+[15/11/2026, 12:12:15] You: You haven't taken up too much of my time at all! But if you need quiet solo time today, I totally respect that. Just text me if you change your mind.
+[15/11/2026, 12:18:40] Ching: Okay. Thanks.
+[17/11/2026, 17:50:12] You: Hey Ching, just sending a little virtual hug! No need to reply if you're tired, just letting you know I'm thinking of you.
+[17/11/2026, 18:15:30] Ching: Aww thank you. Sorry I was a bit distant on Sunday, I just felt super guilty for crying to you every single night and didn't want to wear you out.
+[17/11/2026, 18:17:05] You: Silly girl, we've been best friends for 15 years, you could never wear me out. How was work today?
+[17/11/2026, 18:18:48] Ching: Busy enough to keep my mind off things, which is honestly a relief.
+[17/11/2026, 18:20:10] You: Good to hear. Remember to eat dinner!
+[17/11/2026, 18:21:25] Ching: Yes ma'am, heading home to eat with my parents tonight.
+[18/11/2026, 16:05:14] Ching: Hey, I have to talk to you about our Japanese Film Festival plan next month.
+[18/11/2026, 16:10:22] You: The Kore-eda film on Thursday 3 December?
+[18/11/2026, 16:12:05] Ching: Yeah. Daniel just texted me to arrange a time for me to go back to his flat and pick up the rest of my winter clothes and books, and Thursday 3 December evening is the only slot he's free to hand them over.
+[18/11/2026, 16:13:10] Ching: I know I'm usually free on Thursday evenings, and I was really looking forward to the film, but I have to cancel Thursday 3 December. I definitely won't be in the right headspace for a movie after seeing him.
+[18/11/2026, 16:15:02] You: Oh totally understandable, don't worry about the movie at all! Do you want me to go with you to wait downstairs while you grab your boxes?
+[18/11/2026, 16:16:40] Ching: Oh I couldn't ask you to do that, it's all the way in Shatin.
+[18/11/2026, 16:17:55] You: I don't mind at all! We can grab a hot drink afterwards so you don't have to carry everything home alone.
+[18/11/2026, 16:19:20] Ching: Honestly... that would mean so much to me. Thank you. And we can reschedule our movie night to the following Thursday, 10 December?
+[18/11/2026, 16:20:35] You: Done! Thursday 3 December is box-rescue duty, and Thursday 10 December is movie night.
+[18/11/2026, 16:21:50] Ching: You really are the best friend anyone could ask for.
+[20/11/2026, 19:10:05] You: TGIF! How are you holding up heading into the weekend?
+[20/11/2026, 19:22:30] Ching: Definitely steadier than last week. Still have random sad waves, especially at night, but I didn't cry once at the office today!
+[20/11/2026, 19:24:12] You: Proud of you!! What are your plans for the weekend?
+[20/11/2026, 19:25:45] Ching: Going to bake a lemon cake with my mom tomorrow, and maybe watch My Neighbour Totoro — strictly happy movies only!
+[20/11/2026, 19:27:02] You: Haha love the strictly happy movies rule! Save me a slice of lemon cake!
+[20/11/2026, 19:28:18] Ching: Definitely! Have a lovely weekend!
+[20/11/2026, 19:29:00] You: You too, Ching!
+[21/11/2026, 11:30:15] Ching: Morning! Hope you're having a good Saturday!
+[21/11/2026, 11:35:40] You: Pretty chill so far! How about you?
+[21/11/2026, 11:38:12] Ching: Finally slept past 9am, which feels like a luxury these days. Spending the day at my parents' place helping with groceries.
+[21/11/2026, 11:41:30] You: That's sweet! Quality family time!
+[21/11/2026, 11:44:05] Ching: Yeah, my mom keeps wanting to cook for me and make sure I'm eating properly. Very typical mom energy 😂
+[22/11/2026, 14:20:18] You: Hey Ching! Did you end up watching any movies this weekend?
+[22/11/2026, 14:28:40] Ching: Actually yes! My mom and I watched My Neighbour Totoro together on Saturday evening. It was so comforting.
+[22/11/2026, 14:31:12] You: Aww that's so precious!
+[22/11/2026, 14:33:50] Ching: It is. My mom has never seen Ghibli films before, so I'm slowly introducing her to the magic.
+[23/11/2026, 10:15:30] You: How is Monday treating you?
+[23/11/2026, 10:22:40] Ching: Back to accounting spreadsheets, but I'm in a surprisingly good mood actually. The weekend helped.
+[23/11/2026, 10:25:15] You: That's really good to hear! Steadier than last week?
+[23/11/2026, 10:28:30] Ching: Much steadier. I had a moment yesterday where I didn't think about Daniel at all, and I realized that's progress.
+[24/11/2026, 09:30:14] You: I'm proud of you! One day at a time.
+[24/11/2026, 09:38:40] Ching: Exactly. Some days are harder than others, but I'm learning to sit with the sadness instead of fighting it.
+[24/11/2026, 09:41:12] You: That's actually really mature and healthy.
+[24/11/2026, 09:43:50] Ching: Who knew heartbreak was actually character development 😂
+[25/11/2026, 18:40:12] You: Hey, Thursday is box-rescue day! Are you mentally prepared?
+[25/11/2026, 18:48:30] Ching: Honestly nervous, but I know you'll be there so I'm managing the anxiety okay. Just dreading the actual conversation.
+[25/11/2026, 18:51:15] You: We'll make it quick and painless. I'll be downstairs the whole time.
+[25/11/2026, 18:54:40] Ching: Thank you for that. It means so much.
+[26/11/2026, 11:20:08] You: Morning! How are you feeling about tonight?
+[26/11/2026, 11:28:30] Ching: Tired honestly. Didn't sleep well last night, just kept replaying scenarios in my head.
+[26/11/2026, 11:31:12] You: That's completely normal. Grab some water and maybe eat something solid before we go.
+[26/11/2026, 11:33:50] Ching: Will do. What time should I meet you?
+[26/11/2026, 11:36:20] You: 5:30pm outside his building in Sha Tin? That way we have buffer time.
+[27/11/2026, 14:15:30] You: Hey, how are you feeling today after yesterday?
+[27/11/2026, 14:22:40] Ching: Surprisingly okay? Like I got all my stuff and it's finally over. No more loose ends.
+[27/11/2026, 14:25:18] You: That closure probably helps a lot.
+[27/11/2026, 14:28:05] Ching: It really does. And thanks for waiting downstairs and then taking me for hot chocolate afterwards. You're literally the best friend anyone could ask for.
+[27/11/2026, 14:30:40] You: Anytime. That's what I'm here for.
+[28/11/2026, 09:30:14] You: Morning! How is your Monday treating you?
+[28/11/2026, 09:38:40] Ching: Surprisingly good actually. Work is keeping me busy which is helpful for my brain.
+[28/11/2026, 09:41:12] You: Good energy! Still on for Thursday 10 December movie night?
+[28/11/2026, 09:43:50] Ching: 100%! I'm actually looking forward to it. A proper cinema outing without the emotional baggage.
+[29/11/2026, 10:20:08] You: That's the spirit! What film do you want to see?
+[29/11/2026, 10:28:30] Ching: Maybe something uplifting? I'm done with sad romance films for a while. Comedy or feel-good drama?
+[29/11/2026, 10:31:12] You: Absolutely! Let me check what's playing that week!
+[29/11/2026, 10:33:50] Ching: Can't wait honestly. Just spending time with you sounds healing already 🙂
+[30/11/2026, 11:15:22] You: Final Sunday check-in — how are you genuinely doing?
+[30/11/2026, 11:22:40] Ching: You know what? I'm actually doing okay. Not great, but genuinely okay. Some days I still get sad waves but they pass now.
+[30/11/2026, 11:25:15] You: That's amazing progress, Ching!
+[30/11/2026, 11:28:30] Ching: Thanks to you mostly. I don't know what I'd do without you as my person.
+[30/11/2026, 11:31:05] You: That's what best friends are for ❤️
+[30/11/2026, 11:33:50] Ching: See you soon!
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well!
+[01/12/2026, 10:28:30] Ching: Morning! Back to accounting reconciliations. How's your Monday?
+[01/12/2026, 10:31:12] You: Same here, just trying to get through the week. How are you feeling?
+[01/12/2026, 10:33:50] Ching: Better actually. Some days are still sad but I'm starting to feel normal again.
+[02/12/2026, 14:15:30] You: By the way, did you think about which movie for Thursday 10 December?
+[02/12/2026, 14:22:40] Ching: oh yes! there's a Japanese comedy that just came out that looks super fun
+[02/12/2026, 14:25:18] You: Perfect! Laughter is exactly what we need!
+[02/12/2026, 14:28:05] Ching: seriously! I'm looking forward to it already honestly
+[03/12/2026, 09:30:14] You: Morning! How is Wednesday treating you?
+[03/12/2026, 09:38:40] Ching: pretty good actually! work is busy enough to keep my mind occupied
+[03/12/2026, 09:41:12] You: That's good! Productive distraction is healthy!
+[03/12/2026, 09:43:50] Ching: yeah i'm starting to feel like myself again
+[04/12/2026, 10:15:30] You: Morning! How is Thursday treating you?
+[04/12/2026, 10:28:30] Ching: good morning! almost to the weekend which feels amazing
+[04/12/2026, 10:31:12] You: Just three more days til movie night! You ready?
+[04/12/2026, 10:33:50] Ching: absolutely! popcorn and laughter incoming!
+[05/12/2026, 11:35:08] You: Can't wait for Thursday movie night! One more week!
+[05/12/2026, 14:22:40] Ching: same!! honestly so glad we locked this in. really need that night out
+[05/12/2026, 14:23:55] You: We'll make it the best movie night ever!
+[05/12/2026, 14:25:12] Ching: I know we will ❤️
+[06/12/2026, 09:30:14] You: Hey Ching! Hope your morning is nice!
+[06/12/2026, 10:28:40] Ching: Morning! Relaxing Sunday actually. Mom and I are having lunch soon.
+[06/12/2026, 10:29:55] You: That's sweet! Enjoy your time together!
+[06/12/2026, 10:31:12] Ching: will do! she's been really supportive through everything ❤️
+[07/12/2026, 09:30:14] You: Hey Ching! How is your Sunday treating you?
+[07/12/2026, 10:28:40] Ching: pretty good actually! rewatching Totoro with mom tonight, her suggestion
+[07/12/2026, 10:29:55] You: That's so sweet! Totoro is perfect comfort watching!
+[07/12/2026, 10:31:12] Ching: exactly! mom gets me haha
+[08/12/2026, 09:30:14] You: Hey Ching! Hope Monday is treating you well!
+[08/12/2026, 10:28:40] Ching: Morning! Back to accounting work. Only four more days til movie night though!
+[08/12/2026, 10:29:55] You: So close! Getting excited?
+[08/12/2026, 10:31:12] Ching: absolutely! popcorn and laughter incoming!
+[09/12/2026, 11:35:08] You: Almost to Thursday! How's your week going?
+[09/12/2026, 14:22:40] Ching: pretty good actually! work is busy but mind is on movie night
+[09/12/2026, 14:23:55] You: See you Thursday 7:30pm at Mong Kok!
+[09/12/2026, 14:25:12] Ching: cannot wait!! ❤️
+[10/12/2026, 09:30:14] You: Hey Ching! Happy Wednesday! Almost movie night!
+[10/12/2026, 10:28:40] Ching: Morning! Just one more day! Already researching what snacks to get!
+[10/12/2026, 10:29:55] You: Haha! Ready for laughter and escape?
+[10/12/2026, 10:31:12] Ching: 100%! See you tomorrow!
+[10/12/2026, 10:33:50] You: So ready! ❤️
+[11/12/2026, 11:30:15] You: Hey Ching! What an amazing movie night!
+[11/12/2026, 11:35:40] Ching: Right?? I laughed so hard! Best evening in ages!
+[11/12/2026, 11:38:12] You: That's exactly what you needed! You're glowing!
+[11/12/2026, 11:41:30] Ching: I feel alive again honestly. Thank you for being such a good friend. ❤️

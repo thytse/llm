@@ -1,240 +1,199 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_3_5: I am studying economics. I enjoy swimming.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_3_5: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_3_5: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_3_5: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_3_5: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_3_5: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_3_5: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_3_5: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_3_5: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_3_5: Thanks, I will check and get back to you.
+[22/10/2026, 12:15:08] Frances: hey are u free for lunch or trapped in Excel hell?
+[22/10/2026, 12:17:22] You: half trapped, I can escape at 12:45!
+[22/10/2026, 12:18:05] Frances: ok meet at the ground floor lobby at 12:45, let's get Japanese ramen
+[22/10/2026, 12:18:40] You: deal!
+[22/10/2026, 17:45:12] Frances: can't believe it has been 4 years since our graduate training batch started here
+[22/10/2026, 17:48:30] You: right?? remember how terrified we were during the first Finance orientation presentation
+[22/10/2026, 17:49:15] Frances: haha yes! and now I'm still stuck in Finance FP&A doing budget variance decks every quarter
+[22/10/2026, 17:50:02] You: at least we survived together!
+[22/10/2026, 17:50:45] Frances: true, half our training cohort already left for other banks
+[24/10/2026, 15:10:22] Frances: ok I need your opinion before I do something reckless
+[24/10/2026, 15:14:05] You: uh oh, what now?
+[24/10/2026, 15:15:12] Frances: I just booked a salon appointment to dye my hair ash brown with light highlights next week
+[24/10/2026, 15:16:00] You: ooh that would look so good on you! what's the catch?
+[24/10/2026, 15:17:18] Frances: you know I love swimming and swim 2 or 3 times a week right? I'm worried the pool chlorine is going to strip the dye and turn my hair brassy orange after two sessions
+[24/10/2026, 15:18:25] You: ah valid concern! maybe wet your hair with tap water and put leave-in conditioner before putting on a silicone swim cap?
+[24/10/2026, 15:19:10] Frances: oh smart!! and maybe grab a purple shampoo too. I really don't want to give up swimming just for hair colour
+[24/10/2026, 15:20:02] You: yeah definitely don't quit swimming, you're the healthiest person in our batch!
+[24/10/2026, 15:20:48] Frances: haha barely, I just eat way too much dessert so swimming cancels it out
+[27/10/2026, 11:05:14] You: hey Frances, quick Finance question — is the October accrual cutoff tomorrow at 5pm or Thursday?
+[27/10/2026, 11:09:30] Frances: honestly you're hopeless, we have worked here 4 years and you still ask me the cutoff date every single month 😂
+[27/10/2026, 11:10:15] You: haha I trust you more than the calendar!
+[27/10/2026, 11:11:02] Frances: it's tomorrow (Wednesday) at 5pm sharp. don't submit at 4:59pm again or I'm rejecting it
+[27/10/2026, 11:11:48] You: yes ma'am, sending it by 2pm tomorrow!
+[27/10/2026, 11:12:30] Frances: better be!
+[29/10/2026, 18:10:05] You: hey since we both want to swim more, which weekday evening usually works best for you?
+[29/10/2026, 18:14:22] Frances: Mondays and Tuesdays are always messy with Finance reporting, and Thursdays I have Pilates with my sister
+[29/10/2026, 18:15:10] Frances: I'm usually free on Wednesday evenings after 6:30pm! I almost always go to Victoria Park or Kowloon Park pool on Wednesdays
+[29/10/2026, 18:16:05] You: nice! let's make Wednesday evenings our swim + casual dinner slot
+[29/10/2026, 18:16:50] Frances: sounds great! just don't expect me to wait for you if you only swim 5 laps and give up haha
+[29/10/2026, 18:17:30] You: hey I can do at least 12 laps now!
+[29/10/2026, 18:18:05] Frances: we will see about that
+[01/11/2026, 16:30:18] Frances: just left the salon! the ash brown came out super nice
+[01/11/2026, 16:34:05] You: yay!! send a pic or show me tomorrow at work!
+[01/11/2026, 16:35:12] Frances: you'll see it tomorrow morning. the stylist told me not to swim for 72 hours so the dye sets properly
+[01/11/2026, 16:36:00] You: good thing today is Sunday, by Wednesday evening you'll be good to test it out
+[01/11/2026, 16:36:45] Frances: yep, already bought a new tight silicone swim cap and colour-protect shampoo
+[04/11/2026, 20:45:10] You: ok survive report — how is the hair colour holding up after tonight's swim?
+[04/11/2026, 20:50:22] Frances: actually totally fine!! wetting it with tap water first and using the silicone cap worked like magic
+[04/11/2026, 20:51:05] You: told you! I should charge consulting fees
+[04/11/2026, 20:51:48] Frances: relax, you still stopped for a breather after every 2 laps tonight lol
+[04/11/2026, 20:52:30] You: rude!! I'm building endurance slowly
+[04/11/2026, 20:53:12] Frances: haha fair, we'll get you to 20 laps by December. goodnight!
+[04/11/2026, 20:53:45] You: goodnight!
+[08/11/2026, 14:20:11] You: hey random check — want to lock in Wednesday 2 December for swimming and dinner too? I'm planning my early December calendar
+[08/11/2026, 14:26:40] Frances: sure! I'm usually free Wednesday evenings anyway so Wednesday 2 December should be totally fine
+[08/11/2026, 14:27:25] You: awesome, let's try that Vietnamese place near Tin Hau after swimming
+[08/11/2026, 14:28:10] Frances: yesss love their pho, count me in
+[11/11/2026, 13:05:19] Frances: did you buy anything for 11.11?
+[11/11/2026, 13:08:40] You: just a new desk lamp and some coffee beans. you?
+[11/11/2026, 13:09:22] Frances: stocked up on purple shampoo, hair masks, and a new pair of goggles lol
+[11/11/2026, 13:10:05] You: very on brand for you right now
+[11/11/2026, 13:10:40] Frances: gotta protect the $1,600 dye job!
+[13/11/2026, 10:15:30] You: hey Frances, did Finance release the Q4 travel budget template yet?
+[13/11/2026, 10:19:05] Frances: yep emailed it to all department leads yesterday morning. did you not read your emails again?
+[13/11/2026, 10:20:12] You: oops I must have missed it under 50 HR newsletters!
+[13/11/2026, 10:21:00] Frances: honestly don't know how you survive without me. forwarding it to you right now
+[13/11/2026, 10:21:45] You: thank you!! you're the best
+[13/11/2026, 10:22:18] Frances: you owe me bubble tea next week
+[16/11/2026, 16:40:12] Frances: ugh just got a reminder text from my dental clinic in Central
+[16/11/2026, 16:43:05] You: oh no, scaling or something worse?
+[16/11/2026, 16:44:10] Frances: wisdom tooth check-up and deep cleaning on Wednesday 2 December at 6:30pm! I completely forgot I booked it two months ago
+[16/11/2026, 16:44:55] Frances: the dentist said I shouldn't do heavy exercise or eat hot spicy food right after, so I have to cancel our Wednesday 2 December swimming and Vietnamese dinner :( so sorry!
+[16/11/2026, 16:46:20] You: aww no worries at all! definitely don't skip the dentist, wisdom teeth are no joke
+[16/11/2026, 16:47:12] Frances: hate cancelling on a Wednesday since I'm normally free then. can we move it to Friday 4 December or the following Wednesday?
+[16/11/2026, 16:48:05] You: let's do the following Wednesday, 9 December! gives your teeth time to recover
+[16/11/2026, 16:48:48] Frances: deal!! thx for being flexible
+[18/11/2026, 12:30:15] Frances: btw remember that guy Sam from our 2022 training batch? he just got promoted to VP at his new bank
+[18/11/2026, 12:33:40] You: oh nice! good for him, he always worked crazy hours
+[18/11/2026, 12:34:25] Frances: yeah we should organise a small reunion dinner with the old training group before Christmas
+[18/11/2026, 12:35:10] You: 100% down! let's check everyone's dates next week
+[20/11/2026, 10:20:05] Frances: finally Friday! any plans for the weekend?
+[20/11/2026, 10:24:18] You: catching up on sleep and maybe hiking on Sunday if it doesn't rain. you?
+[20/11/2026, 10:25:05] Frances: Saturday morning swim then brunch with my sister in Causeway Bay
+[20/11/2026, 10:25:50] You: sounds lovely, have a great weekend!
+[20/11/2026, 10:26:25] Frances: you too!
+[21/11/2026, 09:30:14] Frances: morning! just got back from my Saturday swim, did 25 laps today!
+[21/11/2026, 09:38:40] You: wow, 25 laps?! that is amazing progress!
+[21/11/2026, 09:40:12] Frances: thanks! the purple shampoo is working perfectly too, hair colour is still holding strong
+[21/11/2026, 09:41:30] You: so proud of you!
+[21/11/2026, 09:42:15] Frances: haha thanks! brunch with my sister was good too, we tried a new cafe in Causeway Bay
+[21/11/2026, 09:43:45] You: nice! enjoy the rest of your weekend
+[21/11/2026, 09:44:30] Frances: will do!
+[22/11/2026, 10:20:08] You: hey Frances, quick question — are we still scheduling that training batch reunion dinner?
+[22/11/2026, 10:28:30] Frances: yes! I actually sent a quick email to our original cohort WhatsApp group yesterday
+[22/11/2026, 10:29:55] You: oh nice, what did everyone say?
+[22/11/2026, 10:31:12] Frances: about 7 of us confirmed interest, thinking maybe early December some weeknight?
+[22/11/2026, 10:32:30] You: perfect! let me know once dates are confirmed
+[22/11/2026, 10:33:15] Frances: will do!
+[23/11/2026, 14:15:22] You: hey, just reminding you about our swimming date on Wednesday 9 December at 6:30pm at Victoria Park
+[23/11/2026, 14:22:40] Frances: yes got it marked! and I will make sure my wisdom teeth are fully recovered by then haha
+[23/11/2026, 14:23:55] You: haha good idea! Vietnamese pho is waiting for us
+[23/11/2026, 14:25:12] Frances: can't wait honestly
+[24/11/2026, 11:10:30] You: Frances, the accrual cutoff is tomorrow 5pm again, right? Just double-checking!
+[24/11/2026, 16:35:12] Frances: YES tomorrow Friday 5pm!! and I swear if you submit at 4:59pm again I will reject it out of principle 😂
+[24/11/2026, 16:36:45] You: haha I'll submit by 3pm, promise!
+[24/11/2026, 16:38:12] Frances: better do!!
+[25/11/2026, 09:15:08] Frances: good luck with your dental today! text me afterwards and let me know how it goes
+[25/11/2026, 09:22:30] You: thanks for checking in! I'll message you after
+[25/11/2026, 21:45:14] You: home! dentist was actually way less painful than I expected, wisdom tooth is fine just needs cleaning
+[25/11/2026, 22:12:30] Frances: aw glad it wasn't too bad! the dentist said you're all good for swimming later?
+[25/11/2026, 22:14:02] You: yeah, should be totally fine by next Wednesday 9 December
+[25/11/2026, 22:15:30] Frances: perfect, pho night is ON 🍜
+[26/11/2026, 14:20:15] You: hey so the reunion dinner — did everyone confirm December dates?
+[26/11/2026, 14:28:40] Frances: looks like Wednesday 11 December evening is best for most people! I am booking a restaurant now
+[26/11/2026, 14:29:55] You: awesome! should be a good dinner catching up with the old crew
+[26/11/2026, 14:31:12] Frances: totally! Sam mentioned he wants to hear about everyone's career moves
+[27/11/2026, 11:35:08] You: Frances, just checking — is the reunion dinner totally confirmed for 11 December? I want to mark it on my personal calendar
+[27/11/2026, 14:22:40] Frances: yes! 11 December at 7pm at this Italian place in Central. I am still sending confirmations but most people replied with thumbs up
+[27/11/2026, 14:23:55] You: perfect, I am all in!
+[27/11/2026, 14:25:12] Frances: great! should be so much fun catching up
+[28/11/2026, 09:30:14] You: hey, just to confirm — we are still swimming on Wednesday 9 December at 6:30pm at Victoria Park right?
+[28/11/2026, 11:48:20] Frances: 100%! I already told my sister to skip that week so I can keep Wednesday free for you
+[28/11/2026, 11:49:45] You: haha you're the best!
+[28/11/2026, 11:51:00] Frances: see you Wed 9 Dec!
+[29/11/2026, 21:40:12] You: hey just realized we never went shopping for bubble tea! you said I owed you some after helping with the Q4 budget template
+[29/11/2026, 21:48:30] Frances: oh yeah!! totally forgot lol my life has been chaos
+[29/11/2026, 21:50:05] You: let's do it next week before the reunion dinner
+[29/11/2026, 21:51:30] Frances: deal!! Wednesday afternoon before my dentist? oh wait, I won't be free til 2 Dec anymore after the cleaning...
+[29/11/2026, 21:52:45] You: right, let's do Tuesday 10 December instead!
+[29/11/2026, 21:54:00] Frances: perfect! bubble tea runs are essential
+[30/11/2026, 10:15:22] Frances: morning! hope you are having a good Sunday
+[30/11/2026, 10:28:40] You: relaxed day! You swimming this morning?
+[30/11/2026, 10:29:55] Frances: not today actually, taking the day off to recover before the final push to year-end
+[30/11/2026, 10:31:12] You: smart! see you at the office Monday!
+[30/11/2026, 10:32:30] Frances: see you!
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well, Frances!
+[01/12/2026, 10:28:30] Frances: Morning! Back to the regular grind with year-end budget reviews starting this week.
+[01/12/2026, 10:31:12] You: Ah the dreaded year-end close! Lots of late nights ahead?
+[01/12/2026, 10:33:50] Frances: Pretty much until mid-January honestly. But I'm planning to still keep Wednesday 9 December for our swimming session no matter what!
+[02/12/2026, 14:15:30] You: By the way, how are your teeth feeling after the dentist?
+[02/12/2026, 14:22:40] Frances: Actually not too bad! Barely any sensitivity, the deep cleaning worked wonders.
+[02/12/2026, 14:25:18] You: Awesome! So we're definitely on for swimming Wednesday then?
+[02/12/2026, 14:28:05] Frances: 100%! Already told my sister to plan around it.
+[03/12/2026, 09:30:14] You: Morning Frances! How's the first week of Q4 close treating you?
+[03/12/2026, 09:38:40] Frances: Drowning in reconciliations but that's the job! At least the purple shampoo is still protecting my ash brown 😂
+[03/12/2026, 09:41:12] You: Haha priorities! Your hair is looking great by the way!
+[03/12/2026, 09:43:50] Frances: Thanks! Honestly the colour helped cheer me up during budget season.
+[04/12/2026, 10:15:30] You: Morning Frances! How is your Thursday treating you?
+[04/12/2026, 10:28:30] Frances: Packed with Finance meetings but I snuck in a coffee break. Almost Friday!
+[04/12/2026, 10:31:12] You: So close! Just two more days!
+[04/12/2026, 10:33:50] Frances: Then weekend freedom for a bit before the reunion dinner hits!
+[05/12/2026, 11:35:08] You: Hey, excited for the reunion dinner on 11 December?
+[05/12/2026, 14:22:40] Frances: SO excited! Sam mentioned he wants to hear about everyone's career moves, should be a fun evening.
+[05/12/2026, 14:23:55] You: I definitely want to hear what everyone's been up to since training days!
+[05/12/2026, 14:25:12] Frances: Exactly! It's been almost four years since we all hung out together.
+[06/12/2026, 09:30:14] You: Hey Frances, hope your Sunday is relaxing!
+[06/12/2026, 10:28:40] Frances: Trying to squeeze in a lazy morning before the final push to year-end!
+[06/12/2026, 10:29:55] You: Enjoy the peace while you can!
+[06/12/2026, 10:31:12] Frances: Will do! See you at the office tomorrow!
+[06/12/2026, 10:32:30] You: See you then!
+[07/12/2026, 09:30:14] You: Hey Frances, hope your Sunday is lovely!
+[07/12/2026, 10:28:40] Frances: pretty chill actually! did a morning swim, now just relaxing with coffee.
+[07/12/2026, 10:29:55] You: That sounds perfect! The swimming is really paying off for your fitness!
+[07/12/2026, 10:31:12] Frances: for real! 25 laps last week so I'm pretty proud of myself haha
+[08/12/2026, 09:30:14] You: Hey Frances, hope your Monday is treating you well!
+[08/12/2026, 10:28:40] Frances: morning! year-end close is ramping up so it's going to be intense
+[08/12/2026, 10:29:55] You: Ah the final push! How is the hair holding up after the dentist?
+[08/12/2026, 10:31:12] Frances: surprisingly good! the purple shampoo is definitely a miracle product lol
+[09/12/2026, 11:35:08] You: Can't wait for Wednesday swimming! One more day!
+[09/12/2026, 14:22:40] Frances: same!! need to decompress after this finance madness
+[09/12/2026, 14:23:55] You: See you Wednesday evening at 6:30pm!
+[09/12/2026, 14:25:12] Frances: See you then! 👍
+[10/12/2026, 09:30:14] You: Hey Frances, happy Friday! Almost to the weekend!
+[10/12/2026, 10:28:40] Frances: Morning! Finishing up Q4 close early so I can actually enjoy the weekend!
+[10/12/2026, 10:29:55] You: That's amazing! You deserve the break!
+[10/12/2026, 10:31:12] Frances: Right?? Feeling accomplished honestly!
+[11/12/2026, 11:30:15] You: Hey! Happy Sunday! Did you rest well this weekend?
+[11/12/2026, 11:35:40] Frances: So well actually! Went to the pool twice, which was perfect!
+[11/12/2026, 11:38:12] You: That's the dream! You needed that!
+[11/12/2026, 11:41:30] Frances: Absolutely! Ready to finish the final week strong!
+[12/12/2026, 10:28:40] You: Hey Frances! Hope Monday is treating you well!
+[12/12/2026, 10:35:12] Frances: Morning! Final week of audit close starting now. How about you?
+[12/12/2026, 10:38:05] You: Same here! Just pushing through to the holidays!
+[12/12/2026, 10:41:30] Frances: We got this! 💪
+[13/12/2026, 10:28:40] You: Hey! How is Tuesday treating you?
+[13/12/2026, 10:35:12] Frances: Busy but good! Almost to Wednesday swim again!
+[13/12/2026, 10:38:05] You: Yes!! One more day!
+[13/12/2026, 10:41:30] Frances: Can't wait to decompress again!
+[14/12/2026, 11:30:15] You: Hey Frances! Hope you're having a great day!
+[14/12/2026, 11:38:12] You: Keep pushing! Almost to the weekend!
+[14/12/2026, 11:41:30] Frances: Will do! Talk soon! ❤️
+[15/12/2026, 10:28:40] You: Hey Frances! How is Wednesday treating you?
+[15/12/2026, 10:35:12] Frances: Morning! Final big push this week! Almost done though!
+[15/12/2026, 10:38:05] You: Keep that energy going! Almost to the weekend!
+[15/12/2026, 10:41:30] Frances: I know!! 💪
+[16/12/2026, 11:30:15] You: Hey Frances! Happy Thursday! One more day!
+[16/12/2026, 11:35:40] Frances: Morning! Almost there!! So ready for the holiday break!
+[16/12/2026, 11:38:12] You: You deserve it! You've pushed so hard!
+[16/12/2026, 11:41:30] Frances: Thanks! Really looking forward to some downtime! ❤️
+[17/12/2026, 10:28:40] You: Hey Frances! Happy Friday! Ready for the weekend?
+[17/12/2026, 10:35:12] Frances: Absolutely!! Q4 close is officially DONE!!
+[17/12/2026, 10:38:05] You: That's amazing! You crushed it!!
+[17/12/2026, 10:41:30] Frances: Thanks so much!! Enjoy your weekend! ❤️
+[18/12/2026, 10:28:40] You: Hey Frances! Hope you're enjoying your well-deserved break!
+[18/12/2026, 10:35:12] Frances: So much! Just relaxing and swimming. Paradise honestly!
+[18/12/2026, 10:38:05] You: You earned it! Enjoy every moment!
+[18/12/2026, 10:41:30] Frances: Will do! Take care! ❤️
+[14/12/2026, 11:38:12] You: Keep pushing! Almost to the weekend!
+[14/12/2026, 11:41:30] Frances: Will do! Talk soon! ❤️

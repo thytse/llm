@@ -1,240 +1,249 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_2_3: I am studying economics. I enjoy museums.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_2_3: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_2_3: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_2_3: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_2_3: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_2_3: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_2_3: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_2_3: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_2_3: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_2_3: Thanks, I will check and get back to you.
+[21/10/2026, 08:25:12] Yuki: pls tell me Mia actually ate her banana before daycare drop-off 😭
+[21/10/2026, 08:30:05] You: half a banana and three blueberries! counts as a win right?
+[21/10/2026, 08:31:18] Yuki: honestly at age 2 that's a Michelin-star breakfast 😂 thx for doing drop-off today!
+[21/10/2026, 08:32:30] You: np! survive your client pitch in Quarry Bay!
+[21/10/2026, 08:33:45] Yuki: already on my second espresso. being a senior brand designer means explaining why Comic Sans is bad to grown men at 9am lol
+[21/10/2026, 08:35:00] You: haha godspeed! I'll pick Mia up at 5:45pm tonight.
+[21/10/2026, 08:36:12] Yuki: u are the best teammate!! ❤️
+[21/10/2026, 18:40:22] Yuki: leaving the studio now! did Mia survive bath time without flooding the bathroom?
+[21/10/2026, 18:45:10] You: only mild splashing today, she's eating steamed egg and rice now!
+[21/10/2026, 18:46:30] Yuki: miracle!! grabbing roast pork on my way up so neither of us has to cook dinner.
+[21/10/2026, 18:47:45] You: lifesaver! see you in 15 mins!
+[23/10/2026, 13:10:14] Yuki: omg just saw that Tai Kwun opened a new contemporary art and interactive light installation exhibition!! 🎨✨
+[23/10/2026, 13:16:40] You: ooh sounds right up your alley!
+[23/10/2026, 13:18:05] Yuki: YES!! remember pre-baby when I used to spend every weekend at contemporary art galleries, design exhibitions, and M+ installations? I miss having two quiet hours to just stare at art without someone yelling "mama snack!" every 4 minutes 😂
+[23/10/2026, 13:19:30] You: haha fair! we should definitely make sure you get solo gallery time soon.
+[23/10/2026, 13:20:45] Yuki: yes pls!! I also love taking Mia to the kid-friendly interactive rooms at the Science Museum, but I desperately need an adults-only art museum break!
+[23/10/2026, 13:22:00] You: 100% agreed, let's schedule it!
+[25/10/2026, 11:05:18] Yuki: hey just checking — are you taking Mia to the playground downstairs while I fold this mountain of tiny socks?
+[25/10/2026, 11:09:40] You: yup already putting her shoes on! give you an hour of peace.
+[25/10/2026, 11:11:05] Yuki: thank u!! don't let her eat sand again pls lol
+[25/10/2026, 11:12:15] You: that was ONE time!
+[25/10/2026, 11:13:02] Yuki: ...
+[25/10/2026, 11:13:40] Yuki: twice, and once she tried to lick the slide. keep eyes on the toddler 😂
+[25/10/2026, 11:14:30] You: yes ma'am!
+[27/10/2026, 15:20:10] You: Hey Yuki, thinking about our November and December "solo freedom" rotation — which weekend slot works best for your solo museum breaks?
+[27/10/2026, 15:28:45] Yuki: ok let's strategise like pros! weekdays are obviously impossible with design studio deadlines and toddler bedtime. Sundays are usually dim sum with my parents or grocery restocks.
+[27/10/2026, 15:29:50] Yuki: I am usually free on Saturday mornings from 10am to 1pm if you take Mia! Almost never have work or family lunches on Saturday mornings, so that's my sacred solo contemporary art museum window 🎨
+[27/10/2026, 15:31:15] You: Deal! I take Mia Saturday mornings so you can hit M+ or Tai Kwun solo, and then Saturday afternoons I get 2 hours to watch football or nap in peace!
+[27/10/2026, 15:32:40] Yuki: haha look at us negotiating free time like UN diplomats. how did we turn into this uncle and auntie couple?!
+[27/10/2026, 15:34:05] You: Hey speak for yourself, I'm a very cool dad!
+[27/10/2026, 15:35:18] Yuki: says the guy who cheered when he found $10 off laundry detergent at Wellcome yesterday 😂
+[27/10/2026, 15:36:30] You: That was a genuinely good deal!! Anyway, let's lock in Saturday 14 November morning for Tai Kwun, and Saturday 5 December morning for the new M+ design exhibition!
+[27/10/2026, 15:38:02] Yuki: LOCKED IN!! putting both Saturday 14 Nov and Saturday 5 Dec in our shared calendar in bold caps!!
+[29/10/2026, 20:15:30] Yuki: hey random reminder — Mia's daycare needs 2 passport photos by Monday for her student card.
+[29/10/2026, 20:20:12] You: Already took a clean photo against the white wall this evening and ordered the prints at the Kodak shop downstairs! Picking them up tomorrow morning.
+[29/10/2026, 20:22:05] Yuki: WAIT WHAT?! you did it without me even nagging you?!
+[29/10/2026, 20:23:18] You: Trying to level up my teammate game!
+[29/10/2026, 20:24:40] Yuki: honestly that is hotter than buying me roses rn 😂 thank u!!
+[29/10/2026, 20:25:30] You: haha noted, Kodak prints > roses!
+[31/10/2026, 17:10:05] Yuki: Mia refuses to take off her pumpkin costume even though trick-or-treating at the clubhouse ended an hour ago lol
+[31/10/2026, 17:15:22] You: Haha let her eat dinner as a pumpkin, pick your battles! I'm grabbing takeaway sushi on my way home.
+[31/10/2026, 17:16:40] Yuki: smart dad. grab extra salmon nigiri for me pls!
+[31/10/2026, 17:17:50] You: Already in the bag!
+[03/11/2026, 14:10:15] Yuki: ugh work is a circus today. client wants 5 new packaging mockups by 6pm AND Mia's daycare just texted saying she has a tiny runny nose.
+[03/11/2026, 14:16:30] You: No stress! My afternoon is lighter — I'll leave at 4:45pm, pick Mia up early, and grab saline spray and soup on the way home so you can finish your mockups.
+[03/11/2026, 14:18:12] Yuki: OMG lifesaver!! thank u so much, I owe you big time!!
+[03/11/2026, 14:19:40] You: We're a team, don't worry about it!
+[05/11/2026, 21:30:18] You: Mia's nose is totally clear tonight and she's knocked out!
+[05/11/2026, 21:35:05] Yuki: phew!! finally can sit on the sofa without holding a tissue box. want to split a cold beer and watch one episode of that design show?
+[05/11/2026, 21:36:20] You: 100% yes, pouring two glasses now!
+[08/11/2026, 16:40:12] Yuki: thanks for taking Mia to the Hong Kong Science Museum today! she literally fell asleep on the bus home talking about the bubble machine 😂
+[08/11/2026, 16:45:30] You: That interactive mirror room tired her out completely! Best $20 spent all week.
+[08/11/2026, 16:47:05] Yuki: agreed! family museum outings are cute, though I'm still counting down to my solo Tai Kwun escape next Saturday!
+[08/11/2026, 16:48:20] You: Six more days!
+[10/11/2026, 19:20:05] Yuki: hey just got home and opened the cupboard...
+[10/11/2026, 19:20:30] Yuki: ...
+[10/11/2026, 19:21:12] Yuki: did you seriously forget to order Mia's overnight diapers on HKTVmall again?! there are literally TWO left!
+[10/11/2026, 19:25:40] You: Oh shoot!! I put them in the cart on Monday and forgot to hit checkout before my meeting!
+[10/11/2026, 19:27:15] Yuki: ugh I literally reminded you twice on Sunday! I am working 10-hour days on this brand re-launch AND tracking every single baby item in this house!
+[10/11/2026, 19:28:30] Yuki: whatever, I'll walk down to Mannings myself right now before they close.
+[10/11/2026, 19:30:05] You: Hey wait, don't go out! I'm literally 10 minutes from home, I'll stop by Mannings on my way up right now and grab two jumbo packs!
+[10/11/2026, 19:32:18] Yuki: fine. Size L overnight pants, the green pack, NOT the blue tape ones.
+[10/11/2026, 19:33:40] You: Size L overnight pants, green pack. And I'm ordering a monthly subscription box tonight so we never run out again. Sorry for dropping the ball today.
+[10/11/2026, 19:37:05] Yuki: ...okay. thanks.
+[10/11/2026, 22:15:22] Yuki: hey, sorry I snapped so hard about the diapers earlier. I've been running on 5 hours of sleep all week and my brain just exploded when I saw the empty shelf.
+[10/11/2026, 22:18:40] You: Totally fair, I genuinely forgot to hit checkout and you've been carrying a ton at work this week! We're good!
+[10/11/2026, 22:20:15] Yuki: thx for grabbing the right green pack AND setting up the auto-delivery haha. u really do step up when it counts ❤️
+[10/11/2026, 22:21:30] You: Always! Now put your phone down and go to sleep!
+[10/11/2026, 22:22:15] Yuki: yes sir!
+[12/11/2026, 12:30:10] Yuki: counting down to Saturday 14 November!! 48 hours until I walk through Tai Kwun with a quiet iced flat white and ZERO diaper bags!! ☕🎨
+[12/11/2026, 12:35:45] You: Haha I already planned Mia's morning — park, library, and egg waffles, so you get a full 3 hours uninterrupted!
+[12/11/2026, 12:37:12] Yuki: u are officially husband of the year! and I promise you get the whole afternoon from 2pm to 5pm to watch the Premier League match in complete silence!
+[12/11/2026, 12:38:30] You: Deal!!
+[14/11/2026, 12:45:10] Yuki: OMG THAT TAI KWUN EXHIBITION WAS PURE HEAVEN!! spent two whole hours staring at contemporary sculptures and didn't hear Baby Shark once!! ✨
+[14/11/2026, 12:50:22] You: Haha glad you recharged!! Mia just finished her pasta and is ready for her nap.
+[14/11/2026, 12:51:40] Yuki: grabbing two iced lattes and pastries from Bakehouse on my way home! your turn to be off-duty at 2pm!
+[14/11/2026, 12:53:05] You: Best trade system ever! See you soon!
+[16/11/2026, 14:20:18] Yuki: hey random question — did you see that our neighbour's toddler started swimming lessons? should we sign Mia up in spring?
+[16/11/2026, 14:26:40] You: Sure, once the weather warms up! No rush right now.
+[16/11/2026, 14:28:05] Yuki: agreed, already enough weekend logistics as it is lol
+[18/11/2026, 15:10:22] Yuki: ugh hey bad news about our early December weekend schedule :(
+[18/11/2026, 15:14:30] You: Saturday 5 December? What happened?
+[18/11/2026, 15:16:05] Yuki: Mia's playgroup just sent out the notice — their mandatory Winter Showcase and Parent-Child Art Workshop is on Saturday 5 December from 9:30am to 12:30pm, and both parents are supposed to attend!
+[18/11/2026, 15:17:15] Yuki: AND my mom is in Osaka that week so we have zero backup babysitters. I hate cancelling on a Saturday morning since I'm normally free Saturday mornings for my solo museum breaks, so I have to cancel my Saturday 5 December M+ design exhibition completely 😭
+[18/11/2026, 15:19:02] You: Aww no!! I know how much you were looking forward to M+! Let's definitely move your solo M+ morning to Saturday 12 December instead, and I'll give you an extra hour!
+[18/11/2026, 15:20:40] Yuki: ugh fine, Mia singing Jingle Bells in a reindeer hat is technically a form of performance art I guess 😂 Saturday 12 December it is!!
+[18/11/2026, 15:22:05] You: Haha peak avant-garde theatre! Locked in for 12 Dec!
+[20/11/2026, 17:45:12] Yuki: TGIF!! survived client re-launch week!! 🎉
+[20/11/2026, 17:50:30] You: Woohoo!! Let's celebrate with takeaway Thai food once Mia is asleep tonight!
+[20/11/2026, 17:51:45] Yuki: yesss pad see ew and mango sticky rice pls!!
+[20/11/2026, 17:53:00] You: Ordering now!
+[21/11/2026, 10:20:05] Yuki: morning! thx for letting me sleep til 9am today, felt like a whole spa vacation 😂
+[21/11/2026, 10:24:30] You: Anytime! Mia and I are making pancakes, come out whenever you're ready!
+[21/11/2026, 10:25:45] Yuki: smelling pancakes already, coming out in 2 mins!! ❤️
+[22/11/2026, 11:30:15] You: Morning! How is Saturday treating you so far?
+[22/11/2026, 11:35:40] Yuki: Mia just discovered how to open the bathroom cabinet so I'm on full toddler patrol mode 😅
+[22/11/2026, 11:38:12] You: Haha oh no! Did she find anything dangerous?
+[22/11/2026, 11:41:30] Yuki: just hair clips and towels, but definitely need to baby-proof more aggressively. This kid is getting faster every day!
+[23/11/2026, 14:20:18] You: Hey love, work is finally calming down a bit! How was Mia's daycare this week?
+[23/11/2026, 14:28:40] Yuki: She's been super clingy since we switched her to the 10-hour days last month, but her teacher says she's making good friends in the music circle time
+[23/11/2026, 14:31:12] You: That's good! She'll adjust as she gets more comfortable with the routine.
+[23/11/2026, 14:33:50] Yuki: I know, I just hate being the working parent who drops her off, it tugs at my heart every single time
+[24/11/2026, 10:15:30] You: By the way, did you get the Winter Showcase playgroup email? 5 December, right?
+[24/11/2026, 10:22:40] Yuki: Yes! Already marked it down. Mia is so excited she keeps asking if Santa will be there 😂
+[24/11/2026, 10:25:15] You: She's going to love it! Should we bring anything or just show up?
+[24/11/2026, 10:28:30] Yuki: The teacher said just bring snacks for sharing and energy! I'm already mentally preparing costume ideas for her.
+[25/11/2026, 18:40:12] You: Coming home now! Ready for the weekend?
+[25/11/2026, 18:48:30] Yuki: beyond ready, work was absolutely mental this week. Mia is running around like she has infinite batteries too
+[25/11/2026, 18:51:15] You: Why don't you take tomorrow morning solo museum time and I'll do full Mia duty? You look exhausted.
+[25/11/2026, 18:54:40] Yuki: are you sure? I was going to reschedule M+ for a different Saturday...
+[25/11/2026, 18:57:05] You: Completely sure! Get out of here and go recharge. We've got Mia covered.
+[25/11/2026, 18:59:30] Yuki: You're the best!! I'll head out around 10:30am and be back by 1pm! ❤️
+[26/11/2026, 11:20:08] You: Morning! Mia is having an extra-long breakfast, we're in no rush.
+[26/11/2026, 11:28:30] Yuki: having the MOST peaceful morning at M+, thank you so much for forcing me to take this! The contemporary design section is incredible
+[26/11/2026, 11:31:12] You: So happy you're enjoying it! Mia and I are heading to the park in a bit.
+[26/11/2026, 11:33:50] Yuki: can I request French toast for lunch when I get back? 🥐
+[26/11/2026, 11:36:20] You: Already have the ingredients ready!
+[27/11/2026, 14:15:30] You: Hey babe, thinking about early December schedule — Mia's Winter Showcase is Saturday 5 December 9:30am-12:30pm, right?
+[27/11/2026, 14:22:40] Yuki: yes and I'm already stressed about how to do her hair in a cute reindeer bun lol. YouTube tutorials incoming 😂
+[27/11/2026, 14:25:18] You: We'll figure it out together! But that means no solo M+ time on 5 December obviously.
+[27/11/2026, 14:28:05] Yuki: yeah, disappointing but Mia's performance comes first. We locked in Saturday 12 December for my makeup museum time right?
+[27/11/2026, 14:30:40] You: 100% confirmed. Saturday 12 December you get the full solo gallery experience.
+[28/11/2026, 09:30:14] You: Morning! How is Sunday treating you?
+[28/11/2026, 09:38:40] Yuki: lazy morning, Mia is napping on me right now which is rare these days
+[28/11/2026, 09:41:12] You: Those moments are precious! Enjoy it ❤️
+[28/11/2026, 09:43:50] Yuki: I am, being fully present in the cuddles
+[29/11/2026, 10:20:08] You: Hey, the grocery delivery says they're out of Mia's favorite yogurt tubes. Want me to run to Mannings instead?
+[29/11/2026, 10:28:30] Yuki: oh no, she's going to have a meltdown! Yes please grab some if you're passing by anyway
+[29/11/2026, 10:31:12] You: Already on it, will pick up her snack box too!
+[29/11/2026, 10:33:50] Yuki: hero move!! thank you ❤️
+[30/11/2026, 11:15:22] You: Morning! Hope you got good sleep last night!
+[30/11/2026, 11:22:40] Yuki: Mia woke up at 5:30am so sleep was a generous term 😂 but coffee is helping
+[30/11/2026, 11:25:15] You: That's rough! Want me to take her to the park this afternoon so you can nap?
+[30/11/2026, 11:28:30] Yuki: would be absolutely amazing honestly, I'm running on fumes
+[30/11/2026, 11:31:05] You: Done! Park around 2pm?
+[30/11/2026, 11:33:50] Yuki: perfect ❤️
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well!
+[01/12/2026, 10:28:30] Yuki: haha Monday chaos but Mia survived the first day back! how are you?
+[01/12/2026, 10:31:12] You: Same here, just getting through the week. Excited for the Winter Showcase!
+[01/12/2026, 10:33:50] Yuki: SO excited honestly. already got Mia's reindeer ears ready!
+[02/12/2026, 14:15:30] You: By the way, have you thought about what songs Mia will be singing at the Showcase?
+[02/12/2026, 14:22:40] Yuki: oh yeah her teacher sent the setlist! mostly holiday classics which Mia is obsessed with
+[02/12/2026, 14:25:18] You: That will be so cute to watch! She's going to love being on stage!
+[02/12/2026, 14:28:05] Yuki: literally been practising at home non-stop haha. I'm ready to be a proud parent!
+[03/12/2026, 09:30:14] You: Morning! How is Tuesday treating you?
+[03/12/2026, 09:38:40] Yuki: good morning! just making sure I have the camera charged for Saturday's Showcase
+[03/12/2026, 09:41:12] You: Good thinking! Want to do a practice run on the camera settings?
+[03/12/2026, 09:43:50] Yuki: nah you got this! we'll get great shots!
+[04/12/2026, 10:15:30] You: Morning! How is Wednesday treating you?
+[04/12/2026, 10:28:30] Yuki: busy design day at the studio but mind is half on Saturday already haha
+[04/12/2026, 10:31:12] You: Same! Just two more days til the big performance!
+[04/12/2026, 10:33:50] Yuki: cannot wait honestly. this Showcase is going to be so special
+[05/12/2026, 11:35:08] You: Final countdown! Just one more day til Friday 4 December!
+[05/12/2026, 14:22:40] Yuki: Mia woke up at 6am from pure excitement haha. we're definitely ready!
+[05/12/2026, 14:23:55] You: Perfect! See you at the playgroup at 9:30am tomorrow!
+[05/12/2026, 14:25:12] Yuki: see you then! get some sleep tonight ❤️
+[06/12/2026, 09:30:14] You: Good morning! Hope you're feeling ready for today!
+[06/12/2026, 10:20:30] Yuki: Morning! Mia is already up bouncing around, she can't wait!
+[06/12/2026, 10:22:45] You: Haha energy for days! I'll be there by 9:15am
+[06/12/2026, 10:24:12] Yuki: Perfect! I have her costume all ready to go ❤️
+[06/12/2026, 10:25:30] You: This is going to be so special. See you soon!
+[06/12/2026, 13:40:08] You: Just left the Showcase! That was incredible!!
+[06/12/2026, 13:48:30] Yuki: Mia had the BEST time!! She was so proud of herself on stage
+[06/12/2026, 13:50:15] You: The reindeer dance was adorable! Did you get good photos?
+[06/12/2026, 13:51:42] Yuki: so many!! I'm going to have a hard time choosing which ones to keep haha
+[06/12/2026, 13:53:00] You: Can't wait to see them! Grabbing takeaway for dinner?
+[06/12/2026, 13:54:30] Yuki: YES please!! Mia is exhausted and I am STARVING haha
+[07/12/2026, 10:20:08] You: Hope you're having a good Sunday morning!
+[07/12/2026, 10:28:30] Yuki: Lazy morning after all that excitement yesterday. Mia is napping now
+[07/12/2026, 10:31:12] You: Well deserved rest for everyone!
+[07/12/2026, 10:33:50] Yuki: Definitely. I'm thinking of meal prepping some easy lunches for this week
+[08/12/2026, 09:30:14] You: Morning babe! Ready to tackle Monday?
+[08/12/2026, 10:28:40] Yuki: As ready as one can be on a Monday haha. How was your morning?
+[08/12/2026, 10:29:55] You: Same old, same old! But only four days til your solo M+ time on Saturday!
+[08/12/2026, 10:31:12] Yuki: Oh that's right!! I'm already looking forward to it!
+[09/12/2026, 11:35:08] You: One more day til you get your gallery time! Any exhibition catches your eye?
+[09/12/2026, 14:22:40] Yuki: There's this amazing new installation on spatial design I've been wanting to see!
+[09/12/2026, 14:23:55] You: Perfect! Full day of art and coffee awaits!
+[09/12/2026, 14:25:12] Yuki: Can't wait honestly ❤️
+[10/12/2026, 09:30:14] You: Good morning! Ready for my Mia duty so you can escape?
+[10/12/2026, 10:28:40] Yuki: Good morning!! Yes please! We're going to the park and then maybe dim sum!
+[10/12/2026, 10:29:55] You: Perfect day planned! You just relax at M+
+[10/12/2026, 10:31:12] Yuki: Thank you so much ❤️ See you at 10am!
+[11/12/2026, 11:30:15] You: Hey! How was your solo gallery morning?
+[11/12/2026, 11:35:40] Yuki: AMAZING!! That spatial installation was mind-blowing honestly
+[11/12/2026, 11:38:12] You: I'm so glad you got that recharge time!
+[11/12/2026, 11:41:30] Yuki: Me too! I really needed that creative reset
+[22/11/2026, 11:30:15] You: Morning! How is Saturday treating you so far?
+[22/11/2026, 11:35:40] Yuki: Mia just discovered how to open the bathroom cabinet so I'm on full toddler patrol mode 😅
+[22/11/2026, 11:38:12] You: Haha oh no! Did she find anything dangerous?
+[22/11/2026, 11:41:30] Yuki: just hair clips and towels, but definitely need to baby-proof more aggressively. This kid is getting faster every day!
+[23/11/2026, 14:20:18] You: Hey love, work is finally calming down a bit! How was Mia's daycare this week?
+[23/11/2026, 14:28:40] Yuki: She's been super clingy since we switched her to the 10-hour days last month, but her teacher says she's making good friends in the music circle time
+[23/11/2026, 14:31:12] You: That's good! She'll adjust as she gets more comfortable with the routine.
+[23/11/2026, 14:33:50] Yuki: I know, I just hate being the working parent who drops her off, it tugs at my heart every single time
+[24/11/2026, 10:15:30] You: By the way, did you get the Winter Showcase playgroup email? 5 December, right?
+[24/11/2026, 10:22:40] Yuki: Yes! Already marked it down. Mia is so excited she keeps asking if Santa will be there 😂
+[24/11/2026, 10:25:15] You: She's going to love it! Should we bring anything or just show up?
+[24/11/2026, 10:28:30] Yuki: The teacher said just bring snacks for sharing and energy! I'm already mentally preparing costume ideas for her.
+[25/11/2026, 18:40:12] You: Coming home now! Ready for the weekend?
+[25/11/2026, 18:48:30] Yuki: beyond ready, work was absolutely mental this week. Mia is running around like she has infinite batteries too
+[25/11/2026, 18:51:15] You: Why don't you take tomorrow morning solo museum time and I'll do full Mia duty? You look exhausted.
+[25/11/2026, 18:54:40] Yuki: are you sure? I was going to reschedule M+ for a different Saturday...
+[25/11/2026, 18:57:05] You: Completely sure! Get out of here and go recharge. We've got Mia covered.
+[25/11/2026, 18:59:30] Yuki: You're the best!! I'll head out around 10:30am and be back by 1pm! ❤️
+[26/11/2026, 11:20:08] You: Morning! Mia is having an extra-long breakfast, we're in no rush.
+[26/11/2026, 11:28:30] Yuki: having the MOST peaceful morning at M+, thank you so much for forcing me to take this! The contemporary design section is incredible
+[26/11/2026, 11:31:12] You: So happy you're enjoying it! Mia and I are heading to the park in a bit.
+[26/11/2026, 11:33:50] Yuki: can I request French toast for lunch when I get back? 🥐
+[26/11/2026, 11:36:20] You: Already have the ingredients ready!
+[27/11/2026, 14:15:30] You: Hey babe, thinking about early December schedule — Mia's Winter Showcase is Saturday 5 December 9:30am-12:30pm, right?
+[27/11/2026, 14:22:40] Yuki: yes and I'm already stressed about how to do her hair in a cute reindeer bun lol. YouTube tutorials incoming 😂
+[27/11/2026, 14:25:18] You: We'll figure it out together! But that means no solo M+ time on 5 December obviously.
+[27/11/2026, 14:28:05] Yuki: yeah, disappointing but Mia's performance comes first. We locked in Saturday 12 December for my makeup museum time right?
+[27/11/2026, 14:30:40] You: 100% confirmed. Saturday 12 December you get the full solo gallery experience.
+[28/11/2026, 09:30:14] You: Morning! How is Sunday treating you?
+[28/11/2026, 09:38:40] Yuki: lazy morning, Mia is napping on me right now which is rare these days
+[28/11/2026, 09:41:12] You: Those moments are precious! Enjoy it ❤️
+[28/11/2026, 09:43:50] Yuki: I am, being fully present in the cuddles
+[29/11/2026, 10:20:08] You: Hey, the grocery delivery says they're out of Mia's favorite yogurt tubes. Want me to run to Mannings instead?
+[29/11/2026, 10:28:30] Yuki: oh no, she's going to have a meltdown! Yes please grab some if you're passing by anyway
+[29/11/2026, 10:31:12] You: Already on it, will pick up her snack box too!
+[29/11/2026, 10:33:50] Yuki: hero move!! thank you ❤️
+[30/11/2026, 11:15:22] You: Morning! Hope you got good sleep last night!
+[30/11/2026, 11:22:40] Yuki: Mia woke up at 5:30am so sleep was a generous term 😂 but coffee is helping
+[30/11/2026, 11:25:15] You: That's rough! Want me to take her to the park this afternoon so you can nap?
+[30/11/2026, 11:28:30] Yuki: would be absolutely amazing honestly, I'm running on fumes
+[30/11/2026, 11:31:05] You: Done! Park around 2pm?
+[30/11/2026, 11:33:50] Yuki: perfect ❤️
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well!
+[01/12/2026, 10:28:30] Yuki: haha Monday chaos but Mia survived the first day back! how are you?
+[01/12/2026, 10:31:12] You: Same here, just getting through the week. Excited for the Winter Showcase this Saturday!
+[01/12/2026, 10:33:50] Yuki: SO excited honestly. already got Mia's reindeer ears ready!
+[02/12/2026, 14:15:30] You: By the way, have you thought about what songs Mia will be singing at the Showcase?
+[02/12/2026, 14:22:40] Yuki: oh yeah her teacher sent the setlist! mostly holiday classics which Mia is obsessed with
+[02/12/2026, 14:25:18] You: That will be so cute to watch! She's going to love being on stage!
+[02/12/2026, 14:28:05] Yuki: literally been practising at home non-stop haha. I'm ready to be a proud parent!
+[03/12/2026, 09:30:14] You: Morning! How is Tuesday treating you?
+[03/12/2026, 09:38:40] Yuki: good morning! just making sure I have the camera charged for Saturday's Showcase
+[03/12/2026, 09:41:12] You: Good thinking! Want to do a practice run on the camera settings?
+[03/12/2026, 09:43:50] Yuki: nah you got this! we'll get great shots!
+[04/12/2026, 10:15:30] You: Morning! How is Wednesday treating you?
+[04/12/2026, 10:28:30] Yuki: busy design day at the studio but mind is half on Saturday already haha
+[04/12/2026, 10:31:12] You: Same! Just two more days til the big performance!
+[04/12/2026, 10:33:50] Yuki: cannot wait honestly. this Showcase is going to be so special
+[05/12/2026, 11:35:08] You: Can't believe Showcase is tomorrow! Are you ready for performance day?
+[05/12/2026, 14:22:40] Yuki: Mia woke up at 6am from pure excitement haha. we're definitely ready!
+[05/12/2026, 14:23:55] You: Perfect! See you at the playgroup at 9:30am tomorrow!
+[05/12/2026, 14:25:12] Yuki: see you then! get some sleep tonight ❤️

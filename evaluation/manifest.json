@@ -1,1855 +1,2798 @@
 {
   "schema": "undertone-corpus-v1",
-  "status": "DRAFT_NOT_FROZEN",
-  "limitations": "Template-generated seed corpus; not independently annotated or validated. Network tasks need multi-person expansion before approval. Review near-duplicates and split leakage before freezing.",
+  "status": "DRAFT_PENDING_FREEZE",
+  "limitations": "Human-authored persona design matrix with AI-generated synthetic conversations. 24 personas across 4 relationship settings (Work/Friendship/Dating/Partnership) × 2 development / 4 test splits. Scenario families disjoint to prevent leakage. Questions template-generated; requires human review and annotation.",
+  "created_date": "2026-11-21T17:13:43.645Z",
+  "team_contribution": "Personas and corpus structure designed by evaluation team; AI-generated conversations based on persona backgrounds and contradictions",
   "histories": [
-    {
-      "id": "development-friendship-1",
-      "split": "development",
-      "setting": "friendship",
-      "scenario_family": "development-friendship-indie films",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_0_0",
-      "relationship": "friendship",
-      "file": "development-friendship-1.txt",
-      "messages": 240,
-      "sha256": "e88708161175de7773d6d66d1a1c016dc3772360ee3afedf6a502bdcd1d4e824",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_0_0 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_0_0 join a indie films outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_0_0 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_0_0 and another person to indie films?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_0_0 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "development-friendship-2",
-      "split": "development",
-      "setting": "friendship",
-      "scenario_family": "development-friendship-indie films",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_0_1",
-      "relationship": "friendship",
-      "file": "development-friendship-2.txt",
-      "messages": 240,
-      "sha256": "b4cf0f6dd891091c7396023988404a76f963a40767e3aeb725bc94f73c61a0b8",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_0_1 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_0_1 join a indie films outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_0_1 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_0_1 and another person to indie films?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_0_1 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "test-friendship-3",
-      "split": "test",
-      "setting": "friendship",
-      "scenario_family": "test-friendship-hiking",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_0_2",
-      "relationship": "friendship",
-      "file": "test-friendship-3.txt",
-      "messages": 240,
-      "sha256": "394483c693a37e61a91619984d72691aae1165316f6f4eb0eeafa8fbc8193adc",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_0_2 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_0_2 join a hiking outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_0_2 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_0_2 and another person to hiking?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_0_2 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "test-friendship-4",
-      "split": "test",
-      "setting": "friendship",
-      "scenario_family": "test-friendship-hiking",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_0_3",
-      "relationship": "friendship",
-      "file": "test-friendship-4.txt",
-      "messages": 240,
-      "sha256": "7565c860c54e5c08ad2352eae104a837ebca15c40378414116b349b4ce64f2c6",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_0_3 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_0_3 join a hiking outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_0_3 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_0_3 and another person to hiking?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_0_3 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "test-friendship-5",
-      "split": "test",
-      "setting": "friendship",
-      "scenario_family": "test-friendship-hiking",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_0_4",
-      "relationship": "friendship",
-      "file": "test-friendship-5.txt",
-      "messages": 240,
-      "sha256": "033097d63864810b707273b964600967586bb428b2e3b85108baa656ae8cd699",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_0_4 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_0_4 join a hiking outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_0_4 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_0_4 and another person to hiking?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_0_4 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "test-friendship-6",
-      "split": "test",
-      "setting": "friendship",
-      "scenario_family": "test-friendship-hiking",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_0_5",
-      "relationship": "friendship",
-      "file": "test-friendship-6.txt",
-      "messages": 240,
-      "sha256": "303b06ede4e5dc4c03c1f5c66c34ce0677df613eab08362c988acc09bbe7a811",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_0_5 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_0_5 join a hiking outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_0_5 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_0_5 and another person to hiking?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_0_5 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "development-dating-1",
-      "split": "development",
-      "setting": "dating",
-      "scenario_family": "development-dating-jazz",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_1_0",
-      "relationship": "dating",
-      "file": "development-dating-1.txt",
-      "messages": 240,
-      "sha256": "44b40209c7361ad4a5b59a8e0e943cae64753dea55eb94d1c521bef195901352",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_1_0 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_1_0 join a jazz outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_1_0 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_1_0 and another person to jazz?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_1_0 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "development-dating-2",
-      "split": "development",
-      "setting": "dating",
-      "scenario_family": "development-dating-jazz",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_1_1",
-      "relationship": "dating",
-      "file": "development-dating-2.txt",
-      "messages": 240,
-      "sha256": "4305c0757c06bbb7ccdffa4c7e75d9630c451ea774ef396957209de09a401f0e",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_1_1 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_1_1 join a jazz outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_1_1 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_1_1 and another person to jazz?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_1_1 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "test-dating-3",
-      "split": "test",
-      "setting": "dating",
-      "scenario_family": "test-dating-photography",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_1_2",
-      "relationship": "dating",
-      "file": "test-dating-3.txt",
-      "messages": 240,
-      "sha256": "a47ae5b6398078e3ce9983a9dd79159c917a5eb444f3f90f44253bb8d6f040c5",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_1_2 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_1_2 join a photography outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_1_2 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_1_2 and another person to photography?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_1_2 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "test-dating-4",
-      "split": "test",
-      "setting": "dating",
-      "scenario_family": "test-dating-photography",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_1_3",
-      "relationship": "dating",
-      "file": "test-dating-4.txt",
-      "messages": 240,
-      "sha256": "1b99a207c406cd4b19c509ba9d3e1cd8c47d374e5c374e70606cfa2a3afd6be6",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_1_3 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_1_3 join a photography outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_1_3 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_1_3 and another person to photography?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_1_3 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "test-dating-5",
-      "split": "test",
-      "setting": "dating",
-      "scenario_family": "test-dating-photography",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_1_4",
-      "relationship": "dating",
-      "file": "test-dating-5.txt",
-      "messages": 240,
-      "sha256": "7c36300f0d772ccb86f35a0897e37dc4d798437fc0abe48b19099c7dd7c5e07a",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_1_4 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_1_4 join a photography outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_1_4 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_1_4 and another person to photography?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_1_4 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "test-dating-6",
-      "split": "test",
-      "setting": "dating",
-      "scenario_family": "test-dating-photography",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_1_5",
-      "relationship": "dating",
-      "file": "test-dating-6.txt",
-      "messages": 240,
-      "sha256": "c57912c7adfb4198b2cd4e81d7c926c25eb9ae6b1e6286564ed69e8543f2cf23",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_1_5 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_1_5 join a photography outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_1_5 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_1_5 and another person to photography?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_1_5 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "development-partnership-1",
-      "split": "development",
-      "setting": "partnership",
-      "scenario_family": "development-partnership-cooking",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_2_0",
-      "relationship": "partnership",
-      "file": "development-partnership-1.txt",
-      "messages": 240,
-      "sha256": "adde5a3b376d6704dc2553ac7459e466fe3822dd080c1017ba4c271764a16926",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_2_0 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_2_0 join a cooking outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_2_0 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_2_0 and another person to cooking?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_2_0 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "development-partnership-2",
-      "split": "development",
-      "setting": "partnership",
-      "scenario_family": "development-partnership-cooking",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_2_1",
-      "relationship": "partnership",
-      "file": "development-partnership-2.txt",
-      "messages": 240,
-      "sha256": "11bb8c5725ffe8a348750cb0d187907f68a0fa39a7dc00e985f5d34a18cac644",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_2_1 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_2_1 join a cooking outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_2_1 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_2_1 and another person to cooking?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_2_1 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "test-partnership-3",
-      "split": "test",
-      "setting": "partnership",
-      "scenario_family": "test-partnership-museums",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_2_2",
-      "relationship": "partnership",
-      "file": "test-partnership-3.txt",
-      "messages": 240,
-      "sha256": "e1e224ca829d8152ef508a46863e932d5e0a090093793b1f8fcd4bd56c8e5294",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_2_2 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_2_2 join a museums outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_2_2 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_2_2 and another person to museums?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_2_2 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "test-partnership-4",
-      "split": "test",
-      "setting": "partnership",
-      "scenario_family": "test-partnership-museums",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_2_3",
-      "relationship": "partnership",
-      "file": "test-partnership-4.txt",
-      "messages": 240,
-      "sha256": "8561f54bc821ec0d89a36606f369db29c79964766fe21e7235027adb4a17df49",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_2_3 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_2_3 join a museums outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_2_3 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_2_3 and another person to museums?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_2_3 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "test-partnership-5",
-      "split": "test",
-      "setting": "partnership",
-      "scenario_family": "test-partnership-museums",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_2_4",
-      "relationship": "partnership",
-      "file": "test-partnership-5.txt",
-      "messages": 240,
-      "sha256": "08c6474906e87091c1d9a67c93de7e3782887a4a2a0e37998d9559a14f2c1c1f",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_2_4 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_2_4 join a museums outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_2_4 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_2_4 and another person to museums?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_2_4 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
-    {
-      "id": "test-partnership-6",
-      "split": "test",
-      "setting": "partnership",
-      "scenario_family": "test-partnership-museums",
-      "author": "AI-generated; human history owner unassigned",
-      "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_2_5",
-      "relationship": "partnership",
-      "file": "test-partnership-6.txt",
-      "messages": 240,
-      "sha256": "3f832c5ab658447517d37b6d52e67818b38182514a2f8c344fab8e40d6be9711",
-      "questions": [
-        {
-          "id": "fact",
-          "question": "What did Person_2_5 say they study?",
-          "answerable": true,
-          "essential": [
-            "Self-reported economics study"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "distributed",
-          "question": "Could Person_2_5 join a museums outing on Wednesday 25 November?",
-          "answerable": true,
-          "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
-          ],
-          "evidence_lines": [
-            6,
-            54,
-            174
-          ]
-        },
-        {
-          "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_2_5 is avoiding me?",
-          "answerable": true,
-          "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
-          ],
-          "evidence_lines": [
-            174,
-            186
-          ]
-        },
-        {
-          "id": "network",
-          "question": "What should I check before inviting Person_2_5 and another person to museums?",
-          "answerable": true,
-          "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
-          ],
-          "evidence_lines": [
-            6
-          ]
-        },
-        {
-          "id": "underdetermined",
-          "question": "What gift does Person_2_5 secretly want me to buy?",
-          "answerable": false,
-          "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
-          ],
-          "evidence_lines": []
-        }
-      ]
-    },
     {
       "id": "development-work-1",
       "split": "development",
       "setting": "work",
-      "scenario_family": "development-work-board games",
-      "author": "AI-generated; human history owner unassigned",
+      "scenario_family": "development-work-hot-yoga",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
       "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_3_0",
-      "relationship": "work",
+      "name": "Veronica",
+      "relationship": "work-colleague",
       "file": "development-work-1.txt",
-      "messages": 240,
-      "sha256": "137fdd0ef56d6378a8fb82c7333df7be81d5416f7e7d8ec07daa39259bed99fc",
+      "messages": 207,
+      "sha256": "0719e219ea6e564c6953ee429901906e92837c5cc554e1092a7fd41d0a10e406",
       "questions": [
         {
           "id": "fact",
-          "question": "What did Person_3_0 say they study?",
+          "question": "What is the approximate price of the Celine Triomphe bag Veronica told me she purchased in early November?",
           "answerable": true,
           "essential": [
-            "Self-reported economics study"
+            "Celine Triomphe bag purchase",
+            "price",
+            "black calfskin with gold hardware"
           ],
           "evidence_lines": [
-            6
+            84,
+            85,
+            86
           ]
         },
         {
           "id": "distributed",
-          "question": "Could Person_3_0 join a board games outing on Wednesday 25 November?",
+          "question": "How do Veronica's spending patterns on personal luxuries connect to her attitude toward our work deadlines and client expectations?",
           "answerable": true,
           "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
+            "spending habits",
+            "work performance",
+            "client dinners",
+            "portfolio reviews"
           ],
           "evidence_lines": [
-            6,
-            54,
-            174
+            84,
+            85,
+            91,
+            127,
+            128,
+            129,
+            180,
+            181
           ]
         },
         {
           "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_3_0 is avoiding me?",
+          "question": "When Veronica tells me 'I'd rather enjoy life now while I can' regarding her spending, what underlying assumption is she making about her future?",
           "answerable": true,
           "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
+            "family obligations",
+            "future plans",
+            "life philosophy",
+            "single status"
           ],
           "evidence_lines": [
-            174,
-            186
+            88,
+            89,
+            90
           ]
         },
         {
           "id": "network",
-          "question": "What should I check before inviting Person_3_0 and another person to board games?",
+          "question": "What is my professional relationship with Veronica, and how do we navigate competing loyalty when workplace drama affects our friendship?",
           "answerable": true,
           "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
+            "workplace relationship",
+            "gossip sharing",
+            "Kevin and Chloe breakup",
+            "Chloe's resignation"
           ],
           "evidence_lines": [
-            6
+            4,
+            5,
+            6,
+            7,
+            168,
+            169,
+            170
           ]
         },
         {
           "id": "underdetermined",
-          "question": "What gift does Person_3_0 secretly want me to buy?",
+          "question": "Why does Veronica specifically choose omakase and Michelin restaurants as her go-to celebration meals with me rather than other luxury experiences?",
           "answerable": false,
           "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
+            "dining preferences",
+            "luxury preferences",
+            "personality values",
+            "life philosophy"
           ],
-          "evidence_lines": []
+          "evidence_lines": [
+            91,
+            92,
+            129,
+            130
+          ]
         }
-      ]
+      ],
+      "key_traits": [
+        "Ambitious wealth management professional",
+        "High-spending lifestyle (luxury bags, omakase, Tokyo trips)",
+        "Gossip-driven and socially engaged",
+        "Balances work performance with luxury leisure",
+        "Single, independent, no family obligations"
+      ],
+      "core_story": "Veronica thrives on high-performance banking work while maintaining an extravagant lifestyle, openly buying $32k designer bags and planning Michelin-star trips. Yet she channels her stress relief through friendship bonds and casual socializing rather than solo indulgences, suggesting she craves both status and genuine human connection despite her independence."
     },
     {
       "id": "development-work-2",
       "split": "development",
       "setting": "work",
-      "scenario_family": "development-work-board games",
-      "author": "AI-generated; human history owner unassigned",
+      "scenario_family": "development-work-hot-yoga",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
       "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_3_1",
-      "relationship": "work",
+      "name": "Elaine",
+      "relationship": "work-colleague",
       "file": "development-work-2.txt",
-      "messages": 240,
-      "sha256": "26d5a13e6e33240aae84ee1eb766a3d70e4e43fafa577f71a8f83f20b5e2b7de",
+      "messages": 160,
+      "sha256": "3c782d0b8759020390133f9630f1dbc62693c2b10d1691533a0327c513d2e49c",
       "questions": [
         {
           "id": "fact",
-          "question": "What did Person_3_1 say they study?",
+          "question": "How much did Elaine tell me one florist quoted for backdrop flowers for her wedding?",
           "answerable": true,
           "essential": [
-            "Self-reported economics study"
+            "florist quote",
+            "wedding costs",
+            "backdrop flowers"
           ],
           "evidence_lines": [
-            6
+            65,
+            66
           ]
         },
         {
           "id": "distributed",
-          "question": "Could Person_3_1 join a board games outing on Wednesday 25 November?",
+          "question": "How do Elaine's physical fitness goals connect to her wedding preparation timeline and anxiety management strategy in our conversations?",
           "answerable": true,
           "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
+            "hot yoga",
+            "wedding dress",
+            "fitness goals",
+            "stress relief",
+            "January/February wedding date"
           ],
           "evidence_lines": [
-            6,
-            54,
-            174
+            16,
+            17,
+            18,
+            19,
+            85,
+            86,
+            145,
+            146
           ]
         },
         {
           "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_3_1 is avoiding me?",
+          "question": "When Elaine makes self-deprecating jokes to me about her 'responsible bride energy,' is she genuinely proud of her discipline or frustrated by the constraints?",
           "answerable": true,
           "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
+            "self-deprecation",
+            "pride in discipline",
+            "financial constraints",
+            "wedding stress"
           ],
           "evidence_lines": [
-            174,
-            186
+            103,
+            104,
+            105,
+            106,
+            107,
+            108
           ]
         },
         {
           "id": "network",
-          "question": "What should I check before inviting Person_3_1 and another person to board games?",
+          "question": "What role do I play in Elaine's wedding decision-making, and why does she repeatedly cancel plans with me to attend wedding-related tasks?",
           "answerable": true,
           "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
+            "wedding planning",
+            "bridesmaid ribbon colors",
+            "table seating",
+            "gown fitting",
+            "menu tasting"
           ],
           "evidence_lines": [
-            6
+            121,
+            122,
+            125,
+            126,
+            127,
+            128
           ]
         },
         {
           "id": "underdetermined",
-          "question": "What gift does Person_3_1 secretly want me to buy?",
+          "question": "What specific financial worries about Hong Kong's economy or her personal finances drive Elaine's hypervigilance around wedding costs?",
           "answerable": false,
           "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
+            "mortgage anxiety",
+            "economic concerns",
+            "financial personality",
+            "cost sensitivity"
           ],
-          "evidence_lines": []
+          "evidence_lines": [
+            10,
+            11,
+            28,
+            29,
+            69,
+            70
+          ]
         }
-      ]
+      ],
+      "key_traits": [
+        "Disciplined financial planner despite high stress",
+        "Wedding-focused, cost-conscious bride",
+        "Fitness-committed (hot yoga, meal prep)",
+        "Works-hard-plays-strategically approach",
+        "Mortgage-aware and budget-conscious"
+      ],
+      "core_story": "Elaine is a high-performing marketing professional preparing for her January wedding while maintaining rigorous financial discipline to cover both mortgage and wedding costs. Her contradiction lies in her visible stress from work-life chaos yet her unwavering commitment to structured habits like meal prepping and hot yoga, suggesting control-seeking behavior masks underlying anxiety about the wedding timeline."
     },
     {
       "id": "test-work-3",
       "split": "test",
       "setting": "work",
       "scenario_family": "test-work-swimming",
-      "author": "AI-generated; human history owner unassigned",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
       "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_3_2",
-      "relationship": "work",
+      "name": "Leslie",
+      "relationship": "work-colleague",
       "file": "test-work-3.txt",
-      "messages": 240,
-      "sha256": "7c49f5f36584ad6b423c23f56b16980a5eb4fd405c77ae22140796ee8b015f2b",
+      "messages": 128,
+      "sha256": "96e5d9813c0ce52de01d7f56135a0acfaad5dcbaaf4ae15b0a0d5c1753bd710d",
       "questions": [
         {
           "id": "fact",
-          "question": "What did Person_3_2 say they study?",
+          "question": "How many times did Leslie lap me during our first swimming session together?",
           "answerable": true,
           "essential": [
-            "Self-reported economics study"
+            "swimming session",
+            "Victoria Park",
+            "laps",
+            "swimming skill"
           ],
           "evidence_lines": [
-            6
+            64,
+            65
           ]
         },
         {
           "id": "distributed",
-          "question": "Could Person_3_2 join a swimming outing on Wednesday 25 November?",
+          "question": "How does Leslie's past experience as a university swim team member inform her approach to teaching me about swimming and breathing technique?",
           "answerable": true,
           "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
+            "swim team background",
+            "coaching",
+            "freestyle breathing",
+            "muscle memory",
+            "teaching"
           ],
           "evidence_lines": [
-            6,
-            54,
-            174
+            14,
+            15,
+            65,
+            66
           ]
         },
         {
           "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_3_2 is avoiding me?",
+          "question": "When Leslie describes her girlfriend to me as 'super social' and 'always has dinners, birthday parties, or catch-ups,' is there subtle frustration or genuine admiration in her tone?",
           "answerable": true,
           "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
+            "girlfriend's social nature",
+            "busy schedule",
+            "relationship satisfaction",
+            "tone analysis"
           ],
           "evidence_lines": [
-            174,
-            186
+            24,
+            25,
+            26,
+            117,
+            118,
+            119
           ]
         },
         {
           "id": "network",
-          "question": "What should I check before inviting Person_3_2 and another person to swimming?",
+          "question": "What does Leslie's decision to attend her girlfriend's daughter's Parent-Day event reveal about her commitment level and role expectations in their family structure?",
           "answerable": true,
           "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
+            "Parents' Day attendance",
+            "relationship progression",
+            "stepdaughter bond",
+            "family integration"
           ],
           "evidence_lines": [
-            6
+            103,
+            104,
+            105,
+            106
           ]
         },
         {
           "id": "underdetermined",
-          "question": "What gift does Person_3_2 secretly want me to buy?",
+          "question": "What anxieties might Leslie have about attending a school event with her girlfriend and meeting teachers for the first time, beyond what she explicitly tells me?",
           "answerable": false,
           "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
+            "relationship milestone anxiety",
+            "family role acceptance",
+            "step-parent concerns",
+            "social integration"
           ],
-          "evidence_lines": []
+          "evidence_lines": [
+            105,
+            106,
+            107
+          ]
         }
-      ]
+      ],
+      "key_traits": [
+        "Competent legal professional with calm demeanor",
+        "Former university swim team member",
+        "Building serious relationship with significant life complexity",
+        "Supportive but reserved in personal sharing",
+        "Comfortable with work-life balance despite demanding job"
+      ],
+      "core_story": "Leslie is a dedicated litigation lawyer who finds grounding through swimming and maintains a surprisingly balanced life despite intense work deadlines. However, she's navigating the emotional complexity of integrating into her partner's parenting responsibilities, moving from casual relationship to potential stepparent role, which she approaches with the same careful consideration she gives to legal work."
     },
     {
       "id": "test-work-4",
       "split": "test",
       "setting": "work",
       "scenario_family": "test-work-swimming",
-      "author": "AI-generated; human history owner unassigned",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
       "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_3_3",
-      "relationship": "work",
+      "name": "Catherine",
+      "relationship": "work-colleague",
       "file": "test-work-4.txt",
-      "messages": 240,
-      "sha256": "59bfa791ef6e3f0bbc50a5450d0f1ae36ce8892dd640ae6119b1320dac8e466c",
+      "messages": 76,
+      "sha256": "42a1079792745d6196a1c943e62b5492593dd158d2cb5ec1041b418088c1e72a",
       "questions": [
         {
           "id": "fact",
-          "question": "What did Person_3_3 say they study?",
+          "question": "Which two public pools near Catherine's work location did she tell me she typically visits for evening swimming?",
           "answerable": true,
           "essential": [
-            "Self-reported economics study"
+            "swimming pools",
+            "Wan Chai",
+            "Morrison Hill",
+            "location preferences"
           ],
           "evidence_lines": [
-            6
+            13,
+            14
           ]
         },
         {
           "id": "distributed",
-          "question": "Could Person_3_3 join a swimming outing on Wednesday 25 November?",
+          "question": "How do Catherine's swimming habits and wellness practices connect to her ability to maintain focus during intensive audit work weeks?",
           "answerable": true,
           "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
+            "swimming routine",
+            "unwind",
+            "audit spreadsheets",
+            "stress relief",
+            "efficiency"
           ],
           "evidence_lines": [
-            6,
-            54,
-            174
+            11,
+            12,
+            57,
+            58
           ]
         },
         {
           "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_3_3 is avoiding me?",
+          "question": "When Catherine tells me swimming helps her 'unwind from audit spreadsheets,' does she view the activity as escape from work or as complementary professional self-care?",
           "answerable": true,
           "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
+            "swimming purpose",
+            "stress management",
+            "work relationship",
+            "personal philosophy"
           ],
           "evidence_lines": [
-            174,
-            186
+            11,
+            12
           ]
         },
         {
           "id": "network",
-          "question": "What should I check before inviting Person_3_3 and another person to swimming?",
+          "question": "What does Catherine's decision to share her personal swimming routine with me as a cross-departmental colleague suggest about her professional relationship boundaries?",
           "answerable": true,
           "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
+            "personal disclosure",
+            "professional boundaries",
+            "colleague relationship",
+            "trust building"
           ],
           "evidence_lines": [
-            6
+            10,
+            11,
+            12,
+            31,
+            32,
+            33,
+            34
           ]
         },
         {
           "id": "underdetermined",
-          "question": "What gift does Person_3_3 secretly want me to buy?",
+          "question": "What specific qualities does Catherine seek in hotels when traveling for audits that would make a rooftop pool particularly appealing in Singapore?",
           "answerable": false,
           "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
+            "travel preferences",
+            "hotel standards",
+            "relaxation priorities",
+            "personal values"
           ],
-          "evidence_lines": []
+          "evidence_lines": [
+            64,
+            65,
+            66,
+            67
+          ]
         }
-      ]
+      ],
+      "key_traits": [
+        "Meticulous internal auditor",
+        "Swimming enthusiast and wellness practitioner",
+        "Calm, efficient professional demeanor",
+        "Detail-oriented documentation requirements",
+        "Work-life balance advocate"
+      ],
+      "core_story": "Catherine is a conscientious auditor who maintains impeccable professional standards while carving out deliberate wellness time through evening swimming. Her life reflects a careful compartmentalization: rigorous work demands balanced by personal self-care, suggesting she views swimming as essential maintenance rather than luxury, with occasional business disruptions testing her normally steady rhythm."
     },
     {
       "id": "test-work-5",
       "split": "test",
       "setting": "work",
       "scenario_family": "test-work-swimming",
-      "author": "AI-generated; human history owner unassigned",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
       "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_3_4",
-      "relationship": "work",
+      "name": "Mavis",
+      "relationship": "work-colleague",
       "file": "test-work-5.txt",
-      "messages": 240,
-      "sha256": "9a3f7426e41452d1c55be1fa6ff1ef9ca6b648031c533c0ecfd76d15b7934e96",
+      "messages": 72,
+      "sha256": "1a2d26869c5a0096c43f6093db978dd8d97a4c056a8622543a982fa1e5a69b72",
       "questions": [
         {
           "id": "fact",
-          "question": "What did Person_3_4 say they study?",
+          "question": "How many meters did Mavis tell me his younger daughter swam this week without using a kickboard?",
           "answerable": true,
           "essential": [
-            "Self-reported economics study"
+            "swimming achievement",
+            "younger daughter",
+            "kickboard",
+            "10 metres"
           ],
           "evidence_lines": [
-            6
+            55,
+            56
           ]
         },
         {
           "id": "distributed",
-          "question": "Could Person_3_4 join a swimming outing on Wednesday 25 November?",
+          "question": "How do Mavis's IT troubleshooting approach with me and his parenting style reveal consistent patterns in how he solves problems and builds relationships?",
           "answerable": true,
           "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
+            "problem-solving",
+            "proactive help",
+            "family dynamics",
+            "mentoring approach"
           ],
           "evidence_lines": [
-            6,
-            54,
-            174
+            1,
+            2,
+            3,
+            4,
+            10,
+            11,
+            12,
+            13,
+            38,
+            39,
+            40,
+            50,
+            51,
+            66,
+            67
           ]
         },
         {
           "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_3_4 is avoiding me?",
+          "question": "When Mavis tells me 'Just remember not to keep 40 Chrome tabs open at the same time, your poor laptop needs to breathe,' is he being genuinely helpful or subtly judgmental?",
           "answerable": true,
           "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
+            "tone interpretation",
+            "helpfulness",
+            "judgment",
+            "communication style"
           ],
           "evidence_lines": [
-            174,
-            186
+            8,
+            9,
+            10
           ]
         },
         {
           "id": "network",
-          "question": "What should I check before inviting Person_3_4 and another person to swimming?",
+          "question": "What is Mavis's role in facilitating our colleague social activities, and why does he consistently decline my weekend hangout invitations?",
           "answerable": true,
           "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
+            "social invitations",
+            "weekend availability",
+            "family priorities",
+            "work relationships"
           ],
           "evidence_lines": [
-            6
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            45,
+            46,
+            47,
+            48,
+            49
           ]
         },
         {
           "id": "underdetermined",
-          "question": "What gift does Person_3_4 secretly want me to buy?",
+          "question": "What personal values drive Mavis's insistence on family wellness activities like swimming over other leisure options?",
           "answerable": false,
           "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
+            "personal values",
+            "health philosophy",
+            "family bonding",
+            "lifestyle choices"
           ],
-          "evidence_lines": []
+          "evidence_lines": [
+            17,
+            18,
+            19,
+            20,
+            55,
+            56,
+            57
+          ]
         }
-      ]
+      ],
+      "key_traits": [
+        "Empathetic IT support professional",
+        "Father of two daughters learning to swim",
+        "Proactive household manager",
+        "Health-conscious and family-oriented",
+        "Mentor figure despite technical expertise role"
+      ],
+      "core_story": "Mavis is an IT support professional who moonlights as a devoted father and active household manager, often helping colleagues beyond his formal role while managing his daughters' swimming lessons. His life reflects the dual identity of competent tech expert and nurturing family man, with occasional tension between workplace demands and family time that he navigates through careful scheduling and preventative care."
     },
     {
       "id": "test-work-6",
       "split": "test",
       "setting": "work",
       "scenario_family": "test-work-swimming",
-      "author": "AI-generated; human history owner unassigned",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
       "annotation_status": "requires_two_independent_reviewers",
-      "name": "Person_3_5",
-      "relationship": "work",
+      "name": "Frances",
+      "relationship": "work-colleague",
       "file": "test-work-6.txt",
-      "messages": 240,
-      "sha256": "1fa56faf9cc4a33b8e33b9ed38e6ff5a42116b43bbda547b76da5680ef6d253e",
+      "messages": 75,
+      "sha256": "a89a882cea734c5aad463acee4a4e03897f46be2c3c8eae705fcfbdca744c33d",
       "questions": [
         {
           "id": "fact",
-          "question": "What did Person_3_5 say they study?",
+          "question": "What was the cost of Frances's hair color treatment at the salon she told me she visited in early November?",
           "answerable": true,
           "essential": [
-            "Self-reported economics study"
+            "salon appointment",
+            "hair dye",
+            "ash brown highlights",
+            "cost"
           ],
           "evidence_lines": [
+            32,
+            50
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Frances's swimming habits, hair investment, and casual attitude toward monthly cutoff deadlines reveal her priorities and self-management strategy?",
+          "answerable": true,
+          "essential": [
+            "swimming frequency",
+            "hair investment",
+            "work priorities",
+            "deadline management",
+            "personal investment"
+          ],
+          "evidence_lines": [
+            14,
+            15,
+            16,
+            32,
+            36,
+            37,
+            38,
+            39,
+            40,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Frances tells me 'barely, I just eat way too much dessert so swimming cancels it out,' is she being self-deprecating or genuinely lighthearted about her lifestyle balance?",
+          "answerable": true,
+          "essential": [
+            "self-perception",
+            "humor style",
+            "lifestyle philosophy",
+            "body image"
+          ],
+          "evidence_lines": [
+            18,
+            19
+          ]
+        },
+        {
+          "id": "network",
+          "question": "Why do I rely on Frances specifically for monthly cutoff dates despite working in the same department for 4 years?",
+          "answerable": true,
+          "essential": [
+            "institutional knowledge",
+            "colleague trust",
+            "work dynamics",
+            "dependency patterns"
+          ],
+          "evidence_lines": [
+            19,
+            20,
+            21,
+            22,
+            23
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What does Frances's decision to protect her $1,600 dye job through preventative swim cap use suggest about her deeper values regarding investment and maintenance?",
+          "answerable": false,
+          "essential": [
+            "value priorities",
+            "financial perspective",
+            "self-care philosophy",
+            "risk management"
+          ],
+          "evidence_lines": [
+            50,
+            51,
+            52
+          ]
+        }
+      ],
+      "key_traits": [
+        "Finance FP&A specialist with institutional knowledge",
+        "Swimming enthusiast (2-3 times weekly)",
+        "Hair-conscious and wellness-focused",
+        "Witty, supportive colleague",
+        "Playfully sarcastic relationship dynamic"
+      ],
+      "core_story": "Frances is a Finance professional who uses swimming as her primary wellness outlet while balancing professional expertise with playful friendship dynamics. Her life captures a contradiction: she's rigorous about hair care and gym schedules yet relaxed about work details, suggesting she maintains discipline where she values outcomes (body, appearance) while delegating procedural tasks to trusted colleagues."
+    },
+    {
+      "id": "development-friendship-1",
+      "split": "development",
+      "setting": "friendship",
+      "scenario_family": "development-friendship-hiking",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Marcus",
+      "relationship": "friendship-best-friend",
+      "file": "development-friendship-1.txt",
+      "messages": 155,
+      "sha256": "1f96f2b150613546ee9cfea4f1b13a7ca87f5a3c8b0fecec28ef0a40d4b000f5",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "How much elevation gain does the Pat Sin Leng full ridge hike that Marcus planned for us include?",
+          "answerable": true,
+          "essential": [
+            "Pat Sin Leng trail",
+            "elevation gain",
+            "hiking route",
+            "planning"
+          ],
+          "evidence_lines": [
+            86,
+            87
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Marcus's meticulous planning habits in structural engineering translate into his hiking preparation and our relationship conflict patterns?",
+          "answerable": true,
+          "essential": [
+            "planning style",
+            "hiking preparation",
+            "commitment expectations",
+            "relationship friction"
+          ],
+          "evidence_lines": [
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            122,
+            123,
+            124,
+            125
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Marcus tells me 'you do this every single time,' is he expressing genuine frustration about my patterns or using this claim to avoid examining his own rigidity?",
+          "answerable": true,
+          "essential": [
+            "pattern analysis",
+            "accountability",
+            "communication style",
+            "conflict dynamics"
+          ],
+          "evidence_lines": [
+            124,
+            125
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What unspoken expectations does Marcus place on his 16-year friendship with me, and why does he view my life chaos as a personal disrespect to our plans?",
+          "answerable": true,
+          "essential": [
+            "friendship history",
+            "expectations",
+            "respect",
+            "conflict trigger"
+          ],
+          "evidence_lines": [
+            124,
+            125,
+            126,
+            127,
+            128
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What deeper need does Marcus's obsession with optimization and planning satisfy beyond just our hiking logistics?",
+          "answerable": false,
+          "essential": [
+            "control needs",
+            "anxiety management",
+            "perfectionism roots",
+            "personality drivers"
+          ],
+          "evidence_lines": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ]
+        }
+      ],
+      "key_traits": [
+        "Structural engineer with early-morning discipline",
+        "Ultra-serious hiking enthusiast",
+        "Meticulous planner and optimizer",
+        "Achievement-focused with high standards",
+        "Limited flexibility in commitment once made"
+      ],
+      "core_story": "Marcus is an obsessive structural engineer whose precision extends to his hiking passion, planning routes months in advance with detailed spreadsheets and gear optimization. His contradiction emerges when confronted with last-minute schedule changes: his rigid planning becomes a form of control that he struggles to relinquish, making him dismissive of genuine extenuating circumstances as excuses rather than life's natural fluidity."
+    },
+    {
+      "id": "development-friendship-2",
+      "split": "development",
+      "setting": "friendship",
+      "scenario_family": "development-friendship-hiking",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Chloe",
+      "relationship": "friendship-acquaintance",
+      "file": "development-friendship-2.txt",
+      "messages": 108,
+      "sha256": "6b93a755ce4ab11efed2bff85a1c10dec6e24de9cd0c72fa67b950425f501b0b",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What time did I suggest meeting Chloe at Tung Chung MTR to start our Sunset Peak hike, after accounting for bus queues?",
+          "answerable": true,
+          "essential": [
+            "meeting time",
+            "Tung Chung MTR",
+            "timing calculation",
+            "logistics"
+          ],
+          "evidence_lines": [
+            52,
+            53,
+            54
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Chloe's photography priorities, Instagram aesthetic focus, and logistical oversights reveal a pattern of prioritizing moment-capture over moment-experience?",
+          "answerable": true,
+          "essential": [
+            "photography obsession",
+            "IG posting",
+            "timing errors",
+            "documentation vs. experience"
+          ],
+          "evidence_lines": [
+            7,
+            8,
+            15,
+            16,
+            17,
+            18,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Chloe tells me 'you're the best' for handling logistics while she handles photography, is she genuinely grateful or deflecting responsibility?",
+          "answerable": true,
+          "essential": [
+            "gratitude sincerity",
+            "responsibility distribution",
+            "dynamic analysis"
+          ],
+          "evidence_lines": [
+            97,
+            98
+          ]
+        },
+        {
+          "id": "network",
+          "question": "How does my role in Chloe's hiking plans reveal an unspoken dependency where she handles vision but relies on me for execution?",
+          "answerable": true,
+          "essential": [
+            "responsibility distribution",
+            "planning vs execution",
+            "friendship dynamics",
+            "role allocation"
+          ],
+          "evidence_lines": [
+            62,
+            63,
+            72,
+            73,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What psychological need does Chloe fulfill by constantly posting beautiful hiking and cafe photos on Instagram?",
+          "answerable": false,
+          "essential": [
+            "social media motivation",
+            "validation seeking",
+            "lifestyle curation",
+            "self-image"
+          ],
+          "evidence_lines": [
+            38,
+            39,
+            40,
+            44,
+            45,
+            46
+          ]
+        }
+      ],
+      "key_traits": [
+        "Enthusiastic film photography hobbyist",
+        "Spontaneous outdoor activity planner",
+        "Social media content creator mindset",
+        "Optimistic but organizationally challenged",
+        "Time-management struggles despite good intentions"
+      ],
+      "core_story": "Chloe is an endlessly enthusiastic film photographer who plans elaborate outdoor adventures with beautiful intentions but often miscalculates logistics and timing. Her character embodies a specific modern contradiction: she's digitally connected and Instagram-aware but physically disorganized, suggesting her energies are split between capturing moments for social sharing and actually experiencing them."
+    },
+    {
+      "id": "test-friendship-3",
+      "split": "test",
+      "setting": "friendship",
+      "scenario_family": "test-friendship-film",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Kelvin",
+      "relationship": "friendship-university-friend",
+      "file": "test-friendship-3.txt",
+      "messages": 115,
+      "sha256": "c6bf397d4c2e8489bd4ac2dd006e89e2cc170dc0e84681ffcb7e9cbcfad4f208",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "How much did Kelvin tell me he was paid for his Wong Kar-wai essay published in the online film journal?",
+          "answerable": true,
+          "essential": [
+            "essay payment",
+            "film journal",
+            "Wong Kar-wai",
+            "writing compensation"
+          ],
+          "evidence_lines": [
+            56,
+            57
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Kelvin's complaints to me about Netflix algorithms, corporate video work, and Hollywood's influence reveal a consistent anxiety about cultural decline?",
+          "answerable": true,
+          "essential": [
+            "Netflix criticism",
+            "commercial work",
+            "Hollywood contempt",
+            "cultural values"
+          ],
+          "evidence_lines": [
+            6,
+            7,
+            8,
+            58,
+            59,
+            90,
+            91,
+            92
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Kelvin criticizes my film interpretation as 'brainwashed by Hollywood garbage,' is he genuinely educational or using intellectual superiority as social control?",
+          "answerable": true,
+          "essential": [
+            "communication style",
+            "tone",
+            "educational intent",
+            "superiority complex"
+          ],
+          "evidence_lines": [
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95
+          ]
+        },
+        {
+          "id": "network",
+          "question": "Why does Kelvin create conditions in our friendship where my disagreement becomes a character judgment about my taste and intelligence?",
+          "answerable": true,
+          "essential": [
+            "conflict escalation",
+            "personal attacks",
+            "intellectual judgment",
+            "friendship dynamics"
+          ],
+          "evidence_lines": [
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What deeper insecurity about his own creative worth drives Kelvin's fierce gatekeeping of film criticism standards?",
+          "answerable": false,
+          "essential": [
+            "career uncertainty",
+            "freelance anxiety",
+            "validation seeking",
+            "identity crisis"
+          ],
+          "evidence_lines": [
+            4,
+            5,
+            56,
+            57,
+            58,
+            59
+          ]
+        }
+      ],
+      "key_traits": [
+        "Film criticism purist and arthouse cinema advocate",
+        "Freelance video editor with irregular income",
+        "Intellectually rigid and judgmental",
+        "Passionate about visual literacy preservation",
+        "Disdainful of mainstream entertainment"
+      ],
+      "core_story": "Kelvin is a passionate film critic and freelance editor who views cinema as sacred art being destroyed by digital distraction and mainstream mediocrity. His contradiction lies in using his expertise to gatekeep others' enjoyment rather than share it: his contempt for 'brainwashed' audiences and corporate work suggests he's simultaneously invested in and resentful of the creative industries' trajectory."
+    },
+    {
+      "id": "test-friendship-4",
+      "split": "test",
+      "setting": "friendship",
+      "scenario_family": "test-friendship-film",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Ching",
+      "relationship": "friendship-best-friend",
+      "file": "test-friendship-4.txt",
+      "messages": 105,
+      "sha256": "086e5ca3bb1681b14e2bfa4f25ef4b2f83099bce209b825376081dee0dcff2a3",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "On what date did Ching tell me Daniel broke up with her after her birthday?",
+          "answerable": true,
+          "essential": [
+            "breakup date",
+            "Daniel",
+            "after birthday",
+            "November 9"
+          ],
+          "evidence_lines": [
+            41,
+            42
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Ching's film-watching habits before and after the breakup reveal her emotional processing strategy and trauma response?",
+          "answerable": true,
+          "essential": [
+            "film preferences",
+            "emotional processing",
+            "healing movies",
+            "avoidance patterns"
+          ],
+          "evidence_lines": [
+            5,
+            6,
+            7,
+            58,
+            59,
+            60,
+            73,
+            74,
+            102,
+            103
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Ching tells me Daniel 'waited until after my 30th birthday to tell me,' is she interpreting this as cruelty or coincidence?",
+          "answerable": true,
+          "essential": [
+            "timing interpretation",
+            "intent analysis",
+            "victim mindset",
+            "perspective"
+          ],
+          "evidence_lines": [
+            43,
+            44
+          ]
+        },
+        {
+          "id": "network",
+          "question": "What do Ching's recurring apologies to me as her best friend reveal about how she internalizes relational blame and our group dynamics?",
+          "answerable": true,
+          "essential": [
+            "apology patterns",
+            "self-blame",
+            "codependency",
+            "guilt"
+          ],
+          "evidence_lines": [
+            45,
+            51,
+            52,
+            75,
+            76,
+            84,
+            85
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What specific fears about aging or future partnership prospects are triggered for Ching by turning 30 during a relationship crisis?",
+          "answerable": false,
+          "essential": [
+            "age anxiety",
+            "partnership concerns",
+            "life timeline pressure",
+            "existential dread"
+          ],
+          "evidence_lines": [
+            49,
+            50
+          ]
+        }
+      ],
+      "key_traits": [
+        "Accounting professional with repetitive work stress",
+        "Ghibli/anime film enthusiast for emotional processing",
+        "Recently turned 30 with relationship anxieties",
+        "Sensitive and self-critical personality",
+        "Deeply grateful for emotional support"
+      ],
+      "core_story": "Ching is an accountant who processes emotional distress through healing films and quiet cinema, recently navigating the painful ending of a 6-year relationship just after turning 30. Her vulnerability reveals a contradiction: she's emotionally aware enough to recognize her own overthinking patterns yet powerless to stop the spiral of self-blame, suggesting intelligence and self-awareness don't guarantee emotional resilience."
+    },
+    {
+      "id": "test-friendship-5",
+      "split": "test",
+      "setting": "friendship",
+      "scenario_family": "test-friendship-film",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Jason",
+      "relationship": "friendship-ex-colleague",
+      "file": "test-friendship-5.txt",
+      "messages": 91,
+      "sha256": "b6cc4bea7ddf75aadfc24ec7205c7bcd6206e164814225399f9aaf064fba164c",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What IMAX movie starring Starfall was Jason planning to watch with me, and what was the row and seat location?",
+          "answerable": true,
+          "essential": [
+            "Starfall 2",
+            "IMAX",
+            "K11 Art House",
+            "Row G center seats",
+            "ticket price"
+          ],
+          "evidence_lines": [
+            48,
+            49,
+            50,
+            51,
+            52
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Jason's movie preferences, his mortgage anxiety, and his increasingly sparse text responses to me reveal escalating work stress and emotional withdrawal?",
+          "answerable": true,
+          "essential": [
+            "IMAX preference",
+            "mortgage concern",
+            "text brevity",
+            "work intensity"
+          ],
+          "evidence_lines": [
+            11,
+            12,
+            4,
+            5,
+            8,
+            9,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Jason repeatedly gives me one-word text replies, is he genuinely busy or passively retreating from our friendship?",
+          "answerable": true,
+          "essential": [
+            "communication patterns",
+            "availability",
+            "engagement level",
+            "intentionality"
+          ],
+          "evidence_lines": [
+            57,
+            58,
+            59,
+            61,
+            62,
+            63
+          ]
+        },
+        {
+          "id": "network",
+          "question": "Why does Jason confess to missing his old team and ask me to relay messages to former colleagues, and what does this reveal about his current life satisfaction?",
+          "answerable": true,
+          "essential": [
+            "nostalgia",
+            "old workplace",
+            "current dissatisfaction",
+            "relationship maintenance"
+          ],
+          "evidence_lines": [
+            30,
+            31,
+            32
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What is Jason's wife's reaction to his continued investment in maintaining friendships and entertainment expenses given their mortgage obligations?",
+          "answerable": false,
+          "essential": [
+            "spousal dynamics",
+            "financial negotiations",
+            "entertainment vs responsibility",
+            "marriage agreement"
+          ],
+          "evidence_lines": [
+            20,
+            21,
+            22
+          ]
+        }
+      ],
+      "key_traits": [
+        "Overworked Finance professional and new homeowner",
+        "IMAX blockbuster movie enthusiast",
+        "Recently married with mortgage responsibility",
+        "Handles stress through cinema escapism",
+        "One-word text response tendency under pressure"
+      ],
+      "core_story": "Jason is a Finance professional whose life shifted from carefree to responsibility-laden after marriage and flat purchase, using massive cinema experiences as his escape hatch from adult obligations. His contradiction lies in his enthusiasm for expensive IMAX experiences paired with his anxiety about mortgage rates, suggesting he uses entertainment as psychological permission to temporarily escape financial concerns he can't actually control."
+    },
+    {
+      "id": "test-friendship-6",
+      "split": "test",
+      "setting": "friendship",
+      "scenario_family": "test-friendship-film",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Suki",
+      "relationship": "friendship-university-hallmate",
+      "file": "test-friendship-6.txt",
+      "messages": 79,
+      "sha256": "ffc0a84c8efbeb1be38376e5b7ae65e5eba7b532a915b7865aa33b023798c426",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What fake Instagram account method did Suki tell me she used to verify information about Darren, and what lie did she tell his family?",
+          "answerable": true,
+          "essential": [
+            "fake account",
+            "Darren",
+            "DM method",
+            "sister-in-law contact"
+          ],
+          "evidence_lines": [
+            69,
+            70
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Suki's entertainment preferences, her 'investigative' dating approach, and her sharing of Rachel's medical information with me reveal a consistent pattern of boundary violation?",
+          "answerable": true,
+          "essential": [
+            "thriller obsession",
+            "suspicious nature",
+            "fake accounts",
+            "gossip sharing",
+            "privacy violation"
+          ],
+          "evidence_lines": [
+            6,
+            7,
+            23,
+            24,
+            25,
+            26,
+            27,
+            35,
+            36,
+            37,
+            63,
+            64,
+            65,
+            66
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Suki tells me 'I only sent a couple screenshots to Mandy and Grace,' is she minimizing harm or genuinely unaware of breach severity?",
+          "answerable": true,
+          "essential": [
+            "accountability",
+            "awareness",
+            "harm acknowledgment",
+            "perspective"
+          ],
+          "evidence_lines": [
+            65,
+            66
+          ]
+        },
+        {
+          "id": "network",
+          "question": "Why does Suki defend her actions to me by saying 'Everybody gossips about people from uni' as justification for medical privacy violation?",
+          "answerable": true,
+          "essential": [
+            "normalization",
+            "social comparison",
+            "accountability avoidance",
+            "ethics"
+          ],
+          "evidence_lines": [
+            68,
+            69
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What deep insecurity or trauma drives Suki's compulsive need to investigate and gather damaging information about people in her life?",
+          "answerable": false,
+          "essential": [
+            "psychological roots",
+            "control needs",
+            "trust issues",
+            "personality pathology"
+          ],
+          "evidence_lines": [
+            15,
+            16,
+            17,
+            23,
+            24
+          ]
+        }
+      ],
+      "key_traits": [
+        "UX designer obsessed with detective/thriller content",
+        "Suspicious and investigative personality",
+        "Boundary-violating through fake accounts and stalking",
+        "Rationalized gossiping and privacy violations",
+        "Lacks empathy for social consequences of her actions"
+      ],
+      "core_story": "Suki is a UX designer who treats real people's lives like Netflix true-crime documentaries she's solving, creating fake accounts and sharing confidential medical information as entertainment. Her contradiction is profound: she frames her intrusions as protective 'research' while dismissing genuine harm as normal gossip, revealing a complete disconnection between her analytical intelligence and emotional empathy."
+    },
+    {
+      "id": "development-dating-1",
+      "split": "development",
+      "setting": "dating",
+      "scenario_family": "development-dating-jazz",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Ryan",
+      "relationship": "dating-early-stage",
+      "file": "development-dating-1.txt",
+      "messages": 151,
+      "sha256": "251be1f2680b9e3af52387eea92b1bc82180b1db08aabcbc6725f6467b56ca20",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What time did Ryan commit to meeting me for our first jazz date at Fringe Club?",
+          "answerable": true,
+          "essential": [
+            "Fringe Club date",
+            "Thursday 5 November",
+            "meeting time",
+            "arrival"
+          ],
+          "evidence_lines": [
+            79,
+            80,
+            81
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Ryan's bass guitar practice, his music recommendations, and his attentiveness to my preferences reveal his communication style and emotional intelligence?",
+          "answerable": true,
+          "essential": [
+            "music sharing",
+            "bass guitar",
+            "listening skills",
+            "remembering preferences"
+          ],
+          "evidence_lines": [
+            24,
+            25,
+            26,
+            33,
+            34,
+            39,
+            40,
+            89,
+            90,
+            91
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Ryan repeatedly apologizes to me for work-related lateness or disappearance, is he being accountable or performatively apologetic?",
+          "answerable": true,
+          "essential": [
+            "apology pattern",
+            "accountability",
+            "sincerity",
+            "change"
+          ],
+          "evidence_lines": [
+            61,
+            62,
+            63,
+            64,
+            65
+          ]
+        },
+        {
+          "id": "network",
+          "question": "How does Ryan's band dynamic with his jazz-funk quartet create a different emotional outlet than his relationship with me?",
+          "answerable": true,
+          "essential": [
+            "band relationships",
+            "creative expression",
+            "friendship vs romance",
+            "performance"
+          ],
+          "evidence_lines": [
+            31,
+            32,
+            33,
+            34,
+            118,
+            119
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What deeper artistic frustrations with corporate advertising work does Ryan channel into his jazz band practice?",
+          "answerable": false,
+          "essential": [
+            "creative satisfaction",
+            "agency frustration",
+            "artistic authenticity",
+            "career ambivalence"
+          ],
+          "evidence_lines": [
+            15,
+            16,
+            31,
+            32
+          ]
+        }
+      ],
+      "key_traits": [
+        "Creative advertising professional with musical side project",
+        "Jazz enthusiast and bass guitarist",
+        "Attentive listener and thoughtful partner",
+        "Works chaotic agency hours under deadline stress",
+        "Romantic through music recommendations and experiences"
+      ],
+      "core_story": "Ryan is an ad creative who finds genuine expression through his amateur jazz-funk band rather than his corporate work, using live music venues and late-night noodles as settings for authentic connection. His contradiction emerges in his split life: he's romance-focused with the user while simultaneously stressed by agency chaos, suggesting he compartmentalizes genuine relationship desires from his exhausting day job."
+    },
+    {
+      "id": "development-dating-2",
+      "split": "development",
+      "setting": "dating",
+      "scenario_family": "development-dating-jazz",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Adrian",
+      "relationship": "dating-mid-stage",
+      "file": "development-dating-2.txt",
+      "messages": 113,
+      "sha256": "046a81cf83635e2802adc10deec8c2e4b4f9efe5ef3fc2de8ce21a92c5f4a8bf",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What Japanese whisky did Adrian recommend to me as a more affordable alternative to Yamazaki?",
+          "answerable": true,
+          "essential": [
+            "Japanese whisky",
+            "Nikka Yoichi Single Malt",
+            "price comparison"
+          ],
+          "evidence_lines": [
+            22,
+            23
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Adrian's whisky expertise, his vinyl collecting, and his all-night work calls create a pattern of curated leisure moments followed by work chaos in our dating dynamic?",
+          "answerable": true,
+          "essential": [
+            "whisky knowledge",
+            "vinyl collecting",
+            "late calls",
+            "schedule unpredictability"
+          ],
+          "evidence_lines": [
+            3,
+            4,
+            22,
+            23,
+            24,
+            52,
+            53,
+            54,
+            55,
+            56
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Adrian books tables and restaurants without asking me, is he being romantic or controlling the date experience?",
+          "answerable": true,
+          "essential": [
+            "restaurant selection",
+            "planning autonomy",
+            "control",
+            "thoughtfulness"
+          ],
+          "evidence_lines": [
+            36,
+            37,
+            63,
+            64
+          ]
+        },
+        {
+          "id": "network",
+          "question": "Why does Adrian's work schedule become the recurring reason for cancellations with me, and what does this pattern suggest about his priority hierarchy?",
+          "answerable": true,
+          "essential": [
+            "cancellation patterns",
+            "work priority",
+            "relationship value",
+            "commitment level"
+          ],
+          "evidence_lines": [
+            61,
+            62,
+            63,
+            98,
+            99,
+            100
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What childhood experiences or professional trauma shaped Adrian's need for perfectly curated, controlled romantic experiences?",
+          "answerable": false,
+          "essential": [
+            "background influence",
+            "control psychology",
+            "relationship model",
+            "emotional safety"
+          ],
+          "evidence_lines": [
+            36,
+            37,
+            63,
+            64,
+            82,
+            83
+          ]
+        }
+      ],
+      "key_traits": [
+        "Corporate lawyer with intense deal-making schedule",
+        "Jazz and whisky connoisseur with refined tastes",
+        "Emotionally reserved but attentive in person",
+        "London calls and all-nighters normalize his life",
+        "Appreciative but distracted partner"
+      ],
+      "core_story": "Adrian is a high-powered corporate lawyer who finds grounding through classical jazz and rare whisky, creating highly curated evening experiences that contrast sharply with his chaotic day-job existence. His contradiction lies in his emotional attentiveness during in-person moments obscured by his unavailability outside them, suggesting intimacy requires isolation from his overwhelming work commitments."
+    },
+    {
+      "id": "test-dating-3",
+      "split": "test",
+      "setting": "dating",
+      "scenario_family": "test-dating-photography",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Leo",
+      "relationship": "dating-early-stage",
+      "file": "test-dating-3.txt",
+      "messages": 145,
+      "sha256": "da423e91890b8b282cda7fac8e48855746db038cb7b5f9428e7c301e54a06ee0",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What film stock did Leo intend to bring to our Sham Shui Po photo walk and eventually shoot with?",
+          "answerable": true,
+          "essential": [
+            "film stock",
+            "Kodak Gold 200",
+            "photo walk",
+            "camera equipment"
+          ],
+          "evidence_lines": [
+            50,
+            51,
+            78,
+            81
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Leo's architecture work stress, his studio model building, and his photography passion reveal a split between corporate pressure and creative desire?",
+          "answerable": true,
+          "essential": [
+            "architecture work",
+            "studio pressure",
+            "photography outlet",
+            "creative fulfillment"
+          ],
+          "evidence_lines": [
+            4,
+            5,
+            6,
+            52,
+            53,
+            92,
+            93,
+            94
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Leo uses emoji and casual language with me, is he genuinely relaxed or masking underlying anxiety about work demands?",
+          "answerable": true,
+          "essential": [
+            "communication style",
+            "emotional state",
+            "authenticity",
+            "stress indicators"
+          ],
+          "evidence_lines": [
+            50,
+            51,
+            131,
+            132,
+            133
+          ]
+        },
+        {
+          "id": "network",
+          "question": "Why does Leo's work schedule repeatedly interfere with our photography plans, and what does his rescheduling request reveal about his relationship priorities?",
+          "answerable": true,
+          "essential": [
+            "work interference",
+            "photography commitment",
+            "cancellation pattern",
+            "prioritization"
+          ],
+          "evidence_lines": [
+            122,
+            123,
+            124,
+            125,
+            126
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What aspects of architecture work feel more valuable to Leo than his photography, or is the priority hierarchy purely schedule-driven?",
+          "answerable": false,
+          "essential": [
+            "career values",
+            "passion prioritization",
+            "professional identity",
+            "creative confidence"
+          ],
+          "evidence_lines": [
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "key_traits": [
+        "Architectural design assistant and film photographer",
+        "Olympus OM-1 camera devotee",
+        "Workplace-stressed overworking tendency",
+        "Casual, youthful communication style",
+        "Light-hearted about serious life logistics"
+      ],
+      "core_story": "Leo is an architecture student struggling with studio demands while pursuing film photography as genuine passion, using cameras to find creative outlet unavailable in corporate CAD work. His contradiction lies in his enthusiasm for photography plans paired with his difficulty honoring them due to work crunch, suggesting he makes genuine commitments but lacks power to protect them against systemic workplace demands."
+    },
+    {
+      "id": "test-dating-4",
+      "split": "test",
+      "setting": "dating",
+      "scenario_family": "test-dating-photography",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Kenneth",
+      "relationship": "dating-pre-first-date",
+      "file": "test-dating-4.txt",
+      "messages": 89,
+      "sha256": "d6bfe3c43900e6b44c2c74559a4c07160299967a5428d4a18d721bf5b72375f4",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What camera system and primary lens combination did Kenneth tell me he uses for landscape and architectural photography?",
+          "answerable": true,
+          "essential": [
+            "Sony A7R V",
+            "16-35mm GM",
+            "35mm prime",
+            "camera setup"
+          ],
+          "evidence_lines": [
+            5,
             6
           ]
         },
         {
           "id": "distributed",
-          "question": "Could Person_3_5 join a swimming outing on Wednesday 25 November?",
+          "question": "How do Kenneth's litigation schedule, his obsessive photography planning, and his repeated date rescheduling with me reveal a pattern of control-seeking in areas where he has power?",
           "answerable": true,
           "essential": [
-            "Explicit interest",
-            "Dated cancellation takes precedence over usual Wednesday availability"
+            "litigation intensity",
+            "photography planning",
+            "rescheduling pattern",
+            "control behavior"
           ],
           "evidence_lines": [
-            6,
-            54,
-            174
+            47,
+            48,
+            49,
+            50,
+            62,
+            63,
+            64,
+            70,
+            71,
+            72,
+            73
           ]
         },
         {
           "id": "ambiguity",
-          "question": "Does suggesting Sunday prove Person_3_5 is avoiding me?",
+          "question": "When Kenneth tells me about 'turning in early for a 9am hearing,' is he sharing legitimate trial demands or using work as an acceptable avoidance mechanism?",
           "answerable": true,
           "essential": [
-            "Sunday was suggested",
-            "Avoidance is not established",
-            "Grounded alternative and uncertainty"
+            "work authenticity",
+            "schedule verification",
+            "avoidance patterns",
+            "availability"
           ],
           "evidence_lines": [
-            174,
-            186
+            15,
+            16
           ]
         },
         {
           "id": "network",
-          "question": "What should I check before inviting Person_3_5 and another person to swimming?",
+          "question": "Why does Kenneth's detail-orientation in photography translate into romantic planning with me (restaurant reservation, M+ exhibition booking) while litigation derails attendance?",
           "answerable": true,
           "essential": [
-            "Interest self-report",
-            "Need evidence for other person",
-            "Current availability remains conditional"
+            "planning investment",
+            "follow-through failure",
+            "work vs relationship priority",
+            "consistency"
           ],
           "evidence_lines": [
-            6
+            52,
+            53,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104
           ]
         },
         {
           "id": "underdetermined",
-          "question": "What gift does Person_3_5 secretly want me to buy?",
+          "question": "What does Kenneth seek in photography that his litigation career cannot provide, and does a romantic partner serve a similar psychological function?",
           "answerable": false,
           "essential": [
-            "Private wish not established",
-            "Ask for useful preference/context"
+            "creative fulfillment",
+            "emotional outlet",
+            "relationship role",
+            "identity needs"
           ],
-          "evidence_lines": []
+          "evidence_lines": [
+            7,
+            8,
+            9,
+            10,
+            11
+          ]
         }
-      ]
+      ],
+      "key_traits": [
+        "Litigation lawyer with trial season intensity",
+        "Landscape and architectural photography specialist",
+        "Detail-oriented perfectionist",
+        "Sony A7R V technical gearhead",
+        "Weekend-protective for personal recovery"
+      ],
+      "core_story": "Kenneth is a litigator who uses landscape photography as his creative antidote to legal text, pursuing perfect technical compositions with the same precision he applies to courtroom strategy. His contradiction lies in his romantic interest paired with persistent schedule uncertainty: his trial season creates unavailability that he repeatedly apologizes for, suggesting he genuinely values connection but his work makes reliability nearly impossible."
+    },
+    {
+      "id": "test-dating-5",
+      "split": "test",
+      "setting": "dating",
+      "scenario_family": "test-dating-photography",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Owen",
+      "relationship": "dating-transition-friends",
+      "file": "test-dating-5.txt",
+      "messages": 129,
+      "sha256": "df1a794fd06f321d67089e9954d3a7c64d193e9a52a1ecda1a52554d237d5e67",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What photography technique did Owen teach me for managing sky exposure in landscape shots?",
+          "answerable": true,
+          "essential": [
+            "exposure compensation",
+            "-0.7 EV",
+            "shadow recovery",
+            "Lightroom editing"
+          ],
+          "evidence_lines": [
+            35,
+            36,
+            37
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Owen's environmental work focus, his patient teaching style with me, and his early friendship-clarification reveal an emotionally mature approach to dating?",
+          "answerable": true,
+          "essential": [
+            "environmental values",
+            "teaching approach",
+            "honesty",
+            "friendship recognition"
+          ],
+          "evidence_lines": [
+            3,
+            4,
+            27,
+            28,
+            36,
+            37,
+            38,
+            105,
+            106,
+            107,
+            108
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Owen suggests outdoor activities to me that align perfectly with his interests, is he naturally sharing his passion or subtly testing our compatibility?",
+          "answerable": true,
+          "essential": [
+            "activity selection",
+            "shared interests",
+            "compatibility testing",
+            "authenticity"
+          ],
+          "evidence_lines": [
+            9,
+            10,
+            15,
+            16,
+            17
+          ]
+        },
+        {
+          "id": "network",
+          "question": "How did Owen's casual early recognition of non-romantic connection with me create space for genuine friendship rather than awkward romantic dissolution?",
+          "answerable": true,
+          "essential": [
+            "friendship transition",
+            "honesty",
+            "early clarity",
+            "communication"
+          ],
+          "evidence_lines": [
+            105,
+            106,
+            107,
+            108,
+            109
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What emotional availability did Owen recognize in himself that made him confident in pursuing friendship with me instead of forcing romance?",
+          "answerable": false,
+          "essential": [
+            "emotional maturity",
+            "self-awareness",
+            "relationship insight",
+            "authenticity"
+          ],
+          "evidence_lines": [
+            106,
+            107,
+            108
+          ]
+        }
+      ],
+      "key_traits": [
+        "Environmental NGO project coordinator",
+        "Landscape and nature photography focus",
+        "Conservation-minded lifestyle philosophy",
+        "Knowledgeable and patient mentor figure",
+        "Genuine friendship potential recognizer"
+      ],
+      "core_story": "Owen is an environmental NGO worker whose passion for migratory birds and mangrove restoration extends naturally into landscape photography and authentic human connection. His maturity lies in recognizing early that his chemistry with the user was friendship rather than romance, and his honesty about this creates a genuine partnership over false intimacy."
+    },
+    {
+      "id": "test-dating-6",
+      "split": "test",
+      "setting": "dating",
+      "scenario_family": "test-dating-photography",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Daniel",
+      "relationship": "dating-established",
+      "file": "test-dating-6.txt",
+      "messages": 103,
+      "sha256": "0fceb552af506bc5c702389f7e6061bc8a9f3959bc91cf07ae6325d9d3ccf136",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What breed of dog did Daniel tell me required emergency surgery on a Sunday night when he worked 14+ hours?",
+          "answerable": true,
+          "essential": [
+            "emergency surgeries",
+            "Labrador",
+            "woolen sock ingestion",
+            "Sunday night"
+          ],
+          "evidence_lines": [
+            20,
+            21,
+            22
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Daniel's emergency vet shifts, his film photography, and his sparse text messages to me reveal a personality split between professional intensity and emotional intimacy?",
+          "answerable": true,
+          "essential": [
+            "work intensity",
+            "photography processing",
+            "communication gaps",
+            "emotional presence"
+          ],
+          "evidence_lines": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            65,
+            66,
+            67,
+            68,
+            69
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Daniel sends me one-line text messages for hours, is he emotionally unavailable or genuinely exhausted and communicating within capacity?",
+          "answerable": true,
+          "essential": [
+            "communication pattern",
+            "exhaustion level",
+            "availability interpretation",
+            "work demand verification"
+          ],
+          "evidence_lines": [
+            62,
+            63,
+            79,
+            80,
+            81
+          ]
+        },
+        {
+          "id": "network",
+          "question": "Why do I repeatedly extend understanding for Daniel's chaotic schedule while simultaneously feeling our relationship's fragility?",
+          "answerable": true,
+          "essential": [
+            "schedule chaos",
+            "relationship strain",
+            "understanding limits",
+            "compatibility concerns"
+          ],
+          "evidence_lines": [
+            67,
+            68,
+            90,
+            91,
+            92
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What psychological impact has Daniel's repeated exposure to animal trauma had on his capacity for human emotional connection?",
+          "answerable": false,
+          "essential": [
+            "trauma processing",
+            "emotional availability",
+            "coping mechanisms",
+            "relationship capacity"
+          ],
+          "evidence_lines": [
+            19,
+            20,
+            21,
+            22,
+            23,
+            24
+          ]
+        }
+      ],
+      "key_traits": [
+        "Emergency veterinarian at 24-hour animal hospital",
+        "Black-and-white documentary photographer",
+        "Night-shift lifestyle with irregular sleep",
+        "Emotionally reserved but deeply attentive",
+        "Quietl compassionate through action"
+      ],
+      "core_story": "Daniel is an emergency vet whose life exists in nocturnal extremes—saving animal lives through intensive surgery then processing trauma through midnight photography walks. His contradiction lies in his emotional presence during rare moments of connection obscured by his schedule's intensity, creating a relationship that lives in islands of peace surrounded by chaos."
+    },
+    {
+      "id": "development-partnership-1",
+      "split": "development",
+      "setting": "partnership",
+      "scenario_family": "development-partnership-cooking",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Ming",
+      "relationship": "partnership-married",
+      "file": "development-partnership-1.txt",
+      "messages": 148,
+      "sha256": "722152ef2d352cf63d1775fd2b6933bb6bcac356bd1623a3bc6d85b7e8cda744",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What was the cost of the fresh sea bass that Ming told me he purchased at the wet market and considered superior to supermarket alternatives?",
+          "answerable": true,
+          "essential": [
+            "sea bass purchase",
+            "wet market",
+            "price",
+            "freshness comparison"
+          ],
+          "evidence_lines": [
+            12,
+            13,
+            14
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Ming's warehouse logistics expertise, his meal-prep precision, and his household financial tracking reveal a unified personality organized around efficiency and care?",
+          "answerable": true,
+          "essential": [
+            "logistics work",
+            "cooking preparation",
+            "household budget",
+            "efficiency mindset"
+          ],
+          "evidence_lines": [
+            41,
+            42,
+            43,
+            33,
+            34,
+            35,
+            62,
+            63,
+            64
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Ming tells me 'Outside food is all MSG and bad oil,' is he being protective or controlling about our household nutrition?",
+          "answerable": true,
+          "essential": [
+            "health concern",
+            "control behavior",
+            "care expression",
+            "tone interpretation"
+          ],
+          "evidence_lines": [
+            28,
+            29
+          ]
+        },
+        {
+          "id": "network",
+          "question": "Why does Ming invest in grocery logistics and meal planning for our household while expecting minimal acknowledgment from me for these efforts?",
+          "answerable": true,
+          "essential": [
+            "effort investment",
+            "recognition seeking",
+            "love language",
+            "family dynamics"
+          ],
+          "evidence_lines": [
+            36,
+            37,
+            38,
+            62,
+            63,
+            64,
+            69,
+            70,
+            71,
+            72
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What cultural background informs Ming's view that home cooking and household management are primary expressions of partnership?",
+          "answerable": false,
+          "essential": [
+            "cultural values",
+            "family model",
+            "care philosophy",
+            "partnership definition"
+          ],
+          "evidence_lines": [
+            28,
+            29,
+            62,
+            63,
+            64
+          ]
+        }
+      ],
+      "key_traits": [
+        "Warehouse logistics operations manager",
+        "Traditional Chinese home cooking specialist",
+        "Practical household manager and problem-solver",
+        "Emotionally restrained with actions-based care",
+        "Budget-conscious and efficiency-focused"
+      ],
+      "core_story": "Ming is a logistics operations manager whose precision extends into meticulous home cooking and household management, viewing sustenance and comfort as expressions of care rather than verbal affection. His life embodies the tension between efficiency and emotion: he manages complex warehouse operations yet communicates in sparse, practical terms, suggesting his love language is action-based care disguised as logistics."
+    },
+    {
+      "id": "development-partnership-2",
+      "split": "development",
+      "setting": "partnership",
+      "scenario_family": "development-partnership-cooking",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Clara",
+      "relationship": "partnership-cohabiting",
+      "file": "development-partnership-2.txt",
+      "messages": 99,
+      "sha256": "65c6ee33d6d65efd0e3ccab1cb85cc43304dfc0f51284b7f3e78c4bc7048e6b4",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "How much did Clara estimate our joint dining table and sofa set would cost from Horizon Plaza?",
+          "answerable": true,
+          "essential": [
+            "furniture cost",
+            "solid oak table",
+            "3-seater sofa",
+            "Horizon Plaza"
+          ],
+          "evidence_lines": [
+            24,
+            25
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Clara's spending on culinary equipment, her impulsive luxury purchases, and her delayed flat-savings deposits reveal a consistent pattern of wants overriding our partnership commitments?",
+          "answerable": true,
+          "essential": [
+            "spending patterns",
+            "equipment purchases",
+            "savings delays",
+            "priority conflict"
+          ],
+          "evidence_lines": [
+            21,
+            22,
+            56,
+            57,
+            58,
+            59,
+            60,
+            37,
+            38
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Clara uses food ('tiramisu weekend') and affection to deflect serious financial conversations with me, is she avoiding confrontation or manipulating conflict?",
+          "answerable": true,
+          "essential": [
+            "conflict avoidance",
+            "manipulation",
+            "sincerity",
+            "communication patterns"
+          ],
+          "evidence_lines": [
+            40,
+            41,
+            42,
+            64,
+            65
+          ]
+        },
+        {
+          "id": "network",
+          "question": "Why do I repeatedly initiate financial planning conversations while Clara repeatedly defers them?",
+          "answerable": true,
+          "essential": [
+            "planning initiation",
+            "avoidance pattern",
+            "communication breakdown",
+            "partnership dynamic"
+          ],
+          "evidence_lines": [
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            73,
+            74
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What deeper fear about shared housing or life commitment does Clara mask through enthusiastic baking projects and spending?",
+          "answerable": false,
+          "essential": [
+            "commitment anxiety",
+            "autonomy concerns",
+            "relationship fears",
+            "financial security"
+          ],
+          "evidence_lines": [
+            39,
+            40,
+            41,
+            42
+          ]
+        }
+      ],
+      "key_traits": [
+        "Fashion buyer with culinary/baking passion",
+        "Enthusiastic, impulsive purchasing tendency",
+        "Western fusion cooking hobbyist",
+        "Struggles with financial commitment to joint goals",
+        "Uses food and affection to deflect serious conversations"
+      ],
+      "core_story": "Clara is a fashion buyer who expresses love through elaborate baking and cooking projects, yet struggles to commit financially to shared housing goals with the same enthusiasm she shows luxury purchases. Her contradiction is stark: she genuinely loves her partner and imagines shared futures while simultaneously prioritizing individual purchases over joint financial planning, revealing a disconnect between romantic feeling and adult partnership commitment."
+    },
+    {
+      "id": "test-partnership-3",
+      "split": "test",
+      "setting": "partnership",
+      "scenario_family": "test-partnership-museums",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Vincent",
+      "relationship": "partnership-long-term-dink",
+      "file": "test-partnership-3.txt",
+      "messages": 127,
+      "sha256": "4188f8238650fb72fe4716a149a809b379a16c7c441d0d37ba0b673d24c9f4b5",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "How much did Vincent tell me his out-of-print architectural monograph on post-war Kowloon shophouses weighed?",
+          "answerable": true,
+          "essential": [
+            "monograph weight",
+            "architectural book",
+            "Kowloon shophouses",
+            "collection"
+          ],
+          "evidence_lines": [
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Vincent's museum obsession, his vacation spreadsheet planning, and his resistance to compromise with me reveal a personality that prioritizes intellectual control over relational flexibility?",
+          "answerable": true,
+          "essential": [
+            "museum focus",
+            "planning spreadsheets",
+            "compromise resistance",
+            "control needs"
+          ],
+          "evidence_lines": [
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Vincent tells me 'Fine, book whichever hotel you prefer' after defending Kyoto Station location, is he genuinely accepting compromise or being passively aggressive?",
+          "answerable": true,
+          "essential": [
+            "compromise sincerity",
+            "passive aggression",
+            "emotional resonance",
+            "conflict resolution"
+          ],
+          "evidence_lines": [
+            71,
+            72,
+            73
+          ]
+        },
+        {
+          "id": "network",
+          "question": "Why do I repeatedly need to negotiate Vincent's optimization impulses, and what does this suggest about our partnership's emotional balance?",
+          "answerable": true,
+          "essential": [
+            "negotiation pattern",
+            "control dynamics",
+            "power balance",
+            "partnership satisfaction"
+          ],
+          "evidence_lines": [
+            47,
+            48,
+            49,
+            50,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What professional trauma or family history created Vincent's compulsive need to optimize and control every variable in his personal life?",
+          "answerable": false,
+          "essential": [
+            "childhood influence",
+            "career impact",
+            "anxiety roots",
+            "control psychology"
+          ],
+          "evidence_lines": [
+            38,
+            39,
+            40,
+            41
+          ]
+        }
+      ],
+      "key_traits": [
+        "Heritage conservation architect with museum obsession",
+        "Meticulous planner with spreadsheet dependency",
+        "Intellectually rigid about optimization",
+        "Academic and preservation-focused",
+        "Struggles with spontaneity and compromise"
+      ],
+      "core_story": "Vincent is a heritage conservation architect who applies restoration principles to everything including vacation planning, creating detailed spreadsheets that optimize museum visits over lived experience. His contradiction lies in his intellectual flexibility in professional compromise paired with emotional rigidity in personal planning, suggesting his control serves psychological needs beyond mere organization."
+    },
+    {
+      "id": "test-partnership-4",
+      "split": "test",
+      "setting": "partnership",
+      "scenario_family": "test-partnership-museums",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Yuki",
+      "relationship": "partnership-married-parent",
+      "file": "test-partnership-4.txt",
+      "messages": 94,
+      "sha256": "95c9de18bf2e76ea90fd414f7f2a493a2f7b9934654337c7d16f54d474f7afca",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What time window did Yuki reserve for her solo museum visits on Saturday mornings?",
+          "answerable": true,
+          "essential": [
+            "Saturday morning time",
+            "museum solo time",
+            "solo freedom slot",
+            "10am to 1pm"
+          ],
+          "evidence_lines": [
+            27,
+            28
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Yuki's explicit time-management negotiations with me, her design work stress, and her occasional resentment reveal the emotional toll of our intensive co-parenting?",
+          "answerable": true,
+          "essential": [
+            "time negotiation",
+            "work stress",
+            "parenting intensity",
+            "emotional toll"
+          ],
+          "evidence_lines": [
+            25,
+            26,
+            27,
+            28,
+            44,
+            45,
+            46,
+            57,
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Yuki asks me 'how did we turn into this uncle and auntie couple,' is she affectionately joking or expressing subtle disappointment about our life changes?",
+          "answerable": true,
+          "essential": [
+            "tone interpretation",
+            "life satisfaction",
+            "identity shift",
+            "emotional resonance"
+          ],
+          "evidence_lines": [
+            29,
+            30,
+            31
+          ]
+        },
+        {
+          "id": "network",
+          "question": "Why is Yuki's solo museum time so explicitly valued and protected within our partnership, and what does this reveal about how she sustains her identity during intensive parenting?",
+          "answerable": true,
+          "essential": [
+            "identity preservation",
+            "personal autonomy",
+            "parenting cost",
+            "partnership support"
+          ],
+          "evidence_lines": [
+            14,
+            15,
+            16,
+            27,
+            28,
+            70,
+            71,
+            72
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What specific fears does Yuki harbor about losing herself entirely to parenting and design work demands?",
+          "answerable": false,
+          "essential": [
+            "identity anxiety",
+            "burnout concerns",
+            "self-preservation",
+            "life balance fears"
+          ],
+          "evidence_lines": [
+            14,
+            15,
+            16
+          ]
+        }
+      ],
+      "key_traits": [
+        "Senior brand designer and contemporary art enthusiast",
+        "Co-parenting professional with toddler",
+        "Negotiation-expert in time allocation",
+        "Burnout-vulnerable from competing demands",
+        "Appreciative of explicit partnership logistics"
+      ],
+      "core_story": "Yuki is a brand designer and parent navigating the intense logistics of co-parenting, using explicit negotiation ('Saturday mornings for me, Saturday afternoons for you') to protect personal time and sanity. Her life exemplifies modern partnership complexity: she's grateful for teamwork yet occasionally resentful of the constant logistical planning required, suggesting shared parenting requires emotional labor beyond the practical execution."
+    },
+    {
+      "id": "test-partnership-5",
+      "split": "test",
+      "setting": "partnership",
+      "scenario_family": "test-partnership-museums",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Julian",
+      "relationship": "partnership-semi-cohabiting",
+      "file": "test-partnership-5.txt",
+      "messages": 111,
+      "sha256": "6bdace44262148a6959633b6f28bfc33c1e2fa6395b0a1e181c20e4c4e517cbc",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "How much did Julian say his proposed Macau VIP art exhibition pass and hotel stay would cost for the two of us?",
+          "answerable": true,
+          "essential": [
+            "Macau VIP passes",
+            "hotel stay",
+            "cost",
+            "$4,200 per person"
+          ],
+          "evidence_lines": [
+            59,
+            60
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Julian's enthusiasm for luxury experiences, his late arrivals, and his avoidance of financial planning conversations with me reveal a pattern of prioritizing mood over commitment?",
+          "answerable": true,
+          "essential": [
+            "luxury spending",
+            "lateness pattern",
+            "planning avoidance",
+            "commitment anxiety"
+          ],
+          "evidence_lines": [
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Julian tells me 'you're overthinking this' about concrete housing plans, is he genuinely relaxed or dismissing my legitimate concerns?",
+          "answerable": true,
+          "essential": [
+            "dismissal analysis",
+            "valid concerns",
+            "avoidance pattern",
+            "gaslighting risk"
+          ],
+          "evidence_lines": [
+            68,
+            69
+          ]
+        },
+        {
+          "id": "network",
+          "question": "Why do I repeatedly initiate serious conversations that Julian consistently reframes as 'killing the vibe,' and what does this dynamic reveal about our power imbalance?",
+          "answerable": true,
+          "essential": [
+            "conversation pattern",
+            "vibe-killing phrase",
+            "power dynamics",
+            "communication breakdown"
+          ],
+          "evidence_lines": [
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            74,
+            75,
+            76
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What deeper relationship anxiety does Julian mask through trendy art enthusiasm and romantic gestures that avoid actual partnership commitment?",
+          "answerable": false,
+          "essential": [
+            "commitment phobia",
+            "intimacy anxiety",
+            "avoidance psychology",
+            "relationship fears"
+          ],
+          "evidence_lines": [
+            63,
+            64,
+            65,
+            66,
+            67
+          ]
+        }
+      ],
+      "key_traits": [
+        "PR agency creative account director",
+        "Trendy art/pop-up exhibition enthusiast",
+        "Commitment-avoidant through distraction",
+        "Spends optimistically with loose accountability",
+        "Charms his way out of serious conversations"
+      ],
+      "core_story": "Julian is a PR creative who treats life like a series of trendy art openings and glamorous experiences, using charm and humor to avoid the pragmatic partnership conversations his live-in relationship requires. His contradiction is painful: he genuinely loves his partner and makes romantic grand gestures while simultaneously avoiding concrete commitment to shared housing or financial planning, revealing how charm can mask relationship avoidance."
+    },
+    {
+      "id": "test-partnership-6",
+      "split": "test",
+      "setting": "partnership",
+      "scenario_family": "test-partnership-museums",
+      "author": "Team Design (Human-authored persona, AI-generated conversation)",
+      "annotation_status": "requires_two_independent_reviewers",
+      "name": "Sze Man",
+      "relationship": "partnership-established",
+      "file": "test-partnership-6.txt",
+      "messages": 89,
+      "sha256": "23ddadd269392456ea3815d34e67641f1c4c7bfa2e98d278f92fb40a5a9a1cfe",
+      "questions": [
+        {
+          "id": "fact",
+          "question": "What small gift did Sze Man pick up at the University Museum that he remembered me mentioning in passing?",
+          "answerable": true,
+          "essential": [
+            "bookmark gift",
+            "brass gingko leaf",
+            "University Museum",
+            "remembered preference"
+          ],
+          "evidence_lines": [
+            25,
+            26,
+            27
+          ]
+        },
+        {
+          "id": "distributed",
+          "question": "How do Sze Man's subtle gifts, his museum enthusiasm, and his acceptance of my work stress reveal an emotionally mature partnership approach?",
+          "answerable": true,
+          "essential": [
+            "gift-giving",
+            "attention to detail",
+            "museum passion",
+            "stress acceptance"
+          ],
+          "evidence_lines": [
+            25,
+            26,
+            27,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60
+          ]
+        },
+        {
+          "id": "ambiguity",
+          "question": "When Sze Man suggests to me 'I can just go by myself' to the botanical exhibition, is he genuinely flexible or gently communicating disappointment?",
+          "answerable": true,
+          "essential": [
+            "flexibility authenticity",
+            "disappointment communication",
+            "passive tone analysis"
+          ],
+          "evidence_lines": [
+            54,
+            55,
+            56
+          ]
+        },
+        {
+          "id": "network",
+          "question": "How does Sze Man's willingness to attend our cat's dental appointment alongside me reveal a partnership philosophy of shared responsibility?",
+          "answerable": true,
+          "essential": [
+            "shared responsibility",
+            "household decisions",
+            "partnership equality",
+            "teamwork"
+          ],
+          "evidence_lines": [
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79
+          ]
+        },
+        {
+          "id": "underdetermined",
+          "question": "What personal values or family background created Sze Man's emotional attentiveness and his prioritization of small moments of care?",
+          "answerable": false,
+          "essential": [
+            "childhood influence",
+            "family model",
+            "care values",
+            "relationship philosophy"
+          ],
+          "evidence_lines": [
+            25,
+            26,
+            27,
+            64,
+            65,
+            66
+          ]
+        }
+      ],
+      "key_traits": [
+        "Academic publishing senior editor",
+        "Botanical/natural history museum enthusiast",
+        "Emotionally attentive through small gestures",
+        "Caretaker personality prioritizing others' needs",
+        "Secure and communicative relationship foundation"
+      ],
+      "core_story": "Sze Man is an academic editor who finds joy in quiet museum hours and thoughtful gestures like remembered bookmarks, creating a partnership defined by mutual attentiveness and acceptance of constraints. His consistency lies in his commitment to both the user's needs and his shared cats, building a home life structured around collective wellbeing rather than individual maximization."
     }
   ]
 }
