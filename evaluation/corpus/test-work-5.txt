@@ -1,240 +1,201 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_3_4: I am studying economics. I enjoy swimming.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_3_4: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_3_4: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_3_4: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_3_4: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_3_4: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_3_4: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_3_4: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_3_4: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_3_4: Thanks, I will check and get back to you.
+[21/10/2026, 10:08:12] You: Hi Mavis! Sorry to bother you again, my Outlook keeps freezing whenever I try to attach a PDF.
+[21/10/2026, 10:11:45] Mavis: Good morning! No bother at all, that is what IT Support is here for. Have you tried restarting the laptop yet?
+[21/10/2026, 10:12:30] You: Yeah I restarted twice and it still crashes :(
+[21/10/2026, 10:13:15] Mavis: Alright, don't worry. I will pop over to your desk in 10 minutes with a coffee and take a look.
+[21/10/2026, 10:14:02] You: You are a lifesaver, thank you so much!
+[21/10/2026, 10:14:40] Mavis: Happy to help!
+[21/10/2026, 11:20:33] You: Outlook is running super smoothly now, thanks again Mavis!
+[21/10/2026, 11:24:10] Mavis: Glad to hear it! Just remember not to keep 40 Chrome tabs open at the same time, okay? Your poor laptop needs to breathe.
+[21/10/2026, 11:25:05] You: Haha caught red-handed! I will close some tabs I promise.
+[21/10/2026, 11:26:12] Mavis: Good! Make sure you grab a proper lunch today, don't just eat biscuits at your desk.
+[21/10/2026, 11:27:00] You: Yes sir!
+[24/10/2026, 14:15:20] You: Hey Mavis, hope you are having a good weekend! Quick question — my VPN token won't let me log in from home.
+[24/10/2026, 14:28:05] Mavis: Hey there! Why are you working on a Saturday afternoon? Let me check your token status from my phone.
+[24/10/2026, 14:29:18] You: Just trying to finish one slide before Monday so I don't stress.
+[24/10/2026, 14:32:40] Mavis: Alright, I just reset your sync. Try logging in again now, and please wrap up within an hour and go rest!
+[24/10/2026, 14:34:12] You: It worked!! Thank you so much, sorry to interrupt your Saturday!
+[24/10/2026, 14:35:30] Mavis: No problem at all! I am actually just sitting by the poolside waiting for my younger daughter to finish her swimming lesson.
+[24/10/2026, 14:36:45] You: Oh nice! Both your daughters are learning to swim?
+[24/10/2026, 14:38:10] Mavis: Yes! The older one already swims freestyle pretty well, and the little one just started last month. I usually swim a few laps myself while they warm up — I really enjoy swimming to stay active now that I hit 40.
+[24/10/2026, 14:39:22] You: That sounds so wholesome! Enjoy family day!
+[24/10/2026, 14:40:05] Mavis: Thanks! Don't work too late!
+[27/10/2026, 12:05:18] You: Hey Mavis, I owe you lunch for saving my laptop and VPN last week! Free to grab dim sum or noodles today?
+[27/10/2026, 12:09:40] Mavis: Haha you really don't have to, I am just doing my job. But sure, I would love to grab noodles! Meet at the lift lobby at 12:30pm?
+[27/10/2026, 12:10:25] You: Deal! See you at 12:30.
+[27/10/2026, 16:40:12] Mavis: Thanks again for lunch earlier! Those wonton noodles were great.
+[27/10/2026, 16:43:05] You: Anytime! By the way, a few of us from the floor were talking about doing a casual dinner or going for a swim after work one evening. Which weekday is usually easiest for you?
+[27/10/2026, 16:46:22] Mavis: Let me think. Mondays to Wednesdays I usually rush straight home to help my wife check the girls' homework.
+[27/10/2026, 16:47:15] Mavis: I am usually free on Thursday evenings though! My mother-in-law comes over every Thursday to cook dinner for my wife and the kids, so I get a free pass after 6:30pm.
+[27/10/2026, 16:48:40] You: Oh that is awesome! Let us plan a casual Thursday evening dinner or swim sometime in November then.
+[27/10/2026, 16:49:30] Mavis: Sounds wonderful, somewhere casual in Kwun Tong or Quarry Bay works best for me.
+[27/10/2026, 16:50:12] You: Noted!
+[30/10/2026, 15:20:05] You: Hey Mavis, a few colleagues are going for Friday happy hour drinks in Central tonight. Want to join us for one round?
+[30/10/2026, 15:24:33] Mavis: Thanks so much for inviting me! I am going to have to pass tonight though.
+[30/10/2026, 15:25:40] You: Oh no worries! Busy evening?
+[30/10/2026, 15:27:12] Mavis: Yeah, promised my wife I would pick up groceries and take the girls to pick out Halloween lanterns tonight.
+[30/10/2026, 15:28:05] You: Aww that sounds way better than happy hour haha. Have fun!
+[30/10/2026, 15:28:50] Mavis: Haha thank you, you guys enjoy yourselves and get home safe!
+[03/11/2026, 09:40:11] Mavis: Morning! Notice the weather dropped a few degrees today. Hope you brought a cardigan, the office AC is still freezing.
+[03/11/2026, 09:44:25] You: Morning Mavis! Yes I finally brought a jacket today haha.
+[03/11/2026, 09:45:10] Mavis: Good, don't catch a cold before year-end.
+[04/11/2026, 11:15:30] You: Hey Mavis! Quick question — my laptop is making a weird fan noise again. Should I bring it in for service?
+[04/11/2026, 11:22:40] Mavis: Hmm, the fan noise could be dust buildup. Bring it by my desk around 2pm and I'll clean it out. Should fix it right up.
+[04/11/2026, 11:24:15] You: You're the best! See you at 2pm then.
+[04/11/2026, 14:35:50] Mavis: All done! The fan should be quiet as a mouse now. Keep the air vents clear of papers and cables though!
+[04/11/2026, 14:38:20] You: Perfect, it's running so smoothly now. Thanks as always Mavis!
+[04/11/2026, 14:40:05] Mavis: Happy to help. By the way, the girls want to know if you want to join their swimming class sometime. They think you're cool!
+[04/11/2026, 14:42:30] You: Aww that's so sweet! Maybe I'll come watch one of their lessons one Saturday.
+[04/11/2026, 14:44:50] Mavis: They would love that! We usually go to Quarry Bay pool on Saturday mornings around 10am.
+[05/11/2026, 11:30:22] You: Hey Mavis, are we still good to do that colleague swim and casual dinner on Thursday 26 November?
+[05/11/2026, 11:35:18] Mavis: Let me check my calendar. Thursday 26 November looks completely fine! I am usually free Thursday evenings anyway.
+[05/11/2026, 11:36:05] You: Great, I will pencil it in!
+[05/11/2026, 11:36:45] Mavis: Looking forward to it!
+[06/11/2026, 09:50:30] Mavis: Good morning! Just wanted to check — my older daughter wants to know if you'll actually come watch her swimming class this Saturday. She's been asking about it!
+[06/11/2026, 09:57:15] You: Aww tell her yes! I'd love to come! What time exactly on Saturday morning?
+[06/11/2026, 10:00:40] Mavis: Perfect! We're there at 10am sharp. The lesson runs until about 11am. Fair warning though — she might try to show off a bit when she knows you're watching haha.
+[06/11/2026, 10:03:50] You: That's adorable! I'll be there at 10am. What's her name? I want to cheer her on properly!
+[06/11/2026, 10:06:15] Mavis: Her name is Sophie. She's 8 years old and absolutely loves the water. You'll be her hero showing up!
+[06/11/2026, 10:08:30] You: I'm already looking forward to it!
+[07/11/2026, 10:15:30] You: Hey Mavis! A few of us from the office are doing a casual Saturday lunch in Shatin today, just in case you are nearby and want to drop by?
+[07/11/2026, 10:22:14] Mavis: Oh that is very kind of you to ask! I will have to skip today though, we are taking the two girls to the Science Museum and then out for family dinner.
+[07/11/2026, 10:24:02] You: Ah of course, weekend family day! Hope the girls love the museum!
+[07/11/2026, 10:25:18] Mavis: Thank you! Sorry I keep missing the weekend hangouts, weekends are pretty much reserved for the kids at this age.
+[07/11/2026, 10:26:40] You: Don't apologise at all, you are a great dad!
+[08/11/2026, 14:45:10] Mavis: Hey! Just wanted to give you a heads-up — Sophie asked about you all evening after I told her you're coming to watch Saturday. She's planning to show off her freestyle stroke!
+[08/11/2026, 14:52:30] You: That's so sweet! Tell her I'm bringing some treats for after the class as a little surprise.
+[08/11/2026, 14:55:15] Mavis: Oh that's very kind of you! She'll be thrilled. See you Saturday morning at Quarry Bay pool at 10am!
+[08/11/2026, 14:58:40] You: Absolutely! Looking forward to it!
+[10/11/2026, 14:05:19] You: Mavis, the 14/F colour printer is flashing a red error light again.
+[10/11/2026, 14:08:30] Mavis: Classic 14/F printer. Probably the toner sensor acting up. Give me 5 minutes, I am heading up now.
+[10/11/2026, 14:09:12] You: Thanks as always!
+[10/11/2026, 14:25:05] Mavis: All fixed! Just don't let anyone feed stapled paper into the scanner tray again haha.
+[10/11/2026, 14:26:18] You: Haha I will put a sticky note on it.
+[11/11/2026, 09:30:50] You: By the way, Sophie's swimming class on Saturday was amazing! She absolutely nailed that freestyle stroke. You should be so proud of her!
+[11/11/2026, 09:38:20] Mavis: Oh she was talking about you all evening after! She said you were the best spectator ever because you cheered the loudest haha.
+[11/11/2026, 09:41:30] You: She's such a natural swimmer. Both your girls are going to be incredible athletes!
+[11/11/2026, 09:44:15] Mavis: They definitely get the swimming genes from their old man! But seriously, thank you for showing up. It meant the world to Sophie.
+[13/11/2026, 17:10:40] Mavis: By the way, my younger daughter finally swam 10 metres without a kickboard this week!
+[13/11/2026, 17:14:22] You: Oh wow congrats to her!! You must be so proud.
+[13/11/2026, 17:15:10] Mavis: So proud! We celebrated with ice cream after class.
+[13/11/2026, 17:16:05] You: Best dad award goes to you!
+[14/11/2026, 10:20:30] You: Hey Mavis! How is your week going? Seems like things are ramping up for year-end!
+[14/11/2026, 10:28:15] Mavis: Tell me about it. Everyone needs system upgrades and security patches done before December. It's going to be a busy month!
+[14/11/2026, 10:30:45] You: If you need any help with anything, just let me know. You do so much for all of us.
+[14/11/2026, 10:33:20] Mavis: That's very kind of you, thank you! For now I think we're managing. The girls keep me sane through all the chaos though.
+[14/11/2026, 10:35:50] You: They sound like wonderful little athletes! Sophie and her sister are lucky to have such a dedicated dad.
+[17/11/2026, 13:20:14] Mavis: Hey there, really sorry to bring bad news about next week.
+[17/11/2026, 13:23:05] You: Oh no, what happened Mavis? Everything okay at home?
+[17/11/2026, 13:24:18] Mavis: Everything is fine, thank you for asking! My wife just found out she has a mandatory evening client event on Thursday 26 November, and my mother-in-law is away visiting relatives that week.
+[17/11/2026, 13:25:10] Mavis: So I need to pick up both girls, take them to their evening swimming practice, and make dinner. I have to cancel our Thursday 26 November swim and dinner. Really sorry about this!
+[17/11/2026, 13:27:02] You: No worries at all Mavis! Family definitely comes first. We can easily move it to the following Thursday, 3 December?
+[17/11/2026, 13:28:15] Mavis: Thursday 3 December works great for me! Thank you for being so understanding.
+[17/11/2026, 13:29:00] You: Of course! Say hi to the girls for me.
+[18/11/2026, 09:15:40] You: Hey Mavis, just a thought — when we reschedule to December 3rd, would Sophie and her sister want to join us for the swim? They're such strong swimmers!
+[18/11/2026, 09:22:15] Mavis: Oh that's so thoughtful of you! They would actually love that. Usually their bedtime is early, but a casual evening swim with colleagues would be fun for them as a special treat.
+[18/11/2026, 09:25:30] You: Perfect! We can make it a family-friendly swim session instead. More the merrier!
+[18/11/2026, 09:28:50] Mavis: I really appreciate this. The girls talk about you all the time actually. You've become quite the office celebrity in our household!
+[19/11/2026, 16:50:12] You: Hey Mavis, thanks for upgrading my laptop RAM this morning, it feels brand new!
+[19/11/2026, 16:54:05] Mavis: You are very welcome! Should last you smoothly through year-end closing now.
+[19/11/2026, 16:55:18] You: Definitely! Have a great evening.
+[19/11/2026, 16:56:00] Mavis: You too, go home on time and get some rest!
+[20/11/2026, 10:30:40] You: By the way, I was thinking — should we plan a small dinner before December 3rd? Maybe sometime this weekend, just you and I?
+[20/11/2026, 10:38:15] Mavis: Oh, that's very kind of you to suggest! Actually this weekend we're pretty booked with Sophie's swimming competition prep, but how about Monday 25 November after work?
+[20/11/2026, 10:40:50] You: Monday 25th works perfectly! Where would you like to grab dinner?
+[20/11/2026, 10:43:20] Mavis: There's a nice casual Thai place in Kwun Tong I've been meaning to try. How about 6:30pm there?
+[20/11/2026, 10:45:35] You: Perfect! See you Monday evening then!
+[21/11/2026, 11:10:22] Mavis: Morning! Hope you are actually resting this Saturday and not touching the VPN!
+[21/11/2026, 11:15:40] You: Haha promise I didn't even open my work laptop today! Enjoy your weekend with the family!
+[21/11/2026, 11:16:35] Mavis: Good to hear! Take care!
+[21/11/2026, 14:35:20] You: By the way, excited about Monday dinner! Should I bring anything or just bring myself?
+[21/11/2026, 14:42:50] Mavis: Just bring yourself! Looking forward to catching up outside the office madness.
+[21/11/2026, 14:45:15] You: Same here! See you Monday evening!
+[22/11/2026, 10:30:18] Mavis: Morning! Just wanted to check — you are still planning to join us for Thursday 3 December swim and dinner, right?
+[22/11/2026, 10:38:40] You: Absolutely! Already have it marked on my calendar. What time should I meet everyone?
+[22/11/2026, 10:40:12] Mavis: Let us aim for 6:30pm at the Quarry Bay pool entrance. Casual swim for about an hour, then dinner nearby after.
+[22/11/2026, 10:41:30] You: Perfect! Is anyone else from the office joining?
+[22/11/2026, 10:42:15] Mavis: Yes, I think Leslie from Legal and maybe one or two others. I will send out a quick email confirming the headcount.
+[22/11/2026, 10:43:45] You: Sounds good, see you Thursday 3 Dec!
+[22/11/2026, 10:44:30] Mavis: Looking forward to it!
+[23/11/2026, 14:20:12] You: Hey Mavis, quick work question — the shared drive is acting up again. Can you check the server status?
+[23/11/2026, 14:28:30] Mavis: Yeah I saw a few reports come in. I am investigating now, should have it sorted within the hour.
+[23/11/2026, 14:29:15] You: Thanks as always! No rush.
+[24/11/2026, 11:10:30] You: Hey Mavis, happy to hear the shared drive is back online!
+[24/11/2026, 16:35:12] Mavis: Thanks! Just a network hiccup. Should be stable now through year-end.
+[24/11/2026, 16:36:45] You: Great work as always!
+[25/11/2026, 09:30:14] Mavis: Morning! Just a quick reminder — my older daughter's swimming competition is this Sunday, so I might be a bit distracted at work tomorrow haha.
+[25/11/2026, 09:38:40] You: Oh that is exciting! What event is she competing in?
+[25/11/2026, 09:40:12] Mavis: 50-metre freestyle. She has been training hard the past few weeks, so we are very proud of her.
+[25/11/2026, 09:41:30] You: That is wonderful! Good luck to her! I hope she does great!
+[25/11/2026, 09:42:15] Mavis: Thank you so much! I will let you know how it goes on Monday.
+[26/11/2026, 10:20:08] You: Hey Mavis, how is the work week treating you?
+[26/11/2026, 10:28:30] Mavis: Pretty steady! Just helping a few teams with their year-end system upgrades and backups.
+[26/11/2026, 10:29:55] You: Makes sense, things ramping up for Q4 closing. See you Thursday though!
+[26/11/2026, 10:31:12] Mavis: Yes, definitely! Really looking forward to the swim and dinner break. We all need it!
+[27/11/2026, 11:35:08] Mavis: Oh, before I forget — my daughter did amazing at her swimming competition yesterday! Won a silver medal in freestyle!
+[27/11/2026, 14:22:40] You: Oh my gosh, that is incredible!! Congratulations to her! You must be so proud!
+[27/11/2026, 14:23:55] Mavis: We absolutely are! She was so happy. Kids really inspire you to celebrate the small wins, you know?
+[27/11/2026, 14:25:12] You: Definitely! Well deserved medal!
+[28/11/2026, 09:30:14] You: Mavis, just confirming — are we still good for tomorrow evening at Quarry Bay pool at 6:30pm?
+[28/11/2026, 11:48:20] Mavis: Absolutely! I am counting down the hours. We all need this after the week we have had!
+[28/11/2026, 11:49:45] You: Same! See you tomorrow at 6:30pm!
+[28/11/2026, 11:51:00] Mavis: See you then!
+[29/11/2026, 21:40:12] You: Home now! That was such a good evening Mavis. Thanks for organizing it!
+[29/11/2026, 21:48:30] Mavis: Same! It was really nice to unwind with everyone outside the office. We should do this more regularly!
+[29/11/2026, 21:50:05] You: Definitely! You were flying through the pool though, that competitive swimming background really shows!
+[29/11/2026, 21:51:30] Mavis: Haha thanks! Old habits die hard, even after 20 years! And the dinner was perfect afterwards. Good spot!
+[29/11/2026, 21:52:45] You: Right?! That restaurant in Kwun Tong was great. Have a good rest this weekend!
+[29/11/2026, 21:54:00] Mavis: You too! Get some proper sleep before year-end crunch!
+[30/11/2026, 10:15:22] Mavis: Morning! Hope you are having a relaxing Sunday. My wife is making dim sum at home today.
+[30/11/2026, 10:28:40] You: Oh nice! That sounds lovely. Enjoying the break before the final push to year-end?
+[30/11/2026, 10:29:55] Mavis: Exactly! Need to recharge because I have a feeling December is going to be hectic with everyone's systems needing year-end maintenance.
+[30/11/2026, 10:31:12] You: Fair point. See you at the office tomorrow!
+[30/11/2026, 10:32:30] Mavis: See you then!
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well, Mavis!
+[01/12/2026, 10:28:30] Mavis: Morning! Back to the regular grind. How is your Monday?
+[01/12/2026, 10:31:12] You: Pretty steady, year-end push is ramping up though!
+[01/12/2026, 10:33:50] Mavis: Same here, lots of system updates to handle. How are the girls doing?
+[02/12/2026, 14:15:30] You: By the way, did your daughter end up swimming in any other competitions this month?
+[02/12/2026, 14:22:40] Mavis: Actually yes! She qualified for the district championships in January, we're all so proud!
+[02/12/2026, 14:25:18] You: Oh wow that's amazing! Congratulations to her!
+[02/12/2026, 14:28:05] Mavis: Thank you! She's been training extra hard. The younger one is also doing better in the water these days.
+[02/12/2026, 14:30:40] You: Both girls are champions!
+[03/12/2026, 09:30:14] Mavis: Morning! Hope you're getting some decent sleep before the crunch season.
+[03/12/2026, 09:38:40] You: Trying to! You managing to sleep okay?
+[03/12/2026, 09:41:12] Mavis: Fairly well actually, though my schedule gets hectic with the girls' swimming plus work.
+[04/12/2026, 10:15:30] You: Morning Mavis! How is Thursday treating you?
+[04/12/2026, 10:28:30] Mavis: Good! Though I do notice my mother-in-law is away for another week, so I'm on full solo parent duty this evening after work.
+[04/12/2026, 10:31:12] You: That's a lot of juggling!
+[04/12/2026, 10:33:50] Mavis: It is, but we manage. The girls know the routine by now.
+[05/12/2026, 11:35:08] You: Hey Mavis, quick check — are we still planning the casual swim and dinner sometime in December?
+[05/12/2026, 14:22:40] Mavis: Actually, with the district championships looming and my wife's work schedule, can we reschedule for January? It's getting pretty hectic in December.
+[05/12/2026, 14:23:55] You: Oh of course! January works totally fine!
+[05/12/2026, 14:25:12] Mavis: Thank you for being so understanding. We'll definitely make it happen in the new year!
+[06/12/2026, 09:30:14] You: Hey Mavis, happy Saturday! How is family day treating you?
+[06/12/2026, 10:28:40] Mavis: Morning! Pretty good actually. Just finished some work emails and now we're heading to the pool for the girls' practice.
+[06/12/2026, 10:29:55] You: Busy Saturday! Hope the girls have fun!
+[06/12/2026, 10:31:12] Mavis: They will! Both girls look forward to their sessions. See you at the office!
+[06/12/2026, 10:33:50] You: See you Monday!
+[07/12/2026, 09:30:14] You: Hey Mavis, hope your Sunday is lovely!
+[07/12/2026, 10:28:40] Mavis: pretty chill actually! just catching up on sleep before year-end madness
+[07/12/2026, 10:29:55] You: That's well deserved! Ready for the final push?
+[07/12/2026, 10:31:12] Mavis: as ready as I can be! the girls give me energy though
+[08/12/2026, 09:30:14] You: Hey Mavis, hope your Monday is treating you well!
+[08/12/2026, 10:28:40] Mavis: Morning! Back to system maintenance for year-end. Lots of server checks coming up.
+[08/12/2026, 10:29:55] You: Same here, just getting through the week. How are the girls?
+[08/12/2026, 10:31:12] Mavis: Thriving! Excited about the district championships next month.
+[08/12/2026, 10:33:50] You: That's wonderful that they're so excited about swimming!
+[09/12/2026, 11:35:08] You: Almost to the weekend! How's your week going?
+[09/12/2026, 14:22:40] Mavis: Long week but manageable. Looking forward to some family time.
+[09/12/2026, 14:23:55] You: You deserve it after all you juggle!
+[09/12/2026, 14:25:12] Mavis: Thank you for that. It means a lot!
+[10/12/2026, 09:30:14] You: Hey Mavis, happy Friday! Almost there!
+[10/12/2026, 10:28:40] Mavis: Morning! One more day of work and then weekend freedom!
+[10/12/2026, 10:29:55] You: Enjoy the break when it comes!
+[10/12/2026, 10:31:12] Mavis: I will! Have a great weekend too!
+[10/12/2026, 10:33:50] You: You as well, Mavis!
+[11/12/2026, 11:30:15] Mavis: Morning! Hope you're having a relaxing Sunday!
+[11/12/2026, 11:35:40] You: Pretty chill so far! How about you?
+[11/12/2026, 11:38:12] Mavis: Family time and meal prep for the week. Life at 40!
+[11/12/2026, 11:41:30] You: That's the dream honestly! Enjoy every moment!
+[11/12/2026, 11:44:05] Mavis: Thank you! Talk soon!
+[06/12/2026, 10:32:30] You: See you Monday! Have a great weekend!

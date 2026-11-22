@@ -1,240 +1,207 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_3_0: I am studying economics. I enjoy board games.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_3_0: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_3_0: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_3_0: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_3_0: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_3_0: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_3_0: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_3_0: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_3_0: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_3_0: Thanks, I will check and get back to you.
+[22/10/2026, 09:42:10] Veronica: omg
+[22/10/2026, 09:42:18] Veronica: they actually broke up
+[22/10/2026, 09:45:03] You: wait what?? broke up fr?!
+[22/10/2026, 09:45:41] Veronica: YES just heard from Jenny in HR
+[22/10/2026, 09:46:12] You: no way!! I thought they were literally looking at flats last month lol
+[22/10/2026, 09:46:55] Veronica: right?? Kevin from Risk and Chloe from Corporate!! apparently he found out she was still texting her ex
+[22/10/2026, 09:47:30] You: omg that's wild. poor Kevin tbh
+[22/10/2026, 09:48:04] Veronica: wait I have way more tea on this
+[22/10/2026, 09:48:19] Veronica: wru? pantry in 3 mins?
+[22/10/2026, 09:48:45] You: omw!!
+[22/10/2026, 14:15:22] You: thx for the coffee earlier btw
+[22/10/2026, 14:18:09] Veronica: np! needed to get away from my screen anyway
+[22/10/2026, 14:19:02] You: same, my compliance spreadsheet is killing me
+[22/10/2026, 14:20:15] Veronica: tell me about it. my MD just asked for deck edits asap
+[22/10/2026, 14:21:00] You: ugh good luck, survive til 6
+[22/10/2026, 14:21:33] Veronica: ty lol gonna need it
+[22/10/2026, 18:40:12] You: did u manage to escape or still stuck editing?
+[22/10/2026, 18:44:50] Veronica: just sent the final version out! heading to the MTR now
+[22/10/2026, 18:45:30] You: yay go home and rest!
+[22/10/2026, 18:46:05] Veronica: definitely, pouring a glass of wine the second I get through the door
+[24/10/2026, 11:05:18] You: morning! u up?
+[24/10/2026, 11:18:40] Veronica: barely lol just rolled out of bed
+[24/10/2026, 11:19:22] You: still on for hot yoga at 2pm?
+[24/10/2026, 11:20:05] Veronica: 100%! I love hot yoga, honestly it's the only thing keeping me sane after bank hours
+[24/10/2026, 11:21:11] You: haha same. should we grab brunch after in Central?
+[24/10/2026, 11:22:04] Veronica: yesss let's go to that new place on Hollywood Road, I heard their truffle eggs are amazing
+[24/10/2026, 11:22:48] You: ok I'll book a table for 3:30pm
+[24/10/2026, 11:23:15] Veronica: ty!! see u at the studio
+[24/10/2026, 18:10:33] Veronica: today was so good, my shoulders feel way less tight
+[24/10/2026, 18:14:02] You: ikr! and the cocktails after didn't hurt lol
+[24/10/2026, 18:15:19] Veronica: haha balanced lifestyle. btw did u book ur facial for next week yet?
+[24/10/2026, 18:16:05] You: not yet, thinking of trying the one in Causeway Bay u recommended
+[24/10/2026, 18:17:12] Veronica: do it!! their hydration treatment is pricey like $1,800 a session but so worth it
+[24/10/2026, 18:18:00] You: ok sold, I'll WhatsApp them on Mon
+[24/10/2026, 18:19:15] Veronica: tell them I referred u, they usually throw in a free eye mask
+[24/10/2026, 18:20:02] You: ooh nice perk, will do!
+[26/10/2026, 09:30:14] You: Monday blues hitting extra hard today
+[26/10/2026, 09:35:22] Veronica: tell me about it, I had 45 unread emails before 9am
+[26/10/2026, 09:36:10] You: yikes. grabbing an iced latte from Arabica before my 10am call, want anything?
+[26/10/2026, 09:37:05] Veronica: yes please! iced Americano, I'll PayMe u
+[26/10/2026, 09:37:48] You: np, dropping it at ur desk in 10 mins
+[26/10/2026, 09:38:15] Veronica: lifesaver!!
+[26/10/2026, 16:20:40] Veronica: is the office AC broken or are they trying to freeze us to death today
+[26/10/2026, 16:23:12] You: literally wearing my cashmere scarf at my desk rn
+[26/10/2026, 16:24:05] Veronica: smart, I left my blazer in the meeting room earlier
+[26/10/2026, 16:24:50] You: go rescue it before facilities locks the room!
+[26/10/2026, 16:25:18] Veronica: good point, going now
+[27/10/2026, 10:30:11] You: hey can u send me the Q3 client template?
+[27/10/2026, 10:32:45] Veronica: sure gimme 5 mins, just wrapping up a call
+[27/10/2026, 10:33:10] You: np take ur time
+[27/10/2026, 10:38:22] Veronica: sent to ur email! fyi I'm still in Wealth Management on 28/F if u need the printed sign-off form
+[27/10/2026, 10:39:05] You: got it, ty! might pop down after lunch
+[27/10/2026, 10:39:40] Veronica: ok cool, let me know when u come down
+[27/10/2026, 12:48:15] Veronica: wru? wanna grab lunch at IFC?
+[27/10/2026, 12:50:02] You: stuck in a meeting til 1:15 :( go ahead without me
+[27/10/2026, 12:51:10] Veronica: aww ok I'll grab u a matcha latte on my way back?
+[27/10/2026, 12:51:44] You: u are an angel!! oat milk pls
+[27/10/2026, 12:52:09] Veronica: np!
+[27/10/2026, 17:55:12] Veronica: omg Eve u will not believe what Marcus just said in the team meeting
+[27/10/2026, 17:56:04] You: spill!! what happened
+[27/10/2026, 17:56:30] Veronica: too long to type lol let's walk to the MTR together at 6:15
+[27/10/2026, 17:57:01] You: deal, meet at the lift lobby
+[29/10/2026, 13:12:40] You: hey are u free any weekday evenings next month? wanna schedule our regular yoga + dinner
+[29/10/2026, 13:18:15] Veronica: let me check my calendar
+[29/10/2026, 13:19:02] Veronica: Mon and Tue are always crazy with portfolio reviews, and Thu I usually have team drinks
+[29/10/2026, 13:19:48] Veronica: I'm usually free on Wednesday evenings after 6:30pm though! Almost never have late calls on Wednesdays
+[29/10/2026, 13:20:30] You: perfect!! let's make Wed evenings our hot yoga + dinner slot then
+[29/10/2026, 13:21:12] Veronica: love that! Central or Causeway Bay works best for me
+[29/10/2026, 13:22:00] You: ok noted
+[29/10/2026, 16:40:18] Veronica: wait did u see the email from HR about bonus timelines
+[29/10/2026, 16:42:55] You: yeah just saw it. looks like same as last year?
+[29/10/2026, 16:43:30] Veronica: seems like it. fingers crossed it's decent this year lol
+[29/10/2026, 16:44:12] You: manifesting a big one for both of us
+[29/10/2026, 16:45:05] Veronica: seriously, we survived Q3 audit so we deserve it
+[29/10/2026, 16:45:40] You: 100% agree
+[31/10/2026, 15:20:05] Veronica: just came out of my facial in Causeway Bay, my skin is glowing rn
+[31/10/2026, 15:24:18] You: jealous!! I'm still doing laundry at home
+[31/10/2026, 15:25:02] Veronica: come out for drinks tonight? a few friends are going to Soho
+[31/10/2026, 15:26:10] You: might pass tonight tbh, super tired from this week
+[31/10/2026, 15:26:55] Veronica: np! rest up, see u Mon
+[31/10/2026, 15:27:30] You: have fun!! don't stay out too late
+[31/10/2026, 15:28:12] Veronica: no promises lol
+[02/11/2026, 11:15:30] Veronica: ok don't judge me
+[02/11/2026, 11:16:02] Veronica: I walked past Landmark yesterday and ended up buying the Celine Triomphe bag
+[02/11/2026, 11:18:45] You: OMG NO WAY!! the black shiny calfskin one?!
+[02/11/2026, 11:19:12] Veronica: YES!! with the gold hardware. it was like $32k but I've been eyeing it for 6 months
+[02/11/2026, 11:20:04] You: ugh it's so pretty, bring it to work tomorrow so I can see!!
+[02/11/2026, 11:21:15] Veronica: haha will do! honestly I spend way too much on bags, omakase and trips
+[02/11/2026, 11:22:01] Veronica: but tbh I'm single, no kids, no family obligations yet, so I'd rather enjoy life now while I can
+[02/11/2026, 11:23:10] You: fair point!! work hard play hard
+[02/11/2026, 11:23:48] Veronica: exactly! speaking of which I'm booking a 5-day Tokyo trip in Dec just for Michelin restaurants and shopping
+[02/11/2026, 11:24:30] You: living the dream lol send me ur restaurant list when u plan it
+[02/11/2026, 11:25:05] Veronica: will do!!
+[02/11/2026, 17:10:22] You: hey did IT fix ur Bloomberg terminal yet?
+[02/11/2026, 17:14:09] Veronica: yeah finally took them 2 hrs smh
+[02/11/2026, 17:15:00] You: classic IT
+[02/11/2026, 17:15:42] Veronica: at least I caught up on my skincare shopping while waiting lol
+[02/11/2026, 17:16:20] You: productive afternoon haha
+[04/11/2026, 12:05:11] Veronica: wru? lunch?
+[04/11/2026, 12:06:30] You: at my desk, 5 mins!
+[04/11/2026, 12:07:02] Veronica: ok meet at ground floor, let's get Thai
+[04/11/2026, 12:07:25] You: yesss
+[04/11/2026, 19:30:45] You: did u make it to yoga tonight?
+[04/11/2026, 19:35:12] Veronica: yup just finished! felt so good
+[04/11/2026, 19:36:04] You: nice, I'll join u next Wed for sure
+[04/11/2026, 19:36:40] Veronica: bet! grabbing a quick poke bowl near the studio now
+[04/11/2026, 19:37:15] You: enjoy!!
+[05/11/2026, 15:10:22] You: hey did u bring the Celine bag today?
+[05/11/2026, 15:12:40] Veronica: yesss it's sitting on my desk! come up for a tea break at 3:30?
+[05/11/2026, 15:13:18] You: be there in 15 mins!
+[05/11/2026, 16:05:10] You: ok the leather on that bag is unreal, now I'm tempted too lol
+[05/11/2026, 16:08:33] Veronica: haha do it!! we can match
+[05/11/2026, 16:09:15] You: my bank account says wait til bonus day
+[05/11/2026, 16:09:50] Veronica: fair enough lol
+[06/11/2026, 10:12:08] Veronica: omg huge gossip about the new VP in Equities
+[06/11/2026, 10:13:20] You: wait what?? tell me asap
+[06/11/2026, 10:13:55] Veronica: nvm he literally just walked past my desk lol tell u at lunch
+[06/11/2026, 10:14:18] You: hahaha ok zip it til 12:30
+[06/11/2026, 16:22:10] You: still can't get over what u told me at lunch lol that's insane
+[06/11/2026, 16:25:44] Veronica: ikr?? banking in HK is such a small world
+[06/11/2026, 16:26:30] You: fr everyone knows everyone
+[06/11/2026, 16:27:15] Veronica: makes Friday afternoon go by faster tho
+[06/11/2026, 16:28:00] You: true haha any plans tonight?
+[06/11/2026, 16:28:48] Veronica: dinner at a new Italian place in Sheung Wan with my girlfriends
+[06/11/2026, 16:29:25] You: ooh let me know if the pasta is good!
+[06/11/2026, 16:30:02] Veronica: will do, have a great weekend!
+[09/11/2026, 11:40:15] You: hey random check, are we still good for hot yoga + omakase on Wed 25 Nov?
+[09/11/2026, 11:44:22] Veronica: should be fine! I'm usually free Wed evenings anyway so let's lock it in
+[09/11/2026, 11:45:05] You: awesome, I'll look at that omakase spot in Central, around $1,500 per head ok for u?
+[09/11/2026, 11:46:10] Veronica: totally fine! u know I never skimp on good sushi lol
+[09/11/2026, 11:47:02] You: haha true, I'll book closer to the date
+[09/11/2026, 11:47:30] Veronica: sounds good ty!
+[09/11/2026, 17:02:18] Veronica: can u send me the updated fee schedule asap? client is asking
+[09/11/2026, 17:04:05] You: just emailed u!
+[09/11/2026, 17:04:40] Veronica: lifesaver ty!!
+[09/11/2026, 17:05:12] You: np, hope the client signs off soon
+[09/11/2026, 17:06:00] Veronica: fingers crossed, been chasing them for 2 weeks
+[10/11/2026, 12:20:33] You: btw how was the Italian place in Sheung Wan on Fri?
+[10/11/2026, 12:25:10] Veronica: so good!! the uni pasta and tiramisu were 10/10
+[10/11/2026, 12:26:02] You: adding it to my list immediately
+[10/11/2026, 12:26:45] Veronica: book at least 2 weeks ahead tho, it was packed
+[10/11/2026, 12:27:20] You: noted, thanks for the tip!
+[11/11/2026, 14:20:33] You: did u buy anything for 11.11 sales?
+[11/11/2026, 14:25:10] Veronica: just some La Mer skincare and 2 new Lululemon yoga sets lol
+[11/11/2026, 14:26:02] You: classic Veronica 😂
+[11/11/2026, 14:26:45] Veronica: hey I needed new leggings ok!!
+[11/11/2026, 14:27:12] You: sure u did lol
+[11/11/2026, 14:28:05] Veronica: what about u? get anything fun?
+[11/11/2026, 14:28:48] You: just a hair dryer and some sheet masks, trying to behave
+[11/11/2026, 14:29:30] Veronica: haha more self-control than me
+[12/11/2026, 11:05:19] You: hey are we still on for facial + drinks tomorrow night (Fri)?
+[12/11/2026, 16:48:32] Veronica: soz just saw this. actually can we push it to Sun instead?
+[12/11/2026, 16:52:10] You: oh ok! everything alright?
+[12/11/2026, 17:15:44] Veronica: yeah just slammed with Q4 portfolio reviews all week, totally drained
+[12/11/2026, 17:16:20] You: ah gotcha, no worries at all! Sun afternoon works for me
+[12/11/2026, 17:18:05] Veronica: ok thanks, let's do 2pm Sun
+[12/11/2026, 17:18:40] You: np, survive Fri!!
+[15/11/2026, 13:45:10] Veronica: on my way to Causeway Bay now, traffic is a bit slow
+[15/11/2026, 13:47:22] You: np I just got here, waiting inside with tea
+[15/11/2026, 13:48:05] Veronica: be there in 10 mins!
+[15/11/2026, 19:20:14] You: home! thx for today, felt so good to catch up
+[15/11/2026, 19:24:30] Veronica: same!! sorry I was super quiet on Thu, my boss was breathing down my neck for those numbers
+[15/11/2026, 19:25:15] You: all good, bank life lol
+[15/11/2026, 19:26:00] Veronica: fr. anyway that dessert place we tried was 10/10
+[15/11/2026, 19:26:42] You: yes!! def going back
+[15/11/2026, 19:27:20] Veronica: also my skin feels like a baby's after that facial
+[15/11/2026, 19:28:05] You: worth every dollar tbh!
+[17/11/2026, 09:50:12] Veronica: btw Chloe from Corporate just handed in her notice lol
+[17/11/2026, 09:52:30] You: NO WAY?! because of the breakup with Kevin??
+[17/11/2026, 09:53:15] Veronica: probably partly that, plus she got an offer at a rival bank in Admiralty
+[17/11/2026, 09:54:02] You: damn good for her tbh, fresh start
+[17/11/2026, 09:54:40] Veronica: yeah less awkward in the lifts for sure
+[17/11/2026, 09:55:25] You: wonder who's taking over her accounts
+[17/11/2026, 09:56:10] Veronica: probably the senior associate on her team, gonna be a chaotic handover
+[17/11/2026, 15:10:05] You: wru? coffee run?
+[17/11/2026, 15:12:40] Veronica: in a client call til 4 :(
+[17/11/2026, 15:13:05] You: ok next time!
+[18/11/2026, 14:05:22] Veronica: hey Eve bad news about next week
+[18/11/2026, 14:07:10] You: uh oh what happened?
+[18/11/2026, 14:08:03] Veronica: my VP just locked in a mandatory client dinner on Wednesday 25 November
+[18/11/2026, 14:08:45] Veronica: so I have to cancel our Wed 25 Nov hot yoga and omakase :( so sorry!
+[18/11/2026, 14:09:30] You: aww no worries! client dinners always win lol
+[18/11/2026, 14:10:12] Veronica: ugh I know, hate cancelling on Wed since I'm normally free. can we reschedule to the week after?
+[18/11/2026, 14:11:05] You: yep sure! I haven't paid a deposit for the omakase yet anyway
+[18/11/2026, 14:11:48] Veronica: phew ty!! drinks on me next time
+[18/11/2026, 14:12:15] You: holding u to that lol
+[18/11/2026, 14:13:02] Veronica: haha deal! at least the client dinner is at a decent restaurant in Central
+[18/11/2026, 14:13:45] You: silver lining!
+[19/11/2026, 11:30:40] You: hey do u know if the 12/F printer is working again?
+[19/11/2026, 11:33:15] Veronica: nope still jammed as of 10am, use 28/F
+[19/11/2026, 11:33:50] You: ty!!
+[19/11/2026, 16:05:12] You: did u manage to book ur Tokyo hotel yet?
+[19/11/2026, 16:09:44] Veronica: narrowed it down to Aman or Mandarin Oriental, leaning towards Mandarin for the Ginza shopping location
+[19/11/2026, 16:10:30] You: omg both are iconic, Ginza is way more convenient for bags lol
+[19/11/2026, 16:11:15] Veronica: right?! that's what I was thinking
+[19/11/2026, 18:15:20] Veronica: leaving soon?
+[19/11/2026, 18:17:05] You: yeah packing up in 10 mins
+[19/11/2026, 18:17:42] Veronica: ok wait for me! I need to show u the Michelin sushi spots I booked in Tokyo
+[19/11/2026, 18:18:10] You: ok lobby in 10
+[20/11/2026, 10:05:18] Veronica: TGIF!! finally survived this week
+[20/11/2026, 10:08:44] You: fr this week felt like a whole month
+[20/11/2026, 10:09:20] Veronica: any weekend plans?
+[20/11/2026, 10:10:05] You: probably just sleeping in and maybe a movie tomorrow
+[20/11/2026, 10:10:48] Veronica: nice! I'm doing morning yoga then checking out a new wine bar in Wan Chai with my uni friends
+[20/11/2026, 10:11:30] You: ooh let me know if the wine bar is good
+[20/11/2026, 10:12:05] Veronica: will do! have a good weekend!
+[20/11/2026, 10:12:30] You: u too!!

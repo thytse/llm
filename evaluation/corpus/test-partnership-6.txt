@@ -1,240 +1,207 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_2_5: I am studying economics. I enjoy museums.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_2_5: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_2_5: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_2_5: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_2_5: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_2_5: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_2_5: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_2_5: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_2_5: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_2_5: Thanks, I will check and get back to you.
+[21/10/2026, 09:10:12] Sze Man: Good morning! Just wanted to let you know Mochi finally ate all of her wet food this morning without picking around the pumpkin.
+[21/10/2026, 09:14:35] You: Haha a genuine Wednesday miracle!! What about Sesame? Did he try to steal her bowl again?
+[21/10/2026, 09:16:20] Sze Man: Of course he did. I had to stand guard between them like a referee until Mochi finished.
+[21/10/2026, 09:17:45] You: Haha ten years together and six years living with two furry tyrants, we're basically full-time cat butlers now.
+[21/10/2026, 09:19:10] Sze Man: Very well-trained ones 🙂 By the way, I tucked your light grey cardigan into your work bag earlier because the Observatory said it's dropping to 20 degrees tonight.
+[21/10/2026, 09:20:40] You: Oh I just felt it in my bag!! Thank you Sze Man, I would've totally frozen on the bus home tonight!
+[21/10/2026, 09:22:05] Sze Man: Glad you saw it. Hope your morning meeting goes smoothly.
+[21/10/2026, 09:23:18] You: Thanks love! Have a peaceful morning at the publishing house!
+[21/10/2026, 18:05:22] You: Leaving the office now! Need me to grab anything from the bakery or supermarket on my way back?
+[21/10/2026, 18:12:40] Sze Man: No need, I already picked up tofu, baby bok choy, and fresh fish on my way back from Quarry Bay. Being a senior editor at an academic press has at least one perk — leaving at 5:45pm sharp!
+[21/10/2026, 18:14:15] You: Best feeling ever coming home to you and the cats. I'll wash the dishes tonight!
+[21/10/2026, 18:16:02] Sze Man: Take your time on the way back, no rush at all.
+[23/10/2026, 13:20:14] Sze Man: Hope your lunch break is going well! I just walked past the Hong Kong Science Museum poster board and saw they are hosting a small special exhibition on 19th-century botanical specimens and antique maps of Southern China.
+[23/10/2026, 13:25:30] You: Oh!! That sounds 100% made for you!
+[23/10/2026, 13:27:12] Sze Man: Haha it really is. You know how much I love natural history museums, science museums, old maps, and botanical specimen exhibitions. Walking through a quiet gallery and then sitting down for a pot of oolong tea afterwards is my favourite kind of afternoon.
+[23/10/2026, 13:29:05] You: Honestly I love those afternoons with you too, they're always so calming. When does the exhibition run until?
+[23/10/2026, 13:31:18] Sze Man: Until mid-December. No hurry at all, I know your Q4 project is starting to get busy.
+[23/10/2026, 13:32:45] You: We'll definitely make time to go together before it closes!
+[23/10/2026, 13:34:10] Sze Man: That would be lovely 🙂
+[25/10/2026, 11:15:08] You: Morning! Just got back from my run — where is Sesame? I can't find him in the living room.
+[25/10/2026, 11:18:40] Sze Man: Check inside the cardboard box from HKTVmall next to the bookshelf. Only his tail is sticking out.
+[25/10/2026, 11:20:15] You: Found him!! Literally bought him a $400 plush cat bed and he sleeps in a free delivery box lol.
+[25/10/2026, 11:22:02] Sze Man: Classic Sesame. I brewed a pot of Dong Ding oolong in the kitchen if you want a cup after your shower.
+[25/10/2026, 11:23:30] You: You're the sweetest! Coming out in ten minutes!
+[27/10/2026, 15:10:22] Sze Man: Quick afternoon check-in — I stopped by the University Museum during my lunch break to pick up a reference catalogue for work, and I saw that little brass gingko leaf bookmark you mentioned liking last month!
+[27/10/2026, 15:16:40] You: Wait, you remembered that bookmark?! I only mentioned it once in passing!!
+[27/10/2026, 15:18:15] Sze Man: It was sitting right by the counter and looked so nice, so I picked one up for you. Left it on your nightstand.
+[27/10/2026, 15:19:50] You: Sze Man, seriously, you notice every little thing. I'm genuinely smiling at my desk right now!
+[27/10/2026, 15:21:30] Sze Man: Haha just a small thing. Hope it makes reading on the MTR a bit nicer.
+[27/10/2026, 15:23:00] You: It definitely will! Thank you!
+[29/10/2026, 18:20:10] You: Hey love, thinking about our November and December museum visits — which weekday evening is usually easiest for you?
+[29/10/2026, 18:28:45] Sze Man: Mondays and Tuesdays are usually heavy with manuscript proofreads, and Thursdays I have my evening ceramic glaze class in North Point.
+[29/10/2026, 18:29:40] Sze Man: I am usually free on Wednesday evenings though! My editorial team never holds late meetings on Wednesdays, so I am always out the door by 5:45pm and free all evening.
+[29/10/2026, 18:31:15] You: Wednesday evenings work great for me too! And the Science Museum and History Museum stay open until 7pm or later on select evenings, or we can do a Wednesday evening lecture and tea!
+[29/10/2026, 18:33:02] Sze Man: Yes! Actually there is a Wednesday evening curator talk on antique botanical illustrations at the Science Museum on Wednesday 2 December at 6:30pm.
+[29/10/2026, 18:34:40] You: Oh let's definitely put Wednesday 2 December on our calendar!
+[29/10/2026, 18:36:12] Sze Man: Sounds wonderful. Let's keep it on the radar.
+[30/10/2026, 10:20:50] You: By the way, I was thinking — after we see the botanical exhibition, should we visit the gift shop? I want to get you something special.
+[30/10/2026, 10:28:30] Sze Man: Oh you don't have to buy me anything! Just being at the museum with you is enough.
+[30/10/2026, 10:31:10] You: I know you don't need anything, but I love finding little things that remind me of you. It makes the memory even sweeter.
+[30/10/2026, 10:34:25] Sze Man: In that case, surprise me! You have excellent taste anyway ❤️
+[31/10/2026, 16:40:18] You: Hey! Just finished sorting the winter blankets. Do you want to grab simple noodles downstairs tonight or cook?
+[31/10/2026, 16:46:30] Sze Man: Let's grab wonton noodles downstairs so neither of us has to wash pots on a Saturday night.
+[31/10/2026, 16:48:05] You: Music to my ears! And we can stop by the bakery for fresh walnut cookies after.
+[31/10/2026, 16:49:40] Sze Man: Deal 🙂
+[01/11/2026, 09:45:22] Sze Man: Good morning! I just realized I didn't send you that link to the special exhibition preview online. Let me find it and send it now.
+[01/11/2026, 09:52:15] You: Oh thanks! I'd love to read the curator notes before we go.
+[01/11/2026, 09:55:30] Sze Man: The botanical section is extensive — apparently they have specimens from the British Museum's archives. It's going to be incredible.
+[01/11/2026, 09:58:45] You: I can already picture you standing in front of a display, completely lost in the details for an hour!
+[01/11/2026, 10:01:20] Sze Man: Guilty as charged! But you always patient with me and my museum wanderings. ❤️
+[03/11/2026, 19:30:12] You: Ugh finally walking out of the office. Sorry I missed dinner with you again tonight, this Q4 audit report is draining the life out of me.
+[03/11/2026, 19:36:40] Sze Man: Please don't apologise, I know how intense November is for your team. I saved a bowl of steamed chicken, mushrooms, and rice in the steamer for you so it won't dry out.
+[03/11/2026, 19:38:15] You: You're an angel. Also I saw our credit card bill this month is a bit high because of the air-con repair and Mochi's annual vaccines — should we keep our weekend outings simple this month?
+[03/11/2026, 19:41:05] Sze Man: Of course, completely agree. Home-cooked meals and free parks or public museums are more than enough for me.
+[03/11/2026, 19:42:40] You: So glad we're always on the same wavelength. Be home in 25 mins!
+[03/11/2026, 19:44:00] Sze Man: Safe trip back, Mochi is already waiting by the door.
+[06/11/2026, 14:10:22] Sze Man: Just a quick laugh for your Friday afternoon — Sesame knocked over my pencil cup and is now sitting innocently on top of a 400-page archaeology manuscript. Sending a photo 🐱
+[06/11/2026, 14:15:40] You: Hahaha look at his little guilty ears!! Zero remorse!
+[06/11/2026, 14:17:12] Sze Man: None whatsoever. Hope your Friday is wrapping up smoothly!
+[06/11/2026, 14:18:30] You: Almost done! Cannot wait to collapse on the sofa with you tonight!
+[06/11/2026, 14:20:05] Sze Man: I'll put the kettle on for tea before you get back.
+[09/11/2026, 20:15:18] You: Hey Sze Man, I remembered you wanted to see that 19th-century botanical specimens and antique maps exhibition at the Science Museum! Should we try to go this Saturday afternoon?
+[09/11/2026, 20:24:40] Sze Man: Oh, you remembered! Honestly though, you've been working until 8pm almost every night this week and looked so tired yesterday.
+[09/11/2026, 20:25:35] Sze Man: Don't force yourself to go out on Saturday if you need to rest — plus tickets and tea afterwards add up, and we wanted to keep spending light this month. I can always take a half-day of annual leave and go quietly on my own next week, really, it's totally fine.
+[09/11/2026, 20:28:12] You: Hey, wait a second — I know that gentle "I can just go by myself" voice! You've been talking about those antique maps for three weeks!
+[09/11/2026, 20:30:05] You: Going to a quiet museum with you actually recharges me way more than staring at my phone on the sofa. And public museum tickets are literally $20! I *want* to go with you on Saturday.
+[09/11/2026, 20:35:22] Sze Man: ...
+[09/11/2026, 20:36:15] Sze Man: Haha you always see right through me. I really didn't want to add another errand to your weekend when you're exhausted.
+[09/11/2026, 20:38:02] You: Spending an afternoon looking at old maps and drinking tea with you is never an errand! Let's go around 2pm on Saturday 14 November so we can both sleep in first.
+[09/11/2026, 20:40:30] Sze Man: That sounds genuinely wonderful. Thank you for always paying attention, even when I try not to make a fuss 🙂
+[09/11/2026, 20:42:05] You: Always! You take care of me every single day, let me take you to your museum!
+[11/11/2026, 12:45:10] You: Happy 11.11! Did you get anything for the cats or yourself?
+[11/11/2026, 12:52:30] Sze Man: Just stocked up on Mochi's senior cat litter and bought two new cotton dish towels. Very exciting stuff!
+[11/11/2026, 12:54:05] You: Haha peak cosy home life. I bought you a tin of that Taiwanese high-mountain oolong tea you ran out of last week!
+[11/11/2026, 12:56:18] Sze Man: Oh!! You noticed the tin was empty?! Thank you so much, that's really thoughtful.
+[11/11/2026, 12:57:40] You: Learned from the best!
+[14/11/2026, 18:10:05] You: Still smiling about this afternoon! Those hand-painted 1880s botanical specimen plates were way cooler than I expected!
+[14/11/2026, 18:15:30] Sze Man: I'm so glad you enjoyed it! And sitting in that little teahouse in Tsim Sha Tsui afterwards felt so peaceful — honestly the happiest afternoon I've had all month.
+[14/11/2026, 18:17:12] You: Me too! Feels so good to slow down with you. Let's grab roast goose on the way back to the flat?
+[14/11/2026, 18:18:45] Sze Man: Perfect! I'm already heading to the rice cooker to wash rice when we get in.
+[16/11/2026, 13:15:22] Sze Man: Quick update — Mochi has been chewing a little gingerly on her left side today, so I called our vet clinic in Happy Valley to be safe.
+[16/11/2026, 13:21:05] You: Oh poor girl! Did they have an appointment soon?
+[16/11/2026, 13:23:18] Sze Man: Yes, she's fine and still eating well, just needs a routine senior dental checkup with Dr. Lam. The only evening slot Dr. Lam has is Wednesday 2 December at 6:45pm.
+[16/11/2026, 13:24:10] Sze Man: Which means I have to cancel our Wednesday 2 December evening curator talk on botanical illustrations at the Science Museum! I know I'm normally free Wednesday evenings, so it's a pity, but Mochi's teeth definitely come first.
+[16/11/2026, 13:26:30] You: 100% Mochi comes first! Don't worry about the talk at all — I'll come with you to Happy Valley on Wednesday 2 December to help carry her carrier!
+[16/11/2026, 13:28:15] Sze Man: You don't have to rush across the harbour if work is busy, I can easily take a taxi with her.
+[16/11/2026, 13:29:40] You: Nope, I'm coming! Mochi always calms down faster when both of us are in the exam room, and we can grab warm soup noodles together afterwards.
+[16/11/2026, 13:31:55] Sze Man: Thank you. Truly appreciate you always being right beside me for the little things 🙂
+[18/11/2026, 17:40:12] You: Hey! Leaving work on time today for once! Want to go for a slow walk along the harbourfront before dinner?
+[18/11/2026, 17:46:30] Sze Man: I would love that! The evening breeze is lovely today. Meet you outside the ferry pier at 6:15pm?
+[18/11/2026, 17:48:05] You: Deal! See you in half an hour!
+[20/11/2026, 18:10:05] You: TGIF!! Picked up two warm red bean buns from that old bakery in Wan Chai on my way home!
+[20/11/2026, 18:16:22] Sze Man: Oh wonderful!! You always remember I love those when the weather turns cool.
+[20/11/2026, 18:17:40] You: Home in 15 mins!
+[21/11/2026, 10:30:15] Sze Man: Good morning! Sesame and Mochi are both sunbathing in a single square of sunlight on the rug. Pure Saturday peace 🐱
+[21/11/2026, 10:35:40] You: Haha best view in the house! Making toast and eggs for us right now, come eat whenever you're ready!
+[21/11/2026, 10:37:05] Sze Man: Coming out now! Have a lovely slow weekend with me 🙂
+[21/11/2026, 10:38:20] You: Nowhere else I'd rather be!
+[22/11/2026, 11:30:15] Sze Man: Morning! Sesame knocked over my coffee this morning and somehow didn't spill a drop. Cats defy physics.
+[22/11/2026, 11:35:40] You: Haha he's genuinely a chaos wizard! How is your Saturday morning going?
+[22/11/2026, 11:38:12] Sze Man: Peaceful so far. I'm going through some new ceramic glazes for my Tuesday evening class — trying to decide between cobalt blue and celadon green.
+[22/11/2026, 11:41:30] You: Ooh both sound lovely! What are you making?
+[22/11/2026, 11:44:05] Sze Man: Small tea bowls for my intermediate students. The texture work is tricky but satisfying.
+[23/11/2026, 14:20:18] You: Hey love, hope your work week is wrapping up smoothly!
+[23/11/2026, 14:28:40] Sze Man: Afternoon! Just finished reviewing three manuscripts for next quarter's catalogue. My eyes are square but I'm satisfied with the selection.
+[23/11/2026, 14:31:12] You: Nice! Any interesting ones?
+[23/11/2026, 14:33:50] Sze Man: A beautiful academic study on 18th-century Ming ceramics — right up my alley for personal reading too.
+[24/11/2026, 10:15:30] Sze Man: Morning! How is Monday treating you?
+[24/11/2026, 10:22:40] You: Pretty steady so far. How was your ceramic class yesterday?
+[24/11/2026, 10:25:15] Sze Man: One student actually created a successful glaze blend this week! First time in months. Such a good feeling when students make breakthroughs.
+[24/11/2026, 10:28:30] You: That's wonderful! Are you proud?
+[24/11/2026, 10:31:05] Sze Man: Very much. It makes the evening classes worthwhile.
+[25/11/2026, 18:40:12] You: Coming home now! Did Mochi enjoy her dental appointment yesterday?
+[25/11/2026, 18:48:30] Sze Man: She was such a brave girl! Dr. Lam said her teeth are actually in very good shape for her age, just needed the routine cleaning. She's been her normal self today, eating and purring away.
+[25/11/2026, 18:51:15] You: So glad it went well! That was my biggest worry.
+[25/11/2026, 18:54:40] Sze Man: Mine too, honestly. But she's our resilient little girl. We grabbed warm fish congee after the appointment, so both she and I felt better.
+[26/11/2026, 11:20:08] Sze Man: Good morning! Just made a fresh pot of that high-mountain oolong you bought for me. The aroma is magnificent today.
+[26/11/2026, 11:28:30] You: Oh nice! Nothing beats a perfect cup of tea on a Saturday morning!
+[26/11/2026, 11:31:12] Sze Man: Exactly. I'm actually going to do some light reading and cat-watching today — zero ambition to leave the flat.
+[26/11/2026, 11:33:50] You: That sounds like peak comfort! I'm heading out for a quick errand but I'll be back by lunchtime.
+[26/11/2026, 11:36:20] Sze Man: Take your time, the cats and I will hold down the fort. ☕
+[27/11/2026, 14:15:30] You: Hey, just wanted to check — are we still planning the Science Museum curator talk for a future Wednesday, or should we look for something else?
+[27/11/2026, 14:22:40] Sze Man: Oh yes! Actually, they announced a new Wednesday 9 December evening talk on antique map restoration at the History Museum. Would you be interested?
+[27/11/2026, 14:25:18] You: Oh that sounds perfect for you! Definitely let's lock that in!
+[27/11/2026, 14:28:05] Sze Man: Wonderful. I will check the ticket link later today.
+[28/11/2026, 09:30:14] Sze Man: Morning! Sesame finally decided that my lap is acceptable for sitting this Saturday. Only took three years!
+[28/11/2026, 09:38:40] You: Haha he's coming around! What are you two plotting?
+[28/11/2026, 09:41:12] Sze Man: Just dozing in the morning sunlight. Very sophisticated plans indeed 😂
+[29/11/2026, 10:20:08] You: Hey, quick question — my team is planning a Sunday brunch next month, want to join with me?
+[29/11/2026, 10:28:30] Sze Man: That sounds nice, but let me check my calendar for Sundays next month. Some Sundays have overlapping plans with my family.
+[29/11/2026, 10:31:12] You: No worries! Just let me know what works.
+[29/11/2026, 10:33:50] Sze Man: I will!
+[30/11/2026, 11:15:22] Sze Man: Good morning! Hope you are having a restful Sunday.
+[30/11/2026, 11:22:40] You: Morning love! Just relaxing at home with tea. How are the cats?
+[30/11/2026, 11:25:15] Sze Man: Both sunbathing in their usual spots. Mochi has been particularly affectionate since the dental visit — I think she knows you were brave for her too.
+[30/11/2026, 11:28:30] You: That's so sweet. Pets really do understand emotion.
+[30/11/2026, 11:31:05] Sze Man: They absolutely do. Anyway, shall I prepare something simple for dinner tonight? I'm thinking a light stir-fry with ginger and bok choy.
+[30/11/2026, 11:33:50] You: That sounds absolutely perfect.
+[30/11/2026, 11:36:20] Sze Man: Wonderful. See you in a bit ❤️
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well!
+[01/12/2026, 10:28:30] Sze Man: Morning! Manuscript proofreading day at the press. How is your Monday?
+[01/12/2026, 10:31:12] You: Pretty standard, just catching up on emails. How are the cats?
+[01/12/2026, 10:33:50] Sze Man: Both very mellow today. Sesame is napping on the radiator again.
+[02/12/2026, 14:15:30] You: By the way, did you get a chance to check that Wednesday 9 December museum talk?
+[02/12/2026, 14:22:40] Sze Man: Yes! Tickets are available. I already reserved two for us at 6:30pm.
+[02/12/2026, 14:25:18] You: You're so efficient! I love it!
+[02/12/2026, 14:28:05] Sze Man: Old habits from academia I suppose. Everything runs smoother with advance planning.
+[03/12/2026, 09:30:14] You: Morning! How is Tuesday treating you?
+[03/12/2026, 09:38:40] Sze Man: Good morning! Just finished my ceramic glazing notes for tonight's class preparation.
+[03/12/2026, 09:41:12] You: Sounds productive! Hope the class goes well tonight!
+[03/12/2026, 09:43:50] Sze Man: Thank you. One of my students is presenting work from the kiln firing last week.
+[04/12/2026, 10:15:30] You: Morning! Hope Tuesday evening class was good!
+[04/12/2026, 10:28:30] Sze Man: Very good actually! The kiln pieces turned out beautifully and the student was thrilled with the results.
+[04/12/2026, 10:31:12] You: That's wonderful! You have such a gift for teaching people!
+[04/12/2026, 10:33:50] Sze Man: I enjoy sharing the craft. It's very meditative work.
+[05/12/2026, 11:35:08] You: Can't wait for Wednesday evening! The museum talk sounds perfect for us!
+[05/12/2026, 14:22:40] Sze Man: Agreed. And we can grab warm tea afterwards in the lobby café.
+[05/12/2026, 14:23:55] You: Perfect way to end the evening!
+[05/12/2026, 14:25:12] Sze Man: Indeed. It will be a lovely night together ❤️
+[06/12/2026, 09:30:14] You: Hey Sze Man! Hope your morning is peaceful!
+[06/12/2026, 10:28:40] Sze Man: Morning! Both cats are napping in their sunny spots. Very zen energy.
+[06/12/2026, 10:29:55] You: That's the dream! Ready for the final week of work?
+[06/12/2026, 10:31:12] Sze Man: Mostly ready. Just manuscript proofreading and final edits before the holiday break.
+[07/12/2026, 09:30:14] You: Hey love, how is your Sunday treating you?
+[07/12/2026, 10:28:40] Sze Man: Quiet and restorative. Reading in the study while the cats doze nearby.
+[07/12/2026, 10:29:55] You: That sounds absolutely perfect! Enjoy the peace!
+[07/12/2026, 10:31:12] Sze Man: I will. How is your day going?
+[08/12/2026, 09:30:14] You: Hey Sze Man! Hope your Monday is treating you well!
+[08/12/2026, 10:28:40] Sze Man: Morning! Manuscript review day at the press. Fairly routine.
+[08/12/2026, 10:29:55] You: That's good! Less chaos this week?
+[08/12/2026, 10:31:12] Sze Man: Yes, actually feeling the calm before the holiday rush settles in.
+[09/12/2026, 11:35:08] You: Can't wait for Wednesday! The museum talk is going to be wonderful!
+[09/12/2026, 14:22:40] Sze Man: I'm looking forward to it as well. Tea afterwards sounds perfect.
+[09/12/2026, 14:23:55] You: See you Wednesday evening at 6:30pm!
+[09/12/2026, 14:25:12] Sze Man: Looking forward to it ❤️
+[10/12/2026, 09:30:14] You: Hey! Happy Thursday! Almost to the weekend!
+[10/12/2026, 10:28:40] Sze Man: Morning! One more day of editing and I'm officially on break.
+[10/12/2026, 10:29:55] You: You deserve the rest! What are you planning for the break?
+[10/12/2026, 10:31:12] Sze Man: Reading, the cats, and time with you. Everything I need.
+[11/12/2026, 11:30:15] You: Hey! Happy Friday! Ready for the weekend?
+[11/12/2026, 11:35:40] Sze Man: Absolutely! Just wrapped up the final manuscript review.
+[11/12/2026, 11:38:12] You: Perfect timing! Let's have a cosy weekend together!
+[11/12/2026, 11:41:30] Sze Man: That sounds absolutely lovely. See you at home soon ❤️
+[12/12/2026, 09:30:14] You: Hey Sze Man! Hope your morning is nice!
+[12/12/2026, 10:28:40] Sze Man: Morning! Both cats are napping peacefully. Very zen energy in the flat right now.
+[12/12/2026, 10:29:55] You: That's the dream! Ready for another work week?
+[12/12/2026, 10:31:12] Sze Man: Fairly ready. Just some final proofreading before year-end close.
+[13/12/2026, 09:30:14] You: Hey love! How is your Monday treating you?
+[13/12/2026, 10:28:40] Sze Man: Productive morning actually! Manuscript reviews are wrapping up nicely.
+[13/12/2026, 10:29:55] You: That's wonderful! Almost to freedom!
+[13/12/2026, 10:31:12] Sze Man: Exactly. Very much looking forward to the holiday break.
+[14/12/2026, 11:30:15] You: Hey! Hope Tuesday is treating you well!
+[14/12/2026, 11:35:40] Sze Man: Good morning! Just caught up on some editorial correspondence. How is yours?
+[14/12/2026, 11:38:12] You: Good! Just pushing through to the holidays!
+[14/12/2026, 11:41:30] Sze Man: We're almost there now. ❤️
+[15/12/2026, 10:28:40] You: Hey Sze Man! How is Wednesday treating you?
+[15/12/2026, 10:35:12] Sze Man: Fairly quiet actually. Just some filing and final checkups on the manuscripts.
+[15/12/2026, 10:38:05] You: That's nice! Ready for the weekend?
+[15/12/2026, 10:41:30] Sze Man: Absolutely. Time for us to relax together.
+[16/12/2026, 11:30:15] You: Hey! Happy Thursday! Almost to the weekend!
+[16/12/2026, 11:35:40] Sze Man: Good morning! One more day and then we can truly unwind.
+[16/12/2026, 11:38:12] You: I'm planning a special dinner for us!
+[16/12/2026, 11:41:30] Sze Man: That sounds absolutely wonderful. ❤️
+[17/12/2026, 10:28:40] You: Hey Sze Man! Happy Friday! Ready for the weekend?
+[17/12/2026, 10:35:12] Sze Man: Morning! Absolutely ready. What time should I be home?
+[17/12/2026, 10:38:05] You: By 7pm? I'll have everything ready!
+[17/12/2026, 10:41:30] Sze Man: Can't wait to see you. ❤️

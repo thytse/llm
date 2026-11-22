@@ -1,240 +1,211 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_0_5: I am studying economics. I enjoy hiking.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_0_5: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_0_5: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_0_5: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_0_5: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_0_5: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_0_5: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_0_5: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_0_5: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_0_5: Thanks, I will check and get back to you.
+[22/10/2026, 00:42:10] Suki: ARE YOU AWAKE
+[22/10/2026, 00:42:19] Suki: I just finished watching that Korean thriller The Housekeeper on Netflix and my jaw is on the floor
+[22/10/2026, 00:48:05] You: Barely awake lol why are you watching horror thrillers at 1am on a weekday
+[22/10/2026, 00:49:12] Suki: Perks of being a UX designer who WFHs twice a week! I don't have to commute tomorrow so night-owl mode is activated
+[22/10/2026, 00:50:04] You: Jealous. Is it actually good or just jump scares?
+[22/10/2026, 00:51:18] Suki: Zero cheap jump scares, pure psychological manipulation! You know I love heavy suspense, crime documentaries, and dark thrillers where you have to dissect every character's hidden motive.
+[22/10/2026, 00:52:05] Suki: Wait, did you notice in scene 2 the husband wore his watch on his right wrist, and then in the flashback it was on his left?! That literally gave away the twin twist!
+[22/10/2026, 00:53:10] You: Haha I haven't even watched it yet, stop spoiling!!
+[22/10/2026, 00:54:02] Suki: Oops sorry!! Watch it this weekend so we can do a full forensic breakdown!
+[22/10/2026, 00:54:45] You: Deal, now go to sleep before your 10am standup.
+[22/10/2026, 00:55:20] Suki: Fine fine, night!
+[22/10/2026, 10:30:14] You: Morning! How are you feeling after your 1am cinema binge?
+[22/10/2026, 10:45:22] Suki: surprisingly fine lol! got a full 7 hours and had a productive standup
+[22/10/2026, 10:48:05] You: See, those night owls always bounce back. You're resilient!
+[23/10/2026, 14:22:33] Suki: quick break from wireframes — did you end up watching The Housekeeper yet?
+[23/10/2026, 14:28:10] You: Not yet but it's queued up for this weekend!
+[23/10/2026, 14:30:45] Suki: Good!! can't wait to dissect every frame with you. Btw my new UX case study just got approved for Interaction Design Conference in December!
+[23/10/2026, 14:32:18] You: Oh wow congrats!! That's huge for your portfolio!
+[23/10/2026, 14:33:50] Suki: Thanks!! means I have to deliver a 15-min presentation on user mental models and dark patterns. The irony is not lost on me 😂
+[23/10/2026, 14:35:12] You: Haha what do you mean by dark patterns?
+[23/10/2026, 14:36:40] Suki: Like when apps intentionally confuse users or make it hard to cancel subscriptions. Psychological manipulation disguised as UX. Honestly everyone does it now, even the "good" companies.
+[24/10/2026, 15:50:18] You: Hey, how is the conference prep going?
+[24/10/2026, 16:10:30] Suki: Exhausting. My PM keeps asking me to add more competitor comparisons but honestly everyone's doing the same sketchy patterns anyway
+[24/10/2026, 16:12:05] You: That does sound repetitive. At least you're exposing it though!
+[24/10/2026, 16:14:22] Suki: True. Anyway I need to get back to Figma before my eyes fall out. Talk later?
+[24/10/2026, 16:16:40] You: Sure thing!
+[25/10/2026, 22:15:30] You: Okay I just finished The Housekeeper! You were right, the ending was completely unhinged.
+[25/10/2026, 22:17:04] Suki: RIGHT?! The wife knew the whole time! People are honestly so dark when you peel back the polite surface.
+[25/10/2026, 22:18:12] You: Remind me never to cross you, you'd spot my alibi in two seconds.
+[25/10/2026, 22:19:05] Suki: Haha good instinct. Speaking of suspicious men — I need your detective brain right now.
+[25/10/2026, 22:20:10] You: Oh? New match on Hinge?
+[25/10/2026, 22:21:02] Suki: Yes! Met this guy Darren, 32, says he's an architect in Sheung Wan. We went on two dates and something feels SO off.
+[26/10/2026, 11:30:40] You: Good morning! So tell me about this suspicious architect guy — what's giving you the bad vibes?
+[26/10/2026, 11:48:22] Suki: Oh good you're online! Okay so: he never texts between 7pm and 10pm, ALWAYS pays in cash, and when I asked what district he lives in, he just said "near the harbour" lol.
+[26/10/2026, 11:50:15] You: Okay "near the harbour" is definitely shady haha. But couldn't that just be privacy preferences?
+[26/10/2026, 11:52:35] Suki: Oh please, you are honestly way too gullible sometimes. Nobody in Hong Kong says "near the harbour" unless they're hiding a wife or living in their mom's basement.
+[26/10/2026, 11:54:18] You: Fair point! So what's your plan, full LinkedIn stalk?
+[26/10/2026, 11:56:40] Suki: Already done. Found his firm, looked at their team page, checked his old uni profile... this guy is methodical about compartmentalizing his life.
+[27/10/2026, 15:10:22] Suki: Quick break from Figma wireframes — did you hear about what happened to Mei from our old uni hall?
+[27/10/2026, 15:26:30] You: No, what happened? Is she okay?
+[27/10/2026, 15:27:45] Suki: Nothing bad, she just quit her law firm job to open a matcha cafe in Tai Hang!
+[27/10/2026, 15:28:30] You: Oh wow good for her! Let's go support her sometime.
+[27/10/2026, 15:29:15] Suki: Definitely! Always love a dramatic career pivot.
+[28/10/2026, 13:10:15] You: Hey Suki, speaking of movies — Broadway Cinematheque and Emperor Cinema are doing a late-night mystery thriller marathon in late November. Which weekday evening is usually best for you?
+[28/10/2026, 13:18:40] Suki: Ooh I am SO in! Let me check my sprint calendar.
+[28/10/2026, 13:19:30] Suki: Wednesdays and Thursdays are usually brutal with design reviews and late drinks with my tech team.
+[28/10/2026, 13:20:22] Suki: I am usually free on Monday evenings though! I WFH every Monday and Tuesday, so I finish at 6pm sharp and almost never have Monday night plans.
+[28/10/2026, 13:21:10] You: Nice! Mondays are way less crowded at the cinema too. Causeway Bay or Wan Chai?
+[28/10/2026, 13:22:05] Suki: Causeway Bay is super easy for me! Let's tentatively lock in Monday 30 November for that late-night David Fincher screening!
+[28/10/2026, 13:22:50] You: Locked in!
+[25/10/2026, 22:17:04] Suki: RIGHT?! The wife knew the whole time! People are honestly so dark when you peel back the polite surface.
+[25/10/2026, 22:18:12] You: Remind me never to cross you, you'd spot my alibi in two seconds.
+[25/10/2026, 22:19:05] Suki: Haha good instinct. Speaking of suspicious men — I need your detective brain right now.
+[25/10/2026, 22:20:10] You: Oh? New match on Hinge?
+[25/10/2026, 22:21:02] Suki: Yes! Met this guy Darren, 32, says he's an architect in Sheung Wan. We went on two dates and something feels SO off.
+[25/10/2026, 22:21:48] You: Off how? Like serial killer off or just weird?
+[25/10/2026, 22:22:35] Suki: Listen to this: he never texts between 7pm and 10pm, ALWAYS pays in cash, and when I asked what district he lives in, he just said "near the harbour" lol.
+[25/10/2026, 22:23:40] You: Okay "near the harbour" is definitely shady haha. Maybe he's just super private?
+[25/10/2026, 22:24:25] Suki: Oh please, you are honestly way too gullible sometimes. Nobody in Hong Kong says "near the harbour" unless they're hiding a wife or living in their mom's basement.
+[25/10/2026, 22:25:18] You: Hey, I'm just trying not to jump to conclusions before we have evidence!
+[25/10/2026, 22:26:05] Suki: Haha relax, I'm just teasing you because you always give everyone the benefit of the doubt. Anyway, I'm going to inspect his LinkedIn tonight.
+[25/10/2026, 22:26:50] You: Don't accidentally press view while logged in!
+[25/10/2026, 22:27:30] Suki: Amateur hour? Please, I'm in private mode already.
+[28/10/2026, 13:10:15] You: Hey Suki, speaking of movies — Broadway Cinematheque and Emperor Cinema are doing a late-night mystery thriller marathon in late November. Which weekday evening is usually best for you?
+[28/10/2026, 13:18:40] Suki: Ooh I am SO in! Let me check my sprint calendar.
+[28/10/2026, 13:19:30] Suki: Wednesdays and Thursdays are usually brutal with design reviews and late drinks with my tech team.
+[28/10/2026, 13:20:22] Suki: I am usually free on Monday evenings though! I WFH every Monday and Tuesday, so I finish at 6pm sharp and almost never have Monday night plans.
+[28/10/2026, 13:21:10] You: Nice! Mondays are way less crowded at the cinema too. Causeway Bay or Wan Chai?
+[28/10/2026, 13:22:05] Suki: Causeway Bay is super easy for me! Let's tentatively lock in Monday 30 November for that late-night David Fincher screening!
+[28/10/2026, 13:22:50] You: Locked in!
+[31/10/2026, 23:40:12] Suki: Update on Darren the "architect": I found his firm's website and he IS an architect, so not a total con artist.
+[31/10/2026, 23:45:05] You: See! Told you not to jump straight to true-crime podcast mode.
+[31/10/2026, 23:46:18] Suki: Hold on, I'm not done! In his firm's 2024 Christmas party photo, he's standing next to a girl with a ring on her finger. Might be a colleague, might be an ex, might be a fiancée.
+[01/11/2026, 10:15:30] You: Girl, you scrolled back two years on a corporate website?! That is Olympic-level stalking.
+[01/11/2026, 10:28:45] Suki: Call it UX user research lol. Anyway I'm going on a third date with him next week to gather more data.
+[01/11/2026, 10:30:12] You: Just enjoy the dinner and don't interrogate him like a suspect!
+[01/11/2026, 10:31:40] Suki: No promises 😂
+[02/11/2026, 18:35:22] You: Hey! How did the third date with Darren go last night?
+[02/11/2026, 18:52:10] Suki: Actually pretty good! He took me to this obscure jazz bar in Soho, very romantic vibes. Asked him directly about the mysterious woman in the photo.
+[02/11/2026, 18:54:30] You: And?! Don't leave me in suspense!
+[02/11/2026, 18:56:15] Suki: His sister-in-law! He got engaged before moving to Hong Kong so his sister showed up in family photos. As for the cash thing and vague "near harbour" answer — he genuinely just likes privacy and doesn't trust credit card tracking.
+[02/11/2026, 18:58:40] You: So mystery solved! He's just a normal guy with privacy concerns.
+[02/11/2026, 19:00:05] Suki: Yeah honestly a bit boring now that he's not hiding a secret double life lol. I probably won't see him again.
+[04/11/2026, 15:20:08] Suki: Quick break from Figma wireframes — did you hear about what happened to Mei from our old uni hall?
+[04/11/2026, 15:26:30] You: No, what happened? Is she okay?
+[04/11/2026, 15:27:45] Suki: Nothing bad, she just quit her law firm job to open a matcha cafe in Tai Hang!
+[04/11/2026, 15:28:30] You: Oh wow good for her! Let's go support her sometime.
+[04/11/2026, 15:29:15] Suki: Definitely! Always love a dramatic career pivot.
+[07/11/2026, 11:40:18] You: Hey Suki! So is Darren officially off the table, or are you giving him one more chance?
+[07/11/2026, 12:15:30] Suki: Nah I'm done. He's too vanilla, doesn't have that edge I'm looking for. Need someone who's a little mysterious, you know? Plus I've already matched with like 15 other guys on Hinge this week haha.
+[07/11/2026, 12:17:45] You: Haha Suki the dating app queen! Any promising prospects?
+[07/11/2026, 12:19:12] Suki: One guy seems interesting, works in tech, mentions he's very analytical about relationships. But honestly dating in Hong Kong is exhausting, everyone's either commitment-phobic or already has a secret family.
+[08/11/2026, 01:05:22] Suki: Just watched a 3-part true crime doc on a corporate fraudster in Singapore. Literally couldn't stop watching.
+[08/11/2026, 09:30:10] You: Haha I was dead asleep at 1am. What was it called?
+[08/11/2026, 12:15:40] Suki: Just woke up lol it's called Paper Empire. Watch it! Also how was your weekend?
+[08/11/2026, 12:18:05] You: Pretty chill, caught up with family for dim sum.
+[08/11/2026, 12:19:12] Suki: Nice!
+[10/11/2026, 19:25:18] You: Hey Suki, random question — do you still talk to Rachel from our uni hall? I heard she was going through some stuff.
+[10/11/2026, 19:40:30] Suki: Yeah occasionally, she mentioned marriage counselling with her husband. Pretty heavy stuff, honestly felt bad for her seeing those Instagram couple photos while she's struggling privately.
+[10/11/2026, 19:42:15] You: Yeah that contrast is rough. Have you told anyone else about what she shared with you?
+[10/11/2026, 19:44:50] Suki: Just vented to Mandy and Grace in our smaller side chat because we were talking about Instagram culture, but it's not like I posted it publicly or anything.
+[12/11/2026, 18:10:05] Suki: Hey bad news about our David Fincher screening at the end of the month :(
+[12/11/2026, 18:14:22] You: Monday 30 November? What happened?
+[12/11/2026, 18:15:30] Suki: My product manager just scheduled an emergency global app launch sprint with our US engineering team, and we have a mandatory live design QA call on Monday 30 November from 7pm to 10pm.
+[12/11/2026, 18:16:15] Suki: Ugh I hate cancelling on a Monday since I'm normally free Monday evenings, so I have to cancel Monday 30 November completely!
+[12/11/2026, 18:18:02] You: Aww no worries, US time zone calls are the worst. We can just catch another thriller in December!
+[12/11/2026, 18:19:10] Suki: Thanks for being chill! Definitely owe you popcorn next time.
+[15/11/2026, 23:12:40] Suki: Okay so third date with Darren happened last night. He's actually single — the girl in the photo was his sister-in-law — and he pays in cash because he's weird about credit card tracking.
+[15/11/2026, 23:16:05] You: Haha see! Mystery solved, totally harmless!
+[15/11/2026, 23:17:20] Suki: Yeah honestly a bit boring now that he's not hiding a secret double life lol. I probably won't see him again.
+[15/11/2026, 23:18:45] You: Poor guy got dumped for being too normal.
+[15/11/2026, 23:19:30] Suki: Haha I need a little intrigue!
+[19/11/2026, 21:05:12] You: Hey Suki, I need to ask you something directly.
+[19/11/2026, 21:07:30] Suki: Ooh serious tone, what's up?
+[19/11/2026, 21:08:45] You: Rachel from our uni hall just called me crying. She found out someone forwarded screenshots of her private messages about her husband's fertility issues and their marriage counselling into that big alumni gossip group.
+[19/11/2026, 21:10:12] You: She only ever told two people in confidence — me, and you. Please tell me you didn't share that.
+[19/11/2026, 21:13:05] Suki: Relax, I didn't post it in the big alumni group! I only sent a couple screenshots to Mandy and Grace in our smaller side chat because we were talking about how fake Rachel's happy couple Instagram posts are.
+[19/11/2026, 21:14:22] Suki: Not my fault Mandy has a big mouth and forwarded it around.
+[19/11/2026, 21:15:40] You: Are you actually hearing yourself right now?! Rachel trusted you with something deeply painful and personal, and you screenshotted it to mock her behind her back?!
+[19/11/2026, 21:17:15] Suki: Oh come on, don't act like a saint. Everybody gossips about people from uni. If she didn't want people talking, maybe she shouldn't post smug anniversary photos while her marriage is falling apart.
+[19/11/2026, 21:18:50] You: That is genuinely cruel, Suki. And wait — while we're talking about boundaries, Mandy also told me you actually made a fake Instagram account last week to DM Darren's sister-in-law and ask if he was cheating?!
+[19/11/2026, 21:20:33] Suki: So what? I was just making sure he wasn't lying to me! You are so naive it's painful. People lie all the time, I protect myself by digging for the truth.
+[19/11/2026, 21:22:10] You: Harassing a stranger's family with a fake account isn't "protecting yourself," and betraying a friend's medical privacy for laughs isn't "normal gossip." You treat real people's lives like a Netflix thriller for your own entertainment.
+[19/11/2026, 21:24:05] Suki: Wow, okay, get off your moral high horse! You literally laughed along with all my gossip and detective stories for years, and suddenly today you're Mother Teresa?
+[19/11/2026, 21:25:48] You: Laughing about a weird date saying "near the harbour" is completely different from catfishing his family and leaking Rachel's private trauma. The fact that you can't even see the line — and won't even apologise to Rachel — tells me everything.
+[19/11/2026, 21:27:30] Suki: I'm not apologising for venting in a private chat. You are honestly exhausting and self-righteous. Maybe I should stop wasting my time hanging out with someone who judges everything I do.
+[19/11/2026, 21:29:15] You: You don't have to worry about wasting your time. I genuinely cannot be friends with someone who has zero empathy or respect for basic trust.
+[19/11/2026, 21:31:02] Suki: Great. Glad we're finally on the same page. Don't bother texting me again.
+[19/11/2026, 21:32:10] You: I won't. Goodbye, Suki.
+[20/11/2026, 10:15:40] Suki: By the way, I left the alumni dinner group chat so you don't have to pretend to be polite around me. We're done.
+[20/11/2026, 10:22:18] You: Understood. Take care.
+[21/11/2026, 11:30:15] You: Hey! Just checking in. Hope you're doing okay after everything.
+[21/11/2026, 11:35:40] Suki: Honestly not great. I keep replaying the whole thing in my head.
+[21/11/2026, 11:38:12] You: I know it's rough right now, but I meant what I said.
+[21/11/2026, 11:41:30] Suki: Yeah I get it. I was crossing lines I shouldn't have crossed.
+[22/11/2026, 14:20:18] You: Hey, I'm not saying we can't ever talk again, but I need you to understand why I had to draw that boundary.
+[22/11/2026, 14:28:40] Suki: I know. And I think I finally understand what I did wrong. It's going to take me a while to process though.
+[22/11/2026, 14:31:12] You: That's fair. Take the time you need.
+[22/11/2026, 14:33:50] Suki: Thanks for at least being willing to have this conversation.
+[23/11/2026, 10:15:30] You: I genuinely do care about you, even though I'm angry right now.
+[23/11/2026, 10:22:40] Suki: I know. And I'm sorry. Actually genuinely sorry, not just defensive.
+[23/11/2026, 10:25:15] You: That matters. I hope you reach out to Rachel too.
+[23/11/2026, 10:28:30] Suki: I'm working up the courage to do that. It won't fix things but she deserves that much at least.
+[24/11/2026, 09:30:14] You: I'm proud of you for that. Seriously.
+[24/11/2026, 09:38:40] Suki: Thanks. It's going to be awkward as hell though.
+[24/11/2026, 09:41:12] You: Yeah but it's the right thing to do.
+[24/11/2026, 09:43:50] Suki: I know. I'm going to call her today.
+[25/11/2026, 18:40:12] You: Hey, how did the call with Rachel go?
+[25/11/2026, 18:48:30] Suki: Really hard actually. She was quiet for a lot of it but I think she heard me out.
+[25/11/2026, 18:51:15] You: That took courage.
+[25/11/2026, 18:54:40] Suki: Honestly I'm just trying to do the right thing now instead of always being right.
+[26/11/2026, 11:20:08] You: That's actually really mature growth, Suki.
+[26/11/2026, 11:28:30] Suki: Yeah well, losing a friend will do that to you.
+[26/11/2026, 11:31:12] You: I still care about you. We just need to figure out how to rebuild trust.
+[26/11/2026, 11:33:50] Suki: Do you think we can ever get back to how we were?
+[27/11/2026, 14:15:30] You: Honestly? Not exactly the same. But maybe something better if you're willing to do the work.
+[27/11/2026, 14:22:40] Suki: I want to try. No promises I'll be perfect but I'll try harder.
+[27/11/2026, 14:25:18] You: That's all I'm asking for.
+[27/11/2026, 14:28:05] Suki: Thank you for not giving up on me completely.
+[28/11/2026, 09:30:14] You: We'll take it one day at a time, okay?
+[28/11/2026, 09:38:40] Suki: Yeah. One day at a time.
+[29/11/2026, 10:20:08] You: Hope you're having a good week. No pressure, just checking in.
+[29/11/2026, 10:28:30] Suki: Actually having a decent week. Work sprint wrapped up early so I have breathing room.
+[29/11/2026, 10:31:12] You: That's good to hear! Rest up this weekend.
+[29/11/2026, 10:33:50] Suki: Will do. Talk soon?
+[30/11/2026, 11:15:22] You: Hey Suki. I'm not saying we're completely fixed, but I think we can figure this out together.
+[30/11/2026, 11:22:40] Suki: Yeah. I want to figure it out. And I'm actually going to work on being a better friend.
+[30/11/2026, 11:25:15] You: That's all either of us can do ❤️
+[30/11/2026, 11:28:30] Suki: Thanks for giving me another chance.
+[30/11/2026, 11:31:05] You: Friendship is worth fighting for.
+[30/11/2026, 11:33:50] Suki: Yeah it is. Take care of yourself this weekend, okay?
+[04/11/2026, 15:20:08] Suki: Quick break from Figma wireframes — did you hear about what happened to Mei from our old uni hall?
+[04/11/2026, 15:26:30] You: No, what happened? Is she okay?
+[04/11/2026, 15:27:45] Suki: Nothing bad, she just quit her law firm job to open a matcha cafe in Tai Hang!
+[04/11/2026, 15:28:30] You: Oh wow good for her! Let's go support her sometime.
+[04/11/2026, 15:29:15] Suki: Definitely! Always love a dramatic career pivot.
+[08/11/2026, 01:05:22] Suki: Just watched a 3-part true crime doc on a corporate fraudster in Singapore. Literally couldn't stop watching.
+[08/11/2026, 09:30:10] You: Haha I was dead asleep at 1am. What was it called?
+[08/11/2026, 12:15:40] Suki: Just woke up lol it's called Paper Empire. Watch it! Also how was your weekend?
+[08/11/2026, 12:18:05] You: Pretty chill, caught up with family for dim sum.
+[08/11/2026, 12:19:12] Suki: Nice!
+[12/11/2026, 18:10:05] Suki: Hey bad news about our David Fincher screening at the end of the month :(
+[12/11/2026, 18:14:22] You: Monday 30 November? What happened?
+[12/11/2026, 18:15:30] Suki: My product manager just scheduled an emergency global app launch sprint with our US engineering team, and we have a mandatory live design QA call on Monday 30 November from 7pm to 10pm.
+[12/11/2026, 18:16:15] Suki: Ugh I hate cancelling on a Monday since I'm normally free Monday evenings, so I have to cancel Monday 30 November completely!
+[12/11/2026, 18:18:02] You: Aww no worries, US time zone calls are the worst. We can just catch another thriller in December!
+[12/11/2026, 18:19:10] Suki: Thanks for being chill! Definitely owe you popcorn next time.
+[15/11/2026, 23:12:40] Suki: Okay so third date with Darren happened last night. He's actually single — the girl in the photo was his sister-in-law — and he pays in cash because he's weird about credit card tracking.
+[15/11/2026, 23:16:05] You: Haha see! Mystery solved, totally harmless!
+[15/11/2026, 23:17:20] Suki: Yeah honestly a bit boring now that he's not hiding a secret double life lol. I probably won't see him again.
+[15/11/2026, 23:18:45] You: Poor guy got dumped for being too normal.
+[15/11/2026, 23:19:30] Suki: Haha I need a little intrigue!
+[19/11/2026, 21:05:12] You: Hey Suki, I need to ask you something directly.
+[19/11/2026, 21:07:30] Suki: Ooh serious tone, what's up?
+[19/11/2026, 21:08:45] You: Rachel from our uni hall just called me crying. She found out someone forwarded screenshots of her private messages about her husband's fertility issues and their marriage counselling into that big alumni gossip group.
+[19/11/2026, 21:10:12] You: She only ever told two people in confidence — me, and you. Please tell me you didn't share that.
+[19/11/2026, 21:13:05] Suki: Relax, I didn't post it in the big alumni group! I only sent a couple screenshots to Mandy and Grace in our smaller side chat because we were talking about how fake Rachel's happy couple Instagram posts are.
+[19/11/2026, 21:14:22] Suki: Not my fault Mandy has a big mouth and forwarded it around.
+[19/11/2026, 21:15:40] You: Are you actually hearing yourself right now?! Rachel trusted you with something deeply painful and personal, and you screenshotted it to mock her behind her back?!
+[19/11/2026, 21:17:15] Suki: Oh come on, don't act like a saint. Everybody gossips about people from uni. If she didn't want people talking, maybe she shouldn't post smug anniversary photos while her marriage is falling apart.
+[19/11/2026, 21:18:50] You: That is genuinely cruel, Suki. And wait — while we're talking about boundaries, Mandy also told me you actually made a fake Instagram account last week to DM Darren's sister-in-law and ask if he was cheating?!
+[19/11/2026, 21:20:33] Suki: So what? I was just making sure he wasn't lying to me! You are so naive it's painful. People lie all the time, I protect myself by digging for the truth.
+[19/11/2026, 21:22:10] You: Harassing a stranger's family with a fake account isn't "protecting yourself," and betraying a friend's medical privacy for laughs isn't "normal gossip." You treat real people's lives like a Netflix thriller for your own entertainment.
+[19/11/2026, 21:24:05] Suki: Wow, okay, get off your moral high horse! You literally laughed along with all my gossip and detective stories for years, and suddenly today you're Mother Teresa?
+[19/11/2026, 21:25:48] You: Laughing about a weird date saying "near the harbour" is completely different from catfishing his family and leaking Rachel's private trauma. The fact that you can't even see the line — and won't even apologise to Rachel — tells me everything.
+[19/11/2026, 21:27:30] Suki: I'm not apologising for venting in a private chat. You are honestly exhausting and self-righteous. Maybe I should stop wasting my time hanging out with someone who judges everything I do.
+[19/11/2026, 21:29:15] You: You don't have to worry about wasting your time. I genuinely cannot be friends with someone who has zero empathy or respect for basic trust.
+[19/11/2026, 21:31:02] Suki: Great. Glad we're finally on the same page. Don't bother texting me again.
+[19/11/2026, 21:32:10] You: I won't. Goodbye, Suki.
+[20/11/2026, 10:15:40] Suki: By the way, I left the alumni dinner group chat so you don't have to pretend to be polite around me. We're done.
+[20/11/2026, 10:22:18] You: Understood. Take care.

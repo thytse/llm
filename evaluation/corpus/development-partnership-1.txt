@@ -1,240 +1,196 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_2_0: I am studying economics. I enjoy cooking.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_2_0: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_2_0: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_2_0: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_2_0: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_2_0: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_2_0: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_2_0: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_2_0: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_2_0: Thanks, I will check and get back to you.
+[21/10/2026, 08:15:10] You: Morning! Did you already drop Lucas off at kindergarten?
+[21/10/2026, 08:22:04] Ming: Yes. Ate half his toast.
+[21/10/2026, 08:23:18] You: Haha better than yesterday! Did you remember to put his extra jacket in his backpack?
+[21/10/2026, 08:25:40] Ming: Packed. And signed the school notice.
+[21/10/2026, 08:26:55] You: Oh thank goodness, I completely forgot about that notice! Thanks Ming!
+[21/10/2026, 08:28:12] Ming: No problem. Left steamed buns in the microwave for you.
+[21/10/2026, 08:29:05] You: Just saw them, you're the best. Have a smooth day at the warehouse!
+[21/10/2026, 08:31:00] Ming: Reaching Kwai Chung soon. Eat before you leave.
+[21/10/2026, 17:40:22] You: Hey, are you picking up Lucas from my mom's place tonight or should I go?
+[21/10/2026, 17:48:15] Ming: I will go. Picking him up at 6:15.
+[21/10/2026, 17:49:30] You: Great, I'll head straight home after my 6pm call. Need me to grab anything from the supermarket?
+[21/10/2026, 17:52:08] Ming: No. Already bought sea bass and choi sum from the wet market near Kwai Fong.
+[21/10/2026, 17:53:40] You: Ooh steamed sea bass! You always find the freshest fish.
+[21/10/2026, 17:55:19] Ming: $58. Supermarket ones are frozen garbage.
+[21/10/2026, 17:56:30] You: Haha fair enough, see you at 7!
+[21/10/2026, 17:58:02] Ming: Home by 7.
+[23/10/2026, 12:30:14] You: Ugh my throat has been feeling super scratchy all morning, think the office AC is killing me.
+[23/10/2026, 12:48:33] Ming: Drink warm water. No iced milk tea today.
+[23/10/2026, 12:50:10] You: Yes boss, already switched to hot lemon water.
+[23/10/2026, 12:52:05] Ming: Good.
+[23/10/2026, 18:10:42] You: Leaving the office now, should be home around 7:15. What are we having tonight?
+[23/10/2026, 18:18:20] Ming: Steamed pork patty with water chestnut. Soup is in the pot.
+[23/10/2026, 18:19:45] You: Wait, what soup did you boil? Thought you were making lotus root tonight!
+[23/10/2026, 18:22:10] Ming: Switched to monk fruit, dried fig and pear soup. Better for your throat.
+[23/10/2026, 18:23:35] You: Aww Ming, you really didn't have to change the whole menu for me! Thank you!
+[23/10/2026, 18:25:18] Ming: Takes ten minutes to prep. Keep it on low heat for two hours, tastes better anyway.
+[23/10/2026, 18:26:40] You: You really love slow-boiled soups and Chinese home cooking. Honestly I'm so lucky you enjoy cooking every night.
+[23/10/2026, 18:29:02] Ming: Outside food is all MSG and bad oil. Better to cook properly at home.
+[23/10/2026, 18:30:15] You: Can't argue with that. See you soon!
+[23/10/2026, 18:31:40] Ming: Walk slow.
+[25/10/2026, 10:05:18] You: Morning! Did you already go to the wet market with Lucas?
+[25/10/2026, 10:14:22] Ming: Yes. Buying pork ribs and winter melon.
+[25/10/2026, 10:15:40] You: Nice! By the way, I checked our joint grocery account — we spent $1,650 this week, slightly under our $1,800 budget.
+[25/10/2026, 10:18:05] Ming: Good. Wet market chicken was $12 cheaper today because I went before 10.
+[25/10/2026, 10:19:30] You: Haha wet market bargain master as always. Is Lucas behaving?
+[25/10/2026, 10:22:14] Ming: Tried to poke a live crab. Stopped him in time.
+[25/10/2026, 10:23:45] You: Oh my god haha please keep all ten of his fingers intact!
+[25/10/2026, 10:25:10] Ming: Walking back now. Bought your favourite egg tarts.
+[25/10/2026, 10:26:30] You: Yay!! Put the kettle on, I'll make tea!
+[25/10/2026, 10:27:45] Ming: Ok.
+[27/10/2026, 13:15:08] You: Hey, random question — how is work this week? Still crazy with the logistics shipments?
+[27/10/2026, 13:42:19] Ming: Busy. Three containers stuck at Kwai Chung terminal. Managing operations all morning.
+[27/10/2026, 13:44:05] You: Ouch, logistics operations never gets a break. Do you need me to pick up Lucas tonight so you don't have to rush?
+[27/10/2026, 13:47:30] Ming: Can manage. Leaving at 5:45.
+[27/10/2026, 13:49:00] You: Sure? I can leave early if you're swamped.
+[27/10/2026, 13:51:12] Ming: Sure. Already told your mom.
+[27/10/2026, 13:52:30] You: Okay, thanks Ming. Don't skip lunch!
+[27/10/2026, 13:54:05] Ming: Ate.
+[29/10/2026, 19:45:12] You: Lucas actually ate all his broccoli tonight! What magic did you put in that garlic sauce?
+[29/10/2026, 19:50:30] Ming: Blanched it 20 seconds shorter so it wasn't mushy. Kids hate mushy vegetables.
+[29/10/2026, 19:52:05] You: Meanwhile when I cook broccoli he acts like I poisoned him lol.
+[29/10/2026, 19:54:18] Ming: Because you boil it until it turns grey.
+[29/10/2026, 19:55:40] You: Hey! That was one time in 2023!
+[29/10/2026, 19:57:10] Ming: Twice. I remember.
+[29/10/2026, 19:58:25] You: Deadpan as ever. Are you still washing dishes in the kitchen? Let me come help dry them.
+[29/10/2026, 20:00:02] Ming: Done already. Go read Lucas his bedtime book.
+[29/10/2026, 20:01:15] You: On it!
+[31/10/2026, 11:20:05] You: Hey, thinking about November — my sister asked if we want to invite her and her husband over for a proper home-cooked Chinese feast one weekend. Which day is usually best for you?
+[31/10/2026, 11:28:40] Ming: Weekdays too tight after work and kindergarten pickup. Saturdays Lucas has swimming and football class in the morning, then errands.
+[31/10/2026, 11:29:35] Ming: I am usually free on Sunday afternoons and evenings for big cooking sessions. I almost never work Sundays, so I have time to hit the wet market early and slow-braise proper dishes.
+[31/10/2026, 11:31:20] You: Sunday evenings are perfect! Let's invite them over on Sunday 15 November, and maybe keep Sunday 29 November for trying that braised beef brisket and radish recipe you wanted to make?
+[31/10/2026, 11:34:05] Ming: Sunday 15 Nov and Sunday 29 Nov both fine. Tell your sister not to bring expensive wine, just bring fruit.
+[31/10/2026, 11:35:30] You: Haha will tell her! And we'll keep the feast budget around $600?
+[31/10/2026, 11:37:12] Ming: $500 enough if I buy from Tai Po market.
+[31/10/2026, 11:38:40] You: Done, you're the boss of the kitchen.
+[31/10/2026, 11:40:00] Ming: Noted.
+[02/11/2026, 14:10:22] You: Hey, Lucas's teacher just WhatsApped — they need a small white t-shirt for art class tomorrow. Do we have a clean one?
+[02/11/2026, 14:25:10] Ming: Checked yesterday. Two clean ones in the top drawer.
+[02/11/2026, 14:26:35] You: Oh awesome! Wait, also did you remember to pay the electricity bill?
+[02/11/2026, 14:29:02] Ming: Paid on Friday.
+[02/11/2026, 14:30:18] You: Honestly I don't know how this house would function without you.
+[02/11/2026, 14:33:05] Ming: You handle the school WhatsApp groups. Fair trade.
+[02/11/2026, 14:34:20] You: Haha definitely a fair trade, those parent groups are chaotic.
+[02/11/2026, 14:36:00] Ming: Back to work.
+[04/11/2026, 17:15:30] You: Hey Ming, my boss just dumped an urgent client report on me. Might not make it home until 8:30pm tonight, sorry!
+[04/11/2026, 17:24:12] Ming: Ok.
+[04/11/2026, 17:26:05] You: You're not annoyed right? I know it's my turn to bathe Lucas tonight.
+[04/11/2026, 17:32:40] Ming: No. Just work.
+[04/11/2026, 17:34:15] You: Okay, sorry again! Don't wait up for dinner, eat with Lucas first.
+[04/11/2026, 17:38:00] Ming: Leaving dinner in the rice cooker on warm.
+[04/11/2026, 20:45:10] You: Just got off the bus, walking up the hill now.
+[04/11/2026, 20:49:22] Ming: Lucas is asleep. Soup is heated up on the stove.
+[04/11/2026, 20:51:05] You: Thank you so much Ming, I'm starving.
+[04/11/2026, 20:52:40] Ming: Don't rush.
+[06/11/2026, 12:15:18] You: Hey! Happy Friday! Do you want to eat out tonight for a change so you don't have to cook?
+[06/11/2026, 12:29:05] Ming: Where.
+[06/11/2026, 12:30:40] You: Maybe that casual Thai place near the MTR? Lucas loves their pineapple fried rice.
+[06/11/2026, 12:34:12] Ming: Fine. Book for 6:45 before the queue gets long.
+[06/11/2026, 12:35:30] You: Just called and booked a table for three!
+[06/11/2026, 12:37:00] Ming: Good. See you there.
+[08/11/2026, 15:30:22] You: Just finished folding all the laundry while Lucas naps. Want me to chop the ginger and scallions for dinner?
+[08/11/2026, 15:38:10] Ming: Already chopped. Rest on the sofa.
+[08/11/2026, 15:39:45] You: Haha you're always three steps ahead. What are you making tonight?
+[08/11/2026, 15:42:02] Ming: Steamed chicken with red dates and cloud ear fungus. Plus stir-fried green beans.
+[08/11/2026, 15:43:30] You: Sounds amazing. Will Lucas eat the green beans?
+[08/11/2026, 15:45:15] Ming: Chopped them small with minced pork. He won't notice.
+[08/11/2026, 15:46:40] You: Genius parenting move.
+[08/11/2026, 15:48:00] Ming: Works every time.
+[10/11/2026, 11:10:05] You: Hey, random question — did you see our grocery spend went up a bit this week? Mostly because I bought those organic strawberries Lucas wanted.
+[10/11/2026, 11:25:30] Ming: Saw the receipt. $98 for one box is robbery.
+[10/11/2026, 11:27:12] You: Haha I know!! He stared at them with giant puppy eyes in the supermarket!
+[10/11/2026, 11:30:05] Ming: Buy them at the fruit stall next to the wet market next time. $45 for the same Japanese box.
+[10/11/2026, 11:31:40] You: Yes sir, lesson learned!
+[10/11/2026, 11:33:15] Ming: Next time text me before paying $98 for fruit.
+[10/11/2026, 11:34:30] You: Promise!
+[12/11/2026, 16:40:18] You: Hey Ming, it's pouring rain outside! Did you bring an umbrella today?
+[12/11/2026, 16:52:05] Ming: Yes. Picking up Lucas with the raincoat too.
+[12/11/2026, 16:53:40] You: Awesome! I forgot my umbrella at home though, might get soaked walking from the MTR.
+[12/11/2026, 16:57:12] Ming: Text me when your train reaches Kowloon Tong.
+[12/11/2026, 16:58:30] You: You don't have to walk down in the rain!
+[12/11/2026, 17:01:05] Ming: Just text me.
+[12/11/2026, 18:45:10] You: Just passed Kowloon Tong!
+[12/11/2026, 18:47:22] Ming: Waiting at Exit B with the big umbrella.
+[12/11/2026, 18:48:30] You: Thank you Ming, seriously!!
+[12/11/2026, 18:49:45] Ming: Hurry up, soup is simmering.
+[14/11/2026, 16:15:20] You: Hey, my sister confirmed she and Tom are coming at 6:30pm tomorrow (Sunday 15 Nov). She's bringing Japanese pears.
+[14/11/2026, 16:22:40] Ming: Good. Already marinated the char siu and soaked the shiitake mushrooms.
+[14/11/2026, 16:24:15] You: You're going all out! Need me to help with anything tonight?
+[14/11/2026, 16:26:30] Ming: Clear the dining table of Lucas's Lego. That is all.
+[14/11/2026, 16:27:45] You: Haha on it!
+[15/11/2026, 22:10:05] You: My sister literally texted me three times saying your braised pork belly and winter melon soup were better than any restaurant!
+[15/11/2026, 22:16:30] Ming: Good. Glad they ate well.
+[15/11/2026, 22:18:05] You: You never even brag when people praise your cooking haha.
+[15/11/2026, 22:20:40] Ming: Clean plates are enough.
+[15/11/2026, 22:22:12] You: True! Go rest your feet, you stood by the stove for four hours today.
+[15/11/2026, 22:24:00] Ming: Showering now.
+[17/11/2026, 15:10:14] Ming: Bad news for end of the month.
+[17/11/2026, 15:14:30] You: Oh? What happened at work?
+[17/11/2026, 15:16:45] Ming: Regional headquarters moved our annual Kwai Chung warehouse inventory stocktake to Sunday 29 November all day, 8am to 9pm.
+[17/11/2026, 15:17:30] Ming: I have to cancel our Sunday 29 November beef brisket cooking session and family dinner. Cannot get out of it.
+[17/11/2026, 15:19:15] You: Ugh that is so annoying, especially since you're normally free on Sundays! Don't worry about cooking that day, I'll take Lucas to my mom's for dinner.
+[17/11/2026, 15:21:40] Ming: Good. Will make the braised beef brisket the next Sunday, 6 December instead.
+[17/11/2026, 15:23:05] You: Deal! Make sure you pack lunch on 29 Nov so you don't just eat instant noodles at the warehouse.
+[17/11/2026, 15:25:18] Ming: Will bring a thermos of soup.
+[17/11/2026, 15:26:30] You: Classic Ming.
+[19/11/2026, 13:20:10] You: Hey, Lucas's kindergarten is doing a little autumn picnic next Friday. Need to pack easy finger food.
+[19/11/2026, 13:34:22] Ming: I will make mini egg sandwiches and cut apple slices before work.
+[19/11/2026, 13:35:45] You: You are seriously the most reliable husband ever.
+[19/11/2026, 13:38:10] Ming: Just don't let him drop the lunchbox on the bus again.
+[19/11/2026, 13:39:30] You: Haha I'll label it twice!
+[20/11/2026, 18:05:12] You: Heading home now! Need anything from the bakery?
+[20/11/2026, 18:12:40] Ming: Loaf of wholemeal bread for breakfast.
+[20/11/2026, 18:13:55] You: Grabbing it now. See you in 20 mins!
+[20/11/2026, 18:15:10] Ming: Soup ready.
+[21/11/2026, 09:30:15] You: Morning! Just woke up — where are you guys?
+[21/11/2026, 09:36:40] Ming: At Lucas's swimming class. Left hot ginger milk tea and toast on the kitchen counter for you.
+[21/11/2026, 09:38:05] You: You're amazing, thank you Ming! See you guys at lunch!
+[21/11/2026, 09:39:50] Ming: Eat while hot.
+[22/11/2026, 10:15:30] You: Hey Ming, quick question — are we all set for Christmas dinner planning, or should we start thinking about that now?
+[22/11/2026, 10:28:40] Ming: Too early. Mid-December we plan. Right now focus on 29 Nov inventory.
+[22/11/2026, 10:30:05] You: Fair enough! Just wanted to check ahead.
+[22/11/2026, 10:31:20] Ming: Back to work soon.
+[23/11/2026, 14:20:15] You: Hey, Lucas's kindergarten sent a note about the winter performance on 10 Dec. He wants me to help him practice his part.
+[23/11/2026, 14:35:30] Ming: Which song?
+[23/11/2026, 14:36:45] You: "Twinkle Twinkle Little Star" but with actions. He's nervous about being on stage.
+[23/11/2026, 14:38:12] Ming: Normal nerves. Practice with him after dinner each night. He will be fine.
+[23/11/2026, 14:39:30] You: Good idea! You're so good with him about this stuff.
+[23/11/2026, 14:40:45] Ming: He just needs confidence. Same as anyone.
+[24/11/2026, 16:10:08] You: Hey, did you remember we need to get Lucas new shoes? His feet are growing so fast and his current ones are almost too small.
+[24/11/2026, 16:22:30] Ming: Saturday after his swimming lesson. Will bring him to the kids shop in Festive Walk mall.
+[24/11/2026, 16:23:45] You: You always think ahead! One less thing for me to worry about.
+[24/11/2026, 16:25:12] Ming: That's what I'm here for.
+[25/11/2026, 09:30:14] You: Ming, the weather is getting really nice these days. Maybe we can take Lucas to Hong Kong Park one weekend soon?
+[25/11/2026, 11:48:20] Ming: Sunday after the inventory stocktake. 30 November. Take him there in the morning before lunch.
+[25/11/2026, 11:49:45] You: That sounds perfect! He will love running around in the park.
+[25/11/2026, 11:51:00] Ming: Bring snacks. The park is expensive.
+[25/11/2026, 11:52:15] You: I'll pack something good at home the night before.
+[25/11/2026, 11:53:30] Ming: Good.
+[26/11/2026, 14:15:22] You: Quick question — did the electricity company send the bill yet? I want to make sure we're under budget for November.
+[26/11/2026, 14:28:40] Ming: Bill came yesterday. $420. Under budget.
+[26/11/2026, 14:29:55] You: Great! You really keep this place running smoothly, Ming.
+[26/11/2026, 14:31:10] Ming: Just routine.
+[27/11/2026, 15:25:30] You: Hey, my work is forcing us to stay late tonight for an emergency meeting. I won't be home until after 9pm. Can you handle Lucas tonight?
+[27/11/2026, 15:35:45] Ming: No problem. Making fish congee for him. Easy to eat when cold if you come very late.
+[27/11/2026, 15:37:12] You: You're seriously the best. Thank you Ming.
+[27/11/2026, 15:38:30] Ming: Just work. Expected sometimes.
+[28/11/2026, 10:20:08] Ming: Inventory was exhausting yesterday. 13 hours on my feet.
+[28/11/2026, 10:28:30] You: Oh no! You must be completely drained. Do you want me to pick Lucas up from kindergarten today?
+[28/11/2026, 10:29:45] Ming: No. Already arranged with your mom. Just resting at home now.
+[28/11/2026, 10:31:12] You: Good. Take it easy today, you earned it.
+[28/11/2026, 10:32:30] Ming: Will do.
+[29/11/2026, 09:45:12] You: Morning! Ready for Hong Kong Park today? Lucas is super excited!
+[29/11/2026, 10:12:40] Ming: Already packed snacks. Meeting you at the park entrance at 10am.
+[29/11/2026, 10:13:55] You: Perfect! Just grabbing some takeaway coffee on the way.
+[29/11/2026, 10:15:20] Ming: See you soon.
+[29/11/2026, 18:40:22] You: Lucas is completely knocked out after running around all day! That was such a good afternoon.
+[29/11/2026, 18:48:10] Ming: He needed the fresh air. Good for him.
+[29/11/2026, 18:49:25] You: Definitely. And thanks for suggesting the park, it was perfect timing.
+[29/11/2026, 18:50:40] Ming: Weather is good in December. Can go again next month.
+[30/11/2026, 11:10:30] You: Hey, since Lucas's performance is coming up on 10 Dec, should we start planning a special dinner to celebrate afterwards?
+[30/11/2026, 11:25:45] Ming: Yes. After the show, we celebrate with his favourite food.
+[30/11/2026, 11:27:12] You: He will be so happy! What do you think — homemade or restaurant?
+[30/11/2026, 11:28:30] Ming: Homemade better. Can make his exact preferences.
+[30/11/2026, 11:29:45] You: True. Maybe his steamed chicken with dates and those noodles he loves?
+[30/11/2026, 11:31:00] Ming: Good choice. Will make both on 10 Dec afternoon.
+[30/11/2026, 11:32:15] You: You're the best, Ming. Really.

@@ -1,240 +1,201 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_0_4: I am studying economics. I enjoy hiking.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_0_4: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_0_4: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_0_4: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_0_4: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_0_4: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_0_4: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_0_4: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_0_4: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_0_4: Thanks, I will check and get back to you.
+[22/10/2026, 13:18:05] Jason: Hey man, long time no speak! Survived Q3?
+[22/10/2026, 13:24:19] You: Jason! Alive and barely kicking. How is the new bank treating you?
+[22/10/2026, 18:45:12] Jason: Sorry, got pulled into a 4-hour budget review right after lunch.
+[22/10/2026, 18:46:03] Jason: New place pays slightly better, which my mortgage appreciates, but my VP is an absolute micromanager.
+[22/10/2026, 18:50:22] You: Ouch, classic Finance middle-management trap. How is married life though? Settled into the new flat?
+[22/10/2026, 18:52:40] Jason: Mostly unpacked! Still eating off cardboard boxes in the study, but my wife finally got the living room looking like a real home.
+[22/10/2026, 18:54:15] You: Haha congrats again man, still feels wild seeing you as a responsible homeowner.
+[22/10/2026, 18:56:02] Jason: Tell me about it. Watching HIBOR rates every month ages you five years.
+[22/10/2026, 18:57:30] Jason: Anyway, reason I texted — saw the trailer for Dune: Messiah / Starfall 2 (that massive sci-fi sequel we used to talk about at lunch) just dropped!
+[22/10/2026, 18:59:11] You: Oh yes!! Starfall 2! Comes out next month right?
+[22/10/2026, 19:01:45] Jason: Yep, mid-November. I'm definitely watching it in IMAX. Honestly, big sci-fi blockbusters, action movies, and superhero flicks in IMAX are the only way I can shut my brain off after 12-hour Finance shifts.
+[22/10/2026, 19:03:20] You: Haha I remember you refusing to watch anything on a small screen if it had spaceships in it.
+[22/10/2026, 19:05:10] Jason: Standard cinema speakers just don't hit the same. If the seat isn't vibrating, what's the point?
+[22/10/2026, 19:06:40] You: Fair enough! Let's go watch it together when it's out, K11 Art House or Festival Walk IMAX?
+[22/10/2026, 19:08:15] Jason: K11 Art House IMAX is solid. Let's definitely grab dinner and catch it once tickets open.
+[22/10/2026, 19:09:00] You: Deal! Don't work too late tonight.
+[22/10/2026, 19:10:22] Jason: Already still at my desk lol. Catch you soon.
+[25/10/2026, 15:10:08] You: Hey Jason, hope you actually got a weekend off! Did you end up buying that soundbar for the new flat?
+[25/10/2026, 21:34:19] Jason: Hey! Spent all day at IKEA and Fortress with the wife.
+[25/10/2026, 21:35:05] Jason: Bought a Sonos Beam. She vetoed the giant subwoofer because it "ruins the minimalist aesthetic."
+[25/10/2026, 21:38:22] You: Haha welcome to married life, aesthetics always win.
+[25/10/2026, 21:40:10] Jason: 100%. Still sounds pretty decent for action movies at home though.
+[25/10/2026, 21:41:45] You: Nice! Ready for Monday?
+[25/10/2026, 21:43:00] Jason: Never. Goodnight man.
+[28/10/2026, 12:15:30] Jason: You will not believe what my boss just asked me to do.
+[28/10/2026, 12:20:05] You: Spill! Another last-minute deck?
+[28/10/2026, 17:52:18] Jason: Worse. He made me change the font colour on 65 PowerPoint slides from dark navy to "slightly warmer navy" before a 3pm meeting.
+[28/10/2026, 17:54:40] You: Hahaha no way!! Is he a designer or a Finance VP?
+[28/10/2026, 17:56:12] Jason: Honestly think he just likes seeing people suffer. Miss our old department sometimes, at least our old boss didn't care about hex codes.
+[28/10/2026, 17:58:05] You: Grass is always greener man! By the way, our old team still asks about you at lunch.
+[28/10/2026, 18:00:22] Jason: Tell them I say hi! And tell Kenny he still owes me $120 from the farewell football pool.
+[28/10/2026, 18:01:45] You: Haha will pass that on immediately.
+[30/10/2026, 11:30:14] You: Hey Jason, pre-sale tickets for Starfall 2 IMAX are going live next week! Which weekday evening usually works best for you so I know what to look for?
+[30/10/2026, 16:48:33] Jason: Sorry, back-to-back calls all afternoon.
+[30/10/2026, 16:49:20] Jason: Mondays to Thursdays are basically impossible for me because of regional Finance reporting and OT.
+[30/10/2026, 16:50:15] Jason: I am usually free on Friday evenings though! My wife has her weekly dinner with her parents every Friday night, so I almost always get a free pass after 7pm on Fridays.
+[30/10/2026, 16:52:40] You: Oh Friday evenings are ideal! No work the next morning either.
+[30/10/2026, 16:54:12] Jason: Exactly. And let's keep dinner casual before the movie — maybe ramen or burgers in TST, nothing too fancy since the mortgage is bleeding me dry.
+[30/10/2026, 16:55:30] You: Totally fine, Five Guys or ramen in TST sounds great.
+[30/10/2026, 16:56:45] Jason: Solid. Let's aim for a Friday in late November or early December once the IMAX slots open up.
+[30/10/2026, 16:57:30] You: Sounds like a plan!
+[02/11/2026, 19:20:11] You: Hey man, did you watch the new Batman spin-off series on Max yet?
+[03/11/2026, 09:12:44] Jason: Morning, crashed at 10pm last night. Watched the first two episodes on Saturday — surprisingly gritty, really liked it.
+[03/11/2026, 09:15:30] You: Right? Way better than I expected.
+[03/11/2026, 09:17:05] Jason: Definitely. Hoping to finish episode 3 this weekend if I don't fall asleep on the sofa first.
+[03/11/2026, 09:18:20] You: Haha the classic 31-year-old sofa nap.
+[03/11/2026, 09:19:10] Jason: Don't laugh, it's coming for you too.
+[06/11/2026, 10:15:22] You: Hey Jason! K11 Art House just opened early December IMAX bookings for Starfall 2. Want to lock in Friday 4 December at 8:15pm?
+[06/11/2026, 17:40:10] Jason: Yep, Friday 4 December should be fine! I'm usually free Friday evenings anyway.
+[06/11/2026, 17:42:35] You: Awesome! Should I grab two middle-row seats now before they sell out, or wait?
+[06/11/2026, 22:15:08] Jason: Grab them if they're good seats, I'll PayMe you.
+[06/11/2026, 22:18:40] You: Done! Row G right in the centre. Total is $185 per ticket.
+[07/11/2026, 11:05:19] Jason: Just sent $185 via PayMe! Thanks man, appreciate you booking it.
+[07/11/2026, 11:08:30] You: Received! Now we just have to survive November.
+[07/11/2026, 11:10:02] Jason: Tell me about it.
+[10/11/2026, 13:05:40] You: Hey, random question — are you free for a quick lunch in Central sometime this week? I'm meeting a client near your office on Thursday.
+[10/11/2026, 20:14:22] Jason: Busy this week.
+[10/11/2026, 20:16:05] You: Oh no worries! Maybe next week then?
+[11/11/2026, 14:22:18] Jason: Let's see.
+[11/11/2026, 14:25:40] You: All good man, just ping me whenever your calendar breathes a bit.
+[12/11/2026, 19:45:10] You: Hey, saw Starfall 2 got 94% on Rotten Tomatoes! Early reviews say the IMAX sound design is insane.
+[13/11/2026, 11:30:25] Jason: Nice.
+[13/11/2026, 11:33:12] You: Everything alright over there? You've been super quiet this week.
+[13/11/2026, 21:08:44] Jason: Hey man, sorry for the super short replies all week! Not ignoring you at all.
+[13/11/2026, 21:09:30] Jason: Two analysts on my team resigned on Monday, so I've been doing three people's jobs until 11pm every night. Literally only have brainpower for one-word texts.
+[13/11/2026, 21:11:15] You: Oh man, that is brutal! I figured you were getting crushed at work, no need to apologise at all.
+[13/11/2026, 21:12:40] Jason: Appreciate it. Honestly just counting down the days til we grab burgers and watch spaceships blow up.
+[13/11/2026, 21:14:05] You: Hang in there! Drink some water and get some sleep this weekend.
+[13/11/2026, 21:15:22] Jason: Will try. Thanks man.
+[16/11/2026, 12:40:15] You: Quick check-in — did HR at least give you a temp contractor to help with the two resignations?
+[16/11/2026, 18:22:30] Jason: Haha good joke. They said "headcount is frozen until Q1, please manage internally."
+[16/11/2026, 18:24:10] You: Classic corporate translation for "suffer in silence."
+[16/11/2026, 18:25:45] Jason: Pretty much. At least my wife packed me homemade curry for lunch today so I didn't have to eat a sad sandwich at my desk.
+[16/11/2026, 18:27:02] You: Silver lining!
+[18/11/2026, 16:30:18] Jason: Hey man, I have terrible news about our IMAX plan.
+[18/11/2026, 16:35:05] You: Uh oh, don't tell me your boss struck again?
+[18/11/2026, 16:37:12] Jason: Yep. Because my two analysts left, the CFO just moved the annual budget board pack submission to Saturday morning, which means mandatory all-hands team crunch on Friday 4 December evening.
+[18/11/2026, 16:38:05] Jason: I hate cancelling on a Friday since I'm normally free Friday evenings, and I was really hyped for Starfall 2, but I have to cancel Friday 4 December completely. Really sorry man!
+[18/11/2026, 16:40:22] You: Ugh that is awful, I'm so sorry your team is doing that to you! Don't even stress about the movie.
+[18/11/2026, 16:42:10] Jason: Feel super bad since you already booked the tickets. Keep the $185 and see if another friend wants my seat, or I can try to swap it to Friday 11 December?
+[18/11/2026, 16:43:45] You: Let me check if K11 lets me exchange the tickets to Friday 11 December — if not, no big deal, I'll ask my brother to come with me and we'll just go grab dinner on Friday 11 December instead!
+[18/11/2026, 16:45:30] Jason: You're a legend, thanks for being so chill about it. Seriously owe you dinner on 11 Dec.
+[18/11/2026, 16:46:40] You: Deal! Adulting schedules are impossible anyway, we'll make it happen eventually.
+[18/11/2026, 16:48:05] Jason: Haha "we should grab dinner sometime" — the biggest lie of being 31.
+[18/11/2026, 16:49:12] You: Too real 😂
+[20/11/2026, 18:10:05] You: TGIF! Please tell me you're actually leaving the office before 8pm tonight.
+[20/11/2026, 19:55:22] Jason: Just walked out the door! 7:55pm, counts as an early finish!
+[20/11/2026, 19:57:10] You: Huge win! Any fun plans for the weekend?
+[20/11/2026, 19:59:05] Jason: Sleeping til 11am tomorrow, fixing a leaky kitchen tap, and watching football. Peak excitement.
+[20/11/2026, 20:00:40] You: Honestly sounds peaceful. Enjoy the rest man!
+[20/11/2026, 20:02:15] Jason: Thanks, you too! Catch up soon!
+[21/11/2026, 11:30:22] You: Morning! Hope you actually relaxed this weekend without thinking about spreadsheets!
+[21/11/2026, 11:38:40] Jason: haha mostly! fixed the kitchen tap as promised, it only took three attempts and YouTube deep diving
+[21/11/2026, 11:41:12] You: Haha DIY champion! Did it hold or leak again?
+[21/11/2026, 11:44:30] Jason: surprisingly still holding, I'm shocked honestly
+[22/11/2026, 14:20:18] You: Hey man, random question — your wife's annual team outing, is that still happening late November or did they cancel?
+[22/11/2026, 14:28:40] Jason: oh yeah they moved it to early December actually. Wife is finally getting a break from client dinners for a few weeks though
+[22/11/2026, 14:31:12] You: Nice! That means you should get some Friday evenings back?
+[22/11/2026, 14:33:50] Jason: unfortunately not really, work is still a madhouse but at least the pressure eases slightly after Q4 close
+[23/11/2026, 10:15:30] You: Hey Jason, quick check — still no hope on the Friday 11 December movie slot? Or is that still up in the air?
+[23/11/2026, 10:22:40] Jason: honestly not sure yet, the CFO keeps piling new requests on our team. I'll have better visibility by next week
+[23/11/2026, 10:25:15] You: All good, just let me know whenever you know!
+[23/11/2026, 10:28:30] Jason: will do, appreciate the flexibility man
+[24/11/2026, 09:30:14] You: Morning! How is Monday treating you?
+[24/11/2026, 09:38:40] Jason: survived the weekend with wife doing meal prep, so at least I'm eating home-cooked food again
+[24/11/2026, 09:41:12] You: That's the dream haha!
+[24/11/2026, 09:43:50] Jason: honestly, good wife > any IMAX movie
+[25/11/2026, 18:40:12] You: Hey, the mortgage rates dipped slightly today. Good news for you guys right?
+[25/11/2026, 18:48:30] Jason: oh yeah saw that! honestly a few basis points won't move the needle much but every bit helps when you're bleeding interest
+[25/11/2026, 18:51:15] You: Fair point. At least the flat is yours though!
+[25/11/2026, 18:54:40] Jason: yeah, that part feels good. wife is already planning renovations we definitely can't afford lol
+[26/11/2026, 11:20:08] You: Wednesday! Almost there!
+[26/11/2026, 11:28:30] Jason: haha barely surviving, back-to-back calls all morning
+[26/11/2026, 11:31:12] You: Hang in there, just two more days!
+[26/11/2026, 11:33:50] Jason: will do, counting every minute til Friday
+[27/11/2026, 14:15:30] You: One more day until TGIF! Any plans?
+[27/11/2026, 14:22:40] Jason: wife wants to watch some K-drama she's been following, so probably a chill night in
+[27/11/2026, 14:25:18] You: Sounds nice actually!
+[27/11/2026, 14:28:05] Jason: yeah, need the quiet after this week
+[28/11/2026, 09:30:14] You: Morning! Hope the weekend is treating you well so far!
+[28/11/2026, 09:38:40] Jason: sleeping past 8am is basically luxury at this point
+[28/11/2026, 09:41:12] You: Haha facts! Enjoy the rest 😂
+[28/11/2026, 09:43:50] Jason: will do, speak soon!
+[29/11/2026, 10:20:08] You: Hey man, quick question about the Starfall 2 tickets — did you end up getting your seat reassigned to Friday 11 December or should I sell them?
+[29/11/2026, 10:28:30] Jason: actually never got around to asking K11 about exchanges, can you check if they let you move bookings?
+[29/11/2026, 10:31:12] You: I'll call them today and see what they say!
+[29/11/2026, 10:33:50] Jason: thanks man, really appreciate the patience on this
+[30/11/2026, 11:15:22] You: Hey! K11 said they can move the booking to Friday 11 December no problem. Want me to go ahead?
+[30/11/2026, 11:22:40] Jason: YES please do! I'm pretty sure I'll be free by then, work situation should be clearer by next week
+[30/11/2026, 11:25:15] You: Done! See you Friday 11 December at K11 IMAX!
+[30/11/2026, 11:28:30] Jason: thanks for making this happen! you're a legend honestly
+[30/11/2026, 11:31:05] You: Anytime man, see you soon!
+[30/11/2026, 11:33:50] Jason: catch you later!
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well!
+[01/12/2026, 10:28:30] Jason: haha busy Monday actually, two more analysts just gave notice so I'm definitely drowning
+[01/12/2026, 10:31:12] You: Oh man that's rough! You okay?
+[01/12/2026, 10:33:50] Jason: surviving on coffee and spite mostly lol. wife is being really supportive though
+[02/12/2026, 14:15:30] You: By the way, did you check if Friday 11 December is finally looking free?
+[02/12/2026, 14:22:40] Jason: actually yeah!! the board pack got pushed to late January so Friday is mine again!
+[02/12/2026, 14:25:18] You: YES!! So we're definitely on for Starfall 2 IMAX on Friday 11 December?
+[02/12/2026, 14:28:05] Jason: 100%! already cleared my calendar. really looking forward to it honestly
+[03/12/2026, 09:30:14] You: Morning! How is Tuesday treating you?
+[03/12/2026, 09:38:40] Jason: drowning but functioning. HR finally approved a temp contractor so at least the bleeding stops
+[03/12/2026, 09:41:12] You: That's good news! You need some relief!
+[03/12/2026, 09:43:50] Jason: yeah will help with the daily madness at least
+[04/12/2026, 10:15:30] You: Morning! How is Wednesday treating you?
+[04/12/2026, 10:28:30] Jason: slightly better actually. the temp contractor arrived and is diving right into the work
+[04/12/2026, 10:31:12] You: Huge win! Just two more days til the weekend!
+[04/12/2026, 10:33:50] Jason: cannot wait honestly
+[05/12/2026, 11:35:08] You: Can't wait for Friday 11 December! Are you ready for IMAX theatre magic?
+[05/12/2026, 14:22:40] Jason: absolutely ready!! the mortgage and work stress will finally have a proper escape route
+[05/12/2026, 14:23:55] You: Perfect! Let's grab burgers before the movie like we planned!
+[05/12/2026, 14:23:55] You: Perfect! Let's grab burgers before the movie like we planned!
+[05/12/2026, 14:25:12] Jason: deal! see you Friday 11 December!
+[06/12/2026, 09:30:14] You: Hey Jason! Hope your Sunday is peaceful!
+[06/12/2026, 10:28:40] Jason: haha peaceful with a wife and a leaky kitchen tap? more like organized chaos lol
+[06/12/2026, 10:29:55] You: Haha that's married life! Did you fix the tap?
+[06/12/2026, 10:31:12] Jason: finally!! took three YouTube videos but we got there
+[07/12/2026, 09:30:14] You: Hey man, hope your Monday is treating you well!
+[07/12/2026, 10:28:40] Jason: Morning! Work is finally stabilizing a bit with the temp contractor
+[07/12/2026, 10:29:55] You: That's amazing! You needed the relief badly!
+[07/12/2026, 10:31:12] Jason: for real, morale is finally going back up
+[08/12/2026, 09:30:14] You: Hey Jason! How is Tuesday treating you?
+[08/12/2026, 10:28:40] Jason: pretty good actually! meetings are down and actual work is happening
+[08/12/2026, 10:29:55] You: Finally some breathing room!
+[08/12/2026, 10:31:12] Jason: exactly! wife says I'm actually sleeping better too haha
+[09/12/2026, 11:35:08] You: Almost to Friday! Getting hyped for IMAX?
+[09/12/2026, 14:22:40] Jason: SO hyped!! need that escape hatch after Q4 close
+[09/12/2026, 14:23:55] You: We're going to have such a good evening!
+[09/12/2026, 14:25:12] Jason: cannot wait honestly! see you Friday!
+[10/12/2026, 09:30:14] You: Hey man, happy Friday! Ready for Starfall 2?
+[10/12/2026, 10:28:40] Jason: absolutely!! what time should we meet at K11?
+[10/12/2026, 10:29:55] You: How about 7pm? Gives us time for burgers first!
+[10/12/2026, 10:31:12] Jason: perfect! see you at 7pm!
+[11/12/2026, 11:30:15] You: Hey! Hope you got some rest this weekend!
+[11/12/2026, 11:38:12] You: So close! Just two more days til movie night!
+[11/12/2026, 11:41:30] Jason: cannot wait honestly! see you Friday!
+[12/12/2026, 09:30:14] You: Hey man, happy Saturday! Hope you're enjoying the weekend!
+[12/12/2026, 10:28:40] Jason: absolutely!! sleeping in and catching up on rest!
+[12/12/2026, 10:29:55] You: That's what you needed! Enjoy!
+[12/12/2026, 10:31:12] Jason: will do! wife and I are heading to the beach later actually!
+[13/12/2026, 09:30:14] You: Hey Jason! Hope your Sunday is lovely!
+[13/12/2026, 10:28:40] Jason: pretty good actually! beach was super relaxing!
+[13/12/2026, 10:29:55] You: Sounds perfect! Ready for another work week?
+[13/12/2026, 10:31:12] Jason: yeah actually feeling much better after the break!
+[14/12/2026, 11:30:15] You: Hey! Hope Monday is treating you well!
+[14/12/2026, 11:35:40] Jason: Morning! Week is starting strong. How about you?
+[14/12/2026, 11:38:12] You: Same! Just getting through the final push!
+[14/12/2026, 11:41:30] Jason: We're almost there! ❤️
+[15/12/2026, 10:28:40] You: Hey Jason! How is Tuesday treating you?
+[15/12/2026, 10:35:12] Jason: pretty good actually! meetings are down and projects are wrapping!
+[15/12/2026, 10:38:05] You: That's amazing! Almost to the weekend!
+[15/12/2026, 10:41:30] Jason: three more days!!
+[16/12/2026, 11:30:15] You: Hey! Happy Wednesday! Halfway there!
+[16/12/2026, 11:35:40] Jason: Morning! Definitely the hump day! Ready for the weekend!
+[16/12/2026, 11:38:12] You: So close! Almost done!
+[16/12/2026, 11:41:30] Jason: I know!! ❤️
+[17/12/2026, 10:28:40] You: Hey Jason! Happy Thursday! Almost to freedom!
+[17/12/2026, 10:35:12] Jason: Morning! One more day!! Wife is so ready for the Christmas break too!
+[17/12/2026, 10:38:05] You: That's amazing! You all deserve the rest!
+[17/12/2026, 10:41:30] Jason: We really do! Talk soon!

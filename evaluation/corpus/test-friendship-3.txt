@@ -1,240 +1,201 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_0_2: I am studying economics. I enjoy hiking.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_0_2: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_0_2: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_0_2: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_0_2: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_0_2: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_0_2: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_0_2: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_0_2: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_0_2: Thanks, I will check and get back to you.
+[21/10/2026, 14:10:05] You: Hey Kelvin, long time no talk! How is the freelance editing life treating you?
+[21/10/2026, 14:48:22] Kelvin: Surviving. Just wrapped a mind-numbing corporate promo video to pay rent this month.
+[21/10/2026, 14:50:10] You: Haha gotta pay the bills somehow. Any fun projects lined up?
+[21/10/2026, 14:52:45] Kelvin: Editing a short indie documentary for a local director friend, and I just pitched a 2,000-word essay on Wong Kar-wai's framing to an online film journal.
+[21/10/2026, 14:54:02] You: Oh nice! Always impressed that you still write film criticism on the side.
+[21/10/2026, 14:55:30] Kelvin: Someone has to keep actual cinema discourse alive. Most people just treat films like background noise for scrolling their phones now.
+[21/10/2026, 14:56:48] You: Fair point, I am definitely guilty of pausing Netflix too much.
+[21/10/2026, 14:58:12] Kelvin: Netflix algorithms are literally destroying visual literacy. Anyway, how is corporate life? Still at the same firm in Admiralty?
+[21/10/2026, 15:00:05] You: Yep, same desk, same spreadsheets. Just glad the weather is finally cooling down.
+[21/10/2026, 15:02:19] Kelvin: Autumn is the only decent season in Hong Kong. Makes walking around Yau Ma Tei after a late screening bearable.
+[21/10/2026, 15:03:40] You: Still hanging out at Broadway Cinematheque all the time?
+[21/10/2026, 15:05:11] Kelvin: Practically my second home. I genuinely love European arthouse films, A24 releases, and restored 90s Hong Kong cinema. Nothing beats watching them on a proper screen.
+[21/10/2026, 15:06:30] You: We should catch a screening together soon, feels like ages since uni film society days.
+[21/10/2026, 15:08:02] Kelvin: Sure, as long as you don't try to drag me to some soulless Marvel sequel or noisy Hollywood popcorn flick.
+[21/10/2026, 15:09:15] You: Deal, you can pick the movie this time.
+[21/10/2026, 15:10:40] Kelvin: Now you're talking. Let me check the November programme.
+[24/10/2026, 22:15:30] Kelvin: Just finished rewatching Edward Yang's Yi Yi at home. Still the greatest film about urban alienation ever made.
+[24/10/2026, 22:24:12] You: Oh I remember you made our whole uni dorm watch that during exam week!
+[24/10/2026, 22:25:48] Kelvin: And half of you fell asleep after the first hour. Tragic.
+[24/10/2026, 22:27:05] You: In our defence, it is three hours long and we had an 8:30am lecture!
+[24/10/2026, 22:28:33] Kelvin: Good art requires patience. People today have the attention span of a goldfish because of 15-second Reels.
+[24/10/2026, 22:30:10] You: Haha true, my attention span is definitely worse than it was at 20.
+[24/10/2026, 22:31:45] Kelvin: You should come to the Cinematheque more often. Forces you to put your phone away for two hours.
+[24/10/2026, 22:33:02] You: Honestly I would like that. Let's actually set a date next month.
+[24/10/2026, 22:34:20] Kelvin: Sounds good.
+[27/10/2026, 11:30:14] You: Hey Kelvin, quick question — did you see that Sam from our uni hall just got engaged?
+[27/10/2026, 12:05:40] Kelvin: Saw it on Instagram. Luxury hotel proposal with a drone photographer. Very on brand for finance guys.
+[27/10/2026, 12:07:12] You: Haha let them be happy, it looked sweet!
+[27/10/2026, 12:08:55] Kelvin: I'm not saying he shouldn't be happy, it just feels like everyone from our batch is following the exact same checklist. Buy flat, get married, post curated photos.
+[27/10/2026, 12:10:20] You: Nothing wrong with wanting stability when you hit 31 though.
+[27/10/2026, 12:12:08] Kelvin: Stability is fine, conformity is boring. Anyway, back to rendering footage.
+[27/10/2026, 12:13:15] You: Good luck with the edit!
+[29/10/2026, 18:20:05] You: Hey, which weekday evening usually works best for you if we want to catch a film at Broadway Cinematheque?
+[29/10/2026, 18:45:19] Kelvin: Mondays and Fridays are always chaotic with freelance client revisions and delivery deadlines.
+[29/10/2026, 18:46:12] Kelvin: I am usually free on Tuesday evenings though. I almost never schedule client calls on Tuesdays, so Tuesday nights are my regular cinema nights.
+[29/10/2026, 18:47:30] You: Tuesday evenings work great for me too! Yau Ma Tei is easy to get to after work.
+[29/10/2026, 18:48:45] Kelvin: Perfect. Also keep the dinner spot simple afterwards — my freelance invoices take 60 days to clear so I'm not doing $500 bistros.
+[29/10/2026, 18:49:30] You: Totally fine, we can just grab claypot rice or noodles on Temple Street.
+[29/10/2026, 18:50:18] Kelvin: Now that's a proper plan.
+[01/11/2026, 16:10:22] Kelvin: Just checked the November schedule. That French Cannes winner everyone in the film circles is talking about — Silent Horizons — is having a limited run at Cinematheque.
+[01/11/2026, 16:22:05] You: Oh I saw a trailer for that! Looks very atmospheric.
+[01/11/2026, 16:23:40] Kelvin: The cinematography is supposed to be transcendent. Pure slow cinema, minimal dialogue, 35mm grain.
+[01/11/2026, 16:25:12] You: Want to book tickets for Sunday 15 November evening? Or a Tuesday?
+[01/11/2026, 16:26:30] Kelvin: Sunday 15 November at 7:15pm has good middle-row seats left. Let's grab those before they sell out.
+[01/11/2026, 16:27:45] You: Done, I'll buy two tickets and you can PayMe later.
+[01/11/2026, 16:28:50] Kelvin: Cool, thanks. Also they are doing a restored Polish cinema double bill on Tuesday 1 December if you're free then too.
+[01/11/2026, 16:30:10] You: Oh nice! Let's tentatively lock in Tuesday 1 December as well since you're usually free Tuesdays.
+[01/11/2026, 16:31:02] Kelvin: Great, let's put it on the calendar.
+[04/11/2026, 13:15:40] You: Hey random tech question — my brother wants to learn basic video editing for his travel clips. Premiere Pro or DaVinci Resolve?
+[04/11/2026, 13:38:12] Kelvin: DaVinci Resolve, easily. The free version is more than enough and the colour grading tools are industry standard.
+[04/11/2026, 13:39:05] You: Awesome, I'll tell him. Thanks man!
+[04/11/2026, 13:40:20] Kelvin: Just tell him not to slap those cheesy teal-and-orange LUTs on everything.
+[04/11/2026, 13:41:05] You: Haha I will pass on the strict warning.
+[06/11/2026, 20:05:18] Kelvin: Just got my essay published on the film journal! Sending you the link later if you want to read it.
+[06/11/2026, 20:14:30] You: Congrats Kelvin!! Definitely send it over, I'll read it on the MTR tomorrow.
+[06/11/2026, 20:16:02] Kelvin: Thanks. Only paid $800 HKD for a week of research and writing, which is laughable, but at least the editor didn't butcher my prose.
+[06/11/2026, 20:17:45] You: Ugh creative rates in Hong Kong are rough. Glad you're proud of the piece though!
+[06/11/2026, 20:19:10] Kelvin: Yeah, nobody here values arts writing anymore. Everything is just clicks and sponsors.
+[06/11/2026, 20:20:30] You: Still awesome that it's out there. Let's celebrate with noodles next week.
+[06/11/2026, 20:21:15] Kelvin: Sounds good.
+[09/11/2026, 12:40:11] You: Read your Wong Kar-wai piece on the train! Really liked the part about how reflections in glass act like emotional barriers.
+[09/11/2026, 13:02:45] Kelvin: Appreciate you actually reading it carefully. Most people just hit like and skim the headline.
+[09/11/2026, 13:04:10] You: Of course! How is the indie documentary edit going?
+[09/11/2026, 13:06:33] Kelvin: Director keeps changing the structure of act two, so I'm basically cutting three versions at once.
+[09/11/2026, 13:08:00] You: Sounds painful. Hope he makes up his mind soon.
+[09/11/2026, 13:09:15] Kelvin: Same. My eyes feel square.
+[12/11/2026, 17:30:22] Kelvin: Hey, quick update about our tentative plan for early December.
+[12/11/2026, 17:38:05] You: The Polish cinema screening on Tuesday 1 December?
+[12/11/2026, 17:39:40] Kelvin: Yeah. The documentary director just got accepted into an overseas festival rough-cut lab, and the final upload deadline is Wednesday morning.
+[12/11/2026, 17:40:30] Kelvin: That means I have to pull an overnight sound mix and colour lock on Tuesday 1 December evening. I have to cancel Tuesday 1 December completely.
+[12/11/2026, 17:42:15] You: Oh congrats on the festival lab though! Totally fine, work comes first.
+[12/11/2026, 17:43:20] Kelvin: Annoying since I'm normally free Tuesday evenings, and I hadn't missed a Cinematheque retrospective in months. We can reschedule to another week in December.
+[12/11/2026, 17:44:35] You: Sure thing, no rush at all. Still on for Silent Horizons this Sunday 15 November?
+[12/11/2026, 17:45:40] Kelvin: Definitely. Wouldn't miss that one.
+[14/11/2026, 15:10:08] You: Hey, what time should we meet tomorrow in Yau Ma Tei?
+[14/11/2026, 15:24:30] Kelvin: Let's meet at Kubrick cafe at 6:30pm, grab a quick coffee before the 7:15pm screening.
+[14/11/2026, 15:25:45] You: Sounds good, see you at 6:30!
+[14/11/2026, 15:26:30] Kelvin: See you then. Don't be late, they don't show 20 minutes of ads like commercial cinemas.
+[14/11/2026, 15:27:12] You: Haha message received, I'll be on time.
+[15/11/2026, 18:20:05] You: Just got off the MTR at Yau Ma Tei, walking over now.
+[15/11/2026, 18:22:18] Kelvin: I'm already inside Kubrick by the bookshelves.
+[15/11/2026, 18:23:00] You: See you in 3 mins!
+[15/11/2026, 22:10:44] You: Just got home! Thanks for coming out tonight, the claypot rice was great.
+[15/11/2026, 22:18:30] Kelvin: Yeah, food was solid. Still thinking about that final 12-minute static shot of the coastline. Pure mastery.
+[15/11/2026, 22:21:15] You: Honestly, now that I've had time to think about it on the train... I actually found the pacing way too slow. Some parts felt a bit pretentious for the sake of being artsy.
+[15/11/2026, 22:24:02] Kelvin: Pretentious? Really? Just because a film doesn't spoon-feed you plot twists every five minutes doesn't make it pretentious.
+[15/11/2026, 22:26:30] You: I'm not asking for explosions, Kelvin. There was a 10-minute scene of a guy silently peeling potatoes with zero payoff. It felt self-indulgent.
+[15/11/2026, 22:29:14] Kelvin: The potato scene was literally establishing the monotony of grief and domestic labour. If you missed that, it's because mainstream Hollywood garbage has completely fried your brain.
+[15/11/2026, 22:31:05] You: Wow, okay. So anyone who disagrees with your taste is "brainwashed by Hollywood"?
+[15/11/2026, 22:33:48] Kelvin: I'm just being honest. Back in uni you actually cared about nuance and ambiguity. Ever since you got comfortable in your corporate finance bubble, you only want easy, digestible entertainment.
+[15/11/2026, 22:35:22] You: Hold on, why are you attacking my job and my life just because I didn't love a French movie?!
+[15/11/2026, 22:37:40] Kelvin: I'm not attacking your job, I'm pointing out that you've lost that spark you used to have. Everything is so practical and surface-level with you now. You judge art like you're checking an Excel sheet.
+[15/11/2026, 22:39:15] You: That is insanely condescending. You always do this — the moment someone has a different opinion, you act like you're the sole guardian of culture and look down on everyone else.
+[15/11/2026, 22:41:50] Kelvin: Look down on people? Sorry I actually care deeply about my craft instead of just clocking in for a bonus and watching mindless TV.
+[15/11/2026, 22:43:30] You: Caring about your craft doesn't give you the right to insult your friends. I literally came to an arthouse screening with you, read your essay, and gave you an honest reaction, and you immediately talk down to me.
+[15/11/2026, 22:45:12] Kelvin: Maybe we just don't speak the same language anymore.
+[15/11/2026, 22:46:40] You: If "speaking the same language" means agreeing with everything you say so your ego doesn't get bruised, then yeah, maybe we don't.
+[15/11/2026, 22:48:05] Kelvin: Think whatever you want. Goodnight.
+[16/11/2026, 13:20:18] You: Hey Kelvin. Last night got way more heated than it needed to over a movie. I didn't mean to dismiss your passion for film.
+[16/11/2026, 16:45:02] Kelvin: Fine.
+[16/11/2026, 16:48:15] You: Just wanted to clear the air. Are we okay?
+[16/11/2026, 17:12:30] Kelvin: I'm in the middle of a deadline cut. Don't really have the bandwidth to rehash last night.
+[16/11/2026, 17:14:05] You: Okay, fair enough.
+[18/11/2026, 11:30:22] You: Hey, I noticed you still haven't sent the PayMe for the Sunday movie ticket — no rush at all, just checking if you saw my previous message.
+[18/11/2026, 12:04:10] Kelvin: Just transferred $95.
+[18/11/2026, 12:05:30] You: Got it, thanks.
+[18/11/2026, 12:07:15] Kelvin: Welcome.
+[19/11/2026, 20:15:40] You: Look, I still value our friendship even if our tastes are different now. Let me know when your documentary deadline is over if you want to grab a drink and talk properly.
+[19/11/2026, 21:02:18] Kelvin: Whatever works for you. I'll see how my schedule looks in December.
+[19/11/2026, 21:04:05] You: Alright. Good luck with the rough cut.
+[19/11/2026, 21:10:22] Kelvin: Thanks.
+[21/11/2026, 15:40:10] You: Saw a poster for that Wong Kar-wai 4K restoration at K11 Art House. Made me think of your essay.
+[21/11/2026, 16:18:45] Kelvin: Yeah, I'm going next week.
+[21/11/2026, 16:20:12] You: Hope you enjoy it. Take care of yourself during the crunch.
+[21/11/2026, 16:35:04] Kelvin: You too.
+[22/11/2026, 11:30:15] You: Hey Kelvin, hope you're having a decent Saturday! How's the documentary edit coming along?
+[22/11/2026, 11:35:40] Kelvin: Slower than I'd like. Director keeps sending "one more small adjustment" requests which are never actually small.
+[22/11/2026, 11:38:12] You: The classic director move haha! When's the festival deadline again?
+[22/11/2026, 11:41:30] Kelvin: Next Wednesday technically, but the upload window closes Monday night. So effectively Monday is my deadline.
+[22/11/2026, 11:44:05] You: That's doable! You've got this.
+[22/11/2026, 11:46:20] Kelvin: Hope so. Gonna be a long weekend of coffee and colour grading.
+[23/11/2026, 14:20:18] You: Hey, just checking in — how's the final push on the documentary?
+[23/11/2026, 14:28:40] Kelvin: In the middle of the final colour pass right now. Sound mix is locked, picture is almost there.
+[23/11/2026, 14:31:12] You: Keep pushing, you're almost done!
+[23/11/2026, 14:33:50] Kelvin: Yeah, should be wrapped by tonight if the director doesn't email me again lol.
+[24/11/2026, 10:15:30] You: Morning! Did you end up finishing the edit yesterday?
+[24/11/2026, 10:22:40] Kelvin: Finally uploaded at 11:47pm Monday night. Still within the submission window by 13 minutes.
+[24/11/2026, 10:25:15] You: That's cutting it VERY close!! But congrats on making the deadline!
+[24/11/2026, 10:28:30] Kelvin: Honestly thrilled just to have it done. First time watching it without editing notes, it's actually pretty solid.
+[25/11/2026, 18:40:12] You: Hey Kelvin! You deserve a proper rest after that crunch. Any fun plans this weekend?
+[25/11/2026, 18:48:30] Kelvin: Honestly just sleeping and rewatching Chungking Express for the millionth time. Wong Kar-wai never gets old.
+[25/11/2026, 18:51:15] You: That's the dream recovery weekend! Enjoy the peace.
+[25/11/2026, 18:54:40] Kelvin: Will do. First time in two months I actually feel like I can breathe haha.
+[26/11/2026, 11:20:08] You: Morning! Hope you got good sleep last night!
+[26/11/2026, 11:28:30] Kelvin: Slept like a stone! 12 hours straight, no regrets.
+[26/11/2026, 11:31:12] You: Well deserved! Ready to rejoin the living?
+[26/11/2026, 11:33:50] Kelvin: Mostly. Still recovering from deadline mode honestly.
+[27/11/2026, 14:15:30] You: Hey, by the way, I know things got pretty heated after the film screening. I genuinely value your friendship even though we have different taste in cinema.
+[27/11/2026, 14:22:40] Kelvin: Yeah... I've been thinking about that actually. I was pretty condescending and I didn't mean to be.
+[27/11/2026, 14:25:18] You: I appreciate you saying that. I didn't mean to dismiss your passion either.
+[27/11/2026, 14:28:05] Kelvin: It's just hard sometimes when you feel like you're drowning in commercial garbage everywhere and nobody gets why that matters.
+[27/11/2026, 14:30:40] You: I get that. And honestly I do value your perspective even when I disagree with it.
+[28/11/2026, 09:30:14] You: Morning! How is your Monday treating you?
+[28/11/2026, 09:38:40] Kelvin: Quiet. First Monday in months without a crunch deadline breathing down my neck.
+[28/11/2026, 09:41:12] You: Must feel weird!
+[28/11/2026, 09:43:50] Kelvin: Honestly restful. I'm actually thinking of going to Cinematheque Wednesday night just to exist in a cinema again without the pressure.
+[29/11/2026, 10:20:08] You: Hey! Which film are you catching on Wednesday?
+[29/11/2026, 10:28:30] Kelvin: They're doing a 35mm print of Late Spring by Ozu. It's been months since I've seen that one.
+[29/11/2026, 10:31:12] You: That sounds perfect for resetting your brain after the crunch!
+[29/11/2026, 10:33:50] Kelvin: Yeah, exactly what I need. Pure visual contemplation without all the narrative stress.
+[30/11/2026, 11:15:22] You: Final Sunday thought — I'm really glad we're working past that fight. You're a great friend even when you're being a pretentious film snob 😂
+[30/11/2026, 11:22:40] Kelvin: Haha fair characterization. And thanks for giving me space to cool off and think. That meant something.
+[30/11/2026, 11:25:15] You: That's what friends do ❤️
+[30/11/2026, 11:28:30] Kelvin: See you around, yeah?
+[30/11/2026, 11:31:05] You: Definitely! Enjoy Ozu on Wednesday!
+[30/11/2026, 11:33:50] Kelvin: Will do!
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well, Kelvin!
+[01/12/2026, 10:28:30] Kelvin: Morning. Post-festival calm actually. It's nice for once.
+[01/12/2026, 10:31:12] You: That's great! Did the documentary make it into the festival?
+[01/12/2026, 10:33:50] Kelvin: Screening in January actually! The director is thrilled about it.
+[02/12/2026, 14:15:30] You: By the way, did you end up going to that Ozu screening at Cinematheque?
+[02/12/2026, 14:22:40] Kelvin: Yeah actually! Late Spring was transcendent as always. Really calmed my mind.
+[02/12/2026, 14:25:18] You: I'm so glad! You needed that reset after the crunch.
+[02/12/2026, 14:28:05] Kelvin: I really did. It was exactly what I needed.
+[03/12/2026, 09:30:14] You: Morning! How is Tuesday treating you?
+[03/12/2026, 09:38:40] Kelvin: Quiet morning actually. Catching up on some personal projects I've been neglecting.
+[03/12/2026, 09:41:12] You: That's wonderful! What are you working on?
+[03/12/2026, 09:43:50] Kelvin: Some personal film video essays I've had on the back burner. Feels good to create for myself.
+[04/12/2026, 10:15:30] You: Morning! Hope Wednesday is treating you well!
+[04/12/2026, 10:28:30] Kelvin: Actually pretty good. Working on editing and it's flowing really well.
+[04/12/2026, 10:31:12] You: That's amazing! Creative flow is the best feeling!
+[04/12/2026, 10:33:50] Kelvin: Definitely. Glad to be making art for myself again instead of just survival editing.
+[05/12/2026, 11:35:08] You: So proud of you for bouncing back! How's the weekend looking?
+[05/12/2026, 14:22:40] Kelvin: Planning to edit and maybe catch a film. Want to grab drinks sometime next week?
+[05/12/2026, 14:22:40] Kelvin: Planning to edit and maybe catch a film. Want to grab drinks sometime next week?
+[05/12/2026, 14:23:55] You: Absolutely! Let's make a proper plan!
+[05/12/2026, 14:25:12] Kelvin: Sounds perfect ❤️
+[06/12/2026, 09:30:14] You: Hey Kelvin! Hope your morning is nice!
+[06/12/2026, 10:28:40] Kelvin: Morning! Actually working on a new video essay project. Really exciting stuff!
+[06/12/2026, 10:29:55] You: Oh that's great! What's the topic?
+[06/12/2026, 10:31:12] Kelvin: Analyzing visual storytelling in contemporary cinema. Way more personal and creative than the documentary edit!
+[07/12/2026, 09:30:14] You: Hey Kelvin! How is your Sunday morning treating you?
+[07/12/2026, 10:28:40] Kelvin: Quiet morning actually. Just rewatched some Godard films for reference material.
+[07/12/2026, 10:29:55] You: That's the dream recovery weekend! Getting inspired for your work!
+[07/12/2026, 10:31:12] Kelvin: Exactly! This is what I needed after the festival crunch.
+[08/12/2026, 09:30:14] You: Hey Kelvin! Hope Monday is treating you well!
+[08/12/2026, 10:28:40] Kelvin: Morning. Working on the essay outline today. What about you?
+[08/12/2026, 10:29:55] You: Same here, just getting through the week. Still on for drinks Wednesday?
+[08/12/2026, 10:31:12] Kelvin: Absolutely! 7pm at that wine bar in SoHo?
+[09/12/2026, 11:35:08] You: Almost to Wednesday! Really looking forward to catching up properly!
+[09/12/2026, 14:22:40] Kelvin: Same! Actually have some film recommendations I want to run by you.
+[09/12/2026, 14:23:55] You: See you Wednesday at 7pm!
+[09/12/2026, 14:25:12] Kelvin: Can't wait ❤️
+[10/12/2026, 09:30:14] You: Hey Kelvin! Happy Friday! Almost to drinks night!
+[10/12/2026, 10:28:40] Kelvin: Morning! Already have the wine list queued up mentally haha.
+[10/12/2026, 10:29:55] You: Haha same! Ready to chat about everything?
+[10/12/2026, 10:31:12] Kelvin: Absolutely. See you tonight!
+[11/12/2026, 11:30:15] You: Hey Kelvin! Hope you're having a great Sunday!
+[11/12/2026, 11:35:40] Kelvin: Morning! Still riding the high from last night's conversation. Really needed that catch-up.
+[11/12/2026, 11:38:12] You: Me too! Felt like old times but better somehow!
+[11/12/2026, 11:41:30] Kelvin: Exactly! Let's do this more regularly ❤️

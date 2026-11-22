@@ -1,240 +1,211 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_2_2: I am studying economics. I enjoy museums.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_2_2: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_2_2: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_2_2: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_2_2: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_2_2: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_2_2: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_2_2: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_2_2: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_2_2: Thanks, I will check and get back to you.
+[21/10/2026, 09:15:10] You: Morning! Did you leave your reading glasses on the dining table again?
+[21/10/2026, 09:24:32] Vincent: ...
+[21/10/2026, 09:25:05] Vincent: Yes. I only realised when I sat down on the tram.
+[21/10/2026, 09:26:18] You: Haha eight years together and you still forget them every Wednesday. I'll put them in your grey pouch by the door.
+[21/10/2026, 09:28:40] Vincent: Thank you. I have a spare pair in my office drawer anyway, so I will survive the day.
+[21/10/2026, 09:30:12] You: Good! How is the conservation site visit in Central looking today?
+[21/10/2026, 09:33:05] Vincent: Wet and slow. Being a heritage conservation architect mostly means arguing with contractors over lime mortar mixtures in the drizzle.
+[21/10/2026, 09:34:45] You: Sounds glamorous. Grab something warm for lunch!
+[21/10/2026, 09:36:10] Vincent: Will do. Speak this evening.
+[21/10/2026, 18:10:22] You: Heading home soon? I'm picking up roast duck on my way back from Wan Chai.
+[21/10/2026, 18:18:40] Vincent: Leaving the studio in ten minutes. I already picked up gai lan and tofu from the shop downstairs earlier.
+[21/10/2026, 18:20:05] You: Perfect, I'll blanch the veggies when I get in.
+[21/10/2026, 18:22:15] Vincent: No rush.
+[23/10/2026, 12:40:14] Vincent: Good news — the Hong Kong Palace Museum just announced their winter exhibition on Ming dynasty timber architecture and lacquerware.
+[23/10/2026, 12:46:30] You: Let me guess, you already read the entire curatorial press release during lunch?
+[23/10/2026, 12:49:12] Vincent: Of course. You know I love history museums, architectural exhibitions, and antique artefacts. Nothing beats reading every single wall plaque quietly until the guards start dimming the lights.
+[23/10/2026, 12:51:05] You: Haha I still remember the security guard in Taipei politely herding you out at 5:59pm.
+[23/10/2026, 12:53:40] Vincent: I was only halfway through the bronze vessel gallery. They closed too early.
+[23/10/2026, 12:55:18] You: Classic Vincent. Are we going to the Palace Museum next month?
+[23/10/2026, 12:57:02] Vincent: Definitely. I will check the weekday ticket slots so we avoid the weekend tour groups.
+[23/10/2026, 12:58:30] You: Sounds good, you're the ticketing department as always.
+[23/10/2026, 13:00:15] Vincent: Someone has to maintain standards.
+[25/10/2026, 15:20:08] You: Hey, I'm at the supermarket in Causeway Bay — do we need olive oil or dish soap?
+[25/10/2026, 15:28:19] Vincent: Dish soap is fine, olive oil is nearly finished. Also grab whole-bean coffee if the dark roast is on sale.
+[25/10/2026, 15:30:05] You: Got it! Where are you right now? Still at the bookshop?
+[25/10/2026, 15:34:22] Vincent: Yes, browsing the architectural monographs at Kubrick. Found a lovely out-of-print book on post-war Kowloon shophouses.
+[25/10/2026, 15:36:10] You: Please tell me we still have shelf space for another 3kg hardcover!
+[25/10/2026, 15:39:05] Vincent: It is only 1.8kg. I will reorganise the bottom shelf tonight.
+[25/10/2026, 15:40:40] You: ...
+[25/10/2026, 15:41:15] You: Okay fine, see you at home in 30 mins.
+[25/10/2026, 15:43:00] Vincent: Picked up those sesame pastries you like from the bakery next door too.
+[25/10/2026, 15:44:12] You: Bribery works every time. Thank you!
+[27/10/2026, 19:15:30] You: Hey, I started looking at flights for our 7-day Kyoto and Osaka trip over New Year's!
+[27/10/2026, 19:22:18] Vincent: Good timing. I already put together a rough Google Sheet with museum opening days — remember most Japanese national museums close on Mondays.
+[27/10/2026, 19:24:05] You: Haha of course you already made a spreadsheet. Let me take a look after dinner.
+[27/10/2026, 19:26:30] Vincent: No hurry. Just make sure we don't fly into Kansai too late on Day 1.
+[27/10/2026, 21:40:12] You: Okay I just opened your Kyoto spreadsheet... Vincent, you scheduled FOUR full days of niche history and ceramics museums?!
+[27/10/2026, 21:44:05] Vincent: Three and a half days, technically. The Kyoto National Museum, the Museum of Kyoto, the Miho Museum in Shiga, and the Osaka Museum of Housing and Living are all essential.
+[27/10/2026, 21:46:20] You: The Miho Museum alone takes almost a whole day with the mountain bus! Where is the time for just wandering around shops, drinking matcha, and relaxing at a nice hotel?
+[27/10/2026, 21:49:10] Vincent: We can drink matcha at the museum cafes. And I found a clean business hotel near Kyoto Station for $750 a night — if we save $4,000 on the hotel, we have plenty of budget for exhibition catalogues and nice kaiseki dinners.
+[27/10/2026, 21:51:35] You: Why don't you just pitch a tent inside the Kyoto National Museum and sleep next to the folding screens?
+[27/10/2026, 21:54:02] Vincent: If they allowed overnight passes, I would consider it.
+[27/10/2026, 21:55:20] You: Seriously though, I'm working crazy hours right now. On holiday I want at least a proper boutique hotel with a decent soaking tub, not a tiny 14-square-metre business room!
+[27/10/2026, 21:58:45] Vincent: Let us look at mid-range options together this weekend. I am not against a nicer room, I just dislike overpaying for a hotel lobby when we are out from 9am to 7pm.
+[27/10/2026, 22:00:30] You: Fair point, we'll find a middle ground.
+[27/10/2026, 22:02:10] Vincent: Agreed.
+[29/10/2026, 13:10:05] You: Hey, thinking about our Hong Kong museum visits in November and December — which weekday evening or afternoon is usually best for you?
+[29/10/2026, 13:24:40] Vincent: Mondays and Tuesdays are site inspections and contractor meetings. Wednesdays I usually stay late at the studio drafting conservation reports, and Fridays are project reviews.
+[29/10/2026, 13:25:35] Vincent: I am usually free on Thursday afternoons and evenings though. I almost never schedule client meetings on Thursdays, so Thursday evenings are ideal for late museum openings or quiet dinners in West Kowloon.
+[29/10/2026, 13:27:10] You: Perfect! Let's plan to see that Palace Museum Ming timber exhibition on Thursday 3 December evening — they stay open late and it'll be quiet.
+[29/10/2026, 13:29:45] Vincent: Thursday 3 December works well. I will put it in our shared calendar and book the late-afternoon entry slots once they open.
+[29/10/2026, 13:31:02] You: Awesome! And let's grab noodles or dim sum nearby afterwards.
+[29/10/2026, 13:33:18] Vincent: Deal.
+[31/10/2026, 10:15:22] Vincent: Morning. I am heading out to Sham Shui Po to pick up framing glass for that old Hong Kong map print. Need anything?
+[31/10/2026, 10:22:05] You: Morning! Nope I'm good, just enjoying a quiet Saturday morning without an alarm.
+[31/10/2026, 10:25:18] Vincent: Good. Enjoy the quiet. I will be back around 1pm and we can grab lunch downstairs.
+[31/10/2026, 10:26:40] You: Sounds lovely!
+[02/11/2026, 17:45:10] You: Hey, did the air-con technician confirm he's coming tomorrow afternoon to service the living room unit?
+[02/11/2026, 17:52:33] Vincent: Yes, between 2pm and 4pm. I already arranged to work from home tomorrow afternoon so you do not have to take leave.
+[02/11/2026, 17:54:05] You: Oh thank you!! You're always quietly sorting out the boring house logistics.
+[02/11/2026, 17:56:20] Vincent: It was easier for me to shift my drafting work home. Also reminded him to check the drainage pipe.
+[02/11/2026, 17:57:45] You: Appreciate it! What do you want for dinner tonight?
+[02/11/2026, 18:00:12] Vincent: Something light — maybe steamed fish and soup at the Cantonese place near the pier.
+[02/11/2026, 18:01:30] You: Done, meet you there at 7:15pm.
+[04/11/2026, 20:15:40] You: Hey, I added three boutique hotels in Kyoto to our shared folder — they're around $1,400 a night, right near Higashiyama, and have a public onsen bath!
+[04/11/2026, 20:28:12] Vincent: Looked at them. Higashiyama is scenic, but it adds 35 minutes each way on the bus to get to Shiga for the Miho Museum.
+[04/11/2026, 20:30:05] You: Vincent, we're only going to Miho Museum on ONE day! Why should we stay in a soulless concrete block by Kyoto Station for six nights just to save 35 minutes on one morning?
+[04/11/2026, 20:33:40] Vincent: Kyoto Station also connects directly to Nara and Uji. Logistics matter when daylight ends at 4:45pm in winter.
+[04/11/2026, 20:35:15] You: Okay, so you also want to add Nara museums now? We haven't even left one afternoon free to just walk around without a timetable!
+[04/11/2026, 20:41:02] Vincent: ...
+[04/11/2026, 20:42:18] Vincent: Fine. Book whichever hotel you prefer.
+[04/11/2026, 20:44:05] You: Don't say "fine" like that — I want us both to enjoy the trip, not for you to sulk in a boutique hotel!
+[04/11/2026, 20:49:30] Vincent: I am not sulking. I am trying to finish a 40-page heritage assessment due tomorrow morning and cannot debate bus transfers right now.
+[04/11/2026, 20:51:12] You: Oh sorry, I didn't realise you were still working on the report tonight. Let's pause trip planning until Friday.
+[04/11/2026, 20:54:00] Vincent: Up to you. Talk tomorrow.
+[05/11/2026, 13:15:22] You: Hey, hope the 40-page report went out smoothly this morning!
+[05/11/2026, 13:42:10] Vincent: Submitted at 11:30am.
+[05/11/2026, 13:44:05] You: Nice! Are we okay after last night's hotel debate? You seemed a bit annoyed.
+[05/11/2026, 13:50:18] Vincent: We are fine. I was just mentally fried from the report and stubborn about the train lines.
+[05/11/2026, 13:51:40] Vincent: Actually, I looked at the map over coffee — what if we stay three nights at your Higashiyama boutique hotel with the onsen, and three nights in a nice hotel near Karasuma so it's central for both shopping and the train lines?
+[05/11/2026, 13:53:22] You: Oh!! Wait, splitting 3 nights Higashiyama and 3 nights Karasuma is actually genius! And I promise I won't rush you at the Miho Museum.
+[05/11/2026, 13:56:05] Vincent: Deal. And I will cut the museum list from four full days down to two and a half days, leaving the rest for cafes, ceramics shops, and doing nothing.
+[05/11/2026, 13:57:40] You: Look at us being mature adults after 8 years. Thank you Vincent!
+[05/11/2026, 14:00:12] Vincent: I already checked availability for the Higashiyama hotel — two rooms left for our dates. Shall I book tonight?
+[05/11/2026, 14:01:30] You: Yes please! You're the best.
+[07/11/2026, 16:30:15] You: Hey, I'm meeting my sister for early dinner in Admiralty tonight, so don't cook for me!
+[07/11/2026, 16:38:40] Vincent: Noted. I will make simple soba at home and catch up on a documentary. Enjoy dinner with your sister.
+[07/11/2026, 16:40:05] You: Thanks! I'll bring back egg tarts if the bakery is still open.
+[07/11/2026, 16:42:18] Vincent: Much appreciated.
+[09/11/2026, 11:20:08] You: Random Monday check-in — did you remember to take your allergy meds before heading to the dusty construction site?
+[09/11/2026, 11:34:12] Vincent: Yes, took one with breakfast. No sneezing so far.
+[09/11/2026, 11:35:40] You: Miracle! Have a smooth Monday.
+[09/11/2026, 11:38:05] Vincent: You too.
+[11/11/2026, 14:15:30] You: Did you buy anything for 11.11 sales?
+[11/11/2026, 14:28:12] Vincent: Just archival acid-free sleeves for my old Hong Kong postcards and replacement filters for our air purifier.
+[11/11/2026, 14:30:05] You: Haha peak 42-year-old heritage architect energy.
+[11/11/2026, 14:33:18] Vincent: Practical purchases age better than impulse gadgets.
+[11/11/2026, 14:34:40] You: Touché!
+[13/11/2026, 18:20:10] Vincent: Just booked our Kyoto flights and both hotels. Sent the confirmation PDFs to your email and added the dates to our calendar.
+[13/11/2026, 18:25:45] You: You're a machine! And I saw you even picked the aisle + window seats I like.
+[13/11/2026, 18:28:12] Vincent: Of course. Also reserved a small unagi restaurant near Higashiyama that you bookmarked six months ago.
+[13/11/2026, 18:29:40] You: Wait you remembered that unagi place?! You really are a softie underneath all the spreadsheets.
+[13/11/2026, 18:32:05] Vincent: Just good record-keeping.
+[13/11/2026, 18:33:18] You: Haha whatever you say! See you at home!
+[15/11/2026, 11:40:22] You: Are you still enjoying your quiet reading time in the study? I'm heading out for a jog along the promenade.
+[15/11/2026, 11:46:10] Vincent: Yes, reading a journal article on Sung dynasty kiln sites. Enjoy your jog — take water, it is sunnier than yesterday.
+[15/11/2026, 11:47:30] You: Will do! See you in an hour.
+[17/11/2026, 15:05:14] Vincent: Hi. Bad news regarding our Palace Museum evening visit in early December.
+[17/11/2026, 15:10:30] You: Thursday 3 December? What happened?
+[17/11/2026, 15:12:45] Vincent: The Architecture Department at HKU just confirmed their annual Heritage Conservation Symposium keynote panel for Thursday 3 December from 6pm to 9pm, and they asked me to sit on the panel.
+[17/11/2026, 15:13:40] Vincent: I know I am usually free on Thursday evenings, so it is frustrating, but I cannot turn down the university panel. I have to cancel our Thursday 3 December Palace Museum visit completely.
+[17/11/2026, 15:15:22] You: Oh wow, congrats on being invited to the HKU panel!! Definitely do that, the exhibition runs all winter anyway!
+[17/11/2026, 15:18:05] Vincent: Thank you. I already checked the Palace Museum calendar — shall we reschedule to Thursday 10 December evening instead?
+[17/11/2026, 15:19:30] You: Thursday 10 December works perfectly for me!
+[17/11/2026, 15:21:12] Vincent: Great. I will adjust the tickets once the December window opens.
+[19/11/2026, 12:30:18] You: Hey, quick check — are we having dinner with your parents this Saturday or next Saturday?
+[19/11/2026, 12:42:05] Vincent: Next Saturday, 28 November. This weekend is completely free for us.
+[19/11/2026, 12:43:30] You: Awesome! Maybe we can go to that little antique market on Cat Street on Sunday morning?
+[19/11/2026, 12:46:15] Vincent: Sounds very pleasant. We can grab dim sum in Sheung Wan afterwards.
+[19/11/2026, 12:47:40] You: Deal!
+[20/11/2026, 18:15:10] Vincent: Leaving the studio now. Picked up a bottle of red wine and some roasted chestnuts from the street vendor in Central.
+[20/11/2026, 18:20:05] You: Oh roasted chestnuts!! Best Friday night treat ever!
+[20/11/2026, 18:22:30] Vincent: Home in twenty minutes.
+[21/11/2026, 10:10:15] You: Morning! Thanks for making pour-over coffee before heading to the bakery!
+[21/11/2026, 10:16:40] Vincent: Left the carafe on the warmer. Picking up sourdough now, back in ten minutes.
+[21/11/2026, 10:18:05] You: Best Saturday morning!
+[21/11/2026, 10:19:50] Vincent: See you shortly.
+[22/11/2026, 11:30:15] You: Morning! What's on the agenda for Saturday?
+[22/11/2026, 11:35:40] Vincent: Quiet morning reading, then dinner with my parents this evening. Very standard Saturday.
+[22/11/2026, 11:38:12] You: Nice! What restaurant are you going to?
+[22/11/2026, 11:41:30] Vincent: Cantonese place in Quarry Bay. My mother always insists on seafood and sticky rice.
+[22/11/2026, 11:44:05] You: Sounds delicious! Have a good lunch with your parents!
+[22/11/2026, 11:46:20] Vincent: Will do. Hope your Saturday is peaceful.
+[23/11/2026, 14:20:18] You: Hey love, how was dinner with your parents last night?
+[23/11/2026, 14:28:40] Vincent: Very pleasant actually. My father was in a good mood and talked about his latest antique compass collection.
+[23/11/2026, 14:31:12] You: That's sweet! He's really passionate about those old instruments.
+[23/11/2026, 14:33:50] Vincent: He is. I think I inherited the detail-oriented gene from him honestly.
+[24/11/2026, 10:15:30] You: Morning! Ready for the week ahead?
+[24/11/2026, 10:22:40] Vincent: As ready as one can be for a heavy audit and conservation schedule. How about you?
+[24/11/2026, 10:25:15] You: Same here, just trying to pace myself through year-end.
+[24/11/2026, 10:28:30] Vincent: We will get through it together.
+[25/11/2026, 18:40:12] You: Coming home now! Did you finish that project review?
+[25/11/2026, 18:48:30] Vincent: Just submitted the heritage assessment report. Finally feeling like I can breathe a bit.
+[25/11/2026, 18:51:15] You: That's amazing! You deserve a proper evening off.
+[25/11/2026, 18:54:40] Vincent: Agreed. I am thinking simple dinner and reading. No work emails after 7pm.
+[26/11/2026, 11:20:08] You: Morning! Hope you got good rest last night!
+[26/11/2026, 11:28:30] Vincent: Very restful. No work dreams, which is always a good sign.
+[26/11/2026, 11:31:12] You: Excellent! Ready for the week?
+[26/11/2026, 11:33:50] Vincent: Reasonably. The HKU panel on Thursday should be interesting at least.
+[27/11/2026, 14:15:30] You: By the way, I looked at the Palace Museum calendar and they're doing evening sessions all through December!
+[27/11/2026, 14:22:40] Vincent: Good. Thursday 10 December still works for us then?
+[27/11/2026, 14:25:18] You: Absolutely! I already have it marked.
+[27/11/2026, 14:28:05] Vincent: Excellent. I will adjust our tickets once the December booking window opens.
+[28/11/2026, 09:30:14] You: Morning! How is your Monday treating you?
+[28/11/2026, 09:38:40] Vincent: Productive. Finalised the HKU panel notes and prepared my presentation slides.
+[28/11/2026, 09:41:12] You: Sounds like you're well prepared!
+[28/11/2026, 09:43:50] Vincent: I hope so. The other panellists are quite accomplished architects.
+[29/11/2026, 10:20:08] You: Hey! One day until your HKU panel! Feeling ready?
+[29/11/2026, 10:28:30] Vincent: As ready as I can be. I have reviewed my talking points thoroughly.
+[29/11/2026, 10:31:12] You: You're going to be brilliant, I know it!
+[29/11/2026, 10:33:50] Vincent: Thank you for the encouragement.
+[30/11/2026, 11:15:22] You: Final Sunday thought — I'm really proud of you for all you do. Your work matters.
+[30/11/2026, 11:22:40] Vincent: That means more than you know. Especially coming from you.
+[30/11/2026, 11:25:15] You: Always ❤️
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well!
+[01/12/2026, 10:28:30] Vincent: Morning. Reviewing heritage conservation proposals at the studio. How is yours?
+[01/12/2026, 10:31:12] You: Pretty standard, just catching up on files. Ready for the HKU panel?
+[01/12/2026, 10:33:50] Vincent: Very prepared. Actually looking forward to the academic discussion.
+[02/12/2026, 14:15:30] You: By the way, did you confirm Thursday 10 December for the Palace Museum?
+[02/12/2026, 14:22:40] Vincent: Yes, tickets are locked in for 6:45pm start. Perfect timing for the evening light.
+[02/12/2026, 14:25:18] You: Excellent! I'm looking forward to exploring the exhibition with you!
+[02/12/2026, 14:28:05] Vincent: It will be a lovely evening together.
+[03/12/2026, 09:30:14] You: Morning! How is Tuesday treating you?
+[03/12/2026, 09:38:40] Vincent: Good morning. Finishing up some site inspections before the HKU panel this evening.
+[03/12/2026, 09:41:12] You: Good luck with the panel! You'll be brilliant!
+[03/12/2026, 09:43:50] Vincent: Thank you for the encouragement. It means a great deal.
+[04/12/2026, 10:15:30] You: Morning! How did the HKU panel go yesterday?
+[04/12/2026, 10:28:30] Vincent: Very well actually! The audience was engaged and the discussion was intellectually stimulating.
+[04/12/2026, 10:31:12] You: That's fantastic! You must be so proud of yourself!
+[04/12/2026, 10:33:50] Vincent: I'm satisfied with how it went. The other panellists were very knowledgeable.
+[05/12/2026, 11:35:08] You: Can't wait for Thursday evening! Palace Museum and noodles!
+[05/12/2026, 14:22:40] Vincent: I've actually made reservations at a quiet noodle spot nearby the museum.
+[05/12/2026, 14:23:55] You: Perfect planning as always! See you Thursday!
+[05/12/2026, 14:25:12] Vincent: Looking forward to it ❤️
+[06/12/2026, 09:30:14] You: Hey Vincent! Hope your morning is peaceful!
+[06/12/2026, 10:28:40] Vincent: Morning. Currently reviewing heritage conservation proposals. How is yours?
+[06/12/2026, 10:29:55] You: Good! Ready for the museum evening?
+[06/12/2026, 10:31:12] Vincent: Very much so. The exhibition should be quite exceptional this season.
+[07/12/2026, 09:30:14] You: Hey love! How is Sunday morning treating you?
+[07/12/2026, 10:28:40] Vincent: Quiet and restorative actually. Reading about Kowloon shophouse architecture.
+[07/12/2026, 10:29:55] You: Still researching that book?
+[07/12/2026, 10:31:12] Vincent: Yes, the rare out-of-print edition. Tracking down a copy has become a little quest!
+[08/12/2026, 09:30:14] You: Hey Vincent! Hope Monday is treating you well!
+[08/12/2026, 10:28:40] Vincent: Morning. Fairly steady. Just finishing up some conservation assessments.
+[08/12/2026, 10:29:55] You: That's good! Ready for the weekend?
+[08/12/2026, 10:31:12] Vincent: Always. Time with you is what I look forward to most.
+[09/12/2026, 11:35:08] You: Almost to the weekend! How's your week going?
+[09/12/2026, 14:22:40] Vincent: Productive actually! And excited about our weekend plans.
+[09/12/2026, 14:23:55] You: See you Friday evening! Can't wait!
+[09/12/2026, 14:25:12] Vincent: Same here. ❤️
+[10/12/2026, 09:30:14] You: Hey Vincent! Happy Friday! Ready for the weekend?
+[10/12/2026, 10:28:40] Vincent: Morning! Just wrapped up the week. Looking forward to some peaceful time.
+[10/12/2026, 10:29:55] You: What's on the agenda?
+[10/12/2026, 10:31:12] Vincent: Quiet evening, perhaps reading together. The simple things are often the best.
+[11/12/2026, 11:30:15] You: Hey! Happy Sunday! Did you rest well?
+[11/12/2026, 11:35:40] Vincent: Morning. Very peaceful weekend actually. Feeling quite recharged.
+[11/12/2026, 11:38:12] You: That's perfect! Ready for another week?
+[11/12/2026, 11:41:30] Vincent: Yes. Ready to tackle whatever comes next with you by my side. ❤️
+[30/11/2026, 11:28:30] Vincent: Come here, I made your favourite tea.
+[30/11/2026, 11:31:05] You: Perfect way to end the weekend!
+[30/11/2026, 11:33:50] Vincent: I thought so too.

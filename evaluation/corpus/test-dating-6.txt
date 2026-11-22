@@ -1,240 +1,188 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_1_5: I am studying economics. I enjoy photography.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_1_5: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_1_5: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_1_5: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_1_5: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_1_5: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_1_5: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_1_5: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_1_5: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_1_5: Thanks, I will check and get back to you.
+[22/10/2026, 00:40:12] Daniel: Just got home. Thank you for coming out to the Kennedy Town waterfront with me tonight — hope you didn't get too cold in the sea breeze.
+[22/10/2026, 00:44:30] You: Just got back too! Walking around taking night photos was so peaceful, and thank you for lending me your jacket.
+[22/10/2026, 00:46:15] Daniel: Anytime. I really love black-and-white documentary photography and late-night cityscapes. The streets feel much quieter and more honest after midnight.
+[22/10/2026, 00:48:02] You: I loved how patient you were waiting for that tram to pass under the streetlight. You have a really calm eye.
+[22/10/2026, 00:49:40] Daniel: Years of waiting for anxious pets to calm down probably trained my patience. Get some proper sleep tonight.
+[22/10/2026, 00:51:05] You: Goodnight Daniel!
+[22/10/2026, 00:51:48] Daniel: Goodnight.
+[24/10/2026, 14:15:20] You: Hey Daniel, hope you're having a quiet Saturday! Did you end up developing the roll from Kennedy Town yet?
+[24/10/2026, 15:02:45] Daniel: Afternoon. Dropped off two rolls of Ilford HP5 at the lab in Central before heading home to sleep. Should have the scans early next week.
+[24/10/2026, 15:05:12] You: Nice! Do you shoot mostly film for your black-and-white street work?
+[24/10/2026, 15:09:30] Daniel: Film when I have time to slow down, and a small pocket digital camera for rainy nights when I want to shoot fast portraits of late-shift workers — security guards, noodle stall owners, tram drivers.
+[24/10/2026, 15:12:05] You: That's such a thoughtful project. People rarely notice the folks keeping the city running at 2am.
+[24/10/2026, 15:16:22] Daniel: Probably because I'm usually awake at 2am too, so I feel a certain kinship with the night-shift crowd.
+[24/10/2026, 15:18:40] You: Makes complete sense! Are you on shift tonight?
+[24/10/2026, 15:22:10] Daniel: Yes, starting at 8pm until 8am tomorrow. Trying to get a quick nap and some coffee before heading in.
+[24/10/2026, 15:24:00] You: Hope it's a quiet night at the clinic!
+[24/10/2026, 15:26:15] Daniel: Thank you. Enjoy your Saturday evening.
+[26/10/2026, 15:20:08] You: Hey Daniel, hope you're getting some rest after your weekend shifts!
+[26/10/2026, 16:05:33] Daniel: Afternoon. Just woke up after sleeping for 10 hours straight. Working as an emergency vet at a 24-hour animal hospital definitely messes with your body clock.
+[26/10/2026, 16:08:12] You: I can't even imagine! Was it a tough weekend?
+[26/10/2026, 16:12:40] Daniel: Two emergency surgeries back to back on Sunday night — a Labrador who swallowed a woollen sock and a stray cat clipped by a delivery scooter. Both pulled through though, which makes the exhaustion worth it.
+[26/10/2026, 16:14:25] You: Oh I'm so glad they're both okay! That must be so emotionally draining though.
+[26/10/2026, 16:17:10] Daniel: It can be, especially when owners are panicking in the waiting room. Walking home with a camera afterwards helps me decompress.
+[26/10/2026, 16:19:05] You: Really admire what you do, Daniel. Make sure you eat a proper meal now that you're awake!
+[26/10/2026, 16:22:30] Daniel: Cooking simple udon with mushrooms and egg right now. How is your Monday going?
+[26/10/2026, 16:24:15] You: Pretty standard office Monday, way less heroic than yours!
+[26/10/2026, 16:27:00] Daniel: Routine Mondays have their own charm. Hope you get off on time today.
+[26/10/2026, 16:28:40] You: Thanks, fingers crossed!
+[28/10/2026, 13:10:15] Daniel: Afternoon. Scans from Kennedy Town came back. Sending you the frame of the tram passing the harbour — turned out cleaner than I expected.
+[28/10/2026, 13:16:40] You: Oh wow, the grain and shadows on that are gorgeous!! You should exhibit these someday.
+[28/10/2026, 13:20:05] Daniel: Thank you, that's generous of you to say. I mostly just print a few favourite ones for a small box at home.
+[28/10/2026, 13:22:18] You: I'd love to see your prints in person sometime!
+[28/10/2026, 13:25:30] Daniel: I will bring a couple along next time we meet.
+[29/10/2026, 18:30:14] You: Hey Daniel, when is your next free evening if we want to grab dinner and maybe walk around Yau Ma Tei for some night photography?
+[29/10/2026, 19:02:45] Daniel: Let me check my roster. My weekend shifts rotate constantly, and Wednesdays and Thursdays I am usually on day-to-evening clinical shifts.
+[29/10/2026, 19:04:10] Daniel: I am usually free on Tuesday evenings though. Tuesdays are my regular rostered off-night, so I almost always have Tuesday nights open.
+[29/10/2026, 19:06:30] You: Tuesday evenings work really well for me too! Want to do next Tuesday 3 November, and maybe keep Tuesday 1 December open as well?
+[29/10/2026, 19:08:15] Daniel: Both look good on my current roster. Let us do Tuesday 3 November in Yau Ma Tei — there is a quiet claypot rice spot off Temple Street I like.
+[29/10/2026, 19:10:02] You: Love claypot rice! And we can walk around the fruit market area after.
+[29/10/2026, 19:12:40] Daniel: Sounds ideal. Looking forward to seeing you next Tuesday.
+[31/10/2026, 22:15:10] You: Happy Halloween Daniel! Hope you're off tonight and not dealing with dogs who ate Halloween candy!
+[01/11/2026, 09:40:22] Daniel: Morning. Actually had three chocolate-ingestion cases last night, so you called it accurately. Heading to sleep now.
+[01/11/2026, 09:44:05] You: Haha oh no, poor pups! Hope they're all fine. Sleep well!
+[01/11/2026, 09:46:18] Daniel: All three went home wagging their tails. Talk soon.
+[02/11/2026, 19:05:12] You: Hey Daniel, still good for 7:15pm outside Yau Ma Tei MTR Exit C tomorrow?
+[02/11/2026, 19:18:40] Daniel: Yes, 7:15pm works well. Bring a light scarf, the forecast says it drops to 19 degrees tomorrow evening.
+[02/11/2026, 19:21:05] You: Will do, thanks for the heads up! See you tomorrow!
+[02/11/2026, 19:22:30] Daniel: See you tomorrow.
+[03/11/2026, 19:10:05] Daniel: Just arrived near Exit C, standing by the bakery. No rush.
+[03/11/2026, 19:12:18] You: Coming up the stairs now!
+[03/11/2026, 23:20:05] You: Home now! Thanks for dinner and the walk through Yau Ma Tei, I really loved seeing your B&W film prints over tea.
+[03/11/2026, 23:25:18] Daniel: Glad you made it back safely. I always feel much more grounded after spending an evening with you.
+[03/11/2026, 23:27:02] You: Same here, Daniel. It's nice not feeling rushed when we hang out.
+[03/11/2026, 23:29:15] Daniel: Agreed. Sleep well tonight, and let me know when you get a chance to look at that photo book I recommended.
+[03/11/2026, 23:30:40] You: Will do, goodnight!
+[03/11/2026, 23:31:20] Daniel: Goodnight.
+[05/11/2026, 14:20:10] You: Hey Daniel, managed to find a copy of Fan Ho's Hong Kong Yesterday at a bookshop in Wan Chai!
+[05/11/2026, 15:10:44] Daniel: That is a wonderful book. His use of afternoon sunlight in the narrow Sheung Wan alleys is timeless.
+[05/11/2026, 15:13:05] You: I'm obsessed with the shadows already. Hope your clinic shift today is calm!
+[05/11/2026, 15:18:22] Daniel: Fairly steady so far, mostly routine post-op checkups. Hope your Thursday is going smoothly.
+[05/11/2026, 15:20:10] You: Almost Friday, can't complain!
+[08/11/2026, 14:10:22] You: Hey Daniel, how is your Sunday going? Any chance you're free for a quick coffee in Sai Ying Pun before your night shift?
+[08/11/2026, 14:48:05] Daniel: Emergency case just came in. Text you after shift.
+[08/11/2026, 14:50:12] You: No worries at all, take care!
+[09/11/2026, 17:30:40] Daniel: Hey, really sorry for the abrupt message yesterday and disappearing until now. A severe bloat case came in right as I was stepping out for lunch, turned into a 14-hour ER shift, and I crashed the second I got home.
+[09/11/2026, 17:33:15] You: Don't apologise at all! I completely understand, glad you finally got some sleep.
+[09/11/2026, 17:35:02] Daniel: Thank you for being so patient with my roster. I know it can be frustrating when I go quiet or send one-line replies.
+[09/11/2026, 17:37:18] Daniel: I actually took a quiet photo of the sunrise from the clinic rooftop after my shift ended this morning, sending it to you now.
+[09/11/2026, 17:39:05] You: Oh that's gorgeous! The soft fog over the harbour looks like a painting.
+[09/11/2026, 17:41:20] Daniel: Made the long night feel a little gentler. How was your weekend?
+[09/11/2026, 17:43:10] You: Pretty restful, caught up on reading and went for a short walk.
+[09/11/2026, 17:45:00] Daniel: Glad to hear it.
+[11/11/2026, 20:15:18] Daniel: Evening. Finally have a quiet night off — making ginger scallion chicken at home and listening to some quiet jazz. Hope your week is treating you kindly.
+[11/11/2026, 20:22:05] You: That sounds so cosy! My week is busy but manageable. Enjoy your home-cooked dinner!
+[11/11/2026, 20:25:30] Daniel: Thank you. Save your energy for the rest of the week.
+[13/11/2026, 12:15:10] You: Hey Daniel! Any idea if you're free this weekend for lunch or a walk?
+[13/11/2026, 15:42:18] Daniel: Might have to swap weekend shift. Will let you know later.
+[13/11/2026, 15:45:05] You: Sure thing, just let me know whenever your schedule settles!
+[14/11/2026, 20:15:30] Daniel: Ended up having to cover today's day shift for a colleague who came down with flu. Really sorry for the super short texts lately — I promise I am not being distant, the clinic is just severely understaffed this month.
+[14/11/2026, 20:18:12] You: I totally get it, Daniel, please don't stress about texting when you're saving animals!
+[14/11/2026, 20:20:05] Daniel: You are very understanding. Are you free for a quiet late dinner on Monday 16 November evening? I finish at 7pm and would really like to see you properly.
+[14/11/2026, 20:22:40] You: Monday 16 November evening works great for me!
+[14/11/2026, 20:24:15] Daniel: Wonderful. I will book a small Japanese izakaya in Sai Ying Pun for 7:45pm.
+[14/11/2026, 20:25:30] You: Looking forward to it!
+[16/11/2026, 22:35:10] You: Home now! Thank you for dinner tonight Daniel, that grilled mackerel and warm sake hit the spot.
+[16/11/2026, 22:40:22] Daniel: Glad you enjoyed it. Thank you for coming over to Sai Ying Pun after work — it was really good to sit down and catch up without staring at a phone screen.
+[16/11/2026, 22:42:05] You: Definitely! Get some rest before your next shift.
+[16/11/2026, 22:43:30] Daniel: You too. Goodnight.
+[18/11/2026, 13:10:22] Daniel: Hey, I have to let you know about our plan for Tuesday 1 December.
+[18/11/2026, 13:15:05] You: Oh? Roster change again?
+[18/11/2026, 13:17:18] Daniel: Yes, unfortunately. One of our senior night vets slipped on wet stairs yesterday and broke his wrist, so I have to cover his overnight ER shift on Tuesday 1 December.
+[18/11/2026, 13:18:10] Daniel: I know Tuesdays are normally my rostered off-night, so I really hate cancelling Tuesday 1 December, but I won't be able to make dinner or night photography that evening.
+[18/11/2026, 13:20:45] You: Aww poor colleague! No worries at all, we can easily move it to another off-night once the clinic stabilises.
+[18/11/2026, 13:22:30] Daniel: Thank you for being so gracious about it. I am off on Friday 4 December evening if you are free then?
+[18/11/2026, 13:24:05] You: Friday 4 December works great for me!
+[18/11/2026, 13:25:18] Daniel: Great, I will block it off on my calendar. Looking forward to it.
+[20/11/2026, 18:10:05] You: TGIF Daniel! Hope the clinic is giving you a calmer evening tonight.
+[20/11/2026, 18:45:22] Daniel: Evening. Wrapped up my shift on time at 6:30pm for once. Walking through Sheung Wan with my camera before heading home.
+[20/11/2026, 18:48:10] You: Love that for you! Enjoy the evening light!
+[20/11/2026, 18:50:00] Daniel: Thank you, have a good Friday night.
+[21/11/2026, 10:30:12] Daniel: Morning. Finally have a quiet morning off — grabbing a flat white in Sai Ying Pun and reading. Hope your weekend is peaceful.
+[21/11/2026, 10:36:40] You: Morning Daniel! So glad you finally got a proper break, enjoy your coffee!
+[21/11/2026, 10:38:05] Daniel: Thank you. Speak soon.
+[22/11/2026, 11:10:30] You: Morning! How is Saturday treating you?
+[22/11/2026, 11:35:22] Daniel: Quiet morning. Just had some coffee and was reviewing some photo prints I want to frame.
+[22/11/2026, 11:38:15] You: Oh nice! Which ones did you select?
+[22/11/2026, 11:42:40] Daniel: A couple from Kennedy Town waterfront, and one early morning shot from the clinic rooftop. Thinking maybe 11x14 matte finish.
+[22/11/2026, 11:45:10] You: That sounds beautiful! Will you display them in your place?
+[22/11/2026, 11:48:30] Daniel: Probably. My flat is pretty bare honestly, could use some visual personality.
+[23/11/2026, 14:20:18] You: Hey Daniel, hope your shifts are treating you okay this week!
+[23/11/2026, 14:28:40] Daniel: Afternoon. Fairly routine so far. No emergencies, which is rare and honestly wonderful.
+[23/11/2026, 14:31:12] You: That must feel like a vacation in your line of work!
+[23/11/2026, 14:33:50] Daniel: Absolutely. Last week was intense — multiple trauma cases back to back. This calm is a gift.
+[24/11/2026, 10:15:30] You: By the way, I never got around to asking — what photo book would you recommend most?
+[24/11/2026, 10:22:40] Daniel: Definitely start with Fan Ho. His work captures the soul of old Hong Kong in a way that feels almost sacred.
+[24/11/2026, 10:25:15] You: I'll definitely hunt for a copy!
+[24/11/2026, 10:28:30] Daniel: There's a used bookshop in Wan Chai that usually has his books. Worth checking there.
+[25/11/2026, 18:40:12] You: Coming home now! How is your evening?
+[25/11/2026, 18:48:30] Daniel: Just finished a shift at the clinic. Actually heading to Sheung Wan for a quick evening walk with my camera.
+[25/11/2026, 18:51:15] You: That sounds therapeutic! Enjoy the golden hour light!
+[25/11/2026, 18:54:40] Daniel: Will do. The city feels different at dusk.
+[26/11/2026, 11:20:08] You: Hope you're getting proper rest this Saturday!
+[26/11/2026, 11:28:30] Daniel: Actually slept until 10am, which is a rarity. Feeling more human today.
+[26/11/2026, 11:31:12] You: Well deserved! Any fun plans?
+[26/11/2026, 11:33:50] Daniel: Might develop some film later, otherwise just enjoying the quiet.
+[27/11/2026, 14:15:30] You: Hey, just checking in — still on for Friday 4 December?
+[27/11/2026, 14:22:40] Daniel: Yes, I have it marked on my calendar. Looking forward to seeing you properly again.
+[27/11/2026, 14:25:18] You: Same! What do you have in mind?
+[27/11/2026, 14:28:05] Daniel: Maybe dinner somewhere in Sai Ying Pun first, then we could walk along the waterfront if the weather holds?
+[27/11/2026, 14:30:40] You: That sounds perfect!
+[28/11/2026, 09:30:14] You: Morning! How is Sunday treating you?
+[28/11/2026, 09:38:40] Daniel: Peaceful. Just reviewing some contact sheets from last week's night photography.
+[28/11/2026, 09:41:12] You: Finding any winners?
+[28/11/2026, 09:43:50] Daniel: A few decent ones. Sometimes it takes time to see which shots truly resonate.
+[29/11/2026, 10:20:08] You: Hey! One week until Friday. Are you excited or nervous?
+[29/11/2026, 10:28:30] Daniel: Both honestly. It's nice having something to look forward to beyond shift rotations and emergency surgeries.
+[29/11/2026, 10:31:12] You: I feel exactly the same way!
+[29/11/2026, 10:33:50] Daniel: Good. We're on the same page then.
+[30/11/2026, 11:15:22] You: Final Sunday check-in — still good for Friday 4 December around 7pm?
+[30/11/2026, 11:22:40] Daniel: Absolutely. I'll meet you at the Sai Ying Pun MTR exit around 7pm.
+[30/11/2026, 11:25:15] You: Perfect! I'm really looking forward to it.
+[30/11/2026, 11:28:30] Daniel: Me too. Have a good Sunday.
+[30/11/2026, 11:31:05] You: You as well!
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well!
+[01/12/2026, 10:28:30] Daniel: Morning. Quiet Monday at the clinic so far. How is yours?
+[01/12/2026, 10:31:12] You: Pretty standard, just catching up on files. Excited for Friday!
+[01/12/2026, 10:33:50] Daniel: Same. I've been thinking about what to wear haha, is that silly?
+[02/12/2026, 14:15:30] You: By the way, the restaurant I mentioned has great reviews for their grilled fish!
+[02/12/2026, 14:22:40] Daniel: Perfect. I actually looked it up and they have a nice view of the waterfront too.
+[02/12/2026, 14:25:18] You: So romantic! I'm really looking forward to it!
+[02/12/2026, 14:28:05] Daniel: Same here. It feels nice to have something to anticipate beyond shift schedules.
+[03/12/2026, 09:30:14] You: Morning! How is Tuesday treating you?
+[03/12/2026, 09:38:40] Daniel: Fairly routine. Two routine checkups this morning. Nothing too intense.
+[03/12/2026, 09:41:12] You: That's great! You need some calm shifts!
+[03/12/2026, 09:43:50] Daniel: Absolutely. Have a good rest of your Tuesday.
+[04/12/2026, 10:15:30] You: Morning! How is Wednesday treating you?
+[04/12/2026, 10:28:30] Daniel: Good morning. Just finished my evening shift actually. Heading home to sleep now.
+[04/12/2026, 10:31:12] You: Get some rest! Almost to Friday!
+[04/12/2026, 10:33:50] Daniel: Counting the hours honestly.
+[05/12/2026, 11:35:08] You: Final countdown! Just one more day til Friday 4 December!
+[05/12/2026, 14:22:40] Daniel: I'm actually nervous in a good way. Looking forward to seeing you properly again.
+[05/12/2026, 14:22:40] Daniel: I'm actually nervous in a good way. Looking forward to seeing you properly again.
+[05/12/2026, 14:23:55] You: I feel the same way! See you at 7pm tomorrow!
+[05/12/2026, 14:25:12] Daniel: Can't wait. Have a good evening.
+[06/12/2026, 09:30:14] You: Hey Daniel! Hope your morning is peaceful!
+[06/12/2026, 10:28:40] Daniel: Morning. Just got home after the night shift, heading to bed now. See you tonight!
+[06/12/2026, 10:29:55] You: Rest well! See you at 7pm at Sai Ying Pun!
+[06/12/2026, 10:31:12] Daniel: Looking forward to it.
+[07/12/2026, 09:30:14] You: Hey Daniel! Hope you got good sleep after your shift!
+[07/12/2026, 10:28:40] Daniel: Slept like a stone! Last night was really wonderful. Thank you for taking the time.
+[07/12/2026, 10:29:55] You: Thank you for being so present. It meant everything!
+[07/12/2026, 10:31:12] Daniel: Same here. The restaurant was perfect, the conversation flowed naturally. Very rare these days.
+[08/12/2026, 09:30:14] You: Hey! Hope Monday is treating you well!
+[08/12/2026, 10:28:40] Daniel: Morning. Quiet clinic day actually. How's your Monday?
+[08/12/2026, 10:29:55] You: Same here! Just catching up on files. Still glowing from yesterday!
+[08/12/2026, 10:31:12] Daniel: Me too honestly. Can't stop thinking about how comfortable everything felt.
+[09/12/2026, 11:35:08] You: Almost to the weekend! How's your week treating you?
+[09/12/2026, 14:22:40] Daniel: Decent week at the clinic. Looking forward to seeing you again soon.
+[09/12/2026, 14:23:55] You: Next weekend? I want to do this more often!
+[09/12/2026, 14:25:12] Daniel: Absolutely. Let's keep this going. ❤️
+[10/12/2026, 09:30:14] You: Hey Daniel! Happy Friday! Ready for the weekend?
+[10/12/2026, 10:28:40] Daniel: Morning! Just finishing up the week at the clinic. How was your day?
+[10/12/2026, 10:29:55] You: Great! Shall we plan something for next Saturday?
+[10/12/2026, 10:31:12] Daniel: I'd really like that. How about Tai Po hike followed by lunch?
+[11/12/2026, 11:30:15] You: Hey! Happy Sunday! Did you rest well?
+[11/12/2026, 11:35:40] Daniel: Morning. Actually did a morning run before the heat sets in. Very refreshing.
+[11/12/2026, 11:38:12] You: That's great! So hike and lunch next Saturday still work?
+[11/12/2026, 11:41:30] Daniel: Definitely. I'm already looking forward to it. ❤️

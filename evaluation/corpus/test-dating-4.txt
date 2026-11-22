@@ -1,240 +1,206 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_1_3: I am studying economics. I enjoy photography.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_1_3: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_1_3: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_1_3: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_1_3: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_1_3: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_1_3: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_1_3: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_1_3: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_1_3: Thanks, I will check and get back to you.
+[09/11/2026, 21:05:14] Kenneth: Hi, nice to match with you. I noticed the Iceland landscape photo on your profile — was that shot on a 24mm lens?
+[09/11/2026, 21:14:30] You: Hi Kenneth! Good eye, yes it was a 24mm f/1.4! Are you into landscape photography too?
+[09/11/2026, 21:22:08] Kenneth: Very much so. I love landscape photography, astrophotography, and architectural geometry. I probably spend too much time comparing lens sharpness and colour grading RAW files on weekends.
+[09/11/2026, 21:25:15] You: Haha a true gearhead! What camera system do you shoot with?
+[09/11/2026, 21:30:40] Kenneth: Sony A7R V, mostly paired with a 16-35mm GM for architecture and a 35mm prime for general travel. Heavy to carry, but the dynamic range is worth it.
+[09/11/2026, 21:33:12] You: Wow serious kit! What do you do for work when you're not chasing light?
+[09/11/2026, 21:39:05] Kenneth: I am a litigation lawyer in Central. Mostly commercial disputes, which means long hours preparing court bundles and appearing at hearings. Photography is my main creative outlet away from legal text.
+[09/11/2026, 21:42:30] You: That sounds like a great balance between analytical work and something visual.
+[09/11/2026, 21:47:18] Kenneth: It helps keep me sane. Where is your favourite place to shoot in Hong Kong?
+[09/11/2026, 21:50:05] You: Probably sunset around West Kowloon or old tenement geometry in Kowloon City. How about you?
+[09/11/2026, 21:55:40] Kenneth: High Island Reservoir East Dam on a clear winter night for stars, or Quarry Bay and Lai Tak Tsuen for brutalist architectural lines.
+[09/11/2026, 21:58:12] You: Oh Lai Tak Tsuen's circular courtyards are incredible for symmetry!
+[09/11/2026, 22:03:05] Kenneth: Exactly. Getting the exact vertical alignment right without lens distortion is surprisingly satisfying.
+[09/11/2026, 22:05:30] You: I can tell you're very detail-oriented!
+[09/11/2026, 22:09:15] Kenneth: Occupational hazard, I suppose. I should turn in early for a 9am hearing tomorrow. Goodnight.
+[09/11/2026, 22:11:02] You: Good luck in court tomorrow! Goodnight Kenneth.
+[10/11/2026, 20:15:30] You: Hey Kenneth, hope your hearing went smoothly today!
+[10/11/2026, 20:48:12] Kenneth: Evening. Thank you for asking — it ran until 5pm, then had to debrief with the client and instructing solicitors, so I just got home.
+[10/11/2026, 20:51:05] You: Ouch, sounds like a marathon day. Did you at least get a decent dinner?
+[10/11/2026, 20:56:40] Kenneth: Picked up simple grilled salmon and rice near Sheung Wan on my way back. How was your Tuesday?
+[10/11/2026, 20:59:18] You: Pretty standard office day, though the cool autumn breeze walking to the MTR was lovely.
+[10/11/2026, 21:05:02] Kenneth: Agreed. Lower humidity in November also means much better visibility for night photography across Victoria Harbour.
+[10/11/2026, 21:07:45] You: True! No summer haze ruining the skyline. Have you been out shooting recently?
+[10/11/2026, 21:13:20] Kenneth: Last went out two Sundays ago to Tai O for twilight reflections. Been too tied up with trial preparation since then.
+[10/11/2026, 21:16:05] You: Tai O at blue hour is so peaceful. Do you use a heavy tripod for that?
+[10/11/2026, 21:21:33] Kenneth: Carbon fibre travel tripod. Light enough to strap to a backpack, sturdy enough for 15-second exposures when the wind picks up.
+[10/11/2026, 21:24:10] You: Smart investment! I always get lazy carrying a tripod and regret it later.
+[10/11/2026, 21:29:45] Kenneth: Once you get one really crisp long exposure of moving clouds over still water, you won't mind the extra kilo.
+[10/11/2026, 21:32:00] You: Haha fair point, maybe you'll convert me!
+[10/11/2026, 21:36:12] Kenneth: Happy to try. Have a good rest tonight.
+[10/11/2026, 21:38:00] You: You too!
+[11/11/2026, 21:40:18] You: Hey Kenneth, random question — did you see that M+ is opening a new architectural photography exhibition next month?
+[11/11/2026, 22:08:45] Kenneth: Yes, I saw the press release last week. They are featuring several large-format prints of post-war Asian urbanism.
+[11/11/2026, 22:11:20] You: That sounds right up your alley!
+[11/11/2026, 22:16:05] Kenneth: Definitely. Large-format prints look completely different in person compared to viewing them on a phone screen.
+[11/11/2026, 22:18:40] You: Agreed, you notice all the subtle tonal transitions in the shadows.
+[11/11/2026, 22:24:12] Kenneth: Precisely. Most people crush the blacks too aggressively when editing on Instagram.
+[11/11/2026, 22:26:30] You: Haha I feel slightly called out, I definitely over-contrast my edits sometimes!
+[11/11/2026, 22:31:05] Kenneth: Your Iceland shot was well balanced, for what it's worth. Good shadow detail in the basalt rocks.
+[11/11/2026, 22:33:18] You: Coming from a gearhead like you, I'll take that as high praise!
+[11/11/2026, 22:37:40] Kenneth: It was meant as one. Goodnight.
+[11/11/2026, 22:39:05] You: Goodnight!
+[12/11/2026, 13:15:20] You: Hey Kenneth, hope your Thursday is going well! Quick photography question — do you usually edit in Lightroom or Capture One?
+[13/11/2026, 20:50:15] You: Apologies for the late reply. I was in court all day yesterday and today with no time to check personal messages.
+[13/11/2026, 20:51:30] Kenneth: To answer your question: I use Capture One for Sony RAW files. The colour science handles skin tones and shadow recovery much better than Lightroom, especially for night cityscapes. Happy to show you my workflow sometime.
+[13/11/2026, 20:55:12] You: No worries at all, court days sound intense! I'd actually love to learn more about Capture One sometime.
+[13/11/2026, 20:58:40] Kenneth: Would you like to grab dinner next week and talk photography properly in person?
+[13/11/2026, 21:01:22] You: Yes, I'd really like that! When are you usually free?
+[13/11/2026, 21:05:45] Kenneth: Weekdays are quite unpredictable during trial season, and Saturdays I often spend catching up on case reading or errands.
+[13/11/2026, 21:08:10] Kenneth: I am usually free on Sunday afternoons and evenings though. I try to keep Sundays strictly away from legal briefs.
+[13/11/2026, 21:10:35] You: Sundays work really well for me too! Want to meet next Sunday, 22 November, for dinner in Central or Sheung Wan?
+[13/11/2026, 21:13:50] Kenneth: Sunday 22 November sounds good. I know a quiet Japanese yakitori and sake place on Gough Street if you like Japanese food.
+[13/11/2026, 21:16:12] You: Love Japanese food! That sounds great.
+[13/11/2026, 21:19:30] Kenneth: Also, if we get along well, I was thinking of going to that M+ architectural photography exhibition on Sunday 6 December afternoon.
+[13/11/2026, 21:21:45] You: Oh I'd love to see that exhibition too! Let's tentatively keep Sunday 6 December in mind.
+[13/11/2026, 21:24:10] Kenneth: Noted. Have a restful weekend.
+[13/11/2026, 21:26:00] You: You too, Kenneth!
+[14/11/2026, 16:10:22] You: Hey Kenneth, hope you're getting a break from legal briefs today!
+[14/11/2026, 17:05:40] Kenneth: Afternoon. Finished my reading by 2pm and took my lenses in for a sensor cleaning in Tsim Sha Tsui. How is your Saturday?
+[14/11/2026, 17:08:15] You: Very chill, grabbed brunch with a friend and now reading at home.
+[14/11/2026, 17:12:30] Kenneth: Sounds pleasant. Enjoy the evening.
+[15/11/2026, 19:20:10] Kenneth: Evening. Went out to Sai Kung pier late afternoon to test the freshly cleaned sensor — clear skies tonight, got a couple of decent twilight frames.
+[15/11/2026, 19:26:45] You: Oh nice! The sunset colour today was really soft pink and orange from my window.
+[15/11/2026, 19:31:12] Kenneth: Yes, low clouds caught the last ten minutes of light nicely. I'll show you the edits when we meet next Sunday.
+[15/11/2026, 19:33:40] You: Looking forward to seeing them! Ready for Monday?
+[15/11/2026, 19:38:05] Kenneth: As ready as one can be for a heavy court week. Goodnight.
+[15/11/2026, 19:40:00] You: Goodnight!
+[16/11/2026, 18:30:10] You: Hey Kenneth, hope your week started smoothly! Still on for our dinner in Sheung Wan this Sunday 22 November?
+[17/11/2026, 21:12:05] Kenneth: Hi. In court all day today, will reply properly tomorrow evening.
+[17/11/2026, 21:15:30] You: No problem at all, good luck in court!
+[18/11/2026, 20:15:44] Kenneth: Hi, thank you for waiting and apologies for the terse message yesterday.
+[18/11/2026, 20:16:30] Kenneth: An urgent injunction hearing just came up for Monday morning, which means I have to spend this entire weekend drafting affidavits and meeting senior counsel.
+[18/11/2026, 20:17:15] Kenneth: Would you mind if we push our first dinner by one week, to Sunday 29 November evening instead? I really don't want to cancel, just genuinely tied up with this filing.
+[18/11/2026, 20:20:12] You: Completely understandable, litigation schedules are tough! Sunday 29 November works well for me.
+[18/11/2026, 20:24:05] Kenneth: Appreciate your understanding. I will book a counter table at that Japanese place on Gough Street for 7pm on Sunday 29 November.
+[18/11/2026, 20:26:30] You: Sounds great! Hope the affidavit drafting goes smoothly.
+[18/11/2026, 20:30:10] Kenneth: Thank you. Talk in a couple of days.
+[20/11/2026, 19:40:18] Kenneth: Evening. Quick update regarding our tentative plan for early December as well.
+[20/11/2026, 19:43:05] You: Hi Kenneth! What's the update?
+[20/11/2026, 19:44:22] Kenneth: The judge just fixed our main trial dates for the first week of December, which means I have mandatory counsel conferences all day on Sunday 6 December.
+[20/11/2026, 19:45:10] Kenneth: Since I am usually free on Sundays, I hate having to cancel Sunday 6 December, so we will need to move the M+ architectural photography exhibition to mid-December instead.
+[20/11/2026, 19:48:30] You: No problem at all, good luck with the trial! Looking forward to finally meeting for dinner on 29 November first.
+[20/11/2026, 19:52:15] Kenneth: Likewise. I promise December will be much calmer once this trial wraps up.
+[20/11/2026, 19:55:00] You: Haha I believe you! Take care this weekend.
+[20/11/2026, 19:58:10] Kenneth: Thank you. Have a pleasant weekend.
+[21/11/2026, 15:20:05] Kenneth: Afternoon. Taking a brief coffee break from affidavits — hope your Saturday is much more relaxing than mine.
+[21/11/2026, 15:28:40] You: Hey Kenneth! Just got back from a walk in the park. Hope you finish the drafting at a reasonable hour tonight!
+[21/11/2026, 15:33:12] Kenneth: Aiming to wrap up by 9pm. Speak soon.
+[21/11/2026, 15:35:00] You: Good luck, speak soon!
+[22/11/2026, 09:15:22] Kenneth: Morning. Wrapped up the affidavit submission around 11pm last night. Feeling almost human again.
+[22/11/2026, 09:22:10] You: Oh wow, you actually made it to a reasonable hour! How is the litigation battle looking now?
+[22/11/2026, 09:25:45] Kenneth: The injunction hearing is next Tuesday. We have a decent shot, though my senior counsel is still tweaking the evidence bundle.
+[22/11/2026, 09:28:15] You: Fingers crossed! You deserve a win after this week.
+[22/11/2026, 09:32:40] Kenneth: Thank you. Looking forward to dinner on Sunday evening — honestly need a proper break from legal briefs by then.
+[22/11/2026, 09:35:05] You: Same here! I've been thinking about what to wear haha, want to keep it casual or slightly dressier?
+[22/11/2026, 09:38:50] Kenneth: Whatever makes you comfortable. The yakitori place on Gough Street is fairly intimate but casual dress code. I'll probably wear a simple Oxford shirt and dark jeans.
+[22/11/2026, 09:41:20] You: Casual it is! What time should I meet you on Sunday?
+[22/11/2026, 09:44:30] Kenneth: How about 7pm outside the MTR exit near the restaurant? I'll grab a table for 7:30pm to give us time to settle in.
+[22/11/2026, 09:47:15] You: 7pm works perfectly!
+[24/11/2026, 14:20:18] Kenneth: Quick update — just checked my trial calendar and the judge moved our oral arguments to 2pm on Monday, so I won't be in court until afternoon.
+[24/11/2026, 14:28:40] You: Oh nice! Does that give you a slightly calmer Monday morning?
+[24/11/2026, 14:31:05] Kenneth: Marginally. Still doing final prep with counsel at 10am. But at least I can sleep until 7am instead of waking at 5:30 for a 9am call.
+[24/11/2026, 14:33:50] You: Take the small wins! Are you still feeling ready for Sunday dinner?
+[24/11/2026, 14:36:12] Kenneth: Absolutely. Honestly counting the hours until I can step away from court bundles for an evening.
+[25/11/2026, 11:10:30] You: Hope the morning is treating you well! Just three days until dinner 😊
+[25/11/2026, 11:35:22] Kenneth: Afternoon. Working through closing statements in Sheung Wan with iced coffee. Three days feels both too far and too close!
+[25/11/2026, 11:38:15] You: Haha I know exactly what you mean! Are you nervous or just excited?
+[25/11/2026, 11:42:40] Kenneth: Both? I genuinely enjoy talking with you over text, but meeting in person always adds a certain weight to things. Want it to actually go well, I suppose.
+[25/11/2026, 11:45:10] You: Well, I'm definitely nervous too. But in a good way, if that makes sense.
+[25/11/2026, 11:48:30] Kenneth: Perfect sense. That's exactly how I feel.
+[26/11/2026, 19:40:12] Kenneth: Evening. Just wrapped up final prep with my team for Monday's oral arguments. We ran through hypotheticals for three hours solid.
+[26/11/2026, 19:48:40] You: Sounds intense! Are you feeling confident?
+[26/11/2026, 19:51:15] Kenneth: As confident as one can be before facing a High Court judge. We covered every angle multiple times. At this point it comes down to execution on the day.
+[26/11/2026, 19:54:00] You: You've got this. Try to get some decent sleep this weekend!
+[26/11/2026, 19:56:45] Kenneth: Will try. See you tomorrow evening.
+[27/11/2026, 10:20:08] Kenneth: Morning. Woke up early despite wanting to sleep in. Too much nervous energy about the hearing.
+[27/11/2026, 10:28:30] You: That's pretty normal! Do you do any rituals to calm your mind before big hearings?
+[27/11/2026, 10:31:12] Kenneth: Usually take my camera out for an hour or two. Something about framing a shot and finding the light clears my head better than any meditation app.
+[27/11/2026, 10:33:50] You: That makes perfect sense. Nature's meditation!
+[27/11/2026, 10:36:20] Kenneth: Exactly. Actually went to Tai Tam Reservoir this morning and got some nice shots of the water at golden hour. Definitely helped settle my nerves.
+[27/11/2026, 10:39:45] You: I'd love to see those photos sometime!
+[27/11/2026, 10:42:10] Kenneth: I'll bring a couple prints tomorrow evening. Might be a nice conversation starter.
+[27/11/2026, 10:44:30] You: Looking forward to it! Enjoy the rest of your Sunday.
+[27/11/2026, 10:46:50] Kenneth: You too. See you at 7pm sharp.
+[28/11/2026, 08:30:14] Kenneth: Morning! The judge ruled in our favour yesterday. Successfully defended the injunction. Can finally breathe.
+[28/11/2026, 08:35:40] You: Kenneth!! That's amazing!! Congratulations!! 🎉
+[28/11/2026, 08:38:12] Kenneth: Thank you! The ruling was cleaner than I expected. Senior counsel even mentioned submitting for awards circuit.
+[28/11/2026, 08:41:30] You: That's brilliant news! You must be so relieved!
+[28/11/2026, 08:44:00] Kenneth: Massively. And it means my schedule should actually stabilize a bit. The main trial doesn't resume until early December, so I'm relatively free this week.
+[28/11/2026, 08:47:20] You: That's perfect timing before the holidays. Enjoy the calm!
+[28/11/2026, 08:50:15] Kenneth: I will. Work is good to celebrate wins, but I'm quite pleased to shift focus to other things for a bit.
+[29/11/2026, 18:40:22] Kenneth: Just finishing up a late lunch before heading home to change. See you soon.
+[29/11/2026, 18:42:50] You: See you at Gough Street! I'm on my way now.
+[29/11/2026, 23:35:10] You: Home now! What a lovely evening Kenneth. Thank you for the yakitori and the reservation was perfect.
+[29/11/2026, 23:42:30] Kenneth: Glad you enjoyed it. I really did too — far more relaxed than I expected actually.
+[29/11/2026, 23:45:15] You: Those photographs you brought were stunning. The vertical composition at Tai Tam really shows your eye for geometry.
+[29/11/2026, 23:48:40] Kenneth: Thank you. Oddly enough, I find photographing landscapes much easier than navigating human conversation at first meetings!
+[29/11/2026, 23:51:10] You: Well you navigated it beautifully. When can I see you again?
+[29/11/2026, 23:54:30] Kenneth: How about next Sunday 6 December? The main trial actually got postponed to mid-December, so I'm unexpectedly free that weekend.
+[29/11/2026, 23:57:00] You: Next Sunday works great! What would you like to do?
+[30/11/2026, 00:00:15] Kenneth: There's a new long-exposure exhibition at the Hong Kong Heritage Museum — might interest you. We could grab dim sum in Sha Tin beforehand?
+[30/11/2026, 00:03:40] You: That sounds perfect! Heritage Museum followed by dim sum.
+[30/11/2026, 00:06:12] Kenneth: Excellent. I'll make a reservation at a quiet spot in Sha Tin for 1pm.
+[30/11/2026, 00:08:50] You: Looking forward to it! Goodnight Kenneth.
+[30/11/2026, 00:11:20] Kenneth: Goodnight.
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well!
+[01/12/2026, 10:28:30] Kenneth: Morning. The trial verdict came through early — we won the case cleanly!
+[01/12/2026, 10:31:12] You: Kenneth!! That's amazing!! Congratulations!!
+[01/12/2026, 10:33:50] Kenneth: Thank you. The team is celebrating at a wine bar in Central later. Feeling genuinely relieved.
+[02/12/2026, 14:15:30] You: By the way, I looked up that long-exposure exhibition at the Heritage Museum — opening next week!
+[02/12/2026, 14:22:40] Kenneth: Oh excellent! Definitely want to check that out. We could make it our December outing.
+[02/12/2026, 14:25:18] You: Sounds perfect! I'm really looking forward to seeing you again on the 6th.
+[02/12/2026, 14:28:05] Kenneth: Same. This trial obsession has cleared and I feel like I can actually think about something other than litigation for the first time in weeks.
+[03/12/2026, 09:30:14] You: Morning! How is Monday treating you?
+[03/12/2026, 09:38:40] Kenneth: Productive! Already had two client calls regarding the trial victory. Word travels fast.
+[03/12/2026, 09:41:12] You: That's great for your practice! You deserve all the wins!
+[03/12/2026, 09:43:50] Kenneth: Thank you. Honestly just happy the intensity is finally behind us.
+[04/12/2026, 10:15:30] You: Morning! How is Tuesday treating you?
+[04/12/2026, 10:28:30] Kenneth: Pretty calm actually. Just reviewing some quiet file management and prep for next month's cases.
+[04/12/2026, 10:31:12] You: Sounds peaceful! Enjoy the break before the holiday rush.
+[04/12/2026, 10:33:50] Kenneth: I will. See you Sunday for dim sum and the museum.
+[05/12/2026, 11:35:08] You: Can't wait for Sunday! What time works for you in Sha Tin?
+[05/12/2026, 14:22:40] Kenneth: 1pm for dim sum seems ideal. Then we can head to the museum by 3pm for the afternoon light.
+[05/12/2026, 14:23:55] You: Perfect! I'll meet you outside the MTR!
+[05/12/2026, 14:28:40] Kenneth: Excellent. Really looking forward to this.
+[06/12/2026, 09:30:14] You: Hey Kenneth! Hope your morning is peaceful!
+[06/12/2026, 10:28:40] Kenneth: Morning. Just reviewed some client correspondence. The trial win has opened several new matters.
+[06/12/2026, 10:29:55] You: That's amazing for your practice! You deserve the success!
+[06/12/2026, 10:31:12] Kenneth: Thank you. Honestly just happy the intensity is finally behind us.
+[07/12/2026, 09:30:14] You: Hey Kenneth! How is your Sunday morning treating you?
+[07/12/2026, 10:28:40] Kenneth: Quite peaceful actually. Went out with my camera this morning to Tai Tam Reservoir.
+[07/12/2026, 10:29:55] You: Oh nice! Got any good shots?
+[07/12/2026, 10:31:12] Kenneth: Several actually. The golden hour light was exceptional today.
+[08/12/2026, 09:30:14] You: Hey Kenneth! Hope your week is treating you well!
+[08/12/2026, 10:28:40] Kenneth: Morning. Standard Monday at the office. How is yours?
+[08/12/2026, 10:29:55] You: Same here, just getting through the week. Ready for Sunday?
+[08/12/2026, 10:31:12] Kenneth: Very much so. I'm actually nervous in a good way about seeing you again.
+[09/12/2026, 11:35:08] You: Almost to our dim sum date! Just three more days!
+[09/12/2026, 14:22:40] Kenneth: I cannot wait honestly. It feels like it's been forever.
+[09/12/2026, 14:23:55] You: I know! See you Sunday at 1pm!
+[09/12/2026, 14:25:12] Kenneth: Looking forward to it immensely.
+[10/12/2026, 09:30:14] You: Hey Kenneth! Happy Friday! Almost the weekend!
+[10/12/2026, 10:28:40] Kenneth: Morning! Finishing up some filing before the weekend.
+[10/12/2026, 10:29:55] You: Ready for tomorrow afternoon?
+[10/12/2026, 10:31:12] Kenneth: Absolutely. See you at Sha Tin MTR at 1pm sharp.
+[11/12/2026, 11:30:15] You: Hey! Hope you're having a great Sunday morning!
+[11/12/2026, 11:35:40] Kenneth: Morning. Just finishing breakfast and reviewing the museum details before we meet.
+[11/12/2026, 11:38:12] You: See you in a couple hours!
+[11/12/2026, 11:41:30] Kenneth: Cannot wait. ❤️
+[12/12/2026, 10:28:40] You: Hey Kenneth! Hope the dim sum yesterday was as good as expected!
+[12/12/2026, 10:35:12] Kenneth: Absolutely brilliant. The museum exhibition was even more impressive than the preview suggested.
+[12/12/2026, 10:38:05] You: I'm so glad! It was such a perfect day with you!
+[12/12/2026, 10:41:30] Kenneth: Same here. I'd like to do this more regularly if you're open to it. ❤️
+[13/12/2026, 10:28:40] You: Hey Kenneth! Still glowing from yesterday!
+[13/12/2026, 10:35:12] Kenneth: Same honestly. That was really special. Thinking about planning a Macau getaway for next month?
+[13/12/2026, 10:38:05] You: That sounds amazing! Let's definitely talk about it soon!
+[13/12/2026, 10:41:30] Kenneth: Perfect. Looking forward to building something real with you. ❤️
+[14/12/2026, 10:28:40] You: Hey Kenneth! How is your Monday treating you?
+[14/12/2026, 10:35:12] Kenneth: Morning! Quiet Monday at the office, mostly administrative work.
+[14/12/2026, 10:38:05] You: That's nice! Some calm before the holiday rush!
+[14/12/2026, 10:41:30] Kenneth: Exactly. How was your morning?
+[15/12/2026, 11:30:15] You: Hey! Hope your Tuesday is treating you well!
+[15/12/2026, 11:35:40] Kenneth: Good morning. Just finished a client call. How is yours?
+[15/12/2026, 11:38:12] You: Same! Getting through the week!
+[15/12/2026, 11:41:30] Kenneth: We're almost to the weekend. ❤️
+[05/12/2026, 14:25:12] Kenneth: Excellent. Really looking forward to this.

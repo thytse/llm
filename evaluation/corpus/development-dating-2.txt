@@ -1,240 +1,180 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_1_1: I am studying economics. I enjoy jazz.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_1_1: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_1_1: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_1_1: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_1_1: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_1_1: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_1_1: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_1_1: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_1_1: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_1_1: Thanks, I will check and get back to you.
+[22/10/2026, 22:45:12] Adrian: Good evening. Just got home. Thank you for tonight — I really enjoyed our conversation.
+[22/10/2026, 22:48:30] You: Just got back too! That hidden jazz bar in Central was amazing, thanks for introducing me to it.
+[22/10/2026, 22:50:15] Adrian: Glad you liked it. Quiet jazz bars with good vinyl acoustics and a decent single malt whisky are honestly my favourite way to unwind after a long week.
+[22/10/2026, 22:52:04] You: You really know your classic jazz musicians too, I learned a lot tonight.
+[22/10/2026, 22:54:18] Adrian: Happy to share. Get some rest tonight, and let us do it again next week.
+[22/10/2026, 22:55:02] You: Definitely, goodnight Adrian!
+[22/10/2026, 22:55:40] Adrian: Goodnight.
+[24/10/2026, 11:15:20] You: Morning Adrian! Hope you are getting a proper break from the office this Saturday.
+[24/10/2026, 11:48:05] Adrian: Good morning. Managed to sleep in until 8:30am and went for a quiet run along Bowen Road. How is your weekend starting?
+[24/10/2026, 11:51:30] You: Very relaxing, just making coffee at home and reading.
+[24/10/2026, 11:55:12] Adrian: Sounds ideal. I am heading to a record shop in Wan Chai this afternoon to look for an older Miles Davis pressing.
+[24/10/2026, 11:57:05] You: Oh nice! Let me know if you find a good copy.
+[24/10/2026, 12:01:40] Adrian: Will do. Enjoy your Saturday.
+[24/10/2026, 18:10:22] Adrian: Found a clean Japanese pressing of Kind of Blue. Worth the trip.
+[24/10/2026, 18:15:08] You: Awesome find! Perfect soundtrack for a Saturday evening.
+[24/10/2026, 18:18:45] Adrian: Indeed. Have a pleasant evening.
+[26/10/2026, 13:10:05] You: Hey Adrian, hope your Monday is going smoothly!
+[26/10/2026, 16:42:19] Adrian: Just stepped out of a client call. Busy Monday as usual. How is yours?
+[26/10/2026, 16:45:30] You: Pretty standard, counting down to 6pm. Remember to eat properly!
+[26/10/2026, 16:50:12] Adrian: Will try. Speak soon.
+[27/10/2026, 20:15:40] You: Hey, random question — what was the name of that Japanese whisky you recommended last Thursday? My friend was asking.
+[27/10/2026, 20:32:18] Adrian: Nikka Yoichi Single Malt. Slightly peaty, clean finish. Very good value compared to Yamazaki right now.
+[27/10/2026, 20:35:05] You: Got it, thank you! You really are a walking whisky guide.
+[27/10/2026, 20:38:22] Adrian: Years of working late in Central will do that to you. 🙂
+[27/10/2026, 20:40:10] You: Haha fair enough! Still at the office tonight?
+[27/10/2026, 20:44:05] Adrian: Just wrapping up a shareholders' agreement, heading home in twenty minutes.
+[27/10/2026, 20:45:30] You: Safe trip home, goodnight!
+[27/10/2026, 20:47:12] Adrian: Thank you, goodnight.
+[28/10/2026, 13:05:19] You: Hey, thinking ahead to November — which weekday evening usually works best for you if we want to catch another jazz set?
+[28/10/2026, 17:42:10] Adrian: Just stepped out of a meeting.
+[28/10/2026, 19:15:33] Adrian: Apologies for the delay. Mondays through Thursdays are usually unpredictable because of corporate law deal closings in Central.
+[28/10/2026, 19:16:20] Adrian: I am usually free on Friday evenings though. Unless a transaction is signing over the weekend, I almost always finish by 7pm on Fridays.
+[28/10/2026, 19:18:45] You: Friday evenings work really well for me too!
+[28/10/2026, 19:20:12] Adrian: Good. Let us plan for next Friday, 6 November, and maybe keep Friday 27 November in mind as well — you mentioned wanting to hear that visiting Tokyo jazz pianist.
+[28/10/2026, 19:22:05] You: Oh you remembered!! Yes, let's definitely aim for both!
+[28/10/2026, 19:23:40] Adrian: Noted. I will book a quiet corner table for 6 November.
+[30/10/2026, 18:30:14] Adrian: Evening. Are we still on for our casual dinner tonight before the weekend?
+[30/10/2026, 18:34:05] You: Yes! Walking towards Wyndham Street now, see you at 7pm.
+[30/10/2026, 18:36:18] Adrian: Already seated near the back. No rush.
+[30/10/2026, 23:05:12] You: Home now! Thank you for dinner and the vinyl lounge after — I really loved that Chet Baker record they played.
+[30/10/2026, 23:11:40] Adrian: Glad you got home safely. I noticed you seemed tired from work earlier, so I am glad the quiet corner helped you unwind.
+[30/10/2026, 23:13:22] You: You're so observant in person! Definitely feeling much more relaxed now.
+[30/10/2026, 23:15:45] Adrian: Good. Sleep well and enjoy your weekend.
+[30/10/2026, 23:17:02] You: Goodnight Adrian!
+[01/11/2026, 15:10:08] You: Hey Adrian, how is your Sunday going? The weather is finally cool enough for a proper walk.
+[01/11/2026, 15:42:30] Adrian: Afternoon. Walked around Hong Kong Park this morning and had lunch with my parents. Now catching up on some reading before Monday hits.
+[01/11/2026, 15:45:12] You: Sounds very peaceful! What are you reading?
+[01/11/2026, 15:49:05] Adrian: A biography of Bill Evans. Quite absorbing. How about your Sunday?
+[01/11/2026, 15:52:18] You: Just meal prepping and catching up on a show. Ready for the week!
+[01/11/2026, 15:55:40] Adrian: Good. Have a smooth start tomorrow.
+[02/11/2026, 11:30:14] You: Morning Adrian! Hope Monday is being kind to you.
+[02/11/2026, 15:18:05] Adrian: Slammed today. Will text later.
+[02/11/2026, 15:20:30] You: No problem at all, good luck!
+[02/11/2026, 22:10:40] Adrian: Just wrapped a drafting call with London. Hope your Monday was smoother than mine.
+[02/11/2026, 22:14:22] You: Ouch, 10pm London calls sound rough! Remember to eat dinner.
+[02/11/2026, 22:16:05] Adrian: Grabbing something quick now. Talk tomorrow.
+[04/11/2026, 14:20:10] You: Hey, checking in — how is the big deal going this week? Still surviving?
+[04/11/2026, 19:55:22] Adrian: Still buried. Barely left my desk today.
+[04/11/2026, 19:58:05] You: Hang in there! Hope Friday gives you a breather.
+[04/11/2026, 20:05:18] Adrian: Fingers crossed.
+[05/11/2026, 16:40:12] Adrian: Hi. Need to reschedule tomorrow night (6 Nov). New cross-border M&A deal just landed and we have an all-night diligence call.
+[05/11/2026, 16:45:30] You: Oh no worries at all! Corporate law hours are no joke.
+[05/11/2026, 16:49:18] Adrian: Apologies for the short notice. Are you free Sunday 8 November evening instead? I can book the same jazz lounge in Central at 7:30pm.
+[05/11/2026, 16:51:05] You: Sunday 8 November at 7:30pm works for me!
+[05/11/2026, 16:52:40] Adrian: Great. Thank you for being flexible.
+[07/11/2026, 13:15:22] You: Hey Adrian, hope you survived the all-night diligence call and are getting some sleep today!
+[07/11/2026, 16:30:40] Adrian: Afternoon. Finished at 4am and slept until noon. Feeling human again.
+[07/11/2026, 16:33:15] You: 4am is brutal! Are you sure you're up for tomorrow night? No pressure if you need to rest.
+[07/11/2026, 16:36:02] Adrian: Definitely up for it. Looking forward to seeing you tomorrow.
+[08/11/2026, 19:15:10] Adrian: On my way down to Central now. Should be at the lounge by 7:25pm.
+[08/11/2026, 19:18:05] You: Just walked out of the MTR, see you shortly!
+[08/11/2026, 23:10:22] You: Home now! Tonight was lovely, thank you for walking me to the taxi stand and making sure I had my umbrella.
+[08/11/2026, 23:15:05] Adrian: My pleasure. Glad we managed to make tonight work despite the busy week.
+[08/11/2026, 23:16:40] You: Same, I always lose track of time when we talk in person.
+[08/11/2026, 23:18:12] Adrian: Likewise. Sleep well.
+[10/11/2026, 12:15:30] You: Hey Adrian, hope Tuesday is calmer than last week!
+[10/11/2026, 18:10:05] Adrian: Just came out of negotiations. Will catch up later.
+[10/11/2026, 18:14:22] You: Sure thing, take care!
+[11/11/2026, 12:20:08] You: Hey Adrian, how is the big M&A deal going? Any chance of catching up this Saturday?
+[11/11/2026, 19:45:33] Adrian: Very busy these two days.
+[11/11/2026, 19:48:10] You: Got it, hang in there! No need to reply if you're in the middle of documents.
+[12/11/2026, 21:30:15] Adrian: Apologies for the brief texts the last couple of days. We had a markup session until 2am and I am terrible at texting properly when my head is in contracts.
+[12/11/2026, 21:32:02] Adrian: I need to push this Saturday's dinner to next Tuesday 17 November if that works for you. I still have that quiet whisky bar in Admiralty on my list for us.
+[12/11/2026, 21:35:40] You: Tuesday 17 November works! Honestly just glad you're getting some sleep tonight.
+[12/11/2026, 21:37:12] Adrian: Appreciate your patience. I know my schedule and short texts aren't the easiest to deal with. See you Tuesday.
+[12/11/2026, 21:39:00] You: All good, I know you're swamped! See you Tuesday.
+[14/11/2026, 16:20:11] Adrian: Quick break between calls. Hope you are enjoying a proper Saturday.
+[14/11/2026, 16:25:40] You: Hey! Just went to an art gallery in Central. Hope they let you off before dinner tonight!
+[14/11/2026, 16:29:15] Adrian: Should be done by 7pm. Enjoy the rest of your weekend.
+[17/11/2026, 18:40:05] Adrian: Leaving the office in Central now. Meet you at the Admiralty bar at 7:15pm?
+[17/11/2026, 18:43:20] You: Perfect, I'm on the MTR now, see you soon!
+[17/11/2026, 22:50:10] Adrian: Home safely?
+[17/11/2026, 22:53:22] You: Just walked in! Thanks for tonight, the Admiralty bar was so cosy and the jazz playlist was spot on.
+[17/11/2026, 22:55:05] Adrian: Good to hear. Always nice seeing you in person — much better than trading two-word messages all week.
+[17/11/2026, 22:56:40] You: Haha agreed! Rest well tonight Adrian.
+[17/11/2026, 22:58:02] Adrian: Goodnight.
+[19/11/2026, 15:10:18] Adrian: Hi. Bad news regarding next Friday 27 November.
+[19/11/2026, 15:14:05] You: Oh? The Tokyo jazz pianist night?
+[19/11/2026, 15:16:22] Adrian: Yes. Our M&A closing just got pushed to Friday 27 November evening to align with the New York counsel, so I am required to be at the office until late.
+[19/11/2026, 15:17:10] Adrian: I know I am normally free Friday evenings, so I really regret having to cancel Friday 27 November.
+[19/11/2026, 15:19:30] You: Aww that's a shame, but totally understandable with a deal closing!
+[19/11/2026, 15:21:05] Adrian: Thank you. The pianist is also playing a Saturday late set on 28 November — I already checked and there are two seats left. Would Saturday 28 November work for you?
+[19/11/2026, 15:23:12] You: Oh you already checked?! Yes, Saturday 28 November works perfectly!
+[19/11/2026, 15:24:40] Adrian: Reserved. Looking forward to it.
+[20/11/2026, 18:05:14] You: TGIF Adrian! Hope you actually get to leave the office before 8pm tonight.
+[20/11/2026, 18:22:30] Adrian: Actually wrapping up at 7pm tonight. Small miracle. Any plans for your Friday?
+[20/11/2026, 18:25:10] You: Just a quiet dinner with a friend in Sheung Wan. Enjoy your evening off!
+[20/11/2026, 18:28:05] Adrian: Thank you, enjoy dinner.
+[21/11/2026, 11:05:14] Adrian: Good morning. Hope you are having a restful weekend.
+[21/11/2026, 11:12:30] You: Morning Adrian! Finally a quiet Saturday. Hope you're not at the office today!
+[21/11/2026, 11:15:05] Adrian: Just reviewing one contract from home with coffee and a Miles Davis record. Speak soon.
+[21/11/2026, 11:18:20] You: Sounds very you! Have a great weekend!
+[21/11/2026, 11:20:45] Adrian: You too.
+[22/11/2026, 10:15:30] You: Good morning Adrian. Hope Monday is treating you well.
+[22/11/2026, 16:35:12] Adrian: Just wrapped a morning call with Hong Kong counsel. M&A still moving forward, though with delays. How is your Monday?
+[22/11/2026, 16:38:45] You: Pretty steady so far, knock on wood. Trying to stay ahead of the week.
+[22/11/2026, 16:40:12] Adrian: Good approach. I should be free Friday evening if you want to reschedule something casual. Unless another deal lands.
+[22/11/2026, 16:42:30] You: Friday sounds nice actually. No pressure if something urgent comes up though.
+[22/11/2026, 16:44:05] Adrian: I will confirm by Thursday. Appreciate your flexibility with my schedule.
+[23/11/2026, 14:20:18] You: Hey, just checking in — how is work looking for this week?
+[23/11/2026, 18:10:40] Adrian: Still buried in due diligence. Nothing confirmed until Friday.
+[23/11/2026, 18:13:22] You: Understood. Take care of yourself and remember to eat.
+[23/11/2026, 18:15:05] Adrian: Will do. Talk later tonight.
+[24/11/2026, 11:30:14] Adrian: Quick update — the M&A is stabilizing. Friday evening should work. Any preference where?
+[24/11/2026, 11:38:30] You: That new wine bar in Wan Chai you mentioned before? The one with the natural wines?
+[24/11/2026, 11:40:45] Adrian: Excellent choice. I will book a quiet table. 7:30pm?
+[24/11/2026, 11:42:12] You: Perfect timing. Really looking forward to it.
+[24/11/2026, 11:44:00] Adrian: Likewise. Work should calm down by then.
+[25/11/2026, 09:15:08] You: Hey Adrian, how is Friday shaping up? Still good for tonight?
+[25/11/2026, 16:20:30] Adrian: Yes. Just confirmed the reservation at the Wan Chai wine bar for 7:30pm. See you tonight.
+[25/11/2026, 16:22:45] You: Great! I am really excited, see you in a few hours!
+[25/11/2026, 23:45:10] You: Home safely. Thank you for tonight — the wine bar was lovely and the conversation was even better.
+[25/11/2026, 23:48:22] Adrian: Good to hear. Enjoyed our time too. The natural wine selection was quite impressive this month.
+[25/11/2026, 23:50:05] You: Definitely. And thanks for recommending that Pét-Nat from Loire Valley, it was delicious.
+[25/11/2026, 23:52:40] Adrian: You have good instincts about wine. We should do this again soon.
+[25/11/2026, 23:54:12] You: I would love that. Sleep well Adrian.
+[25/11/2026, 23:55:45] Adrian: Goodnight.
+[26/11/2026, 10:30:18] Adrian: Good morning. The M&A closing is now locked for Saturday 28 November evening. I did not forget about our jazz pianist date.
+[26/11/2026, 10:35:40] You: Oh Adrian, that is the same night as our concert! When is the closing?
+[26/11/2026, 10:37:12] Adrian: Signing documents at the office from 6pm to approximately 9pm. The pianist plays their late set at 10pm, so I can still make it if we adjust slightly.
+[26/11/2026, 10:39:30] You: Wait, can you even leave the office during a closing? That seems tight.
+[26/11/2026, 10:41:45] Adrian: I will coordinate with the team. The final signatures are scheduled for 8:30pm. After that, I should be able to leave. I am not cancelling on you again.
+[26/11/2026, 10:43:22] You: Adrian, I appreciate that, but I do not want you stressed during such an important deal. We can go another night.
+[26/11/2026, 10:45:08] Adrian: The pianist is only here this one night. And I already have the concert tickets. I will make it work.
+[26/11/2026, 10:47:35] You: Okay. Just promise me if the closing runs late, you will text me and not rush.
+[26/11/2026, 10:49:12] Adrian: I promise. See you Saturday evening.
+[27/11/2026, 14:15:22] You: Hey, checking in — how is preparation for the closing going?
+[27/11/2026, 18:30:40] Adrian: Busy but manageable. We have all documentation prepared. Closing should proceed smoothly.
+[27/11/2026, 18:32:55] You: That is good to hear. Try to get some rest tonight.
+[27/11/2026, 18:35:10] Adrian: I will. Looking forward to Saturday still, even with the tight timing.
+[28/11/2026, 18:15:08] Adrian: At the office. Final document review underway. Should be finished signing by 8:45pm.
+[28/11/2026, 18:17:30] You: Take your time, no rush! I will meet you after.
+[28/11/2026, 18:19:45] Adrian: Thank you for understanding. See you shortly after 9pm.
+[28/11/2026, 21:10:22] You: Home now. That was such a wonderful evening despite the rushed timing. Worth every minute.
+[28/11/2026, 21:15:40] Adrian: Agreed. The pianist was exceptional. Thank you for being patient with my schedule.
+[28/11/2026, 21:17:55] You: Always. You made it work and that is what matters.
+[28/11/2026, 21:20:10] Adrian: I value that you don't make me choose between work and us. It means something.
+[28/11/2026, 21:22:35] You: You deserve someone who gets it. Rest well tonight.
+[28/11/2026, 21:24:50] Adrian: Goodnight.
+[29/11/2026, 10:30:22] You: Good morning Adrian. Hope you got some rest after the closing and concert!
+[29/11/2026, 11:15:40] Adrian: Good morning. Actually got to bed at a reasonable hour. How was the rest of your weekend?
+[29/11/2026, 11:18:05] You: Relaxing! Mostly caught up on sleep and meal prepped for the week.
+[29/11/2026, 11:20:30] Adrian: Sensible approach. December is usually hectic for my team with year-end deal closes.
+[29/11/2026, 11:23:12] You: I can imagine. Just remember to eat properly despite the crunch.
+[29/11/2026, 11:25:45] Adrian: I will. Thank you for the reminder.
+[01/12/2026, 14:20:08] Adrian: Quick question — are you available Friday 5 December evening for dinner? I may actually be free before 8pm.
+[01/12/2026, 14:28:30] You: Friday 5 December sounds wonderful! What time works for you?
+[01/12/2026, 14:30:15] Adrian: If I can wrap by 7pm, shall we aim for 7:30pm somewhere in Central?
+[01/12/2026, 14:32:40] You: 7:30pm is perfect. I will look for a good dinner spot.
+[01/12/2026, 14:34:55] Adrian: I will confirm by Thursday. Appreciate you being flexible with timing.
+[02/12/2026, 10:15:12] You: Good morning Adrian. Hope the week is treating you better so far.
+[02/12/2026, 15:40:30] Adrian: Morning. Still buried but manageable. Friday is confirmed at 7:30pm.
+[02/12/2026, 15:42:45] You: Wonderful! I found a nice Italian place near the harbourfront.
+[02/12/2026, 15:45:10] Adrian: Sounds ideal. Looking forward to it.
+[05/12/2026, 18:45:08] Adrian: Just confirmed I can leave the office by 7pm. See you at the restaurant at 7:30pm.
+[05/12/2026, 18:48:22] You: Perfect! Already on my way now.
+[05/12/2026, 23:30:14] You: Home now. What a perfect evening Adrian. The pasta was delicious and the conversation was even better.
+[05/12/2026, 23:35:40] Adrian: Agreed. It was nice to have an evening without work interruptions. We should do this more regularly.
+[05/12/2026, 23:37:55] You: Definitely. Rest well tonight.
+[05/12/2026, 23:39:10] Adrian: Goodnight.

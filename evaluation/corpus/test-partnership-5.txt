@@ -1,240 +1,216 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_2_4: I am studying economics. I enjoy museums.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_2_4: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_2_4: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_2_4: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_2_4: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_2_4: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_2_4: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_2_4: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_2_4: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_2_4: Thanks, I will check and get back to you.
+[21/10/2026, 12:15:10] Julian: hey gorgeous, surviving Wednesday or do I need to stage a rescue mission from your office? 😏
+[21/10/2026, 12:20:42] You: haha please rescue me, I've been in back-to-back calls since 9am!
+[21/10/2026, 12:21:30] Julian: say less, I'll bring over that spicy Thai basil pork u love tonight and we'll pretend work doesn't exist 🔥
+[21/10/2026, 12:22:18] You: omg yes!! are you staying over tonight?
+[21/10/2026, 12:23:05] Julian: obviously, your bed is way comfier than mine anyway lol. see u around 8!
+[21/10/2026, 12:23:50] You: yay can't wait!
+[21/10/2026, 19:55:12] Julian: hey slight detour — ran into a client at the bar downstairs after my PR agency pitch, gonna grab one drink with them and head over around 9:15!
+[21/10/2026, 20:01:05] You: oh okay! should I eat dinner first then? I'm pretty hungry
+[21/10/2026, 20:06:40] Julian: yeah grab something light, I'll bring dessert and wine to make up for it 🥂✨
+[21/10/2026, 20:08:15] You: alright, see you at 9:15!
+[23/10/2026, 14:10:22] Julian: OK STOP EVERYTHING!! just got early PR access to that giant Tokyo pop-up street art and photography exhibition opening at K11 Musea next month!! 🎨🔥
+[23/10/2026, 14:16:05] You: ooh is that the one with the neon installations and limited-edition prints?
+[23/10/2026, 14:17:12] Julian: YES!! u know how much I love trendy art museums, photography exhibitions, and big pop-up shows! the energy, the merch drops, the whole vibe is unbeatable ✨
+[23/10/2026, 14:18:30] You: haha I love how excited you get about art openings! definitely want to go with you!
+[23/10/2026, 14:19:15] Julian: 100% taking u as my VIP plus-one! plus being a creative account director at a lifestyle PR agency has to have some perks right 😂
+[23/10/2026, 14:20:02] You: best perk ever honestly!
+[23/10/2026, 14:21:10] Julian: wait til next summer, I'm taking us to Europe for the Venice Biennale and Paris art galleries, trust me ✈️🥂
+[23/10/2026, 14:22:05] You: haha okay big dreamer, let's get through November first!
+[23/10/2026, 14:22:48] Julian: watch me make it happen!
+[25/10/2026, 11:30:14] You: morning! thanks for making scrambled eggs before you headed back to your place this morning 😊
+[25/10/2026, 11:38:22] Julian: anytime babe! gotta keep my favourite person fed. u chilling today?
+[25/10/2026, 11:40:05] You: yeah, doing laundry and cleaning up. by the way, the leg on our dining table is wobbling really badly again, almost spilled my coffee!
+[25/10/2026, 11:42:30] Julian: oof yeah that IKEA table has been fighting for its life for three years lol
+[25/10/2026, 11:43:45] You: we really need to replace it and get a proper sofa too — I saw a solid oak table and a decent 3-seater on sale for around $7,500 total!
+[25/10/2026, 11:46:12] Julian: nice! let's definitely look at furniture soon, make the flat look like an Architectural Digest spread ✨
+[25/10/2026, 11:47:30] You: cool! should we go to the showroom in Horizon Plaza next Saturday to check it out?
+[25/10/2026, 11:51:05] Julian: let's see how my week shakes out! will let u know closer to Friday
+[25/10/2026, 11:52:20] You: okay, just let me know.
+[27/10/2026, 17:40:18] You: hey Julian, thinking about November and December exhibitions — which weekday evening usually works best for you?
+[27/10/2026, 17:52:30] Julian: Mon to Thu are always wild with agency pitches, shoots, and client dinners in Central
+[27/10/2026, 17:53:22] Julian: I'm usually free on Friday evenings though! Our agency finishes early on Fridays and I almost never book client stuff on Friday nights, so Friday evenings are my go-to slot for exhibitions and drinks 🥂
+[27/10/2026, 17:55:05] You: Friday evenings are perfect for me too! Let's lock in Friday 13 November for the K11 Musea street art pop-up, and Friday 4 December for that new Magnum photography exhibition at Tai Kwun?
+[27/10/2026, 17:56:40] Julian: YESSS both locked in! Friday 13 Nov and Friday 4 Dec — best date nights in HK 🔥
+[27/10/2026, 17:57:55] You: awesome, can't wait!
+[29/10/2026, 13:15:10] Julian: random midday thought: u looked ridiculously cute half-asleep in my hoodie this morning 😂❤️
+[29/10/2026, 13:20:45] You: haha stop, my hair was a literal bird's nest! how's your agency day going?
+[29/10/2026, 13:22:02] Julian: surviving on iced Americanos and pure charm. grabbing dinner with my buddy Marcus tonight, will crash at yours tomorrow night?
+[29/10/2026, 13:23:30] You: sure! oh by the way, utilities and internet came through today — your half of the October flat bills is $1,450 whenever you get a chance
+[29/10/2026, 13:29:15] Julian: gotcha! will PayMe u when I'm off my call!
+[29/10/2026, 13:30:22] You: thanks! have fun with Marcus tonight!
+[31/10/2026, 16:20:05] You: happy Halloween! still coming over tonight to watch a scary movie and order pizza?
+[31/10/2026, 16:35:18] Julian: hey babe! actually a gallery owner friend just invited me to this crazy last-minute rooftop Halloween art party in Soho — come with me?! it'll be so fun! 🎃✨
+[31/10/2026, 16:38:02] You: oh... I'm honestly pretty exhausted from this week, I already bought wine and was really looking forward to a quiet night in
+[31/10/2026, 16:41:15] Julian: aww I hear u! what if I pop by the party for 90 mins to say hi to the gallery guy for work networking, and then come straight over to yours with pizza?
+[31/10/2026, 16:43:30] You: okay, that sounds fair. Just don't disappear until midnight!
+[31/10/2026, 16:45:05] Julian: promise!! 9:30pm sharp, scout's honour 🫡
+[31/10/2026, 22:45:10] You: hey... it's 10:45pm, are you still coming over?
+[31/10/2026, 22:52:40] Julian: omg SO sorry babe!! got trapped talking to an art collector and my phone was on silent in my jacket 😭 grabbing an Uber to yours rn, bringing late-night tacos!
+[31/10/2026, 22:55:12] You: ...
+[31/10/2026, 22:56:05] You: okay, see you soon.
+[02/11/2026, 13:10:22] Julian: morninggg! sorry again for being late on Saturday, hope Sunday brunch made up for it 😘
+[02/11/2026, 13:18:40] You: Sunday brunch was really nice, thanks for planning it. Just next time please actually text me if you're running an hour late!
+[02/11/2026, 13:20:15] Julian: 100% my bad, won't happen again! also u're way too forgiving, I don't deserve u ❤️
+[02/11/2026, 13:21:45] You: haha just keep your phone off silent!
+[04/11/2026, 18:30:10] You: hey Julian, quick check — did you get a chance to look at the Horizon Plaza furniture showroom link I sent? And also a gentle nudge on the $1,450 October bills from last week!
+[04/11/2026, 18:42:33] Julian: OMG my brain is a sieve, just sent the $1,450 via PayMe! sorry!! 😅
+[04/11/2026, 18:44:12] You: received, thanks! what did you think about splitting that $7,500 dining table + sofa set?
+[04/11/2026, 18:48:05] Julian: ok so hear me out before u roll your eyes at me haha
+[04/11/2026, 18:49:10] Julian: that Japanese pop-art collective is doing a 3-day VIP exhibition and private preview in Macau later this month, and VIP passes + a weekend hotel stay are around $4,200 each! imagine the limited-edition signed lithographs and the weekend getaway!! 🔥✨
+[04/11/2026, 18:52:18] You: ...
+[04/11/2026, 18:53:40] You: Julian, our dining table literally wobbles every time we put a bowl of noodles on it, and you want to spend $8,400 on VIP art passes and a Macau hotel instead?
+[04/11/2026, 18:55:22] Julian: babe a dining table will still be at Horizon Plaza in March!! a signed pop-art VIP preview only happens ONCE! we work so hard, we deserve a glamorous weekend escape together 🥂
+[04/11/2026, 18:57:45] You: It's not just about the table. You stay here five nights a week, half your clothes are in my closet, and my lease is up in four months. I'd really like to know if we're actually going to sign a joint lease and build a proper home together next year, or if we're just going to keep floating like this.
+[04/11/2026, 19:03:12] Julian: whoa hey, why so serious all of a sudden? 😅 u know I'm crazy about u! five years together, of course I want to live with u properly!
+[04/11/2026, 19:05:05] You: Okay, then let's actually set a concrete plan — like what's our monthly rent budget, what district, and when do we start viewing flats?
+[04/11/2026, 19:09:40] Julian: babe my landlord hasn't even sent my renewal notice yet and Q4 at the agency is insane rn. let's not kill the vibe with lease spreadsheets tonight, I'll take u out for oysters and champagne this weekend and we'll dream big together okay? ❤️
+[04/11/2026, 19:12:15] You: I don't want oysters and champagne to dodge the question, Julian. I just wanted a real answer about whether you're actually ready to move in together full-time in March.
+[04/11/2026, 19:16:30] Julian: of course I'm ready when the timing makes sense! u're overthinking this, I love u and we're totally solid. let's talk properly over dinner on Friday okay? 😘
+[04/11/2026, 19:19:05] You: ...okay. Let's talk on Friday.
+[06/11/2026, 13:05:12] Julian: TGIF!! picked up two of those limited-edition pistachio donuts from Central for us tonight! 🍩✨
+[06/11/2026, 13:12:40] You: oh nice, thank you! still good for dinner at 7:30pm tonight?
+[06/11/2026, 13:14:22] Julian: yep! can't wait to see u, missed u all week!
+[06/11/2026, 13:16:05] You: see you tonight.
+[08/11/2026, 15:10:18] You: Hey, thanks for dinner on Friday — the pasta place was great. I noticed we somehow ended up talking about the K11 exhibition all night and never actually circled back to the lease or furniture though.
+[08/11/2026, 15:24:40] Julian: haha oops we were just having such a good time I didn't want to ruin the mood with boring admin!
+[08/11/2026, 15:26:15] You: Julian, planning our actual living space isn't "boring admin" to me. It's starting to feel like every time I bring up anything concrete, you joke your way out of it.
+[08/11/2026, 15:31:02] Julian: aww hey, I'm definitely not trying to brush u off! I just hate feeling boxed in by rigid timelines when we're already practically living together anyway.
+[08/11/2026, 15:33:45] You: "Practically living together" means I'm paying the full lease and chasing you for half the utilities while you keep a separate flat just in case. Do you see why that feels a bit ungrounded to me after five years?
+[08/11/2026, 15:39:20] Julian: okay fair, I hear u. I didn't realise it was weighing on u that much. let's skip the Macau VIP art trip this month and put that money towards a proper dining table first, deal?
+[08/11/2026, 15:42:10] You: Honestly, that would mean a lot to me. Thank you for actually hearing me on this.
+[08/11/2026, 15:44:05] Julian: always ❤️ I'm not perfect at the serious stuff, I know, but I really do care about us.
+[11/11/2026, 12:30:14] Julian: happy 11.11! did u buy anything fun or behave?
+[11/11/2026, 12:36:22] You: just bought new bedsheets and a desk lamp! you?
+[11/11/2026, 12:38:05] Julian: behaved mostly! just snagged a limited-edition KAWS art book that was 20% off haha 🎨
+[11/11/2026, 12:39:40] You: haha classic Julian. Still on for K11 Musea pop-up this Friday 13 Nov?
+[11/11/2026, 12:41:12] Julian: 100%!! got our VIP media lanyards sorted already!
+[11/11/2026, 12:42:30] You: awesome, looking forward to it!
+[13/11/2026, 22:30:10] You: home now! tonight at K11 Musea was honestly so fun, thanks for getting us into the preview room without the crowds!
+[13/11/2026, 22:34:45] Julian: told u I know how to show u a good time 😉 that neon mirror room photo of u came out insane btw!
+[13/11/2026, 22:36:12] You: haha send it to me!! and thanks for grabbing those late-night skewers on the walk back.
+[13/11/2026, 22:37:30] Julian: anytime! sleep well babe ❤️
+[13/11/2026, 22:38:40] You: night!
+[16/11/2026, 14:15:22] You: hey, I checked the furniture store — the solid oak dining table is still in stock! Want to go look at it this Saturday afternoon?
+[16/11/2026, 14:48:05] Julian: ooh Saturday might be tricky, my college friend is visiting from Singapore and wants to grab drinks! maybe the weekend after?
+[16/11/2026, 14:52:10] You: ...
+[16/11/2026, 14:53:40] You: okay, let's see about the weekend after then.
+[16/11/2026, 14:56:15] Julian: promise we'll get that table sorted soon babe! u're the best ❤️
+[18/11/2026, 16:20:08] Julian: hey babe, ugh annoying work update about early December :(
+[18/11/2026, 16:25:30] You: Friday 4 December? The Magnum photography exhibition?
+[18/11/2026, 16:27:12] Julian: yeah... our biggest luxury watch client just moved their annual VIP Gala and media dinner to Friday 4 December from 6:30pm to 11pm in Central, and since I'm the lead account director I have to host the whole night 😭
+[18/11/2026, 16:28:05] Julian: I hate cancelling on a Friday since I'm normally free Friday evenings, so I have to cancel our Friday 4 December Tai Kwun photography exhibition completely!
+[18/11/2026, 16:31:20] You: ah okay, client galas can't be helped. Should we move Tai Kwun to Sunday 6 December afternoon instead?
+[18/11/2026, 16:34:45] Julian: let's tentatively aim for Sunday 6 December! I'll confirm once I see how crazy the gala wrap-up is!
+[18/11/2026, 16:37:10] You: sure, let me know when you actually know.
+[18/11/2026, 16:39:05] Julian: will do!! gonna make it up to u with the best brunch in Soho ✨
+[20/11/2026, 17:30:14] Julian: TGIF!! finally survived the week! heading over to yours around 7:30 with Thai food and a bottle of Pinot? 🍷
+[20/11/2026, 17:38:22] You: sounds good, I'll be home by 7:15.
+[20/11/2026, 17:40:05] Julian: can't wait to see u babe!! ❤️
+[21/11/2026, 11:20:10] Julian: morning! heading to meet my Singapore friend in Central now, left coffee in the pot for u!
+[21/11/2026, 11:26:40] You: morning! thanks for the coffee, have fun catching up with your friend.
+[21/11/2026, 11:28:15] Julian: will do! text u tonight 😘
+[22/11/2026, 11:30:15] You: Morning! Hope Singapore mate isn't taking up all your time today 😂
+[22/11/2026, 11:35:40] Julian: haha nah just lunch, back to yours around 5! bringing groceries so I can cook us proper dinner?
+[22/11/2026, 11:38:12] You: Oh nice! What are you thinking?
+[22/11/2026, 11:41:30] Julian: pan-seared salmon and roasted veg, nothing too fancy but homemade ✨
+[23/11/2026, 14:20:18] You: Hey babe, work is finally calming down! How was your agency day?
+[23/11/2026, 14:28:40] Julian: madness but we finally locked in the holiday campaign concepts! the client actually approved our first pitch for once
+[23/11/2026, 14:31:12] You: That's amazing! Celebrate with Thai food tonight?
+[23/11/2026, 14:33:50] Julian: 100%! meet you at home around 7?
+[24/11/2026, 10:15:30] You: By the way, did you think more about the furniture viewing or are we still on pause?
+[24/11/2026, 10:22:40] Julian: honestly babe, with the holiday campaign and your lease renewal coming up, maybe let's tackle it properly in January when both our heads are clear?
+[24/11/2026, 10:25:15] You: ...okay, that's fair I guess.
+[24/11/2026, 10:28:30] Julian: I promise we'll make it happen in the new year, solid plan on the shared lease too!
+[25/11/2026, 18:40:12] You: Coming home now! Ready for the weekend?
+[25/11/2026, 18:48:30] Julian: beyond ready, work sprint was intense! let's just be cozy and low-key?
+[25/11/2026, 18:51:15] You: Sounds perfect. I'll grab wine on the way home.
+[25/11/2026, 18:54:40] Julian: perfect babe, see you soon! ❤️
+[26/11/2026, 11:20:08] You: Morning! What's the plan for Saturday?
+[26/11/2026, 11:28:30] Julian: breakfast at that new spot in Soho? they do amazing brunches!
+[26/11/2026, 11:31:12] You: Sure! What time?
+[26/11/2026, 11:33:50] Julian: 11am? gives us time to sleep in
+[27/11/2026, 14:15:30] You: Hey, just checking — still on for Sunday 6 December Tai Kwun exhibition?
+[27/11/2026, 14:22:40] Julian: oh yeah! actually the gala is wrapping earlier than expected, so I should be free by 2pm on Sunday. let's do afternoon tea first?
+[27/11/2026, 14:25:18] You: That would be lovely! Tai Kwun at 3:30pm then?
+[27/11/2026, 14:28:05] Julian: perfect! locking it in now 🔥
+[28/11/2026, 09:30:14] You: Morning! How is your Sunday treating you?
+[28/11/2026, 09:38:40] Julian: lazy morning energy, your side of the bed is way more comfortable than mine
+[28/11/2026, 09:41:12] You: Haha you're always welcome here ❤️
+[28/11/2026, 09:43:50] Julian: I know, honestly thinking about actually taking the step to officially move in next year
+[29/11/2026, 10:20:08] You: Wait, really? That's huge!
+[29/11/2026, 10:28:30] Julian: yeah, I've been thinking about it. we basically live together anyway, might as well make it official
+[29/11/2026, 10:31:12] You: I think that's a really good idea. Let's start planning in December?
+[29/11/2026, 10:33:50] Julian: 100% let's do it properly this time 💕
+[30/11/2026, 11:15:22] You: Final weekend thought — I'm really happy with us and where we're heading.
+[30/11/2026, 11:22:40] Julian: me too babe, seriously. sorry it took me a minute to get serious about the future stuff
+[30/11/2026, 11:25:15] You: We're on the same page now and that's what matters ❤️
+[30/11/2026, 11:28:30] Julian: absolutely! can't wait to build something real with you next year
+[30/11/2026, 11:31:05] You: Same here 🥂
+[30/11/2026, 11:33:50] Julian: love you!
+[01/12/2026, 10:20:08] You: Hope Monday is treating you well!
+[01/12/2026, 10:28:30] Julian: haha hectic actually! holiday campaign is ramping up at the agency
+[01/12/2026, 10:31:12] You: Ah the December rush! You'll crush it!
+[01/12/2026, 10:33:50] Julian: thanks babe! how is your Monday?
+[02/12/2026, 14:15:30] You: By the way, did you confirm Sunday 6 December for Tai Kwun after the gala wraps?
+[02/12/2026, 14:22:40] Julian: oh yeah gala should wrap by 1pm on Sunday so afternoon works perfectly!
+[02/12/2026, 14:25:18] You: Perfect! I'm really looking forward to the photography exhibition!
+[02/12/2026, 14:28:05] Julian: me too honestly, need some art and culture after all the client dinners
+[03/12/2026, 09:30:14] You: Morning! How is Tuesday treating you?
+[03/12/2026, 09:38:40] Julian: madness at the agency but good madness! client loved the revised concepts
+[03/12/2026, 09:41:12] You: That's amazing! You're crushing it!
+[03/12/2026, 09:43:50] Julian: thanks love! how's your day going?
+[04/12/2026, 10:15:30] You: Morning! How is Wednesday treating you?
+[04/12/2026, 10:28:30] Julian: pretty hectic still but we're getting there! how is yours?
+[04/12/2026, 10:31:12] You: Busy but good! Just counting down to the weekend!
+[04/12/2026, 10:33:50] Julian: same!! need a proper break honestly
+[05/12/2026, 11:35:08] You: Can't wait for Sunday afternoon! Tai Kwun and then maybe dinner after?
+[05/12/2026, 14:23:55] You: I'd love that! See you Sunday babe!
+[05/12/2026, 14:25:12] Julian: can't wait ❤️
+[06/12/2026, 09:30:14] You: Hey Julian! Hope your morning is nice!
+[06/12/2026, 10:28:40] Julian: haha hectic actually! holiday campaign is ramping up at the agency
+[06/12/2026, 10:29:55] You: Ah the December rush! You'll crush it!
+[06/12/2026, 10:31:12] Julian: thanks babe! the gala on Sunday should help me decompress though
+[07/12/2026, 09:30:14] You: Hey love! How is Sunday morning treating you?
+[07/12/2026, 10:28:40] Julian: pretty chill actually! just preparing my outfit for the gala this afternoon
+[07/12/2026, 10:29:55] You: Ooh what are you wearing? Sound so fancy!
+[07/12/2026, 10:31:12] Julian: got a sharp new suit, want to look good for you ❤️
+[08/12/2026, 09:30:14] You: Hey Julian! Hope Monday is treating you well!
+[08/12/2026, 10:28:40] Julian: Morning! Still glowing from the gala honestly. That was such a fun evening!
+[08/12/2026, 10:29:55] You: Same! Tai Kwun was incredible with you after!
+[08/12/2026, 10:31:12] Julian: the art really spoke to both of us. and that dinner was perfect ❤️
+[09/12/2026, 11:35:08] You: Almost to the weekend! How's your week treating you?
+[09/12/2026, 14:22:40] Julian: Decent week but I miss you! Campaign is wrapping though!
+[09/12/2026, 14:23:55] You: See you Friday evening! Can't wait!
+[09/12/2026, 14:25:12] Julian: same babe!! ❤️
+[10/12/2026, 09:30:14] You: Hey Julian! Happy Friday! Ready for the weekend?
+[10/12/2026, 10:28:40] Julian: Morning! Just wrapped the final campaign review! Freedom awaits!
+[10/12/2026, 10:29:55] You: Perfect timing! What do you want to do this weekend?
+[10/12/2026, 10:31:12] Julian: Whatever you want! Just want to be near you honestly.
+[11/12/2026, 11:30:15] You: Hey! Happy Sunday! Did you rest well?
+[11/12/2026, 11:35:40] Julian: Morning! Best weekend in ages actually. Really needed that quality time with you.
+[11/12/2026, 11:38:12] You: Me too babe! Let's keep doing this!
+[11/12/2026, 11:41:30] Julian: Absolutely. Building something real with you, that's what matters. ❤️
+[12/12/2026, 10:28:40] You: Hey Julian! Still glowing from the weekend!
+[12/12/2026, 10:35:12] Julian: Same! Best weekend in ages actually!
+[12/12/2026, 10:38:05] You: Ready for the final push to the holidays?
+[12/12/2026, 10:41:30] Julian: Bring it on! We've got this!
+[13/12/2026, 10:28:40] You: Hey Julian! How is your Monday treating you?
+[13/12/2026, 10:35:12] Julian: Morning! Just catching up after the weekend. How about you?
+[13/12/2026, 10:38:05] You: Same! Work is ramping up for year-end!
+[13/12/2026, 10:41:30] Julian: Tell me about it! But almost there!
+[14/12/2026, 11:30:15] You: Hey! Hope your Tuesday is good!
+[14/12/2026, 11:35:40] Julian: Pretty good actually! Campaign is wrapping up nicely!
+[14/12/2026, 11:38:12] You: That's amazing! You'll crush the final push!
+[14/12/2026, 11:41:30] Julian: Thanks babe! Almost to freedom! ❤️
+[15/12/2026, 10:28:40] You: Hey! How is Wednesday treating you?
+[15/12/2026, 10:35:12] Julian: Solid day actually! Feeling productive!
+[15/12/2026, 10:38:05] You: Keep that energy going! Almost to the weekend!
+[15/12/2026, 10:41:30] Julian: Will do! See you Friday night!
+[16/12/2026, 11:30:15] You: Hey Julian! Happy Thursday! One more day!
+[16/12/2026, 11:35:40] Julian: Morning! Almost there! What are you thinking for the weekend?
+[16/12/2026, 11:38:12] You: Maybe a cosy night in together?
+[16/12/2026, 11:41:30] Julian: Perfect. I could use some quiet time with you. ❤️
+[17/12/2026, 10:28:40] You: Hey Julian! Happy Friday! Ready for the weekend?
+[17/12/2026, 10:35:12] Julian: Absolutely! Where should we meet?
+[17/12/2026, 10:38:05] You: Your place? I'll bring wine!
+[17/12/2026, 10:41:30] Julian: Can't wait to see you. ❤️

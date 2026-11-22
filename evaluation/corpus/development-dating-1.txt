@@ -1,240 +1,204 @@
-[01/11/2026, 08:00:00] You: How is your week going?
-[01/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[01/11/2026, 10:00:00] You: How is your week going?
-[01/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[01/11/2026, 12:00:00] You: How is your week going?
-[01/11/2026, 13:00:00] Person_1_0: I am studying economics. I enjoy jazz.
-[01/11/2026, 14:00:00] You: How is your week going?
-[01/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[01/11/2026, 16:00:00] You: How is your week going?
-[01/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[01/11/2026, 18:00:00] You: How is your week going?
-[01/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[02/11/2026, 08:00:00] You: How is your week going?
-[02/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[02/11/2026, 10:00:00] You: How is your week going?
-[02/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[02/11/2026, 12:00:00] You: How is your week going?
-[02/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[02/11/2026, 14:00:00] You: How is your week going?
-[02/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[02/11/2026, 16:00:00] You: How is your week going?
-[02/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[02/11/2026, 18:00:00] You: How is your week going?
-[02/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[03/11/2026, 08:00:00] You: How is your week going?
-[03/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[03/11/2026, 10:00:00] You: How is your week going?
-[03/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[03/11/2026, 12:00:00] You: How is your week going?
-[03/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[03/11/2026, 14:00:00] You: How is your week going?
-[03/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[03/11/2026, 16:00:00] You: How is your week going?
-[03/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[03/11/2026, 18:00:00] You: How is your week going?
-[03/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[04/11/2026, 08:00:00] You: How is your week going?
-[04/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[04/11/2026, 10:00:00] You: How is your week going?
-[04/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[04/11/2026, 12:00:00] You: How is your week going?
-[04/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[04/11/2026, 14:00:00] You: How is your week going?
-[04/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[04/11/2026, 16:00:00] You: How is your week going?
-[04/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[04/11/2026, 18:00:00] You: How is your week going?
-[04/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[05/11/2026, 08:00:00] You: How is your week going?
-[05/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[05/11/2026, 10:00:00] You: How is your week going?
-[05/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[05/11/2026, 12:00:00] You: How is your week going?
-[05/11/2026, 13:00:00] Person_1_0: Wednesday evenings usually work for me.
-[05/11/2026, 14:00:00] You: How is your week going?
-[05/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[05/11/2026, 16:00:00] You: How is your week going?
-[05/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[05/11/2026, 18:00:00] You: How is your week going?
-[05/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[06/11/2026, 08:00:00] You: How is your week going?
-[06/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[06/11/2026, 10:00:00] You: How is your week going?
-[06/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[06/11/2026, 12:00:00] You: How is your week going?
-[06/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[06/11/2026, 14:00:00] You: How is your week going?
-[06/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[06/11/2026, 16:00:00] You: How is your week going?
-[06/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[06/11/2026, 18:00:00] You: How is your week going?
-[06/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[07/11/2026, 08:00:00] You: How is your week going?
-[07/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[07/11/2026, 10:00:00] You: How is your week going?
-[07/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[07/11/2026, 12:00:00] You: How is your week going?
-[07/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[07/11/2026, 14:00:00] You: How is your week going?
-[07/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[07/11/2026, 16:00:00] You: How is your week going?
-[07/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[07/11/2026, 18:00:00] You: How is your week going?
-[07/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[08/11/2026, 08:00:00] You: How is your week going?
-[08/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[08/11/2026, 10:00:00] You: How is your week going?
-[08/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[08/11/2026, 12:00:00] You: How is your week going?
-[08/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[08/11/2026, 14:00:00] You: How is your week going?
-[08/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[08/11/2026, 16:00:00] You: How is your week going?
-[08/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[08/11/2026, 18:00:00] You: How is your week going?
-[08/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[09/11/2026, 08:00:00] You: How is your week going?
-[09/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[09/11/2026, 10:00:00] You: How is your week going?
-[09/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[09/11/2026, 12:00:00] You: How is your week going?
-[09/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[09/11/2026, 14:00:00] You: How is your week going?
-[09/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[09/11/2026, 16:00:00] You: How is your week going?
-[09/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[09/11/2026, 18:00:00] You: How is your week going?
-[09/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[10/11/2026, 08:00:00] You: How is your week going?
-[10/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[10/11/2026, 10:00:00] You: How is your week going?
-[10/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[10/11/2026, 12:00:00] You: How is your week going?
-[10/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[10/11/2026, 14:00:00] You: How is your week going?
-[10/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[10/11/2026, 16:00:00] You: How is your week going?
-[10/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[10/11/2026, 18:00:00] You: How is your week going?
-[10/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[11/11/2026, 08:00:00] You: How is your week going?
-[11/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[11/11/2026, 10:00:00] You: How is your week going?
-[11/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[11/11/2026, 12:00:00] You: How is your week going?
-[11/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[11/11/2026, 14:00:00] You: How is your week going?
-[11/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[11/11/2026, 16:00:00] You: How is your week going?
-[11/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[11/11/2026, 18:00:00] You: How is your week going?
-[11/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[12/11/2026, 08:00:00] You: How is your week going?
-[12/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[12/11/2026, 10:00:00] You: How is your week going?
-[12/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[12/11/2026, 12:00:00] You: How is your week going?
-[12/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[12/11/2026, 14:00:00] You: How is your week going?
-[12/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[12/11/2026, 16:00:00] You: How is your week going?
-[12/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[12/11/2026, 18:00:00] You: How is your week going?
-[12/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[13/11/2026, 08:00:00] You: How is your week going?
-[13/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[13/11/2026, 10:00:00] You: How is your week going?
-[13/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[13/11/2026, 12:00:00] You: How is your week going?
-[13/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[13/11/2026, 14:00:00] You: How is your week going?
-[13/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[13/11/2026, 16:00:00] You: How is your week going?
-[13/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[13/11/2026, 18:00:00] You: How is your week going?
-[13/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[14/11/2026, 08:00:00] You: How is your week going?
-[14/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[14/11/2026, 10:00:00] You: How is your week going?
-[14/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[14/11/2026, 12:00:00] You: How is your week going?
-[14/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[14/11/2026, 14:00:00] You: How is your week going?
-[14/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[14/11/2026, 16:00:00] You: How is your week going?
-[14/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[14/11/2026, 18:00:00] You: How is your week going?
-[14/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[15/11/2026, 08:00:00] You: How is your week going?
-[15/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[15/11/2026, 10:00:00] You: How is your week going?
-[15/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[15/11/2026, 12:00:00] You: How is your week going?
-[15/11/2026, 13:00:00] Person_1_0: I cannot meet on Wednesday 25 November 2026. I have a commitment that evening.
-[15/11/2026, 14:00:00] You: How is your week going?
-[15/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[15/11/2026, 16:00:00] You: How is your week going?
-[15/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[15/11/2026, 18:00:00] You: How is your week going?
-[15/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[16/11/2026, 08:00:00] You: How is your week going?
-[16/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[16/11/2026, 10:00:00] You: How is your week going?
-[16/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[16/11/2026, 12:00:00] You: How is your week going?
-[16/11/2026, 13:00:00] Person_1_0: Could we meet on Sunday 29 November 2026 instead?
-[16/11/2026, 14:00:00] You: How is your week going?
-[16/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[16/11/2026, 16:00:00] You: How is your week going?
-[16/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[16/11/2026, 18:00:00] You: How is your week going?
-[16/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[17/11/2026, 08:00:00] You: How is your week going?
-[17/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[17/11/2026, 10:00:00] You: How is your week going?
-[17/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[17/11/2026, 12:00:00] You: How is your week going?
-[17/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[17/11/2026, 14:00:00] You: How is your week going?
-[17/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[17/11/2026, 16:00:00] You: How is your week going?
-[17/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[17/11/2026, 18:00:00] You: How is your week going?
-[17/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[18/11/2026, 08:00:00] You: How is your week going?
-[18/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[18/11/2026, 10:00:00] You: How is your week going?
-[18/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[18/11/2026, 12:00:00] You: How is your week going?
-[18/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[18/11/2026, 14:00:00] You: How is your week going?
-[18/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[18/11/2026, 16:00:00] You: How is your week going?
-[18/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[18/11/2026, 18:00:00] You: How is your week going?
-[18/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[19/11/2026, 08:00:00] You: How is your week going?
-[19/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[19/11/2026, 10:00:00] You: How is your week going?
-[19/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[19/11/2026, 12:00:00] You: How is your week going?
-[19/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[19/11/2026, 14:00:00] You: How is your week going?
-[19/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[19/11/2026, 16:00:00] You: How is your week going?
-[19/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[19/11/2026, 18:00:00] You: How is your week going?
-[19/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
-[20/11/2026, 08:00:00] You: How is your week going?
-[20/11/2026, 09:00:00] Person_1_0: Thanks, I will check and get back to you.
-[20/11/2026, 10:00:00] You: How is your week going?
-[20/11/2026, 11:00:00] Person_1_0: Thanks, I will check and get back to you.
-[20/11/2026, 12:00:00] You: How is your week going?
-[20/11/2026, 13:00:00] Person_1_0: Thanks, I will check and get back to you.
-[20/11/2026, 14:00:00] You: How is your week going?
-[20/11/2026, 15:00:00] Person_1_0: Thanks, I will check and get back to you.
-[20/11/2026, 16:00:00] You: How is your week going?
-[20/11/2026, 17:00:00] Person_1_0: Thanks, I will check and get back to you.
-[20/11/2026, 18:00:00] You: How is your week going?
-[20/11/2026, 19:00:00] Person_1_0: Thanks, I will check and get back to you.
+[21/10/2026, 23:14:08] Ryan: made it home!! still can't stop smiling about tonight tbh 😊
+[21/10/2026, 23:17:42] You: haha same! that saxophone solo in the second set was unreal
+[21/10/2026, 23:18:19] Ryan: right?? told u that little live house in Sheung Wan is a hidden gem 🎷✨
+[21/10/2026, 23:19:05] Ryan: honestly I love live jazz so much, especially tiny crowded rooms in Central or Sheung Wan where u can actually feel the bass vibrating in the floor
+[21/10/2026, 23:20:11] You: and the late-night wonton noodles after definitely completed the night
+[21/10/2026, 23:21:02] Ryan: 10/10 combo. nothing beats jazz + $45 noodles at 11pm 🍜🔥
+[21/10/2026, 23:21:48] Ryan: also u looked really great tonight btw, just saying 😉
+[21/10/2026, 23:22:35] You: haha smooth! get some sleep, don't you have work tomorrow?
+[21/10/2026, 23:23:14] Ryan: ugh don't remind me, 9:30am brainstorm with the client team 💀
+[21/10/2026, 23:24:00] You: good luck surviving that! goodnight Ryan
+[21/10/2026, 23:24:33] Ryan: night!! dream of jazz lol 🎶
+[22/10/2026, 13:05:19] You: hey! did you survive the 9:30am brainstorm?
+[22/10/2026, 13:12:40] Ryan: barely lol ran on two iced Americanos and pure vibes ☕😂
+[22/10/2026, 13:13:22] You: classic agency morning. what kind of campaign are you pitching?
+[22/10/2026, 13:14:15] Ryan: a sneaker collab for Gen Z shoppers. being a Creative at an ad agency basically means inventing 20 weird ideas so the client can pick the safest one 😅
+[22/10/2026, 13:15:08] You: haha sounds painfully accurate
+[22/10/2026, 13:16:02] Ryan: it really is! what are u having for lunch?
+[22/10/2026, 13:16:45] You: just grabbed a salmon poke bowl near my office
+[22/10/2026, 13:17:30] Ryan: healthy! I'm eating char siu rice at my desk while tweaking a moodboard
+[22/10/2026, 13:18:10] You: enjoy! don't spill sauce on your keyboard
+[22/10/2026, 13:18:48] Ryan: no promises lol 😂
+[22/10/2026, 23:40:12] Ryan: random midnight drop — just found this obscure 1970s Japanese jazz fusion track and immediately thought of u 🎧
+[22/10/2026, 23:44:05] You: ooh sending it right before bed! let me put my headphones on
+[22/10/2026, 23:47:30] You: ok wow that bassline is so funky! who is this?
+[22/10/2026, 23:48:18] Ryan: Ryo Fukui's rhythm section vibes right?! knew u'd have good taste ✨
+[22/10/2026, 23:49:02] You: adding it to my morning commute playlist immediately
+[22/10/2026, 23:49:45] Ryan: mission accomplished! ok actually sleeping now, night!!
+[22/10/2026, 23:50:15] You: night!
+[24/10/2026, 15:20:05] Ryan: hey!! just finished band rehearsal in Kwun Tong, my fingers are dead 🎸😭
+[24/10/2026, 15:26:33] You: oh nice! didn't know you were jamming today
+[24/10/2026, 15:27:18] Ryan: yeah I play bass in a little amateur jazz-funk quartet with some uni friends, we rent a studio in an industrial building every weekend when we can
+[24/10/2026, 15:28:10] You: wait that's actually so cool! do you guys ever play live?
+[24/10/2026, 15:29:04] Ryan: only tiny open mic nights in Wan Chai so far haha, sending u a 15-sec clip of me messing up a solo just so u can laugh at me 😂
+[24/10/2026, 15:30:45] You: excuse me that didn't sound messed up at all?? you're actually really good!
+[24/10/2026, 15:31:30] Ryan: haha stop u're gonna inflate my ego 🙈
+[24/10/2026, 15:32:12] You: seriously, let me know next time you guys play an open mic!
+[24/10/2026, 15:33:00] Ryan: 100% saving u a front row seat! what are u up to this Saturday?
+[24/10/2026, 15:33:48] You: just grabbing coffee with a friend in Tai Hang and doing laundry later
+[24/10/2026, 15:34:30] Ryan: u mentioned liking iced hojicha lattes last week right? there's a super good one near Tai Hang!
+[24/10/2026, 15:35:15] You: omg you actually remembered that?!
+[24/10/2026, 15:36:02] Ryan: of course I remember haha I pay attention when u talk 😊
+[24/10/2026, 15:36:40] You: haha alright alright, enjoy the rest of your Saturday!
+[24/10/2026, 15:37:12] Ryan: u too!!
+[26/10/2026, 10:15:30] Ryan: morning!! how's the Monday grind treating u?
+[26/10/2026, 10:22:14] You: pretty brutal already, 3 meetings before lunch. you?
+[26/10/2026, 10:23:05] Ryan: same, agency deck edits til my eyes cross 😵‍💫
+[26/10/2026, 10:23:48] You: hang in there! grab a good coffee
+[26/10/2026, 10:24:22] Ryan: already on cup number two!
+[27/10/2026, 18:10:11] You: hey Ryan! wanna go to that jazz quartet night in Central sometime next week?
+[27/10/2026, 18:16:40] Ryan: YESSS I'd love that!! been wanting to see you again anyway 😊
+[27/10/2026, 18:17:25] You: which weekday evening usually works best for you?
+[27/10/2026, 18:18:12] Ryan: Mon and Wed are always hectic with agency client pitches, and Tue I usually have band practice after work
+[27/10/2026, 18:19:05] Ryan: I'm usually free on Thursday evenings though! Almost never have late pitches or rehearsals on Thursdays, so Thursday nights are my go-to jazz and chill night 🎷
+[27/10/2026, 18:20:00] You: Thursday evenings work super well for me too!
+[27/10/2026, 18:20:48] Ryan: awesome!! let's do next Thursday 5 November at Peel Fresco or Fringe Club?
+[27/10/2026, 18:21:30] You: Fringe Club sounds amazing! let's also keep Thursday 3 December in mind — saw a cool soul-jazz trio playing there
+[27/10/2026, 18:22:15] Ryan: omg yes!! locking in both 5 Nov and 3 Dec in my brain rn ✨
+[27/10/2026, 18:23:00] You: haha put it in your phone calendar too just in case
+[27/10/2026, 18:23:38] Ryan: already done ma'am! 🫡
+[29/10/2026, 14:20:15] You: hey random question — did you survive your big sneaker client pitch today?
+[29/10/2026, 22:15:40] Ryan: OMG SO SORRY I vanished for 8 hours!! 😭
+[29/10/2026, 22:16:12] Ryan: the client kept changing the tagline mid-meeting, then my creative director dragged us straight into a 4-hour storyboard rewrite with zero phone breaks!
+[29/10/2026, 22:17:05] Ryan: we FINALLY got sign-off at 9:30pm and I ran straight to grab takeaway! how was ur day??
+[29/10/2026, 22:19:30] You: haha no worries at all! agency crunch sounds intense, congrats on getting sign-off!
+[29/10/2026, 22:20:18] Ryan: thx!! honestly just wanted to check my phone all evening to see if u texted haha 😅
+[29/10/2026, 22:21:05] You: aww go eat your dinner properly and crash!
+[29/10/2026, 22:21:45] Ryan: yes boss!! talk tomorrow 💛
+[31/10/2026, 19:30:22] Ryan: happy Halloween!! u dressing up tonight or hiding from Lan Kwai Fong? 🎃
+[31/10/2026, 19:36:10] You: 100% hiding from LKF lol just having hotpot at a friend's place. you?
+[31/10/2026, 19:37:05] Ryan: smart move! I'm at a rooftop house party in Sheung Wan, literally just threw on a leather jacket and called it "90s rockstar" 😂
+[31/10/2026, 19:37:50] You: haha minimum effort, maximum style
+[31/10/2026, 19:38:30] Ryan: exactly! enjoy hotpot, don't eat too many beef balls without me!
+[31/10/2026, 19:39:12] You: no promises haha have fun tonight!
+[02/11/2026, 12:45:08] Ryan: quick lunch check-in! is the office AC still freezing or did HK finally turn into autumn?
+[02/11/2026, 12:50:30] You: actually feels like real autumn outside! wore a denim jacket today
+[02/11/2026, 12:51:15] Ryan: best weather of the year!! makes walking around Central at night so nice
+[02/11/2026, 12:52:00] You: agreed! excited for Thursday already
+[02/11/2026, 12:52:42] Ryan: same!! counting down the days tbh 😊
+[05/11/2026, 18:45:10] Ryan: just hopped off the tram in Central! grabbing us two spots near the stage at Fringe Club
+[05/11/2026, 18:48:22] You: awesome, I'm walking up Ice House Street now, see you in 5 mins!
+[05/11/2026, 18:49:00] Ryan: see u!! 🎶
+[05/11/2026, 23:35:18] You: just got home! tonight was honestly so much fun, thanks for walking me to the MTR
+[05/11/2026, 23:38:44] Ryan: my pleasure!! tonight was easily the highlight of my whole week ✨
+[05/11/2026, 23:39:30] Ryan: also that little dai pai dong claypot rice spot we stumbled into after the show was elite
+[05/11/2026, 23:40:15] You: right?! crispy rice + live jazz is undefeated
+[05/11/2026, 23:41:02] Ryan: honestly I just have the best time whenever I'm around u. u make even waiting for the MTR fun haha 😊
+[05/11/2026, 23:41:50] You: haha you really know how to make someone blush! get some sleep Ryan
+[05/11/2026, 23:42:35] Ryan: only speaking facts! goodnight!!
+[07/11/2026, 11:20:05] Ryan: morning! just dropped a fresh Sunday morning bossa nova playlist on Spotify for u ☕🎶
+[07/11/2026, 11:28:40] You: ooh thank you!! putting it on while I tidy my room
+[07/11/2026, 11:29:25] Ryan: let me know if track 3 makes u wanna dance around with a broom 😂
+[07/11/2026, 11:30:10] You: haha will report back! what are you up to today?
+[07/11/2026, 11:31:02] Ryan: grabbing dim sum with my buddies in Mong Kok then band jam at 3pm
+[07/11/2026, 11:31:45] You: sounds like a great weekend!
+[07/11/2026, 11:32:20] Ryan: wish u were coming to dim sum too tbh!
+[09/11/2026, 15:10:22] You: hey Ryan, how's your Monday? surviving?
+[09/11/2026, 15:15:04] Ryan: hey! sorry in a crazy client edit, ttyl
+[09/11/2026, 15:16:10] You: np! good luck!
+[09/11/2026, 23:05:18] Ryan: ALIVE!! omg sorry for the super short text earlier, we had a 7-hour emergency shoot edit and my phone died at 6pm 😭
+[09/11/2026, 23:09:40] You: haha I figured you were in agency crunch mode! did you survive?
+[09/11/2026, 23:10:25] Ryan: barely! literally just got home and plugged my phone in so I could message u first
+[09/11/2026, 23:11:12] You: aww that's sweet, go take a hot shower and crash!
+[09/11/2026, 23:12:00] Ryan: will do!! thx for always being so chill about my chaotic work hours 🙏
+[09/11/2026, 23:12:40] You: anytime, night!
+[11/11/2026, 13:20:14] Ryan: happy 11.11!! did u buy anything fun or resist the urge?
+[11/11/2026, 13:26:05] You: bought a new electric toothbrush and some coffee beans, very boring lol. you?
+[11/11/2026, 13:27:12] Ryan: bought a new bass pedal I definitely didn't need and a vintage jazz vinyl 😂
+[11/11/2026, 13:28:00] You: haha classic Ryan! which vinyl?
+[11/11/2026, 13:28:45] Ryan: Bill Evans Trio - Waltz for Debby! u have to come listen to it sometime
+[11/11/2026, 13:29:30] You: ooh I love that album! deal!
+[12/11/2026, 19:05:11] Ryan: hey!! random question — u free for a quick dinner and walk along the Tamar Park waterfront this Saturday night?
+[12/11/2026, 19:12:30] You: yes!! I'd love that, what time?
+[12/11/2026, 19:13:15] Ryan: 7pm in Admiralty? there's a cool casual ramen spot nearby, then we can grab iced teas and chill by the water 🌃
+[12/11/2026, 19:14:02] You: sounds perfect, see you Saturday!
+[12/11/2026, 19:14:40] Ryan: can't wait!! 😊
+[14/11/2026, 22:55:19] Ryan: just got back! tonight was honestly so chill, loved just sitting by the harbour talking for two hours ✨
+[14/11/2026, 22:59:05] You: me too!! and thanks for sharing your headphones so we could listen to your band demo
+[14/11/2026, 23:00:12] Ryan: haha u're the first person outside the band to hear that track!
+[14/11/2026, 23:01:00] You: honoured!! the groove on the bridge part is seriously catchy
+[14/11/2026, 23:01:48] Ryan: u always know the exact right things to say 😊 sleep well tonight!
+[14/11/2026, 23:02:25] You: goodnight Ryan!
+[16/11/2026, 11:40:05] You: morning! how's the new week looking?
+[16/11/2026, 11:46:22] Ryan: pretty decent so far! actually got to sit down and eat a proper egg sandwich before my 10am meeting
+[16/11/2026, 11:47:10] You: huge win for a Monday haha
+[16/11/2026, 11:47:55] Ryan: ikr! how's your week looking?
+[16/11/2026, 11:48:40] You: manageable til Wednesday, then a bit busy
+[16/11/2026, 11:49:18] Ryan: u got this!! 💪
+[18/11/2026, 16:30:12] Ryan: hey ugh I have annoying news about our jazz trio night in early December :(
+[18/11/2026, 16:34:05] You: Thursday 3 December? what happened?
+[18/11/2026, 16:35:18] Ryan: our biggest retail client just locked in an overnight Christmas commercial shoot at a mall in Tsim Sha Tsui on Thursday 3 December from 7pm until 4am 😭
+[18/11/2026, 16:36:05] Ryan: because I'm the lead Creative on the script I have to be on set the whole night. I hate cancelling on a Thursday since I'm normally free Thursday evenings, so I have to cancel Thursday 3 December completely :(
+[18/11/2026, 16:37:40] You: aww no worries at all! overnight mall shoots sound wild, definitely don't stress about it
+[18/11/2026, 16:38:30] Ryan: ugh I was so excited for that soul-jazz trio too!! can we reschedule to Friday 4 December or Saturday 5 December once I recover from the shoot?
+[18/11/2026, 16:39:15] You: Saturday 5 December evening works great! gives you Friday to catch up on sleep
+[18/11/2026, 16:40:02] Ryan: u are literally the best!! Saturday 5 December it is, first round of drinks and noodles are on me 🍜✨
+[18/11/2026, 16:40:45] You: deal!!
+[19/11/2026, 20:15:30] Ryan: just saw a street busker playing Fly Me to the Moon on trumpet outside Central Pier and stopped to watch for 10 mins 🎺
+[19/11/2026, 20:20:12] You: aw love HK autumn nights for that!
+[19/11/2026, 20:21:05] Ryan: right?? made me wish u were walking next to me tbh 😊
+[19/11/2026, 20:21:50] You: haha smooth as always! heading home now?
+[19/11/2026, 20:22:30] Ryan: yup just got on the MTR!
+[20/11/2026, 17:45:10] Ryan: TGIF!! finally survived the week! any fun plans tonight?
+[20/11/2026, 17:52:05] You: grabbing Thai food with my sister tonight! you?
+[20/11/2026, 17:53:12] Ryan: band practice til 9pm then crashing early! tell your sister I said hi (even though she doesn't know me yet lol 😂)
+[20/11/2026, 17:54:00] You: haha will do! have fun at rehearsal!
+[20/11/2026, 17:54:40] Ryan: thx!! talk tomorrow ✨
+[21/11/2026, 12:10:22] Ryan: morning!! hope u slept in today ☀️
+[21/11/2026, 12:16:05] You: slept til 10:30am, pure bliss! how was rehearsal last night?
+[21/11/2026, 12:17:12] Ryan: super fun, we nailed a new Stevie Wonder jazz cover! can't wait to play it for u next time we hang out 🎸
+[21/11/2026, 12:18:00] You: looking forward to it! enjoy your Saturday Ryan!
+[21/11/2026, 12:18:45] Ryan: u too!! 😊
+[22/11/2026, 10:35:12] You: hey! how was band practice last night?
+[22/11/2026, 10:42:30] Ryan: so good!! we're finally nailing that Stevie Wonder cover I mentioned, it's gonna be fire 🔥
+[22/11/2026, 10:43:45] You: that's awesome! when do you guys perform it live?
+[22/11/2026, 10:44:30] Ryan: probably at the next open mic in Wan Chai around early December, still trying to book the spot
+[22/11/2026, 10:45:15] You: I'll definitely be front row again!
+[22/11/2026, 10:46:00] Ryan: best audience member ever 😊🎸
+[23/11/2026, 14:20:22] Ryan: hey quick break from client calls — how's your afternoon going?
+[23/11/2026, 14:28:40] You: pretty standard, just drowning in spreadsheets haha
+[23/11/2026, 14:29:25] Ryan: same here, creative director won't stop tweaking the colour palette on this campaign 😅
+[23/11/2026, 14:30:30] You: sounds painfully familiar lol
+[23/11/2026, 14:31:15] Ryan: only 2 more hours til I can escape from the office!
+[23/11/2026, 14:32:00] You: same! wanna grab coffee after work?
+[23/11/2026, 14:33:30] Ryan: hell yes!! meet you at that place in Central you like?
+[23/11/2026, 14:34:15] You: perfect, 6:30pm?
+[23/11/2026, 14:35:00] Ryan: see u then!! 💛
+[23/11/2026, 19:45:08] You: home now! thanks for the coffee date, I really needed that break
+[23/11/2026, 19:52:30] Ryan: same!! and I got to show u that vinyl record I bought last week — u gonna try listening to it?
+[23/11/2026, 19:53:45] You: definitely! putting it on while I cook dinner right now actually
+[23/11/2026, 19:54:30] Ryan: let me know what u think!! the acoustic mix is so clean 🎧✨
+[24/11/2026, 11:10:05] You: okay I listened to your Bill Evans record and WOW the second track is incredible
+[24/11/2026, 11:18:40] Ryan: RIGHT?? that track just hits different!! told u Bill Evans trio is unmatched
+[24/11/2026, 11:19:25] You: you have such good taste, seriously
+[24/11/2026, 11:20:15] Ryan: only because u have influenced me over these past few weeks haha 😊
+[25/11/2026, 09:25:30] Ryan: morning babe!! still on for Saturday 5 Dec soul-jazz trio at Fringe Club?
+[25/11/2026, 09:33:45] You: 100%! I already marked it on my calendar
+[25/11/2026, 09:34:30] Ryan: yayyy can't wait!! gonna be epic after all the rescheduling 🎶
+[25/11/2026, 09:35:15] You: for real!! it's one of my top things to look forward to this month
+[25/11/2026, 09:36:00] Ryan: aww that makes me happy 💛
+[26/11/2026, 16:20:22] Ryan: hey so the band is def playing at Wan Chai open mic on Thursday 5 Dec at 9pm
+[26/11/2026, 16:28:40] You: wait isn't that the same night as the soul-jazz trio at Fringe Club??
+[26/11/2026, 16:29:25] Ryan: oh fuck u're right haha 😅 completely forgot we locked in Fringe Club for Saturday 5 Dec, not Thursday
+[26/11/2026, 16:30:30] You: haha yeah! band practice on 5 Dec is probably gonna be intense
+[26/11/2026, 16:31:45] Ryan: tbh I might skip the open mic and just come to Fringe Club with u instead, our shows are kinda casual anyway
+[26/11/2026, 16:32:30] You: only if you want to!! I don't want to mess with your band commitments
+[26/11/2026, 16:33:15] Ryan: nah I'd rather spend the evening with u honestly, the guys will understand 😊
+[26/11/2026, 16:34:00] You: okay then!! Fringe Club it is 🎷
+[27/11/2026, 12:45:18] You: hey are you surviving this week?
+[27/11/2026, 12:52:30] Ryan: barely lol another last-minute client crisis emerged yesterday so I'm in full chaos mode 😭
+[27/11/2026, 12:53:45] You: hang in there!! almost Friday
+[27/11/2026, 12:54:30] Ryan: ikr!! weekend can't come soon enough
+[28/11/2026, 10:15:12] Ryan: ok quick midweek check — am I allowed to be excited about Saturday 5 Dec yet??
+[28/11/2026, 10:22:40] You: haha you're already excited!! yes countdown is real
+[28/11/2026, 10:23:25] Ryan: 7 days away!! I'm gonna book us a good dinner spot before the show
+[28/11/2026, 10:24:30] You: fancy!! I love it
+[28/11/2026, 10:25:15] Ryan: gotta treat u right 💛✨
+[29/11/2026, 14:30:08] You: final rehearsal before Fringe Club Saturday?
+[29/11/2026, 14:38:40] Ryan: yeah band jam is tomorrow afternoon but honestly I'm way more pumped about Saturday night with u lol
+[29/11/2026, 14:39:25] You: haha your band might call u out on that one!
+[29/11/2026, 14:40:30] Ryan: they know I'm distracted 😂 one of them keeps making jokes about me being completely whipped
+[29/11/2026, 14:41:15] You: are you tho?? 👀
+[29/11/2026, 14:42:00] Ryan: ...maybe 😊
+[29/11/2026, 14:42:45] You: haha smooth answer
+[29/11/2026, 14:43:30] Ryan: I try!! see u soon babe 💛
