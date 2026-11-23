@@ -17,10 +17,14 @@ export function applyItemReviews(items:any[],verdict:any){
  for(const r of verdict.items){
   if(!r||typeof r.id!=='string'||!known.has(r.id))continue;
   if(byId.has(r.id)||invalid.has(r.id)){byId.delete(r.id);invalid.set(r.id,'Multiple review verdicts for this item.');continue;}
-  if(!['supported','qualify','reject'].includes(r.decision)||typeof r.reason!=='string'||r.reason.length>250||typeof r.revised_interpretation!=='string'||r.revised_interpretation.length>700){invalid.set(r.id,'Invalid review verdict for this item.');continue;}
+  const errors:string[]=[];
+  if(!['supported','qualify','reject'].includes(r.decision))errors.push('decision');
+  if(typeof r.reason!=='string'||r.reason.length>250)errors.push('reason');
+  if(typeof r.revised_interpretation!=='string'||r.revised_interpretation.length>700)errors.push('revised_interpretation');
+  if(errors.length){invalid.set(r.id,`Invalid review verdict for this item: ${errors.join(', ')}.`);continue;}
   byId.set(r.id,r);
  }
- const accepted:any[]=[],omitted:any[]=[];for(const item of items){const review=byId.get(item.id);if(!review||review.decision==='reject'){omitted.push({id:item.id,reason:invalid.get(item.id)||review?.reason||'No review verdict returned.'});continue}if(review.decision==='qualify'&&!review.revised_interpretation.trim()){omitted.push({id:item.id,reason:'Qualification was empty.'});continue}
+ const accepted:any[]=[],omitted:any[]=[];for(const item of items){const review=byId.get(item.id);if(!review||review.decision==='reject'){omitted.push({id:item.id,reason:invalid.get(item.id)||review?.reason||'No review verdict returned.',...(!review?{retryable:true}:{})});continue}if(review.decision==='qualify'&&!review.revised_interpretation.trim()){omitted.push({id:item.id,reason:'Qualification was empty.',retryable:true});continue}
  const value=structuredClone(item.value);if(review.decision==='qualify'){if(item.type==='episode'){value.interpretation=review.revised_interpretation;value.support='tentative';}else value.text=review.revised_interpretation;}
  accepted.push({...item,value,review_status:review.decision==='qualify'?'qualified':'supported',review_note:review.reason});}
  return {accepted,omitted};
