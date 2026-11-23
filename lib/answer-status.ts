@@ -11,3 +11,9 @@ export function answerFailureNotice(answer:any){
  if(failure)return 'The model service or analysis encountered a technical error before checking finished. Inspect the trace for details.'+suffix;
  return 'The personalised draft did not pass evidence review and was withheld.'+suffix;
 }
+
+// Partial answers with independently checked content are not treated as failures.
+export function isRetryableAnswer(answer:any){
+ const outcome=String(answer?.metrics?.outcome||'');
+ return answer?.metrics?.verification_failed===true||['no_checked_items','no_checked_people_options','conversation_technical_failure','people_technical_failure','technical_failure','budget_exhausted','verification_failed'].includes(outcome)||Array.isArray(answer?.trace)&&answer.trace.some((entry:any)=>entry?.stage==='technical_failure');
+}

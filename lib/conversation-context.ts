@@ -1,4 +1,5 @@
 import {tokenCount,splitText} from './tokens';
+import {searchTerms} from './language';
 import type {Message} from './types';
 export const FULL_CONTEXT_BUDGET=24000;
 export const MEMORY_BATCH_BUDGET=8500;
@@ -24,3 +25,14 @@ export function conversationPlan(messages:Message[]){
 }
 export function aliasEvidence(messages:Message[]){const packet=conversationPacket(messages),refs=new Map(packet.map((m,i)=>[m.id,messages[i]]));return {packet,refs};}
 export function originalCitation(m:Message){return {id:m.id,quote:m.body,profile_id:m.profile_id,source_id:m.source_id,source_version:m.source_version,source_start:m.start,source_end:m.end};}
+
+// Search every scoped original with query terms; selected hits and neighbours are
+// bounded. Lexical matching is not semantic coverage and cannot prove absence.
+export function searchConversationOriginals(messages:Message[],question:string,budget=14000){
+ const stop=new Set(['what','when','where','which','does','did','have','they','their','about','tell','know','said','say','please','would','could','this','from','were','been','ever','much','many','how','what','does','them','she','him','her','who','ask','question']);
+ const terms=searchTerms(question).filter(t=>!stop.has(t));
+ const sorted=[...messages].sort((a,b)=>a.timestamp.localeCompare(b.timestamp)||a.source_id.localeCompare(b.source_id)||a.start-b.start);
+ const hits=sorted.map((m,i)=>({i,score:terms.reduce((n,t)=>n+(m.body.toLowerCase().includes(t)?1:0),0)})).filter(x=>x.score>0).sort((a,b)=>b.score-a.score||a.i-b.i);
+ const chosen:Message[]=[],seen=new Set<string>();for(const hit of hits){for(const i of [hit.i,hit.i-1,hit.i+1]){const m=sorted[i];if(!m||m.source_id!==sorted[hit.i].source_id||seen.has(m.id))continue;if(tokenCount(conversationPacket([...chosen,m]))<=budget){chosen.push(m);seen.add(m.id)}if(chosen.length>=200)break}if(chosen.length>=200)break}
+ return {messages:chosen.sort((a,b)=>a.timestamp.localeCompare(b.timestamp)||a.start-b.start),matching_messages:hits.length,searched_messages:sorted.length,search_terms:terms.length};
+}

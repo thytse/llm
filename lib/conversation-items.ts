@@ -12,8 +12,15 @@ export function checkedEpisode(value:any,refs:Map<string,Message>):Episode{
 export function restoreEpisode(e:Episode,refs:Map<string,Message>){return {...e,...(e.quote_source_id?{quote_source_id:refs.get(e.quote_source_id)!.id}:{}),source_ids:e.source_ids.map(id=>refs.get(id)!.id),counter_source_ids:e.counter_source_ids.map(id=>refs.get(id)!.id)};}
 export function episodeView(e:Episode,refs:Map<string,Message>){return {...e,...(e.quote_source_id?{quote_source_id:refs.get(e.quote_source_id)!.id}:{}),citations:e.source_ids.map(id=>originalCitation(refs.get(id)!)),counter_citations:e.counter_source_ids.map(id=>originalCitation(refs.get(id)!))};}
 export function applyItemReviews(items:any[],verdict:any){
- if(!Array.isArray(verdict?.items))throw Error('Invalid item review schema.');const byId=new Map<string,any>();for(const r of verdict.items){if(!items.some(i=>i.id===r.id)||byId.has(r.id)||!['supported','qualify','reject'].includes(r.decision)||typeof r.reason!=='string'||r.reason.length>250||typeof r.revised_interpretation!=='string'||r.revised_interpretation.length>700)throw Error('Invalid item review result.');byId.set(r.id,r)}
- const accepted:any[]=[],omitted:any[]=[];for(const item of items){const review=byId.get(item.id);if(!review||review.decision==='reject'){omitted.push({id:item.id,reason:review?.reason||'No review verdict returned.'});continue}if(review.decision==='qualify'&&!review.revised_interpretation.trim()){omitted.push({id:item.id,reason:'Qualification was empty.'});continue}
+ if(!Array.isArray(verdict?.items))throw Error('Invalid item review schema.');
+ const known=new Set(items.map(i=>i.id)),byId=new Map<string,any>(),invalid=new Map<string,string>();
+ for(const r of verdict.items){
+  if(!r||typeof r.id!=='string'||!known.has(r.id))continue;
+  if(byId.has(r.id)||invalid.has(r.id)){byId.delete(r.id);invalid.set(r.id,'Multiple review verdicts for this item.');continue;}
+  if(!['supported','qualify','reject'].includes(r.decision)||typeof r.reason!=='string'||r.reason.length>250||typeof r.revised_interpretation!=='string'||r.revised_interpretation.length>700){invalid.set(r.id,'Invalid review verdict for this item.');continue;}
+  byId.set(r.id,r);
+ }
+ const accepted:any[]=[],omitted:any[]=[];for(const item of items){const review=byId.get(item.id);if(!review||review.decision==='reject'){omitted.push({id:item.id,reason:invalid.get(item.id)||review?.reason||'No review verdict returned.'});continue}if(review.decision==='qualify'&&!review.revised_interpretation.trim()){omitted.push({id:item.id,reason:'Qualification was empty.'});continue}
  const value=structuredClone(item.value);if(review.decision==='qualify'){if(item.type==='episode'){value.interpretation=review.revised_interpretation;value.support='tentative';}else value.text=review.revised_interpretation;}
  accepted.push({...item,value,review_status:review.decision==='qualify'?'qualified':'supported',review_note:review.reason});}
  return {accepted,omitted};

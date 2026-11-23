@@ -15,7 +15,7 @@ export function stageOutputLimit(stage:string,operation?:string){
 export function providerOutputLimit(model:string,stage:string,operation?:string){
  const base=stageOutputLimit(stage,operation);
  if(model.toLowerCase()!=='claude-sonnet-5.5')return base;
- if(operation==='profile')return Math.max(base,3000);
+ if(operation==='profile')return stage==='summary_observe'?8000:Math.max(base,3000);
  return Math.max(base,stage==='review'||stage==='final_check'?3000:operation==='network'?6000:4000);
 }
 export class IncompleteModelResponse extends Error{

@@ -1,6 +1,5 @@
 import {modelConfig} from './model-config';
 import {hongKongToday} from './time';
-import {responseLanguage} from './language';
 import {env} from 'cloudflare:workers';
 import {callProvider,sample,retrieve} from './agent';
 import {SUMMARY_CATEGORIES,RECURRING_AREAS} from './summary-contract';
@@ -30,9 +29,9 @@ export function checkAttributes(value:any,evidence:Message[],person:string,optio
   if(RECURRING_AREAS.includes(a.category)){
    const repeated=new Set(own.map(m=>episodes.get(m.id))).size>=3&&new Set(own.map(m=>m.timestamp.slice(0,10))).size>=2;
    if(userProvided||!own.length)return false;
-   if(!repeated){if(a.category!=='Communication style'||/usually|always|often|tends|recurring|經常|通常|成日|一貫|總係/i.test(a.text))return false;a.observation_kind='descriptive examples';a.text=(responseLanguage(a.text)==='yue-Hant'?'喺引用嘅訊息例子入面，':'In the cited message examples only, ')+a.text;}else a.observation_kind='recurring';
+   if(!repeated){if(a.category!=='Communication style'||/usually|always|often|tends|recurring|經常|通常|成日|一貫|總係/i.test(a.text))return false;a.observation_kind='descriptive examples';a.text='In the cited message examples only, '+a.text;}else a.observation_kind='recurring';
    if(a.support!=='conflicting')a.support='tentative';
-   if(a.counter_source_ids.length)a.text+=responseLanguage(a.text)==='yue-Hant'?'（亦有相反例子；呢個只係暫時觀察，唔代表每次都係咁。）':' (There are cited counterexamples; this is provisional, not an invariant preference.)';
+   if(a.counter_source_ids.length)a.text+=' (There are cited counterexamples; this is provisional, not an invariant preference.)';
   }else if(!own.length&&!userProvided)return false;
   if(a.support==='conflicting'&&!a.counter_source_ids.length)return false;
   if(a.support==='tentative'&&!RECURRING_AREAS.includes(a.category))return false;

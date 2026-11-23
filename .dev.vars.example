@@ -10,3 +10,6 @@ LLM_TOKEN_FIELD="max_tokens"
 POE_API_KEY=""
 POE_MODEL="GPT-5.4"
 # The local retrieval service generates ENCODER_TOKEN and ENCODER_URL.
+
+# Optional OpenRouter key; configure privately with scripts/configure-openrouter-key.mjs
+OPENROUTER_API_KEY=""
